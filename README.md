@@ -1,8 +1,18 @@
 # goodreads-csv-to-md
 
-Takes a Goodreads CSV data export and generates markdown files targeting jekyll md template
+Takes an exported Goodreads CSV and generates markdown files targeting jekyll md template
 
 They[citation needed](https://xkcd.com/285/) say the brain can't tell the difference between audio books and physical books, majority of this list was consumed via audioCD during my commute to/from work.
+
+## Very manual process
+
+https://www.goodreads.com/api as of 2024 states there is no longer active support for api keys and directs to https://help.goodreads.com/s/article/Does-Goodreads-support-the-use-of-APIs which directs users to use the [account data export feature](#export-of-goodreads-data).
+
+> As of December 8th 2020, Goodreads no longer issues new developer keys for our public developer API and plans to retire the current version of these tools. You can find more information 
+
+For now I generate a goodreads URL using the `Book Id` column.
+
+`https://www.goodreads.com/book/show/{Book Id}`
 
 ## Export of Goodreads data
 
@@ -20,10 +30,10 @@ FAVORITE GENRES: Biography, Business, Classics, History, Non-fiction, Philosophy
 
 ## Screenshot of stats
 
-![](good-read-stats.png)
+![good read stats from account overview page](good-read-stats.png)
 
 ## Licenses
 
-/LICENSE/ Covers all written content that was previously available on my public [goodreads](https://www.goodreads.com) account.
+[CC0 1.0 Universal LICENSE](/LICENSE) Covers all written content in exports and resulting templates. This content was previously available on my public [goodreads](https://www.goodreads.com) account.
 
-/CODE-LICENSE/ Covers the code within this repo. But it was written with heavy help from ChatGPT 3.5 and GitHub Copilot. Especially since I initailly wrote it in python a language I'm familiar with, but decided to try it as a ruby task since LLMs make it trivial to port small scripts.
+[MIT License](/CODE-LICENSE) Covers the code within this repo. Heavily assisted by ChatGPT 3.5
