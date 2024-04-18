@@ -12,6 +12,8 @@ They[citation needed](https://xkcd.com/285/) say the brain can't tell the differ
     * If you're getting a ```KeyError``` it most likely means you have a misnamed ```{header}``` in your tempalte
 4. Copy markdown output to new system of record
 
+Just realized that I combined a utility script with my own data. So probably fork and replace data.
+
 ## Very manual process
 
 https://www.goodreads.com/api as of 2024 states there is no longer active support for api keys and directs to https://help.goodreads.com/s/article/Does-Goodreads-support-the-use-of-APIs which directs users to use the [account data export feature](#export-of-goodreads-data).

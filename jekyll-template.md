@@ -9,9 +9,24 @@ uid: <<uid>>
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
 
-## Intro Heading
+## Title
 
-{Title}
+{Title} by {Author}
+{Additional Authors} 
+
+https://www.goodreads.com/book/show/{Book Id}
+
+Bookshelves
+
+Exclusive: {Exclusive Shelf}
+
+Bookshelves: {Bookshelves}
+
+Binding/Format: {Binding}
+
+## My Review {My Rating}/5
+
+{My Review}
 
 ---
 
