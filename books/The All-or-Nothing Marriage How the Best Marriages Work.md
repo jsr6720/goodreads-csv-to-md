@@ -1,38 +1,87 @@
-## The All-or-Nothing Marriage: How the Best Marriages Work
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** The All-or-Nothing Marriage: How the Best Marriages Work
+## Goodreads Data
 
-**Author:** Eli J. Finkel
+### Book Id 
 
-**ISBN:** ="052595516X"
+34001660
 
-**ISBN13:** ="9780525955160"
+https://www.goodreads.com/book/show/34001660
 
-**My Rating:** 4
+## library information
 
-**Average Rating:** 3.58
+### ISBN 
+="052595516X"
 
-**Publisher:** Dutton
+### ISBN13 
+="9780525955160"
 
-**Binding:** Hardcover
+## book information
 
-**Number of Pages:** 352
+### Title
+The All-or-Nothing Marriage: How the Best Marriages Work
 
-**Year Published:** 2017
+### Author 
+Eli J. Finkel
 
-**Original Publication Year:** 2017
+### Author l-f 
+Finkel, Eli J.
 
-**Date Read:** 2018/08/27
+### Additional Authors
+Empty
 
-**Date Added:** 2018/06/26
+### Publisher 
+Dutton
 
-**Bookshelves:** psychology
+### Binding
+Hardcover
 
-**Bookshelves with positions:** psychology (#20)
+### Number of Pages
+352
 
-**Exclusive Shelf:** read
+### Year Published
+2017
 
+### Original Publication Year 
+2017
 
-## My Review
+## user contributed data
 
+### My Rating
+4
+
+### Average Rating
+3.58
+
+### Date Read
+2018/08/27
+
+### Date Added
+2018/06/26
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+psychology
+
+### Bookshelves with positions
+psychology (#20)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Finkel matches maslow's hierarchy of needs to the marriage.<br/><br/>The higher elevations are hard to attain with one partner, but knowing that you can come off the peak to summit another day helps all interactions.<br/><br/>Also forming a partnership dynamic that does what's right for the couple and not what society deems appropriate helps tremendously.<br/><br/>There is a tremendous amount of data in this book as well that covers every happiness scenario within hetero-sexual couples. Great expansion on the topics covered in [b:Ten Lessons to Transform Your Marriage|634227|Ten Lessons to Transform Your Marriage  America's Love Lab Experts Share Their Strategies for Strengthening Your Relationship|John M. Gottman|https://images.gr-assets.com/books/1320547555s/634227.jpg|4029698]

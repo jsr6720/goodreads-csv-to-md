@@ -1,38 +1,87 @@
-## The Five Dysfunctions of a Team
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** The Five Dysfunctions of a Team
+## Goodreads Data
 
-**Author:** Patrick Lencioni
+### Book Id 
 
-**ISBN:** =""
+22021396
 
-**ISBN13:** =""
+https://www.goodreads.com/book/show/22021396
 
-**My Rating:** 4
+## library information
 
-**Average Rating:** 4.10
+### ISBN 
+=""
 
-**Publisher:** Random House
+### ISBN13 
+=""
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 5
+### Title
+The Five Dysfunctions of a Team
 
-**Year Published:** 
+### Author 
+Patrick Lencioni
 
-**Original Publication Year:** 2002
+### Author l-f 
+Lencioni, Patrick
 
-**Date Read:** 2016/06/20
+### Additional Authors
+Empty
 
-**Date Added:** 2016/10/11
+### Publisher 
+Random House
 
-**Bookshelves:** business
+### Binding
+Audio CD
 
-**Bookshelves with positions:** business (#20)
+### Number of Pages
+5
 
-**Exclusive Shelf:** read
+### Year Published
+Empty
 
+### Original Publication Year 
+2002
 
-## My Review
+## user contributed data
 
+### My Rating
+4
+
+### Average Rating
+4.10
+
+### Date Read
+2016/06/20
+
+### Date Added
+2016/10/11
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+business
+
+### Bookshelves with positions
+business (#20)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Actually the "mother" from [b:Death by Meeting|49040|Death by Meeting  A Leadership Fable...about Solving the Most Painful Problem in Business|Patrick Lencioni|https://d.gr-assets.com/books/1348784131s/49040.jpg|47976] this was a better written fable I thought. <br/><br/>Absence of trust—unwilling to be vulnerable within the group<br/>Fear of conflict—seeking artificial harmony over constructive passionate debate<br/>Lack of commitment—feigning buy-in for group decisions creates ambiguity throughout the organization<br/>Avoidance of accountability—ducking the responsibility to call peers on counterproductive behavior which sets low standards<br/>Inattention to results—focusing on personal success, status and ego before team success<br/><br/>As with death by meeting, crucial that leaders show vulnerabilities and engage in team building excercise. Also team should be < 5-8 people at the most.

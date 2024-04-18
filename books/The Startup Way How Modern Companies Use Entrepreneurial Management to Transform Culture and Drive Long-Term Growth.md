@@ -1,38 +1,87 @@
-## The Startup Way: How Modern Companies Use Entrepreneurial Management to Transform Culture and Drive Long-Term Growth
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** The Startup Way: How Modern Companies Use Entrepreneurial Management to Transform Culture and Drive Long-Term Growth
+## Goodreads Data
 
-**Author:** Eric Ries
+### Book Id 
 
-**ISBN:** ="0147523303"
+34267304
 
-**ISBN13:** ="9780147523303"
+https://www.goodreads.com/book/show/34267304
 
-**My Rating:** 5
+## library information
 
-**Average Rating:** 3.98
+### ISBN 
+="0147523303"
 
-**Publisher:** Random House Audio
+### ISBN13 
+="9780147523303"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 400
+### Title
+The Startup Way: How Modern Companies Use Entrepreneurial Management to Transform Culture and Drive Long-Term Growth
 
-**Year Published:** 2017
+### Author 
+Eric Ries
 
-**Original Publication Year:** 2017
+### Author l-f 
+Ries, Eric
 
-**Date Read:** 2020/12/15
+### Additional Authors
+Empty
 
-**Date Added:** 2020/12/15
+### Publisher 
+Random House Audio
 
-**Bookshelves:** business, management
+### Binding
+Audio CD
 
-**Bookshelves with positions:** business (#60), management (#13)
+### Number of Pages
+400
 
-**Exclusive Shelf:** read
+### Year Published
+2017
 
+### Original Publication Year 
+2017
 
-## My Review
+## user contributed data
 
+### My Rating
+5
+
+### Average Rating
+3.98
+
+### Date Read
+2020/12/15
+
+### Date Added
+2020/12/15
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+business, management
+
+### Bookshelves with positions
+business (#60), management (#13)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Focuses also on the "Lean Startup". How to harness the power of the entrepreneurs who work at your company today. Heavy emphasis on the success found at GE.

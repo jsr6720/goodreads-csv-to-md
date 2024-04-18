@@ -1,38 +1,87 @@
-## Influence: Science and Practice
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Influence: Science and Practice
+## Goodreads Data
 
-**Author:** Robert B. Cialdini
+### Book Id 
 
-**ISBN:** ="0321011473"
+123684
 
-**ISBN13:** ="9780321011473"
+https://www.goodreads.com/book/show/123684
 
-**My Rating:** 0
+## library information
 
-**Average Rating:** 4.22
+### ISBN 
+="0321011473"
 
-**Publisher:** Allyn & Bacon
+### ISBN13 
+="9780321011473"
 
-**Binding:** Paperback
+## book information
 
-**Number of Pages:** 262
+### Title
+Influence: Science and Practice
 
-**Year Published:** 2001
+### Author 
+Robert B. Cialdini
 
-**Original Publication Year:** 1984
+### Author l-f 
+Cialdini, Robert B.
 
-**Date Read:** 
+### Additional Authors
+Empty
 
-**Date Added:** 2017/02/08
+### Publisher 
+Allyn & Bacon
 
-**Bookshelves:** did-not-finish
+### Binding
+Paperback
 
-**Bookshelves with positions:** did-not-finish (#7)
+### Number of Pages
+262
 
-**Exclusive Shelf:** did-not-finish
+### Year Published
+2001
 
+### Original Publication Year 
+1984
 
-## My Review
+## user contributed data
 
+### My Rating
+0
 
+### Average Rating
+4.22
+
+### Date Read
+Empty
+
+### Date Added
+2017/02/08
+
+### Exclusive Shelf
+did-not-finish
+
+### Bookshelves
+did-not-finish
+
+### Bookshelves with positions
+did-not-finish (#7)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
+Empty

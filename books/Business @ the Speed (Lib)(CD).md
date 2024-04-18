@@ -1,38 +1,87 @@
-## Business @ the Speed (Lib)(CD)
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Business @ the Speed (Lib)(CD)
+## Goodreads Data
 
-**Author:** Bill  Gates
+### Book Id 
 
-**ISBN:** ="0736651616"
+16681335
 
-**ISBN13:** ="9780736651615"
+https://www.goodreads.com/book/show/16681335
 
-**My Rating:** 3
+## library information
 
-**Average Rating:** 3.80
+### ISBN 
+="0736651616"
 
-**Publisher:** Books on Tape
+### ISBN13 
+="9780736651615"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 0
+### Title
+Business @ the Speed (Lib)(CD)
 
-**Year Published:** 2000
+### Author 
+Bill  Gates
 
-**Original Publication Year:** 1999
+### Author l-f 
+Gates, Bill
 
-**Date Read:** 2017/07/31
+### Additional Authors
+Empty
 
-**Date Added:** 2017/07/17
+### Publisher 
+Books on Tape
 
-**Bookshelves:** 
+### Binding
+Audio CD
 
-**Bookshelves with positions:** 
+### Number of Pages
+0
 
-**Exclusive Shelf:** read
+### Year Published
+2000
 
+### Original Publication Year 
+1999
 
-## My Review
+## user contributed data
 
+### My Rating
+3
+
+### Average Rating
+3.80
+
+### Date Read
+2017/07/31
+
+### Date Added
+2017/07/17
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+Empty
+
+### Bookshelves with positions
+Empty
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Book hasn't aged well in regards to technology, but then again it's 20 years old.<br/><br/>Key take away<br/>* technology should be streamlining process<br/>* new technology should coincide re-evaluating existing processes<br/>* CEO is ultimately responsible for 

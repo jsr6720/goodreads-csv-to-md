@@ -1,38 +1,87 @@
-## Prediction Machines: The Simple Economics of Artificial Intelligence
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Prediction Machines: The Simple Economics of Artificial Intelligence
+## Goodreads Data
 
-**Author:** Ajay Agrawal
+### Book Id 
 
-**ISBN:** ="1633695670"
+38910346
 
-**ISBN13:** ="9781633695672"
+https://www.goodreads.com/book/show/38910346
 
-**My Rating:** 4
+## library information
 
-**Average Rating:** 3.88
+### ISBN 
+="1633695670"
 
-**Publisher:** Harvard Business Review Press
+### ISBN13 
+="9781633695672"
 
-**Binding:** Hardcover
+## book information
 
-**Number of Pages:** 272
+### Title
+Prediction Machines: The Simple Economics of Artificial Intelligence
 
-**Year Published:** 2018
+### Author 
+Ajay Agrawal
 
-**Original Publication Year:** 
+### Author l-f 
+Agrawal, Ajay
 
-**Date Read:** 2018/06/17
+### Additional Authors
+Joshua Gans, Avi Goldfarb
 
-**Date Added:** 2018/06/18
+### Publisher 
+Harvard Business Review Press
 
-**Bookshelves:** business
+### Binding
+Hardcover
 
-**Bookshelves with positions:** business (#44)
+### Number of Pages
+272
 
-**Exclusive Shelf:** read
+### Year Published
+2018
 
+### Original Publication Year 
+Empty
 
-## My Review
+## user contributed data
 
+### My Rating
+4
+
+### Average Rating
+3.88
+
+### Date Read
+2018/06/17
+
+### Date Added
+2018/06/18
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+business
+
+### Bookshelves with positions
+business (#44)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Great overview of the current AI/Machine Learning landscape circa 2018.<br/><br/>Premise of the book is that AI can be evaluated via a framework of providing needs and by the types of data used to fuel the training, feedback and ongoing model needs.<br/><br/>Comes to the table with an Economics approach. If the cost of predicting something approaches zero, business will use it constantly. The nature of data builds a strong moat that can be hard to breach. This can favor the first mover.<br/>

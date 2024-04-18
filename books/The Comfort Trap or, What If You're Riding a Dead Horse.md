@@ -1,38 +1,87 @@
-## The Comfort Trap: or, What If You're Riding a Dead Horse?
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** The Comfort Trap: or, What If You're Riding a Dead Horse?
+## Goodreads Data
 
-**Author:** Judith Sills
+### Book Id 
 
-**ISBN:** ="1565118472"
+5215642
 
-**ISBN13:** ="9781565118478"
+https://www.goodreads.com/book/show/5215642
 
-**My Rating:** 5
+## library information
 
-**Average Rating:** 3.69
+### ISBN 
+="1565118472"
 
-**Publisher:** HighBridge Company
+### ISBN13 
+="9781565118478"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 
+### Title
+The Comfort Trap: or, What If You're Riding a Dead Horse?
 
-**Year Published:** 2004
+### Author 
+Judith Sills
 
-**Original Publication Year:** 2003
+### Author l-f 
+Sills, Judith
 
-**Date Read:** 2016/10/18
+### Additional Authors
+Empty
 
-**Date Added:** 2016/10/11
+### Publisher 
+HighBridge Company
 
-**Bookshelves:** personal-development, psychology
+### Binding
+Audio CD
 
-**Bookshelves with positions:** personal-development (#7), psychology (#7)
+### Number of Pages
+Empty
 
-**Exclusive Shelf:** read
+### Year Published
+2004
 
+### Original Publication Year 
+2003
 
-## My Review
+## user contributed data
 
+### My Rating
+5
+
+### Average Rating
+3.69
+
+### Date Read
+2016/10/18
+
+### Date Added
+2016/10/11
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+personal-development, psychology
+
+### Bookshelves with positions
+personal-development (#7), psychology (#7)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Great book, but I feel that ratings skew to how much you can personally identify yourself in the patterns.<br/><br/>The best lesson learned is that the fear of change can keep us shackled in an unhappy situation long past it's prime. Be proactive on these situations and live life.

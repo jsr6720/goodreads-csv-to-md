@@ -1,38 +1,87 @@
-## Patton, Montgomery, Rommel: Masters of War
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Patton, Montgomery, Rommel: Masters of War
+## Goodreads Data
 
-**Author:** Terry Brighton
+### Book Id 
 
-**ISBN:** ="1400114977"
+7351831
 
-**ISBN13:** ="9781400114979"
+https://www.goodreads.com/book/show/7351831
 
-**My Rating:** 4
+## library information
 
-**Average Rating:** 4.13
+### ISBN 
+="1400114977"
 
-**Publisher:** Tantor Media
+### ISBN13 
+="9781400114979"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 0
+### Title
+Patton, Montgomery, Rommel: Masters of War
 
-**Year Published:** 2009
+### Author 
+Terry Brighton
 
-**Original Publication Year:** 2008
+### Author l-f 
+Brighton, Terry
 
-**Date Read:** 2019/12/18
+### Additional Authors
+Mel Foster
 
-**Date Added:** 2019/11/22
+### Publisher 
+Tantor Media
 
-**Bookshelves:** history, leadership
+### Binding
+Audio CD
 
-**Bookshelves with positions:** history (#27), leadership (#4)
+### Number of Pages
+0
 
-**Exclusive Shelf:** read
+### Year Published
+2009
 
+### Original Publication Year 
+2008
 
-## My Review
+## user contributed data
 
+### My Rating
+4
+
+### Average Rating
+4.13
+
+### Date Read
+2019/12/18
+
+### Date Added
+2019/11/22
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+history, leadership
+
+### Bookshelves with positions
+history (#27), leadership (#4)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Hard to summarize three great generals into one book. This one seems to do everyone justice. Coming away with a better appreciation for the commanders to fought the wars.<br/><br/>Check out the epilogue for summarized leadership lessons. Specifically in the will to fight and the means to fight.

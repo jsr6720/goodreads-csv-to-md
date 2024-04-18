@@ -1,38 +1,87 @@
-## 50 Prosperity Classics: Attract It, Create It, Manage It, Share It - Wisdom From the Most Valuable Books on Wealth Creation and Abundance
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** 50 Prosperity Classics: Attract It, Create It, Manage It, Share It - Wisdom From the Most Valuable Books on Wealth Creation and Abundance
+## Goodreads Data
 
-**Author:** Tom Butler-Bowdon
+### Book Id 
 
-**ISBN:** ="1596592052"
+3805308
 
-**ISBN13:** ="9781596592056"
+https://www.goodreads.com/book/show/3805308
 
-**My Rating:** 5
+## library information
 
-**Average Rating:** 4.15
+### ISBN 
+="1596592052"
 
-**Publisher:** Your Coach In A Box
+### ISBN13 
+="9781596592056"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 0
+### Title
+50 Prosperity Classics: Attract It, Create It, Manage It, Share It - Wisdom From the Most Valuable Books on Wealth Creation and Abundance
 
-**Year Published:** 2008
+### Author 
+Tom Butler-Bowdon
 
-**Original Publication Year:** 2008
+### Author l-f 
+Butler-Bowdon, Tom
 
-**Date Read:** 2020/03/02
+### Additional Authors
+Sean Pratt
 
-**Date Added:** 2020/03/04
+### Publisher 
+Your Coach In A Box
 
-**Bookshelves:** 
+### Binding
+Audio CD
 
-**Bookshelves with positions:** 
+### Number of Pages
+0
 
-**Exclusive Shelf:** read
+### Year Published
+2008
 
+### Original Publication Year 
+2008
 
-## My Review
+## user contributed data
 
+### My Rating
+5
+
+### Average Rating
+4.15
+
+### Date Read
+2020/03/02
+
+### Date Added
+2020/03/04
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+Empty
+
+### Bookshelves with positions
+Empty
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Great summary of 50 books.<br/><br/>Honestly this is an easy way to knock off titles you want a summary of but not actually read.

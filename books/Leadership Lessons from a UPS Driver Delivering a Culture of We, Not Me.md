@@ -1,38 +1,87 @@
-## Leadership Lessons from a UPS Driver: Delivering a Culture of We, Not Me
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Leadership Lessons from a UPS Driver: Delivering a Culture of We, Not Me
+## Goodreads Data
 
-**Author:** Ron Wallace
+### Book Id 
 
-**ISBN:** ="1520005008"
+28158907
 
-**ISBN13:** ="9781520005003"
+https://www.goodreads.com/book/show/28158907
 
-**My Rating:** 5
+## library information
 
-**Average Rating:** 3.89
+### ISBN 
+="1520005008"
 
-**Publisher:** Berrett-Koehler on Dreamscape Audio
+### ISBN13 
+="9781520005003"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 
+### Title
+Leadership Lessons from a UPS Driver: Delivering a Culture of We, Not Me
 
-**Year Published:** 2016
+### Author 
+Ron Wallace
 
-**Original Publication Year:** 2016
+### Author l-f 
+Wallace, Ron
 
-**Date Read:** 2018/02/02
+### Additional Authors
+Empty
 
-**Date Added:** 2018/01/26
+### Publisher 
+Berrett-Koehler on Dreamscape Audio
 
-**Bookshelves:** business
+### Binding
+Audio CD
 
-**Bookshelves with positions:** business (#36)
+### Number of Pages
+Empty
 
-**Exclusive Shelf:** read
+### Year Published
+2016
 
+### Original Publication Year 
+2016
 
-## My Review
+## user contributed data
 
+### My Rating
+5
+
+### Average Rating
+3.89
+
+### Date Read
+2018/02/02
+
+### Date Added
+2018/01/26
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+business
+
+### Bookshelves with positions
+business (#36)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Great collection of business stories that help drive the culture of UPS.<br/><br/>This is definitely a "Management by walking around" approach and reflects the disperse nature of the organization. Short and to the point there are many great pieces of advice here.

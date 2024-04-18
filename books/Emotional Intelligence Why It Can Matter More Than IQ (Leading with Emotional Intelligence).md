@@ -1,38 +1,87 @@
-## Emotional Intelligence: Why It Can Matter More Than IQ (Leading with Emotional Intelligence)
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Emotional Intelligence: Why It Can Matter More Than IQ (Leading with Emotional Intelligence)
+## Goodreads Data
 
-**Author:** Daniel Goleman
+### Book Id 
 
-**ISBN:** ="1593977808"
+163105
 
-**ISBN13:** ="9781593977801"
+https://www.goodreads.com/book/show/163105
 
-**My Rating:** 5
+## library information
 
-**Average Rating:** 4.05
+### ISBN 
+="1593977808"
 
-**Publisher:** Macmillan Audio
+### ISBN13 
+="9781593977801"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 11
+### Title
+Emotional Intelligence: Why It Can Matter More Than IQ (Leading with Emotional Intelligence)
 
-**Year Published:** 2005
+### Author 
+Daniel Goleman
 
-**Original Publication Year:** 1995
+### Author l-f 
+Goleman, Daniel
 
-**Date Read:** 2015/09/02
+### Additional Authors
+Barrett Whitener
 
-**Date Added:** 2016/09/30
+### Publisher 
+Macmillan Audio
 
-**Bookshelves:** read-again, psychology
+### Binding
+Audio CD
 
-**Bookshelves with positions:** read-again (#4), psychology (#4)
+### Number of Pages
+11
 
-**Exclusive Shelf:** read
+### Year Published
+2005
 
+### Original Publication Year 
+1995
 
-## My Review
+## user contributed data
 
+### My Rating
+5
+
+### Average Rating
+4.05
+
+### Date Read
+2015/09/02
+
+### Date Added
+2016/09/30
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+read-again, psychology
+
+### Bookshelves with positions
+read-again (#4), psychology (#4)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Great book. Picked up on this via corporate training. highly recommend.<br/>Goes into great depth of child development, brain growth, marriage problems, work problems<br/>Could not put this down.

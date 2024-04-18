@@ -1,38 +1,87 @@
-## Drive: The Surprising Truth About What Motivates Us
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Drive: The Surprising Truth About What Motivates Us
+## Goodreads Data
 
-**Author:** Daniel H. Pink
+### Book Id 
 
-**ISBN:** ="0307702162"
+8105269
 
-**ISBN13:** ="9780307702166"
+https://www.goodreads.com/book/show/8105269
 
-**My Rating:** 3
+## library information
 
-**Average Rating:** 3.95
+### ISBN 
+="0307702162"
 
-**Publisher:** Random House Audio Publishing Group
+### ISBN13 
+="9780307702166"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 0
+### Title
+Drive: The Surprising Truth About What Motivates Us
 
-**Year Published:** 2010
+### Author 
+Daniel H. Pink
 
-**Original Publication Year:** 2009
+### Author l-f 
+Pink, Daniel H.
 
-**Date Read:** 2018/07/17
+### Additional Authors
+Empty
 
-**Date Added:** 2018/07/11
+### Publisher 
+Random House Audio Publishing Group
 
-**Bookshelves:** psychology
+### Binding
+Audio CD
 
-**Bookshelves with positions:** psychology (#18)
+### Number of Pages
+0
 
-**Exclusive Shelf:** read
+### Year Published
+2010
 
+### Original Publication Year 
+2009
 
-## My Review
+## user contributed data
 
+### My Rating
+3
 
+### Average Rating
+3.95
+
+### Date Read
+2018/07/17
+
+### Date Added
+2018/07/11
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+psychology
+
+### Bookshelves with positions
+psychology (#18)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
+Empty

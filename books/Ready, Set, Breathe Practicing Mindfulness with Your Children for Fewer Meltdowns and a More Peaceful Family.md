@@ -1,38 +1,87 @@
-## Ready, Set, Breathe: Practicing Mindfulness with Your Children for Fewer Meltdowns and a More Peaceful Family
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Ready, Set, Breathe: Practicing Mindfulness with Your Children for Fewer Meltdowns and a More Peaceful Family
+## Goodreads Data
 
-**Author:** Carla Naumburg
+### Book Id 
 
-**ISBN:** ="1626252904"
+23845909
 
-**ISBN13:** ="9781626252905"
+https://www.goodreads.com/book/show/23845909
 
-**My Rating:** 3
+## library information
 
-**Average Rating:** 3.96
+### ISBN 
+="1626252904"
 
-**Publisher:** New Harbinger Publications
+### ISBN13 
+="9781626252905"
 
-**Binding:** Paperback
+## book information
 
-**Number of Pages:** 224
+### Title
+Ready, Set, Breathe: Practicing Mindfulness with Your Children for Fewer Meltdowns and a More Peaceful Family
 
-**Year Published:** 2015
+### Author 
+Carla Naumburg
 
-**Original Publication Year:** 2015
+### Author l-f 
+Naumburg, Carla
 
-**Date Read:** 2019/10/25
+### Additional Authors
+Empty
 
-**Date Added:** 2019/10/25
+### Publisher 
+New Harbinger Publications
 
-**Bookshelves:** 
+### Binding
+Paperback
 
-**Bookshelves with positions:** 
+### Number of Pages
+224
 
-**Exclusive Shelf:** read
+### Year Published
+2015
 
+### Original Publication Year 
+2015
 
-## My Review
+## user contributed data
 
+### My Rating
+3
+
+### Average Rating
+3.96
+
+### Date Read
+2019/10/25
+
+### Date Added
+2019/10/25
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+Empty
+
+### Bookshelves with positions
+Empty
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Breath before acting. You're not always going to be a perfect parent

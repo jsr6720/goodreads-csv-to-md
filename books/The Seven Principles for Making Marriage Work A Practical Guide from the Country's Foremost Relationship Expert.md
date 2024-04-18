@@ -1,38 +1,87 @@
-## The Seven Principles for Making Marriage Work: A Practical Guide from the Country's Foremost Relationship Expert
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** The Seven Principles for Making Marriage Work: A Practical Guide from the Country's Foremost Relationship Expert
+## Goodreads Data
 
-**Author:** John M. Gottman
+### Book Id 
 
-**ISBN:** ="1452601518"
+10650408
 
-**ISBN13:** ="9781452601519"
+https://www.goodreads.com/book/show/10650408
 
-**My Rating:** 5
+## library information
 
-**Average Rating:** 4.24
+### ISBN 
+="1452601518"
 
-**Publisher:** Tantor Audio
+### ISBN13 
+="9781452601519"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 9
+### Title
+The Seven Principles for Making Marriage Work: A Practical Guide from the Country's Foremost Relationship Expert
 
-**Year Published:** 2011
+### Author 
+John M. Gottman
 
-**Original Publication Year:** 1999
+### Author l-f 
+Gottman, John M.
 
-**Date Read:** 2015/11/18
+### Additional Authors
+Nan Silver, John Allen Nelson
 
-**Date Added:** 2016/09/30
+### Publisher 
+Tantor Audio
 
-**Bookshelves:** psychology, read-again
+### Binding
+Audio CD
 
-**Bookshelves with positions:** psychology (#6), read-again (#6)
+### Number of Pages
+9
 
-**Exclusive Shelf:** read
+### Year Published
+2011
 
+### Original Publication Year 
+1999
 
-## My Review
+## user contributed data
 
+### My Rating
+5
+
+### Average Rating
+4.24
+
+### Date Read
+2015/11/18
+
+### Date Added
+2016/09/30
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+psychology, read-again
+
+### Bookshelves with positions
+psychology (#6), read-again (#6)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Great book with lots of functional examples and test for 'scoring' a marriage.<br/>Key is a solid friendship that can weather the storm of life.<br/><br/>Learn to respect each other's differences and move past gridlock issues. Will definitely pick up again,<br/>need physical book to copy some of the exercises.

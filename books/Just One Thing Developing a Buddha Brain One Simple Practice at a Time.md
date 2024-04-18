@@ -1,38 +1,87 @@
-## Just One Thing: Developing a Buddha Brain One Simple Practice at a Time
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Just One Thing: Developing a Buddha Brain One Simple Practice at a Time
+## Goodreads Data
 
-**Author:** Rick Hanson
+### Book Id 
 
-**ISBN:** ="1608820319"
+11276139
 
-**ISBN13:** ="9781608820313"
+https://www.goodreads.com/book/show/11276139
 
-**My Rating:** 5
+## library information
 
-**Average Rating:** 4.07
+### ISBN 
+="1608820319"
 
-**Publisher:** New Harbinger Publications
+### ISBN13 
+="9781608820313"
 
-**Binding:** Paperback
+## book information
 
-**Number of Pages:** 232
+### Title
+Just One Thing: Developing a Buddha Brain One Simple Practice at a Time
 
-**Year Published:** 2011
+### Author 
+Rick Hanson
 
-**Original Publication Year:** 2007
+### Author l-f 
+Hanson, Rick
 
-**Date Read:** 2021/02/19
+### Additional Authors
+Empty
 
-**Date Added:** 2021/02/15
+### Publisher 
+New Harbinger Publications
 
-**Bookshelves:** personal-development, philosophy
+### Binding
+Paperback
 
-**Bookshelves with positions:** personal-development (#29), philosophy (#3)
+### Number of Pages
+232
 
-**Exclusive Shelf:** read
+### Year Published
+2011
 
+### Original Publication Year 
+2007
 
-## My Review
+## user contributed data
 
+### My Rating
+5
+
+### Average Rating
+4.07
+
+### Date Read
+2021/02/19
+
+### Date Added
+2021/02/15
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+personal-development, philosophy
+
+### Bookshelves with positions
+personal-development (#29), philosophy (#3)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Great volume that's worth a read and re-read. Focus in on the things to approach happiness by Letting Go and appreciating all the wonderful things in life.<br/><br/>While our neurons and evolution have wired us to see the negative in life. This makes for poor mental health. Focus on the positives and reduce stress.

@@ -1,38 +1,87 @@
-## The Man Without a Face: The Unlikely Rise of Vladimir Putin
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** The Man Without a Face: The Unlikely Rise of Vladimir Putin
+## Goodreads Data
 
-**Author:** Masha Gessen
+### Book Id 
 
-**ISBN:** ="1455153125"
+14580465
 
-**ISBN13:** ="9781455153121"
+https://www.goodreads.com/book/show/14580465
 
-**My Rating:** 2
+## library information
 
-**Average Rating:** 3.81
+### ISBN 
+="1455153125"
 
-**Publisher:** Blackstone Audiobooks
+### ISBN13 
+="9781455153121"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 9
+### Title
+The Man Without a Face: The Unlikely Rise of Vladimir Putin
 
-**Year Published:** 2012
+### Author 
+Masha Gessen
 
-**Original Publication Year:** 2010
+### Author l-f 
+Gessen, Masha
 
-**Date Read:** 2016/11/04
+### Additional Authors
+Justine Eyre
 
-**Date Added:** 2016/10/25
+### Publisher 
+Blackstone Audiobooks
 
-**Bookshelves:** history
+### Binding
+Audio CD
 
-**Bookshelves with positions:** history (#9)
+### Number of Pages
+9
 
-**Exclusive Shelf:** read
+### Year Published
+2012
 
+### Original Publication Year 
+2010
 
-## My Review
+## user contributed data
 
+### My Rating
+2
+
+### Average Rating
+3.81
+
+### Date Read
+2016/11/04
+
+### Date Added
+2016/10/25
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+history
+
+### Bookshelves with positions
+history (#9)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 So first. Aside from brief biographical information about Putin in his early years growing up in Leningrad there is very little information about him in this book. Further I felt this book was more a historical narrative about the birth and perceived death of Democracy in Russia.<br/><br/>The book was heavy with so many examples of business men being jailed and investigative journalist being killed, but every time Gessen could only speculate that the 'orders came from the top'. I was disappointed that so much of the book focused on people around Putin and not himself.<br/><br/>What worked better as a series of investigative pieces felt like a book bounded from periodicals. I came away feeling more confused who Putin was as a man. Much of the biographical information provided by Gessen was considered suspect and likely false.

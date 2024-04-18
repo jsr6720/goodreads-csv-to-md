@@ -1,38 +1,87 @@
-## Business Adventures: Twelve Classic Tales from the World of Wall Street
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Business Adventures: Twelve Classic Tales from the World of Wall Street
+## Goodreads Data
 
-**Author:** John Brooks
+### Book Id 
 
-**ISBN:** ="1101913320"
+22747981
 
-**ISBN13:** ="9781101913321"
+https://www.goodreads.com/book/show/22747981
 
-**My Rating:** 4
+## library information
 
-**Average Rating:** 3.82
+### ISBN 
+="1101913320"
 
-**Publisher:** Random House Audio
+### ISBN13 
+="9781101913321"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 
+### Title
+Business Adventures: Twelve Classic Tales from the World of Wall Street
 
-**Year Published:** 2014
+### Author 
+John Brooks
 
-**Original Publication Year:** 1969
+### Author l-f 
+Brooks, John
 
-**Date Read:** 2016/04/18
+### Additional Authors
+Empty
 
-**Date Added:** 2016/05/31
+### Publisher 
+Random House Audio
 
-**Bookshelves:** business
+### Binding
+Audio CD
 
-**Bookshelves with positions:** business (#6)
+### Number of Pages
+Empty
 
-**Exclusive Shelf:** read
+### Year Published
+2014
 
+### Original Publication Year 
+1969
 
-## My Review
+## user contributed data
 
+### My Rating
+4
+
+### Average Rating
+3.82
+
+### Date Read
+2016/04/18
+
+### Date Added
+2016/05/31
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+business
+
+### Bookshelves with positions
+business (#6)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 As famously recommended by Bill Gates and Warren Buffet, this was a very entertaining read. In fact I wish there were a modern version. Two things struck me, the way I consume news is author independent. I should change this. Finding a good author like Malcolm Gladwell, John Covey, or Jim Collins is just as important as reading the 'highlight' real of best books.<br/><br/>The story that stuck with me most was "Xerox Xerox Xerox" and the story of the "Edsel" Ford brand. Xerox because I now work in Webster, the 'cow town' that xerox was setting up headquarters in 1960s.<br/><br/>This book, I think is far more relevant to those who lived through the time period. Identifying with the subject matter is important.

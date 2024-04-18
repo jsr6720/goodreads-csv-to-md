@@ -1,38 +1,87 @@
-## The Everything Store: Jeff Bezos and the Age of Amazon
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** The Everything Store: Jeff Bezos and the Age of Amazon
+## Goodreads Data
 
-**Author:** Brad Stone
+### Book Id 
 
-**ISBN:** ="0316219266"
+17660462
 
-**ISBN13:** ="9780316219266"
+https://www.goodreads.com/book/show/17660462
 
-**My Rating:** 5
+## library information
 
-**Average Rating:** 4.14
+### ISBN 
+="0316219266"
 
-**Publisher:** Little, Brown and Company
+### ISBN13 
+="9780316219266"
 
-**Binding:** Hardcover
+## book information
 
-**Number of Pages:** 384
+### Title
+The Everything Store: Jeff Bezos and the Age of Amazon
 
-**Year Published:** 2013
+### Author 
+Brad Stone
 
-**Original Publication Year:** 2013
+### Author l-f 
+Stone, Brad
 
-**Date Read:** 2019/02/19
+### Additional Authors
+Empty
 
-**Date Added:** 2019/02/05
+### Publisher 
+Little, Brown and Company
 
-**Bookshelves:** business, biography
+### Binding
+Hardcover
 
-**Bookshelves with positions:** business (#54), biography (#15)
+### Number of Pages
+384
 
-**Exclusive Shelf:** read
+### Year Published
+2013
 
+### Original Publication Year 
+2013
 
-## My Review
+## user contributed data
 
+### My Rating
+5
+
+### Average Rating
+4.14
+
+### Date Read
+2019/02/19
+
+### Date Added
+2019/02/05
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+business, biography
+
+### Bookshelves with positions
+business (#54), biography (#15)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 A great look at the growth of Amazon over 20 years and very relevant as Amazon deals with it's public relations crises today. This book covers all the technical challenges and it's original 'underdog' status in the fight against physical retailers.<br/><br/>Brad Stone has dug deep with many anecdotes, stories and resources that bring a narrative to the story of Amazon.com

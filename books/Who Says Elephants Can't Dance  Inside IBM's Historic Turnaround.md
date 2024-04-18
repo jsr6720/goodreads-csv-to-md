@@ -1,38 +1,87 @@
-## Who Says Elephants Can't Dance?:  Inside IBM's Historic Turnaround
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Who Says Elephants Can't Dance?:  Inside IBM's Historic Turnaround
+## Goodreads Data
 
-**Author:** Louis V. Gerstner Jr.
+### Book Id 
 
-**ISBN:** ="0060523794"
+603985
 
-**ISBN13:** ="9780060523794"
+https://www.goodreads.com/book/show/603985
 
-**My Rating:** 5
+## library information
 
-**Average Rating:** 3.90
+### ISBN 
+="0060523794"
 
-**Publisher:** Harper Business
+### ISBN13 
+="9780060523794"
 
-**Binding:** Hardcover
+## book information
 
-**Number of Pages:** 384
+### Title
+Who Says Elephants Can't Dance?:  Inside IBM's Historic Turnaround
 
-**Year Published:** 2002
+### Author 
+Louis V. Gerstner Jr.
 
-**Original Publication Year:** 2002
+### Author l-f 
+Jr., Louis V. Gerstner
 
-**Date Read:** 2018/04/02
+### Additional Authors
+Empty
 
-**Date Added:** 2018/03/28
+### Publisher 
+Harper Business
 
-**Bookshelves:** 
+### Binding
+Hardcover
 
-**Bookshelves with positions:** 
+### Number of Pages
+384
 
-**Exclusive Shelf:** read
+### Year Published
+2002
 
+### Original Publication Year 
+2002
 
-## My Review
+## user contributed data
 
+### My Rating
+5
+
+### Average Rating
+3.90
+
+### Date Read
+2018/04/02
+
+### Date Added
+2018/03/28
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+Empty
+
+### Bookshelves with positions
+Empty
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Tale of how IBM escaped the mainframe business to become a systems integrator and cloud pioneer. What I loved about this book, aside from it's technical nature, is Gerstner's insistence that technical people with strong communications skills be promoted.<br/><br/>The book ends in the early 2000s and many of his predictions have come to pass. Billions of small devices and smart watches the world over pumping data into the 'cloud'.

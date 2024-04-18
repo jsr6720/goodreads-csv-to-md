@@ -1,38 +1,87 @@
-## The Librarian of Auschwitz
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** The Librarian of Auschwitz
+## Goodreads Data
 
-**Author:** Antonio Iturbe
+### Book Id 
 
-**ISBN:** ="1427287074"
+31216121
 
-**ISBN13:** ="9781427287076"
+https://www.goodreads.com/book/show/31216121
 
-**My Rating:** 5
+## library information
 
-**Average Rating:** 4.16
+### ISBN 
+="1427287074"
 
-**Publisher:** Macmillan Young Listeners
+### ISBN13 
+="9781427287076"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 0
+### Title
+The Librarian of Auschwitz
 
-**Year Published:** 2017
+### Author 
+Antonio Iturbe
 
-**Original Publication Year:** 2012
+### Author l-f 
+Iturbe, Antonio
 
-**Date Read:** 2019/07/17
+### Additional Authors
+Lilit Žekulin Thwaites
 
-**Date Added:** 2019/07/01
+### Publisher 
+Macmillan Young Listeners
 
-**Bookshelves:** history
+### Binding
+Audio CD
 
-**Bookshelves with positions:** history (#25)
+### Number of Pages
+0
 
-**Exclusive Shelf:** read
+### Year Published
+2017
 
+### Original Publication Year 
+2012
 
-## My Review
+## user contributed data
 
+### My Rating
+5
+
+### Average Rating
+4.16
+
+### Date Read
+2019/07/17
+
+### Date Added
+2019/07/01
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+history
+
+### Bookshelves with positions
+history (#25)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Lightly fictionalized account of real events of the Holocaust. <br/><br/>Fantastic read and very heavy at times, unflinching in its accounts of the actual events in the camp.

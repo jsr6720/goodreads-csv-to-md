@@ -1,38 +1,87 @@
-## Half the Sky: Turning Oppression into Opportunity for Women Worldwide
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Half the Sky: Turning Oppression into Opportunity for Women Worldwide
+## Goodreads Data
 
-**Author:** Nicholas D. Kristof
+### Book Id 
 
-**ISBN:** ="1598879286"
+6853994
 
-**ISBN13:** ="9781598879285"
+https://www.goodreads.com/book/show/6853994
 
-**My Rating:** 5
+## library information
 
-**Average Rating:** 4.28
+### ISBN 
+="1598879286"
 
-**Publisher:** HighBridge Audio
+### ISBN13 
+="9781598879285"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 11
+### Title
+Half the Sky: Turning Oppression into Opportunity for Women Worldwide
 
-**Year Published:** 2009
+### Author 
+Nicholas D. Kristof
 
-**Original Publication Year:** 2008
+### Author l-f 
+Kristof, Nicholas D.
 
-**Date Read:** 2017/12/07
+### Additional Authors
+Sheryl WuDunn
 
-**Date Added:** 2017/11/22
+### Publisher 
+HighBridge Audio
 
-**Bookshelves:** 
+### Binding
+Audio CD
 
-**Bookshelves with positions:** 
+### Number of Pages
+11
 
-**Exclusive Shelf:** read
+### Year Published
+2009
 
+### Original Publication Year 
+2008
 
-## My Review
+## user contributed data
 
+### My Rating
+5
+
+### Average Rating
+4.28
+
+### Date Read
+2017/12/07
+
+### Date Added
+2017/11/22
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+Empty
+
+### Bookshelves with positions
+Empty
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Hard book to finish. So many stories that are tragic. Even the happy endings are less than stellar.

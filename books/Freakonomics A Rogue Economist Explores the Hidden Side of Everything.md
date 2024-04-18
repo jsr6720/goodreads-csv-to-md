@@ -1,38 +1,87 @@
-## Freakonomics: A Rogue Economist Explores the Hidden Side of Everything
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Freakonomics: A Rogue Economist Explores the Hidden Side of Everything
+## Goodreads Data
 
-**Author:** Steven D. Levitt
+### Book Id 
 
-**ISBN:** ="0061238538"
+1205
 
-**ISBN13:** ="9780061238536"
+https://www.goodreads.com/book/show/1205
 
-**My Rating:** 2
+## library information
 
-**Average Rating:** 4.01
+### ISBN 
+="0061238538"
 
-**Publisher:** HarperAu
+### ISBN13 
+="9780061238536"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 340
+### Title
+Freakonomics: A Rogue Economist Explores the Hidden Side of Everything
 
-**Year Published:** 2006
+### Author 
+Steven D. Levitt
 
-**Original Publication Year:** 2005
+### Author l-f 
+Levitt, Steven D.
 
-**Date Read:** 2016/01/13
+### Additional Authors
+Stephen J. Dubner
 
-**Date Added:** 2016/05/31
+### Publisher 
+HarperAu
 
-**Bookshelves:** economics
+### Binding
+Audio CD
 
-**Bookshelves with positions:** economics (#1)
+### Number of Pages
+340
 
-**Exclusive Shelf:** read
+### Year Published
+2006
 
+### Original Publication Year 
+2005
 
-## My Review
+## user contributed data
 
+### My Rating
+2
+
+### Average Rating
+4.01
+
+### Date Read
+2016/01/13
+
+### Date Added
+2016/05/31
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+economics
+
+### Bookshelves with positions
+economics (#1)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Narrative style rambles on at times. Some interesting historical anecdotes. Originally a 3. I've downgraded it to a 2. Just not that compelling.<br/>I think the shocking assertions that abortion rights in the 1970s led to crime drops in the 1990s and other black-centric assertions propelled this book to the NY times best selling list.<br/><br/>In reflection the book is light on statistical analysis and heavy on narrative. The content of this book is missing a strong disclaimer. The study of economics can make predictions about groups of people, it cannot make predictions about individuals. IE Children who have more books test better, but not all children with large book collections are studious.<br/><br/>Ironically the source material from which this book is based, a series of articles included in the appendix from the New Yorker and other publications offer the a better balance of narrative and data. I can understand how the authors, wanting to satisfy the request for more information from a periodical would write a book.<br/><br/>Some key points from the book.<br/>Economics is the study of human incentives. 3 types. Moral social fiscal<br/>Cheating occurs more frequently at the 'hard line'. IE 4th place to 3rd place finish, but not 3rd place to 2nd place<br/>Honesty is higher in good moods, smaller groups rather than bad moods larger groups. Social pressure to conform is higher in small groups.<br/>Information is the currency of the day. Information asymmetry (ie experts vs consumers) leads to inequality.

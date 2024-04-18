@@ -1,38 +1,87 @@
-## Great by Choice
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Great by Choice
+## Goodreads Data
 
-**Author:** Jim Collins
+### Book Id 
 
-**ISBN:** ="0062121022"
+12776650
 
-**ISBN13:** ="9780062121028"
+https://www.goodreads.com/book/show/12776650
 
-**My Rating:** 4
+## library information
 
-**Average Rating:** 4.10
+### ISBN 
+="0062121022"
 
-**Publisher:** HarperAudio
+### ISBN13 
+="9780062121028"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 8
+### Title
+Great by Choice
 
-**Year Published:** 2011
+### Author 
+Jim Collins
 
-**Original Publication Year:** 2011
+### Author l-f 
+Collins, Jim
 
-**Date Read:** 2018/03/28
+### Additional Authors
+Morten T. Hansen
 
-**Date Added:** 2018/03/16
+### Publisher 
+HarperAudio
 
-**Bookshelves:** business
+### Binding
+Audio CD
 
-**Bookshelves with positions:** business (#39)
+### Number of Pages
+8
 
-**Exclusive Shelf:** read
+### Year Published
+2011
 
+### Original Publication Year 
+2011
 
-## My Review
+## user contributed data
 
+### My Rating
+4
+
+### Average Rating
+4.10
+
+### Date Read
+2018/03/28
+
+### Date Added
+2018/03/16
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+business
+
+### Bookshelves with positions
+business (#39)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Discipline and targeted moves are the key to success. Anyone chasing a miracle will be shocked to discover years of hard work. This book is different from his previous work because of the study emphasis on surviving and thriving during difficult macro-economic times

@@ -1,38 +1,87 @@
-## The Audacity of Hope: Thoughts on Reclaiming the American Dream
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** The Audacity of Hope: Thoughts on Reclaiming the American Dream
+## Goodreads Data
 
-**Author:** Barack Obama
+### Book Id 
 
-**ISBN:** ="0739334085"
+1120650
 
-**ISBN13:** ="9780739334089"
+https://www.goodreads.com/book/show/1120650
 
-**My Rating:** 4
+## library information
 
-**Average Rating:** 3.83
+### ISBN 
+="0739334085"
 
-**Publisher:** RH Audio
+### ISBN13 
+="9780739334089"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 6
+### Title
+The Audacity of Hope: Thoughts on Reclaiming the American Dream
 
-**Year Published:** 2006
+### Author 
+Barack Obama
 
-**Original Publication Year:** 2006
+### Author l-f 
+Obama, Barack
 
-**Date Read:** 2018/07/23
+### Additional Authors
+Empty
 
-**Date Added:** 2018/07/17
+### Publisher 
+RH Audio
 
-**Bookshelves:** biography
+### Binding
+Audio CD
 
-**Bookshelves with positions:** biography (#14)
+### Number of Pages
+6
 
-**Exclusive Shelf:** read
+### Year Published
+2006
 
+### Original Publication Year 
+2006
 
-## My Review
+## user contributed data
 
+### My Rating
+4
+
+### Average Rating
+3.83
+
+### Date Read
+2018/07/23
+
+### Date Added
+2018/07/17
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+biography
+
+### Bookshelves with positions
+biography (#14)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 I wish I had read this book before voting in the 2008 and 2012 elections. All of Obama's policies and broad ideas are laid plain in this book. If only it were a requirement for all politicians to write such a piece before running for office. We'd have a clearer picture and insight into the minds of our leaders.<br/><br/>The last chapter was especially touching and a true testament to the power of Michelle in the relationship and how along-side every great man is a great woman.

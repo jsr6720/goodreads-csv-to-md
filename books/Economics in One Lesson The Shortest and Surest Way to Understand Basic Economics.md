@@ -1,38 +1,87 @@
-## Economics in One Lesson: The Shortest and Surest Way to Understand Basic Economics
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Economics in One Lesson: The Shortest and Surest Way to Understand Basic Economics
+## Goodreads Data
 
-**Author:** Henry Hazlitt
+### Book Id 
 
-**ISBN:** ="0786199172"
+2376355
 
-**ISBN13:** ="9780786199174"
+https://www.goodreads.com/book/show/2376355
 
-**My Rating:** 4
+## library information
 
-**Average Rating:** 4.17
+### ISBN 
+="0786199172"
 
-**Publisher:** Blackstone Publishing
+### ISBN13 
+="9780786199174"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 0
+### Title
+Economics in One Lesson: The Shortest and Surest Way to Understand Basic Economics
 
-**Year Published:** 2000
+### Author 
+Henry Hazlitt
 
-**Original Publication Year:** 1946
+### Author l-f 
+Hazlitt, Henry
 
-**Date Read:** 2018/08/01
+### Additional Authors
+Empty
 
-**Date Added:** 2018/08/01
+### Publisher 
+Blackstone Publishing
 
-**Bookshelves:** economics, classics, business
+### Binding
+Audio CD
 
-**Bookshelves with positions:** economics (#5), classics (#6), business (#46)
+### Number of Pages
+0
 
-**Exclusive Shelf:** read
+### Year Published
+2000
 
+### Original Publication Year 
+1946
 
-## My Review
+## user contributed data
 
+### My Rating
+4
+
+### Average Rating
+4.17
+
+### Date Read
+2018/08/01
+
+### Date Added
+2018/08/01
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+economics, classics, business
+
+### Bookshelves with positions
+economics (#5), classics (#6), business (#46)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 An examination of the fallacies of economics. The one lesson is quite simply: economics is a zero-sum game. You cannot give away to a special party without taking away from someone else. This forgotten man will bear the burden of another's gain.<br/><br/>Either that is spread over a tax base, or some other 'less loud' group. My favorite line in the book has to be calling out politicians for having learned nothing in the 30 years this book has been in circulation.<br/><br/>This book is filled with great examples. Covering everything from Unions, to tariffs, to government make-work programs and especially calls out Congress for failing to fund Social Security responsibly.<br/><br/>There is definitely, however, advances in behavioral economics that address the irrationality that humans have when making decisions. see [b:Predictably Irrational|1713426|Predictably Irrational  The Hidden Forces That Shape Our Decisions|Dan Ariely|https://images.gr-assets.com/books/1255573980s/1713426.jpg|3074803], or [b:Thinking, Fast and Slow|11468377|Thinking, Fast and Slow|Daniel Kahneman|https://images.gr-assets.com/books/1317793965s/11468377.jpg|16402639].

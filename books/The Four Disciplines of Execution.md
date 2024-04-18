@@ -1,38 +1,87 @@
-## The Four Disciplines of Execution
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** The Four Disciplines of Execution
+## Goodreads Data
 
-**Author:** Stephen R. Covey
+### Book Id 
 
-**ISBN:** ="1929494777"
+935736
 
-**ISBN13:** ="9781929494774"
+https://www.goodreads.com/book/show/935736
 
-**My Rating:** 3
+## library information
 
-**Average Rating:** 4.04
+### ISBN 
+="1929494777"
 
-**Publisher:** Covey
+### ISBN13 
+="9781929494774"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 4
+### Title
+The Four Disciplines of Execution
 
-**Year Published:** 2004
+### Author 
+Stephen R. Covey
 
-**Original Publication Year:** 2004
+### Author l-f 
+Covey, Stephen R.
 
-**Date Read:** 2015/10/09
+### Additional Authors
+Jennifer Colosimo
 
-**Date Added:** 2016/09/30
+### Publisher 
+Covey
 
-**Bookshelves:** 
+### Binding
+Audio CD
 
-**Bookshelves with positions:** 
+### Number of Pages
+4
 
-**Exclusive Shelf:** read
+### Year Published
+2004
 
+### Original Publication Year 
+2004
 
-## My Review
+## user contributed data
 
+### My Rating
+3
+
+### Average Rating
+4.04
+
+### Date Read
+2015/10/09
+
+### Date Added
+2016/09/30
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+Empty
+
+### Bookshelves with positions
+Empty
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Workshop series, poor format for audio book. Got some cool worksheets out of the deal.<br/>Focus on the Wildly Important Goals (WIGs) to successfully convert lofty goals into concrete actions.<br/><br/>Only the introduction is by Covey so that was a bit of a let down.

@@ -1,38 +1,87 @@
-## American Icon: Alan Mulally and the Fight to Save Ford Motor Company
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** American Icon: Alan Mulally and the Fight to Save Ford Motor Company
+## Goodreads Data
 
-**Author:** Bryce G. Hoffman
+### Book Id 
 
-**ISBN:** ="145260813X"
+14557681
 
-**ISBN13:** ="9781452608136"
+https://www.goodreads.com/book/show/14557681
 
-**My Rating:** 5
+## library information
 
-**Average Rating:** 4.42
+### ISBN 
+="145260813X"
 
-**Publisher:** Tantor Media
+### ISBN13 
+="9781452608136"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 
+### Title
+American Icon: Alan Mulally and the Fight to Save Ford Motor Company
 
-**Year Published:** 2012
+### Author 
+Bryce G. Hoffman
 
-**Original Publication Year:** 2012
+### Author l-f 
+Hoffman, Bryce G.
 
-**Date Read:** 2017/10/04
+### Additional Authors
+Pete Larkin
 
-**Date Added:** 2017/09/18
+### Publisher 
+Tantor Media
 
-**Bookshelves:** 
+### Binding
+Audio CD
 
-**Bookshelves with positions:** 
+### Number of Pages
+Empty
 
-**Exclusive Shelf:** read
+### Year Published
+2012
 
+### Original Publication Year 
+2012
 
-## My Review
+## user contributed data
 
+### My Rating
+5
+
+### Average Rating
+4.42
+
+### Date Read
+2017/10/04
+
+### Date Added
+2017/09/18
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+Empty
+
+### Bookshelves with positions
+Empty
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Great book that pairs well with your choice of book about the great financial crisis of 2008 (Big Short).<br/><br/>Author wastes no time digging deep into the story of Ford and it's turnaround.

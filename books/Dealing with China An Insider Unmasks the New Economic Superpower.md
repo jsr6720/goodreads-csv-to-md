@@ -1,38 +1,87 @@
-## Dealing with China: An Insider Unmasks the New Economic Superpower
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Dealing with China: An Insider Unmasks the New Economic Superpower
+## Goodreads Data
 
-**Author:** Henry M. Paulson Jr.
+### Book Id 
 
-**ISBN:** ="1478958170"
+29764076
 
-**ISBN13:** ="9781478958178"
+https://www.goodreads.com/book/show/29764076
 
-**My Rating:** 0
+## library information
 
-**Average Rating:** 3.76
+### ISBN 
+="1478958170"
 
-**Publisher:** Hachette Book Group
+### ISBN13 
+="9781478958178"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 19
+### Title
+Dealing with China: An Insider Unmasks the New Economic Superpower
 
-**Year Published:** 2015
+### Author 
+Henry M. Paulson Jr.
 
-**Original Publication Year:** 2014
+### Author l-f 
+Jr., Henry M. Paulson
 
-**Date Read:** 
+### Additional Authors
+Kevin Stillwell
 
-**Date Added:** 2019/03/14
+### Publisher 
+Hachette Book Group
 
-**Bookshelves:** did-not-finish
+### Binding
+Audio CD
 
-**Bookshelves with positions:** did-not-finish (#21)
+### Number of Pages
+19
 
-**Exclusive Shelf:** did-not-finish
+### Year Published
+2015
 
+### Original Publication Year 
+2014
 
-## My Review
+## user contributed data
 
+### My Rating
+0
 
+### Average Rating
+3.76
+
+### Date Read
+Empty
+
+### Date Added
+2019/03/14
+
+### Exclusive Shelf
+did-not-finish
+
+### Bookshelves
+did-not-finish
+
+### Bookshelves with positions
+did-not-finish (#21)
+
+### Read Count
+0
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
+Empty

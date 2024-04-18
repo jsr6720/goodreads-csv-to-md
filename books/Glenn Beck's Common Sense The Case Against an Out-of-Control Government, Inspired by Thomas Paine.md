@@ -1,38 +1,87 @@
-## Glenn Beck's Common Sense: The Case Against an Out-of-Control Government, Inspired by Thomas Paine
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Glenn Beck's Common Sense: The Case Against an Out-of-Control Government, Inspired by Thomas Paine
+## Goodreads Data
 
-**Author:** Glenn Beck
+### Book Id 
 
-**ISBN:** ="1439168571"
+6478256
 
-**ISBN13:** ="9781439168578"
+https://www.goodreads.com/book/show/6478256
 
-**My Rating:** 3
+## library information
 
-**Average Rating:** 3.80
+### ISBN 
+="1439168571"
 
-**Publisher:** Threshold Editions
+### ISBN13 
+="9781439168578"
 
-**Binding:** Paperback
+## book information
 
-**Number of Pages:** 174
+### Title
+Glenn Beck's Common Sense: The Case Against an Out-of-Control Government, Inspired by Thomas Paine
 
-**Year Published:** 2009
+### Author 
+Glenn Beck
 
-**Original Publication Year:** 2009
+### Author l-f 
+Beck, Glenn
 
-**Date Read:** 2017/01/24
+### Additional Authors
+Empty
 
-**Date Added:** 2017/01/24
+### Publisher 
+Threshold Editions
 
-**Bookshelves:** 
+### Binding
+Paperback
 
-**Bookshelves with positions:** 
+### Number of Pages
+174
 
-**Exclusive Shelf:** read
+### Year Published
+2009
 
+### Original Publication Year 
+2009
 
-## My Review
+## user contributed data
 
+### My Rating
+3
+
+### Average Rating
+3.80
+
+### Date Read
+2017/01/24
+
+### Date Added
+2017/01/24
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+Empty
+
+### Bookshelves with positions
+Empty
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Picked this book up because I read an article about Beck's remorse over Trump's victory.<br/>Bonus: This book includes the original text of Thomas Pains Common Sense.<br/><br/>Here are my key takeaways:<br/><br/>* Back a politician not a party.<br/>* Use the tools of democracy to change the system. Violence is not needed<br/>* Redistricting as a political tool is killing democracy<br/>* Active informed citizens are required for a representative republic<br/><br/>

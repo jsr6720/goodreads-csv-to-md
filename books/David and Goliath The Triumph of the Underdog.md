@@ -1,38 +1,87 @@
-## David and Goliath: The Triumph of the Underdog
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** David and Goliath: The Triumph of the Underdog
+## Goodreads Data
 
-**Author:** Malcolm Gladwell
+### Book Id 
 
-**ISBN:** ="1478978252"
+17333713
 
-**ISBN13:** ="9781478978251"
+https://www.goodreads.com/book/show/17333713
 
-**My Rating:** 5
+## library information
 
-**Average Rating:** 3.97
+### ISBN 
+="1478978252"
 
-**Publisher:** Little, Brown & Company
+### ISBN13 
+="9781478978251"
 
-**Binding:** Audiobook
+## book information
 
-**Number of Pages:** 
+### Title
+David and Goliath: The Triumph of the Underdog
 
-**Year Published:** 2013
+### Author 
+Malcolm Gladwell
 
-**Original Publication Year:** 2013
+### Author l-f 
+Gladwell, Malcolm
 
-**Date Read:** 2018/01/12
+### Additional Authors
+Empty
 
-**Date Added:** 2018/01/06
+### Publisher 
+Little, Brown & Company
 
-**Bookshelves:** economics, psychology
+### Binding
+Audiobook
 
-**Bookshelves with positions:** economics (#4), psychology (#15)
+### Number of Pages
+Empty
 
-**Exclusive Shelf:** read
+### Year Published
+2013
 
+### Original Publication Year 
+2013
 
-## My Review
+## user contributed data
 
+### My Rating
+5
+
+### Average Rating
+3.97
+
+### Date Read
+2018/01/12
+
+### Date Added
+2018/01/06
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+economics, psychology
+
+### Bookshelves with positions
+economics (#4), psychology (#15)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 A collection of stories that evaluates the premise that all disadvantages don't also come with advantages.<br/><br/>Starting with David and Goliath Gladwell examines human's inability to grasp an inverted U curve. How too much of a good thing can cease to yield returns and actually travel back down the effective curve.

@@ -1,38 +1,87 @@
-## Becoming a Resonant Leader: Develop Your Emotional Intelligence, Renew Your Relationships, Sustain Your Effectiveness
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Becoming a Resonant Leader: Develop Your Emotional Intelligence, Renew Your Relationships, Sustain Your Effectiveness
+## Goodreads Data
 
-**Author:** Annie McKee
+### Book Id 
 
-**ISBN:** ="159659165X"
+6131895
 
-**ISBN13:** ="9781596591653"
+https://www.goodreads.com/book/show/6131895
 
-**My Rating:** 0
+## library information
 
-**Average Rating:** 3.81
+### ISBN 
+="159659165X"
 
-**Publisher:** Your Coach Digital
+### ISBN13 
+="9781596591653"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 0
+### Title
+Becoming a Resonant Leader: Develop Your Emotional Intelligence, Renew Your Relationships, Sustain Your Effectiveness
 
-**Year Published:** 2008
+### Author 
+Annie McKee
 
-**Original Publication Year:** 2008
+### Author l-f 
+McKee, Annie
 
-**Date Read:** 
+### Additional Authors
+Richard E. Boyatzis, Jonathan Marosz, Frances Johnston
 
-**Date Added:** 2019/05/09
+### Publisher 
+Your Coach Digital
 
-**Bookshelves:** did-not-finish
+### Binding
+Audio CD
 
-**Bookshelves with positions:** did-not-finish (#24)
+### Number of Pages
+0
 
-**Exclusive Shelf:** did-not-finish
+### Year Published
+2008
 
+### Original Publication Year 
+2008
 
-## My Review
+## user contributed data
 
+### My Rating
+0
 
+### Average Rating
+3.81
+
+### Date Read
+Empty
+
+### Date Added
+2019/05/09
+
+### Exclusive Shelf
+did-not-finish
+
+### Bookshelves
+did-not-finish
+
+### Bookshelves with positions
+did-not-finish (#24)
+
+### Read Count
+0
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
+Empty

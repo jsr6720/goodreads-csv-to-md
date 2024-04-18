@@ -1,38 +1,87 @@
-## The Miracle of Self-Discipline
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** The Miracle of Self-Discipline
+## Goodreads Data
 
-**Author:** Brian Tracy
+### Book Id 
 
-**ISBN:** ="1908364041"
+11977494
 
-**ISBN13:** =""
+https://www.goodreads.com/book/show/11977494
 
-**My Rating:** 5
+## library information
 
-**Average Rating:** 4.02
+### ISBN 
+="1908364041"
 
-**Publisher:** Nightingale Conant
+### ISBN13 
+=""
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 36
+### Title
+The Miracle of Self-Discipline
 
-**Year Published:** 2010
+### Author 
+Brian Tracy
 
-**Original Publication Year:** 2010
+### Author l-f 
+Tracy, Brian
 
-**Date Read:** 2019/10/25
+### Additional Authors
+محمد اسکندری
 
-**Date Added:** 2019/10/18
+### Publisher 
+Nightingale Conant
 
-**Bookshelves:** 
+### Binding
+Audio CD
 
-**Bookshelves with positions:** 
+### Number of Pages
+36
 
-**Exclusive Shelf:** read
+### Year Published
+2010
 
+### Original Publication Year 
+2010
 
-## My Review
+## user contributed data
 
+### My Rating
+5
+
+### Average Rating
+4.02
+
+### Date Read
+2019/10/25
+
+### Date Added
+2019/10/18
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+Empty
+
+### Bookshelves with positions
+Empty
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Mastery of self leads to master outside of self. Brian Tracy has a large set of books and this one delivers as the others do.

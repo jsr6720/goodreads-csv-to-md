@@ -1,38 +1,87 @@
-## Doing the Right Things Right: How the Effective Executive Spends Time
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Doing the Right Things Right: How the Effective Executive Spends Time
+## Goodreads Data
 
-**Author:** Laura Stack
+### Book Id 
 
-**ISBN:** ="162656566X"
+27037552
 
-**ISBN13:** ="9781626565661"
+https://www.goodreads.com/book/show/27037552
 
-**My Rating:** 0
+## library information
 
-**Average Rating:** 3.67
+### ISBN 
+="162656566X"
 
-**Publisher:** Berrett-Koehler Publishers
+### ISBN13 
+="9781626565661"
 
-**Binding:** Paperback
+## book information
 
-**Number of Pages:** 256
+### Title
+Doing the Right Things Right: How the Effective Executive Spends Time
 
-**Year Published:** 2016
+### Author 
+Laura Stack
 
-**Original Publication Year:** 2016
+### Author l-f 
+Stack, Laura
 
-**Date Read:** 
+### Additional Authors
+William A. Cohen
 
-**Date Added:** 2019/08/27
+### Publisher 
+Berrett-Koehler Publishers
 
-**Bookshelves:** did-not-finish
+### Binding
+Paperback
 
-**Bookshelves with positions:** did-not-finish (#25)
+### Number of Pages
+256
 
-**Exclusive Shelf:** did-not-finish
+### Year Published
+2016
 
+### Original Publication Year 
+2016
 
-## My Review
+## user contributed data
 
+### My Rating
+0
 
+### Average Rating
+3.67
+
+### Date Read
+Empty
+
+### Date Added
+2019/08/27
+
+### Exclusive Shelf
+did-not-finish
+
+### Bookshelves
+did-not-finish
+
+### Bookshelves with positions
+did-not-finish (#25)
+
+### Read Count
+0
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
+Empty

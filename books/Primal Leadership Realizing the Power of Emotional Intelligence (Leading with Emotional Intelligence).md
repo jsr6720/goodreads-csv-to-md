@@ -1,38 +1,87 @@
-## Primal Leadership: Realizing the Power of Emotional Intelligence (Leading with Emotional Intelligence)
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Primal Leadership: Realizing the Power of Emotional Intelligence (Leading with Emotional Intelligence)
+## Goodreads Data
 
-**Author:** Daniel Goleman
+### Book Id 
 
-**ISBN:** ="1559277440"
+1785519
 
-**ISBN13:** ="9781559277440"
+https://www.goodreads.com/book/show/1785519
 
-**My Rating:** 4
+## library information
 
-**Average Rating:** 3.92
+### ISBN 
+="1559277440"
 
-**Publisher:** Macmillan Audio
+### ISBN13 
+="9781559277440"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 5
+### Title
+Primal Leadership: Realizing the Power of Emotional Intelligence (Leading with Emotional Intelligence)
 
-**Year Published:** 2002
+### Author 
+Daniel Goleman
 
-**Original Publication Year:** 2002
+### Author l-f 
+Goleman, Daniel
 
-**Date Read:** 2019/06/11
+### Additional Authors
+Richard E. Boyatzis, Annie McKee
 
-**Date Added:** 2019/06/11
+### Publisher 
+Macmillan Audio
 
-**Bookshelves:** leadership, management, philosophy
+### Binding
+Audio CD
 
-**Bookshelves with positions:** leadership (#2), management (#10), philosophy (#2)
+### Number of Pages
+5
 
-**Exclusive Shelf:** read
+### Year Published
+2002
 
+### Original Publication Year 
+2002
 
-## My Review
+## user contributed data
 
+### My Rating
+4
+
+### Average Rating
+3.92
+
+### Date Read
+2019/06/11
+
+### Date Added
+2019/06/11
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+leadership, management, philosophy
+
+### Bookshelves with positions
+leadership (#2), management (#10), philosophy (#2)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 First half of this book is a great application of [b:Daniel Goleman Emotional Intelligence|26820420|Daniel Goleman Emotional Intelligence|Daniel Goleman|https://images.gr-assets.com/books/1443292675s/26820420.jpg|46848883] in the workplace.<br/><br/>Second half of the book goes broader picture and a repeat of other books by Goelman.<br/><br/>Key takeaways

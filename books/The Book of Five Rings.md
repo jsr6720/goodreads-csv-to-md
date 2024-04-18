@@ -1,38 +1,87 @@
-## The Book of Five Rings
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** The Book of Five Rings
+## Goodreads Data
 
-**Author:** Miyamoto Musashi
+### Book Id 
 
-**ISBN:** ="1590309847"
+13151220
 
-**ISBN13:** ="9781590309841"
+https://www.goodreads.com/book/show/13151220
 
-**My Rating:** 4
+## library information
 
-**Average Rating:** 3.98
+### ISBN 
+="1590309847"
 
-**Publisher:** Shambhala
+### ISBN13 
+="9781590309841"
 
-**Binding:** Hardcover
+## book information
 
-**Number of Pages:** 160
+### Title
+The Book of Five Rings
 
-**Year Published:** 2012
+### Author 
+Miyamoto Musashi
 
-**Original Publication Year:** 1645
+### Author l-f 
+Musashi, Miyamoto
 
-**Date Read:** 2020/02/20
+### Additional Authors
+Shiro Tsujimura, William Scott Wilson
 
-**Date Added:** 2020/01/16
+### Publisher 
+Shambhala
 
-**Bookshelves:** history
+### Binding
+Hardcover
 
-**Bookshelves with positions:** history (#31)
+### Number of Pages
+160
 
-**Exclusive Shelf:** read
+### Year Published
+2012
 
+### Original Publication Year 
+1645
 
-## My Review
+## user contributed data
 
+### My Rating
+4
+
+### Average Rating
+3.98
+
+### Date Read
+2020/02/20
+
+### Date Added
+2020/01/16
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+history
+
+### Bookshelves with positions
+history (#31)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Focuses on the combat aspects of leadership, but has concepts as well.

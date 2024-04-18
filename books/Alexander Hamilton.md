@@ -1,38 +1,87 @@
-## Alexander Hamilton
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Alexander Hamilton
+## Goodreads Data
 
-**Author:** Ron Chernow
+### Book Id 
 
-**ISBN:** ="0142800430"
+944986
 
-**ISBN13:** ="9780142800430"
+https://www.goodreads.com/book/show/944986
 
-**My Rating:** 4
+## library information
 
-**Average Rating:** 4.22
+### ISBN 
+="0142800430"
 
-**Publisher:** Penguin Audio
+### ISBN13 
+="9780142800430"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 731
+### Title
+Alexander Hamilton
 
-**Year Published:** 2004
+### Author 
+Ron Chernow
 
-**Original Publication Year:** 2004
+### Author l-f 
+Chernow, Ron
 
-**Date Read:** 2015/07/08
+### Additional Authors
+Empty
 
-**Date Added:** 2016/09/30
+### Publisher 
+Penguin Audio
 
-**Bookshelves:** biography, history
+### Binding
+Audio CD
 
-**Bookshelves with positions:** biography (#8), history (#5)
+### Number of Pages
+731
 
-**Exclusive Shelf:** read
+### Year Published
+2004
 
+### Original Publication Year 
+2004
 
-## My Review
+## user contributed data
 
+### My Rating
+4
+
+### Average Rating
+4.22
+
+### Date Read
+2015/07/08
+
+### Date Added
+2016/09/30
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+biography, history
+
+### Bookshelves with positions
+biography (#8), history (#5)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Abridged. Biggest let down was Hamilton's short life. Very good.<br/>Hamilton's role in a central bank and unifying the states into a strong nation was enlightening.

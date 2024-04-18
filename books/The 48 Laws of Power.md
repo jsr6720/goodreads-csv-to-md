@@ -1,38 +1,87 @@
-## The 48 Laws of Power
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** The 48 Laws of Power
+## Goodreads Data
 
-**Author:** Robert Greene
+### Book Id 
 
-**ISBN:** ="1598870920"
+1170150
 
-**ISBN13:** ="9781598870923"
+https://www.goodreads.com/book/show/1170150
 
-**My Rating:** 5
+## library information
 
-**Average Rating:** 4.14
+### ISBN 
+="1598870920"
 
-**Publisher:** HighBridge Audio
+### ISBN13 
+="9781598870923"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 8
+### Title
+The 48 Laws of Power
 
-**Year Published:** 2007
+### Author 
+Robert Greene
 
-**Original Publication Year:** 1998
+### Author l-f 
+Greene, Robert
 
-**Date Read:** 2018/09/01
+### Additional Authors
+Don Leslie
 
-**Date Added:** 2018/08/22
+### Publisher 
+HighBridge Audio
 
-**Bookshelves:** business, psychology
+### Binding
+Audio CD
 
-**Bookshelves with positions:** business (#47), psychology (#21)
+### Number of Pages
+8
 
-**Exclusive Shelf:** read
+### Year Published
+2007
 
+### Original Publication Year 
+1998
 
-## My Review
+## user contributed data
 
+### My Rating
+5
+
+### Average Rating
+4.14
+
+### Date Read
+2018/09/01
+
+### Date Added
+2018/08/22
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+business, psychology
+
+### Bookshelves with positions
+business (#47), psychology (#21)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 This book contains the hard truths of the habits and mannerism of people who don't play nice. Full of excerpts from history, antiqued and modern, you'd be a fool to not know these tricks.<br/><br/>Great read.

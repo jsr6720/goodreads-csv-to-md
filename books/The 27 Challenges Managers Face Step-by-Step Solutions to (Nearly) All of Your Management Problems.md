@@ -1,38 +1,87 @@
-## The 27 Challenges Managers Face: Step-by-Step Solutions to (Nearly) All of Your Management Problems
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** The 27 Challenges Managers Face: Step-by-Step Solutions to (Nearly) All of Your Management Problems
+## Goodreads Data
 
-**Author:** Bruce Tulgan
+### Book Id 
 
-**ISBN:** ="111872559X"
+20914584
 
-**ISBN13:** ="9781118725597"
+https://www.goodreads.com/book/show/20914584
 
-**My Rating:** 5
+## library information
 
-**Average Rating:** 4.20
+### ISBN 
+="111872559X"
 
-**Publisher:** Jossey-Bass
+### ISBN13 
+="9781118725597"
 
-**Binding:** Hardcover
+## book information
 
-**Number of Pages:** 256
+### Title
+The 27 Challenges Managers Face: Step-by-Step Solutions to (Nearly) All of Your Management Problems
 
-**Year Published:** 2014
+### Author 
+Bruce Tulgan
 
-**Original Publication Year:** 2014
+### Author l-f 
+Tulgan, Bruce
 
-**Date Read:** 2018/03/27
+### Additional Authors
+Empty
 
-**Date Added:** 2018/03/28
+### Publisher 
+Jossey-Bass
 
-**Bookshelves:** business, management
+### Binding
+Hardcover
 
-**Bookshelves with positions:** business (#40), management (#1)
+### Number of Pages
+256
 
-**Exclusive Shelf:** read
+### Year Published
+2014
 
+### Original Publication Year 
+2014
 
-## My Review
+## user contributed data
 
+### My Rating
+5
+
+### Average Rating
+4.20
+
+### Date Read
+2018/03/27
+
+### Date Added
+2018/03/28
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+business, management
+
+### Bookshelves with positions
+business (#40), management (#1)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 I loved this book. Matches my leadership style. Constant 1-1 face-face communication with the team. Pairs great with the book I'm reading now by Maxwell ([b:The 5 Levels of Leadership|11225698|The 5 Levels of Leadership  Proven Steps to Maximize Your Potential|John C. Maxwell|https://images.gr-assets.com/books/1344269758s/11225698.jpg|16151548]). Each chapter details a common management problem (gleaned from Gallup polls and 9000+ site visits by the author).

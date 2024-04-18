@@ -1,38 +1,87 @@
-## The 5 Levels of Leadership: Proven Steps to Maximize Your Potential
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** The 5 Levels of Leadership: Proven Steps to Maximize Your Potential
+## Goodreads Data
 
-**Author:** John C. Maxwell
+### Book Id 
 
-**ISBN:** ="159995365X"
+11225698
 
-**ISBN13:** ="9781599953656"
+https://www.goodreads.com/book/show/11225698
 
-**My Rating:** 5
+## library information
 
-**Average Rating:** 4.29
+### ISBN 
+="159995365X"
 
-**Publisher:** Center Street
+### ISBN13 
+="9781599953656"
 
-**Binding:** Hardcover
+## book information
 
-**Number of Pages:** 304
+### Title
+The 5 Levels of Leadership: Proven Steps to Maximize Your Potential
 
-**Year Published:** 2011
+### Author 
+John C. Maxwell
 
-**Original Publication Year:** 
+### Author l-f 
+Maxwell, John C.
 
-**Date Read:** 2018/04/30
+### Additional Authors
+Empty
 
-**Date Added:** 2018/04/11
+### Publisher 
+Center Street
 
-**Bookshelves:** management, personal-development
+### Binding
+Hardcover
 
-**Bookshelves with positions:** management (#3), personal-development (#20)
+### Number of Pages
+304
 
-**Exclusive Shelf:** read
+### Year Published
+2011
 
+### Original Publication Year 
+Empty
 
-## My Review
+## user contributed data
 
+### My Rating
+5
 
+### Average Rating
+4.29
+
+### Date Read
+2018/04/30
+
+### Date Added
+2018/04/11
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+management, personal-development
+
+### Bookshelves with positions
+management (#3), personal-development (#20)
+
+### Read Count
+2
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
+Empty

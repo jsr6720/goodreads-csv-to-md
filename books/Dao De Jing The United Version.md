@@ -1,38 +1,87 @@
-## Dao De Jing: The United Version
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Dao De Jing: The United Version
+## Goodreads Data
 
-**Author:** Lao Tzu
+### Book Id 
 
-**ISBN:** ="1581771592"
+31497704
 
-**ISBN13:** ="9781581771596"
+https://www.goodreads.com/book/show/31497704
 
-**My Rating:** 4
+## library information
 
-**Average Rating:** 4.30
+### ISBN 
+="1581771592"
 
-**Publisher:** AmazonUs/INDPB
+### ISBN13 
+="9781581771596"
 
-**Binding:** Hardcover
+## book information
 
-**Number of Pages:** 150
+### Title
+Dao De Jing: The United Version
 
-**Year Published:** 2017
+### Author 
+Lao Tzu
 
-**Original Publication Year:** -400
+### Author l-f 
+Tzu, Lao
 
-**Date Read:** 2020/11/18
+### Additional Authors
+Yang Peng
 
-**Date Added:** 2020/11/18
+### Publisher 
+AmazonUs/INDPB
 
-**Bookshelves:** 
+### Binding
+Hardcover
 
-**Bookshelves with positions:** 
+### Number of Pages
+150
 
-**Exclusive Shelf:** read
+### Year Published
+2017
 
+### Original Publication Year 
+-400
 
-## My Review
+## user contributed data
 
+### My Rating
+4
+
+### Average Rating
+4.30
+
+### Date Read
+2020/11/18
+
+### Date Added
+2020/11/18
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+Empty
+
+### Bookshelves with positions
+Empty
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 While you could read this in one sitting. Certainly thousand year old text deserves at least a second read through. <br/><br/>Theme of non interference and humble through the captures. Compelling enough for a revisit. 

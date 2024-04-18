@@ -1,38 +1,87 @@
-## The Fiefdom Syndrome
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** The Fiefdom Syndrome
+## Goodreads Data
 
-**Author:** Robert J. Herbold
+### Book Id 
 
-**ISBN:** ="0385514190"
+7976981
 
-**ISBN13:** ="9780385514194"
+https://www.goodreads.com/book/show/7976981
 
-**My Rating:** 4
+## library information
 
-**Average Rating:** 3.39
+### ISBN 
+="0385514190"
 
-**Publisher:** Broadway Business
+### ISBN13 
+="9780385514194"
 
-**Binding:** Kindle Edition
+## book information
 
-**Number of Pages:** 0
+### Title
+The Fiefdom Syndrome
 
-**Year Published:** 2004
+### Author 
+Robert J. Herbold
 
-**Original Publication Year:** 2004
+### Author l-f 
+Herbold, Robert J.
 
-**Date Read:** 2017/06/21
+### Additional Authors
+Empty
 
-**Date Added:** 2017/06/21
+### Publisher 
+Broadway Business
 
-**Bookshelves:** business
+### Binding
+Kindle Edition
 
-**Bookshelves with positions:** business (#29)
+### Number of Pages
+0
 
-**Exclusive Shelf:** read
+### Year Published
+2004
 
+### Original Publication Year 
+2004
 
-## My Review
+## user contributed data
 
+### My Rating
+4
+
+### Average Rating
+3.39
+
+### Date Read
+2017/06/21
+
+### Date Added
+2017/06/21
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+business
+
+### Bookshelves with positions
+business (#29)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 This book is better as a series of stories told from the perspective of Herbold who was at Proctor and Gamble and later Microsoft during key growth years.<br/><br/>Bottom line. Humans are ego driven and left to their own devices they will build moats around their territories. It's up to strong leadership to ensure the right balance of discipline and creativity move the company forward.<br/><br/>As for actual strategies Herbold touted 'simplifying IT systems' as a constant refrain, and standardization of 'web menu driven templates'. The book is showing it's technical age while still being an entertaining read.

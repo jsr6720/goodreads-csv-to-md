@@ -1,38 +1,87 @@
-## River of Doubt
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** River of Doubt
+## Goodreads Data
 
-**Author:** Candice Millard
+### Book Id 
 
-**ISBN:** ="1415924562"
+2495901
 
-**ISBN13:** ="9781415924563"
+https://www.goodreads.com/book/show/2495901
 
-**My Rating:** 5
+## library information
 
-**Average Rating:** 4.19
+### ISBN 
+="1415924562"
 
-**Publisher:** Books on Tape
+### ISBN13 
+="9781415924563"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 0
+### Title
+River of Doubt
 
-**Year Published:** 2000
+### Author 
+Candice Millard
 
-**Original Publication Year:** 2005
+### Author l-f 
+Millard, Candice
 
-**Date Read:** 2017/04/11
+### Additional Authors
+Paul Michael
 
-**Date Added:** 2017/04/04
+### Publisher 
+Books on Tape
 
-**Bookshelves:** history, biography
+### Binding
+Audio CD
 
-**Bookshelves with positions:** history (#12), biography (#10)
+### Number of Pages
+0
 
-**Exclusive Shelf:** read
+### Year Published
+2000
 
+### Original Publication Year 
+2005
 
-## My Review
+## user contributed data
 
+### My Rating
+5
+
+### Average Rating
+4.19
+
+### Date Read
+2017/04/11
+
+### Date Added
+2017/04/04
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+history, biography
+
+### Bookshelves with positions
+history (#12), biography (#10)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Fantastic book that follows Roosevelt down the river of doubt. And just like the many tributaries of the river the book is interwoven with great history lessons on the Amazonian jungle.

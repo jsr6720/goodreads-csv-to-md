@@ -1,38 +1,87 @@
-## When to Rob a Bank...And 131 More Warped Suggestions and Well-Intended Rants
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** When to Rob a Bank...And 131 More Warped Suggestions and Well-Intended Rants
+## Goodreads Data
 
-**Author:** Stephen J. Dubner
+### Book Id 
 
-**ISBN:** ="0062394932"
+23261572
 
-**ISBN13:** ="9780062394934"
+https://www.goodreads.com/book/show/23261572
 
-**My Rating:** 4
+## library information
 
-**Average Rating:** 3.52
+### ISBN 
+="0062394932"
 
-**Publisher:** HarperCollins
+### ISBN13 
+="9780062394934"
 
-**Binding:** Audiobook
+## book information
 
-**Number of Pages:** 8
+### Title
+When to Rob a Bank...And 131 More Warped Suggestions and Well-Intended Rants
 
-**Year Published:** 2015
+### Author 
+Stephen J. Dubner
 
-**Original Publication Year:** 2015
+### Author l-f 
+Dubner, Stephen J.
 
-**Date Read:** 2019/10/18
+### Additional Authors
+Steven D. Levitt, Erik Bergmann, Thérèse Plummer
 
-**Date Added:** 2019/10/18
+### Publisher 
+HarperCollins
 
-**Bookshelves:** economics
+### Binding
+Audiobook
 
-**Bookshelves with positions:** economics (#8)
+### Number of Pages
+8
 
-**Exclusive Shelf:** read
+### Year Published
+2015
 
+### Original Publication Year 
+2015
 
-## My Review
+## user contributed data
 
+### My Rating
+4
+
+### Average Rating
+3.52
+
+### Date Read
+2019/10/18
+
+### Date Added
+2019/10/18
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+economics
+
+### Bookshelves with positions
+economics (#8)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Oh sure you could read the blog, but this is a fun read of collection of facts. If you liked Freakonomics this is that on a smaller scale.

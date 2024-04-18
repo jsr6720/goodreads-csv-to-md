@@ -1,38 +1,87 @@
-## Enemies: A History of the FBI
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Enemies: A History of the FBI
+## Goodreads Data
 
-**Author:** Tim Weiner
+### Book Id 
 
-**ISBN:** ="0307933938"
+13155979
 
-**ISBN13:** ="9780307933935"
+https://www.goodreads.com/book/show/13155979
 
-**My Rating:** 5
+## library information
 
-**Average Rating:** 3.93
+### ISBN 
+="0307933938"
 
-**Publisher:** Random House Audio
+### ISBN13 
+="9780307933935"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 15
+### Title
+Enemies: A History of the FBI
 
-**Year Published:** 2012
+### Author 
+Tim Weiner
 
-**Original Publication Year:** 2012
+### Author l-f 
+Weiner, Tim
 
-**Date Read:** 2017/07/14
+### Additional Authors
+Stefan Rudnicki
 
-**Date Added:** 2017/06/28
+### Publisher 
+Random House Audio
 
-**Bookshelves:** history
+### Binding
+Audio CD
 
-**Bookshelves with positions:** history (#15)
+### Number of Pages
+15
 
-**Exclusive Shelf:** read
+### Year Published
+2012
 
+### Original Publication Year 
+2012
 
-## My Review
+## user contributed data
 
+### My Rating
+5
+
+### Average Rating
+3.93
+
+### Date Read
+2017/07/14
+
+### Date Added
+2017/06/28
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+history
+
+### Bookshelves with positions
+history (#15)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Great history of the FBI from it's inception by Roosevelt all the way up to post 9/11/01

@@ -1,38 +1,87 @@
-## First, Break All the Rules: What the World's Greatest Managers Do Differently
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** First, Break All the Rules: What the World's Greatest Managers Do Differently
+## Goodreads Data
 
-**Author:** Marcus Buckingham
+### Book Id 
 
-**ISBN:** ="0684852861"
+50937
 
-**ISBN13:** ="9780684852867"
+https://www.goodreads.com/book/show/50937
 
-**My Rating:** 5
+## library information
 
-**Average Rating:** 3.94
+### ISBN 
+="0684852861"
 
-**Publisher:** Gallup Press
+### ISBN13 
+="9780684852867"
 
-**Binding:** Hardcover
+## book information
 
-**Number of Pages:** 271
+### Title
+First, Break All the Rules: What the World's Greatest Managers Do Differently
 
-**Year Published:** 1999
+### Author 
+Marcus Buckingham
 
-**Original Publication Year:** 1998
+### Author l-f 
+Buckingham, Marcus
 
-**Date Read:** 2017/03/30
+### Additional Authors
+Curt Coffman
 
-**Date Added:** 2017/02/08
+### Publisher 
+Gallup Press
 
-**Bookshelves:** business, read-again
+### Binding
+Hardcover
 
-**Bookshelves with positions:** business (#27), read-again (#21)
+### Number of Pages
+271
 
-**Exclusive Shelf:** read
+### Year Published
+1999
 
+### Original Publication Year 
+1998
 
-## My Review
+## user contributed data
 
+### My Rating
+5
+
+### Average Rating
+3.94
+
+### Date Read
+2017/03/30
+
+### Date Added
+2017/02/08
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+business, read-again
+
+### Bookshelves with positions
+business (#27), read-again (#21)
+
+### Read Count
+1
+
+### Owned Copies
+1
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Great book that challenges many of the assumptions about managing people.<br/><br/>Greatest contribution is the list of questions that guide great performers.<br/>Do I know what is expected of me at work?<br/>Do I have the materials and equipment I need to do my work right? <br/>Do I have the opportunity to do what I do best everyday? <br/>... Many more<br/><br/>Remember that "average" is a long way off from a cluster of high-performers. Focusing on innate talent and train skills is the best way to accomplish great staff.

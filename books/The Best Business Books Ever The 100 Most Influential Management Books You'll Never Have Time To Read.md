@@ -1,38 +1,87 @@
-## The Best Business Books Ever: The 100 Most Influential Management Books You'll Never Have Time To Read
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** The Best Business Books Ever: The 100 Most Influential Management Books You'll Never Have Time To Read
+## Goodreads Data
 
-**Author:** Basic Books
+### Book Id 
 
-**ISBN:** ="0465022367"
+9500645
 
-**ISBN13:** ="9780465022366"
+https://www.goodreads.com/book/show/9500645
 
-**My Rating:** 3
+## library information
 
-**Average Rating:** 3.27
+### ISBN 
+="0465022367"
 
-**Publisher:** Basic Books
+### ISBN13 
+="9780465022366"
 
-**Binding:** Paperback
+## book information
 
-**Number of Pages:** 280
+### Title
+The Best Business Books Ever: The 100 Most Influential Management Books You'll Never Have Time To Read
 
-**Year Published:** 2011
+### Author 
+Basic Books
 
-**Original Publication Year:** 2011
+### Author l-f 
+Books, Basic
 
-**Date Read:** 2020/10/25
+### Additional Authors
+Empty
 
-**Date Added:** 2020/10/25
+### Publisher 
+Basic Books
 
-**Bookshelves:** 
+### Binding
+Paperback
 
-**Bookshelves with positions:** 
+### Number of Pages
+280
 
-**Exclusive Shelf:** read
+### Year Published
+2011
 
+### Original Publication Year 
+2011
 
-## My Review
+## user contributed data
 
+### My Rating
+3
+
+### Average Rating
+3.27
+
+### Date Read
+2020/10/25
+
+### Date Added
+2020/10/25
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+Empty
+
+### Bookshelves with positions
+Empty
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Already showing it’s age due to a conspicuous lack of big tech firms. This book has a handful of classics and a whole swath of “huh”? I do like the key concepts and was able to knock quite a few books off ‘the list’. Worth the checkout from the library. 

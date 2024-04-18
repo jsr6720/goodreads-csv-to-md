@@ -1,38 +1,87 @@
-## Guns, Germs and Steel: The Fates of Human Societies
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Guns, Germs and Steel: The Fates of Human Societies
+## Goodreads Data
 
-**Author:** Jared Diamond
+### Book Id 
 
-**ISBN:** ="1565115147"
+1006086
 
-**ISBN13:** ="9781565115149"
+https://www.goodreads.com/book/show/1006086
 
-**My Rating:** 4
+## library information
 
-**Average Rating:** 4.04
+### ISBN 
+="1565115147"
 
-**Publisher:** HighBridge Audio
+### ISBN13 
+="9781565115149"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 16
+### Title
+Guns, Germs and Steel: The Fates of Human Societies
 
-**Year Published:** 2001
+### Author 
+Jared Diamond
 
-**Original Publication Year:** 1997
+### Author l-f 
+Diamond, Jared
 
-**Date Read:** 2018/05/01
+### Additional Authors
+Grover Gardner
 
-**Date Added:** 2018/04/20
+### Publisher 
+HighBridge Audio
 
-**Bookshelves:** history
+### Binding
+Audio CD
 
-**Bookshelves with positions:** history (#21)
+### Number of Pages
+16
 
-**Exclusive Shelf:** read
+### Year Published
+2001
 
+### Original Publication Year 
+1997
 
-## My Review
+## user contributed data
 
+### My Rating
+4
+
+### Average Rating
+4.04
+
+### Date Read
+2018/05/01
+
+### Date Added
+2018/04/20
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+history
+
+### Bookshelves with positions
+history (#21)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Glad this was abridged. Great walk through history.<br/><br/>Moral of the story: euro-asia was blessed by first starter and long east-west axis.

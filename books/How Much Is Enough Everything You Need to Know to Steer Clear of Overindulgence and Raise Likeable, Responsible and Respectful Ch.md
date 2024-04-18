@@ -1,38 +1,87 @@
-## How Much Is Enough?: Everything You Need to Know to Steer Clear of Overindulgence and Raise Likeable, Responsible and Respectful Ch
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** How Much Is Enough?: Everything You Need to Know to Steer Clear of Overindulgence and Raise Likeable, Responsible and Respectful Ch
+## Goodreads Data
 
-**Author:** Jean Illsley Clarke
+### Book Id 
 
-**ISBN:** ="1569244375"
+157936
 
-**ISBN13:** ="9781569244371"
+https://www.goodreads.com/book/show/157936
 
-**My Rating:** 4
+## library information
 
-**Average Rating:** 3.77
+### ISBN 
+="1569244375"
 
-**Publisher:** Da Capo Lifelong Books
+### ISBN13 
+="9781569244371"
 
-**Binding:** Paperback
+## book information
 
-**Number of Pages:** 336
+### Title
+How Much Is Enough?: Everything You Need to Know to Steer Clear of Overindulgence and Raise Likeable, Responsible and Respectful Ch
 
-**Year Published:** 2003
+### Author 
+Jean Illsley Clarke
 
-**Original Publication Year:** 2003
+### Author l-f 
+Clarke, Jean Illsley
 
-**Date Read:** 2018/09/28
+### Additional Authors
+Connie Dawson, David Bredehoft
 
-**Date Added:** 2018/09/26
+### Publisher 
+Da Capo Lifelong Books
 
-**Bookshelves:** parenting
+### Binding
+Paperback
 
-**Bookshelves with positions:** parenting (#8)
+### Number of Pages
+336
 
-**Exclusive Shelf:** read
+### Year Published
+2003
 
+### Original Publication Year 
+2003
 
-## My Review
+## user contributed data
 
+### My Rating
+4
+
+### Average Rating
+3.77
+
+### Date Read
+2018/09/28
+
+### Date Added
+2018/09/26
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+parenting
+
+### Bookshelves with positions
+parenting (#8)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 A collection of easily digested chapters that help hone in on any problem your facing as a parent.<br/><br/>Ask the following questions when deciding on an action for your kids:<br/>1. Is it good for the child's development?<br/>2. Is it within the families resources?<br/>3. Does it harm others?<br/><br/>Bottom line we live in a culture and age of abundance. You will always feel as if you're saying "no" more than "yes".

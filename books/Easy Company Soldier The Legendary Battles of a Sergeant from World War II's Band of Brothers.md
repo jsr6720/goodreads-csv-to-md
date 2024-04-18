@@ -1,38 +1,87 @@
-## Easy Company Soldier: The Legendary Battles of a Sergeant from World War II's "Band of Brothers"
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Easy Company Soldier: The Legendary Battles of a Sergeant from World War II's "Band of Brothers"
+## Goodreads Data
 
-**Author:** Don Malarkey
+### Book Id 
 
-**ISBN:** ="1427204500"
+3835022
 
-**ISBN13:** ="9781427204509"
+https://www.goodreads.com/book/show/3835022
 
-**My Rating:** 5
+## library information
 
-**Average Rating:** 4.29
+### ISBN 
+="1427204500"
 
-**Publisher:** Macmillan Audio
+### ISBN13 
+="9781427204509"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 0
+### Title
+Easy Company Soldier: The Legendary Battles of a Sergeant from World War II's "Band of Brothers"
 
-**Year Published:** 2008
+### Author 
+Don Malarkey
 
-**Original Publication Year:** 2008
+### Author l-f 
+Malarkey, Don
 
-**Date Read:** 2019/09/30
+### Additional Authors
+Bob Welch
 
-**Date Added:** 2019/10/06
+### Publisher 
+Macmillan Audio
 
-**Bookshelves:** 
+### Binding
+Audio CD
 
-**Bookshelves with positions:** 
+### Number of Pages
+0
 
-**Exclusive Shelf:** read
+### Year Published
+2008
 
+### Original Publication Year 
+2008
 
-## My Review
+## user contributed data
 
+### My Rating
+5
+
+### Average Rating
+4.29
+
+### Date Read
+2019/09/30
+
+### Date Added
+2019/10/06
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+Empty
+
+### Bookshelves with positions
+Empty
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Great companion to Conversations with Major Dick Winters. Covers some of the same era. If Dick Winters is the boy scout then Malarkey is the Shop Class Hero.

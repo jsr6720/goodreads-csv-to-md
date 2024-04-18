@@ -1,38 +1,87 @@
-## The One Minute Manager
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** The One Minute Manager
+## Goodreads Data
 
-**Author:** Kenneth H. Blanchard
+### Book Id 
 
-**ISBN:** ="0060567503"
+558962
 
-**ISBN13:** ="9780060567507"
+https://www.goodreads.com/book/show/558962
 
-**My Rating:** 3
+## library information
 
-**Average Rating:** 3.95
+### ISBN 
+="0060567503"
 
-**Publisher:** HarperAudio
+### ISBN13 
+="9780060567507"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 100
+### Title
+The One Minute Manager
 
-**Year Published:** 2003
+### Author 
+Kenneth H. Blanchard
 
-**Original Publication Year:** 1981
+### Author l-f 
+Blanchard, Kenneth H.
 
-**Date Read:** 2017/09/16
+### Additional Authors
+Eric Conger
 
-**Date Added:** 2017/09/18
+### Publisher 
+HarperAudio
 
-**Bookshelves:** business
+### Binding
+Audio CD
 
-**Bookshelves with positions:** business (#30)
+### Number of Pages
+100
 
-**Exclusive Shelf:** read
+### Year Published
+2003
 
+### Original Publication Year 
+1981
 
-## My Review
+## user contributed data
 
+### My Rating
+3
+
+### Average Rating
+3.95
+
+### Date Read
+2017/09/16
+
+### Date Added
+2017/09/18
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+business
+
+### Bookshelves with positions
+business (#30)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Take aways:<br/><br/>Trust your people<br/>Weekly status meetings to ensure progress<br/><br/>* One minute goal settings<br/>* One minute praising<br/>* One minute reprimands<br/><br/>Bottom line, Clear expectations drive clear results.

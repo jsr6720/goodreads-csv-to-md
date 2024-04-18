@@ -1,38 +1,87 @@
-## The New Dad's Playbook: Gearing Up for the Biggest Game of Your Life
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** The New Dad's Playbook: Gearing Up for the Biggest Game of Your Life
+## Goodreads Data
 
-**Author:** Benjamin Watson
+### Book Id 
 
-**ISBN:** ="0801018978"
+32510934
 
-**ISBN13:** ="9780801018978"
+https://www.goodreads.com/book/show/32510934
 
-**My Rating:** 0
+## library information
 
-**Average Rating:** 3.90
+### ISBN 
+="0801018978"
 
-**Publisher:** Baker Books
+### ISBN13 
+="9780801018978"
 
-**Binding:** Paperback
+## book information
 
-**Number of Pages:** 208
+### Title
+The New Dad's Playbook: Gearing Up for the Biggest Game of Your Life
 
-**Year Published:** 2017
+### Author 
+Benjamin Watson
 
-**Original Publication Year:** 
+### Author l-f 
+Watson, Benjamin
 
-**Date Read:** 
+### Additional Authors
+Meg Meeker
 
-**Date Added:** 2019/11/05
+### Publisher 
+Baker Books
 
-**Bookshelves:** did-not-finish
+### Binding
+Paperback
 
-**Bookshelves with positions:** did-not-finish (#26)
+### Number of Pages
+208
 
-**Exclusive Shelf:** did-not-finish
+### Year Published
+2017
 
+### Original Publication Year 
+Empty
 
-## My Review
+## user contributed data
 
+### My Rating
+0
 
+### Average Rating
+3.90
+
+### Date Read
+Empty
+
+### Date Added
+2019/11/05
+
+### Exclusive Shelf
+did-not-finish
+
+### Bookshelves
+did-not-finish
+
+### Bookshelves with positions
+did-not-finish (#26)
+
+### Read Count
+0
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
+Empty

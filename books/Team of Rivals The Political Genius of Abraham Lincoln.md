@@ -1,38 +1,87 @@
-## Team of Rivals: The Political Genius of Abraham Lincoln
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Team of Rivals: The Political Genius of Abraham Lincoln
+## Goodreads Data
 
-**Author:** Doris Kearns Goodwin
+### Book Id 
 
-**ISBN:** ="0743539133"
+2202
 
-**ISBN13:** ="9780743539135"
+https://www.goodreads.com/book/show/2202
 
-**My Rating:** 4
+## library information
 
-**Average Rating:** 4.28
+### ISBN 
+="0743539133"
 
-**Publisher:** Simon  Schuster Audio
+### ISBN13 
+="9780743539135"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 10
+### Title
+Team of Rivals: The Political Genius of Abraham Lincoln
 
-**Year Published:** 2005
+### Author 
+Doris Kearns Goodwin
 
-**Original Publication Year:** 2005
+### Author l-f 
+Goodwin, Doris Kearns
 
-**Date Read:** 2016/10/08
+### Additional Authors
+Richard Thomas
 
-**Date Added:** 2016/09/30
+### Publisher 
+Simon  Schuster Audio
 
-**Bookshelves:** biography, history
+### Binding
+Audio CD
 
-**Bookshelves with positions:** biography (#6), history (#3)
+### Number of Pages
+10
 
-**Exclusive Shelf:** read
+### Year Published
+2005
 
+### Original Publication Year 
+2005
 
-## My Review
+## user contributed data
 
+### My Rating
+4
+
+### Average Rating
+4.28
+
+### Date Read
+2016/10/08
+
+### Date Added
+2016/09/30
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+biography, history
+
+### Bookshelves with positions
+biography (#6), history (#3)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Good book that covers the years leading up to President Lincolns assassination. Though the title led me to believe this book would be more about cabinet decisions it was ultimately a discussion of how Lincoln balanced the various egos and political ambitions of those in his cabinet.<br/><br/>I wish it had spent a little more time on how the cabinet fared after the death of Lincoln. Still a good book.

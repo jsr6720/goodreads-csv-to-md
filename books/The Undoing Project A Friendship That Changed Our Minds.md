@@ -1,38 +1,87 @@
-## The Undoing Project: A Friendship That Changed Our Minds
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** The Undoing Project: A Friendship That Changed Our Minds
+## Goodreads Data
 
-**Author:** Michael   Lewis
+### Book Id 
 
-**ISBN:** ="0393354776"
+35631386
 
-**ISBN13:** ="9780393354775"
+https://www.goodreads.com/book/show/35631386
 
-**My Rating:** 5
+## library information
 
-**Average Rating:** 3.99
+### ISBN 
+="0393354776"
 
-**Publisher:** W. W. Norton & Company
+### ISBN13 
+="9780393354775"
 
-**Binding:** Paperback
+## book information
 
-**Number of Pages:** 368
+### Title
+The Undoing Project: A Friendship That Changed Our Minds
 
-**Year Published:** 2017
+### Author 
+Michael   Lewis
 
-**Original Publication Year:** 2016
+### Author l-f 
+Lewis, Michael
 
-**Date Read:** 2020/08/09
+### Additional Authors
+Empty
 
-**Date Added:** 2020/07/03
+### Publisher 
+W. W. Norton & Company
 
-**Bookshelves:** psychology
+### Binding
+Paperback
 
-**Bookshelves with positions:** psychology (#23)
+### Number of Pages
+368
 
-**Exclusive Shelf:** read
+### Year Published
+2017
 
+### Original Publication Year 
+2016
 
-## My Review
+## user contributed data
 
+### My Rating
+5
+
+### Average Rating
+3.99
+
+### Date Read
+2020/08/09
+
+### Date Added
+2020/07/03
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+psychology
+
+### Bookshelves with positions
+psychology (#23)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Great history on Kahneman and Tversky and their twin roles in identifying the non-rational aspects of our natures. Excellent story telling by Lewis.<br/><br/>Book covers the personal lives and interactions of each Kahneman and Tversky.

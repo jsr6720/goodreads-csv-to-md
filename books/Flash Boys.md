@@ -1,38 +1,87 @@
-## Flash Boys
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Flash Boys
+## Goodreads Data
 
-**Author:** Michael   Lewis
+### Book Id 
 
-**ISBN:** ="1442370270"
+20523765
 
-**ISBN13:** ="9781442370272"
+https://www.goodreads.com/book/show/20523765
 
-**My Rating:** 0
+## library information
 
-**Average Rating:** 4.14
+### ISBN 
+="1442370270"
 
-**Publisher:** Simon  Schuster Audio
+### ISBN13 
+="9781442370272"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 10
+### Title
+Flash Boys
 
-**Year Published:** 2014
+### Author 
+Michael   Lewis
 
-**Original Publication Year:** 2014
+### Author l-f 
+Lewis, Michael
 
-**Date Read:** 
+### Additional Authors
+Dylan Baker
 
-**Date Added:** 2020/01/21
+### Publisher 
+Simon  Schuster Audio
 
-**Bookshelves:** did-not-finish
+### Binding
+Audio CD
 
-**Bookshelves with positions:** did-not-finish (#29)
+### Number of Pages
+10
 
-**Exclusive Shelf:** did-not-finish
+### Year Published
+2014
 
+### Original Publication Year 
+2014
 
-## My Review
+## user contributed data
 
+### My Rating
+0
 
+### Average Rating
+4.14
+
+### Date Read
+Empty
+
+### Date Added
+2020/01/21
+
+### Exclusive Shelf
+did-not-finish
+
+### Bookshelves
+did-not-finish
+
+### Bookshelves with positions
+did-not-finish (#29)
+
+### Read Count
+0
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
+Empty

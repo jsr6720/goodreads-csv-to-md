@@ -1,38 +1,87 @@
-## The 15 Invaluable Laws of Growth: Live Them and Reach Your Potential
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** The 15 Invaluable Laws of Growth: Live Them and Reach Your Potential
+## Goodreads Data
 
-**Author:** John C. Maxwell
+### Book Id 
 
-**ISBN:** ="1607885182"
+13526312
 
-**ISBN13:** ="9781607885184"
+https://www.goodreads.com/book/show/13526312
 
-**My Rating:** 5
+## library information
 
-**Average Rating:** 4.32
+### ISBN 
+="1607885182"
 
-**Publisher:** Center Street
+### ISBN13 
+="9781607885184"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 7
+### Title
+The 15 Invaluable Laws of Growth: Live Them and Reach Your Potential
 
-**Year Published:** 2012
+### Author 
+John C. Maxwell
 
-**Original Publication Year:** 2012
+### Author l-f 
+Maxwell, John C.
 
-**Date Read:** 2017/01/23
+### Additional Authors
+Empty
 
-**Date Added:** 2017/01/11
+### Publisher 
+Center Street
 
-**Bookshelves:** personal-development, read-again
+### Binding
+Audio CD
 
-**Bookshelves with positions:** personal-development (#18), read-again (#20)
+### Number of Pages
+7
 
-**Exclusive Shelf:** read
+### Year Published
+2012
 
+### Original Publication Year 
+2012
 
-## My Review
+## user contributed data
 
+### My Rating
+5
+
+### Average Rating
+4.32
+
+### Date Read
+2017/01/23
+
+### Date Added
+2017/01/11
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+personal-development, read-again
+
+### Bookshelves with positions
+personal-development (#18), read-again (#20)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 This is a great read. On par as an shorter version of [b:Think and Grow Rich|30186948|Think and Grow Rich|Napoleon Hill|https://images.gr-assets.com/books/1463241782s/30186948.jpg|1199320]. Far too much to retain in one reading here are some key points:<br/><br/>* Always have a beginner's mindset<br/>* Stay curious to the world around you<br/>* Never stop growing<br/>* Life begins at the edge of our comfort zone

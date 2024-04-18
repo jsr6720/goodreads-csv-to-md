@@ -1,38 +1,87 @@
-## Brand real how smart companies live their brand promise and inspire fierce customer loyalty
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Brand real how smart companies live their brand promise and inspire fierce customer loyalty
+## Goodreads Data
 
-**Author:** Laurence Vincent
+### Book Id 
 
-**ISBN:** ="1470333899"
+44066463
 
-**ISBN13:** ="9781470333898"
+https://www.goodreads.com/book/show/44066463
 
-**My Rating:** 4
+## library information
 
-**Average Rating:** 3.90
+### ISBN 
+="1470333899"
 
-**Publisher:** Recorded Books
+### ISBN13 
+="9781470333898"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 7
+### Title
+Brand real how smart companies live their brand promise and inspire fierce customer loyalty
 
-**Year Published:** 2012
+### Author 
+Laurence Vincent
 
-**Original Publication Year:** 2012
+### Author l-f 
+Vincent, Laurence
 
-**Date Read:** 2019/03/05
+### Additional Authors
+Empty
 
-**Date Added:** 2019/02/19
+### Publisher 
+Recorded Books
 
-**Bookshelves:** 
+### Binding
+Audio CD
 
-**Bookshelves with positions:** 
+### Number of Pages
+7
 
-**Exclusive Shelf:** read
+### Year Published
+2012
 
+### Original Publication Year 
+2012
 
-## My Review
+## user contributed data
 
+### My Rating
+4
+
+### Average Rating
+3.90
+
+### Date Read
+2019/03/05
+
+### Date Added
+2019/02/19
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+Empty
+
+### Bookshelves with positions
+Empty
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Great overview of what it means to have a "brand" and how consumers interact with that brand.<br/><br/>A brand invokes a promise in consumers head and it builds equity when the experience exceeds the expectations of the consumer.<br/><br/>The best brands build an authentic character and lives out it's promise with its constituents. Chasing buzz-words or personality traits is a surefire way to misunderstand what it is to "brand" a product.

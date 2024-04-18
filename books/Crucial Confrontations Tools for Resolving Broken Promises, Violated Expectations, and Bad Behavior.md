@@ -1,38 +1,87 @@
-## Crucial Confrontations: Tools for Resolving Broken Promises, Violated Expectations, and Bad Behavior
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Crucial Confrontations: Tools for Resolving Broken Promises, Violated Expectations, and Bad Behavior
+## Goodreads Data
 
-**Author:** Kerry Patterson
+### Book Id 
 
-**ISBN:** ="1932378820"
+822267
 
-**ISBN13:** ="9781932378825"
+https://www.goodreads.com/book/show/822267
 
-**My Rating:** 4
+## library information
 
-**Average Rating:** 4.07
+### ISBN 
+="1932378820"
 
-**Publisher:** Amer Media Intl - McGraw Hill audio
+### ISBN13 
+="9781932378825"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 132
+### Title
+Crucial Confrontations: Tools for Resolving Broken Promises, Violated Expectations, and Bad Behavior
 
-**Year Published:** 2005
+### Author 
+Kerry Patterson
 
-**Original Publication Year:** 2004
+### Author l-f 
+Patterson, Kerry
 
-**Date Read:** 2016/10/25
+### Additional Authors
+Empty
 
-**Date Added:** 2016/10/18
+### Publisher 
+Amer Media Intl - McGraw Hill audio
 
-**Bookshelves:** business, personal-development
+### Binding
+Audio CD
 
-**Bookshelves with positions:** business (#22), personal-development (#15)
+### Number of Pages
+132
 
-**Exclusive Shelf:** read
+### Year Published
+2005
 
+### Original Publication Year 
+2004
 
-## My Review
+## user contributed data
 
+### My Rating
+4
+
+### Average Rating
+4.07
+
+### Date Read
+2016/10/25
+
+### Date Added
+2016/10/18
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+business, personal-development
+
+### Bookshelves with positions
+business (#22), personal-development (#15)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Picks up on the concepts of [b:Crucial Conversations|15014|Crucial Conversations  Tools for Talking When Stakes Are High|Kerry Patterson|https://images.gr-assets.com/books/1290394180s/15014.jpg|2051713] and expands on how to start a difficult conversation. First two steps do not require any risk. Identify the true problem, and IF the conversation is worth happening.<br/><br/>I also liked the Content, Pattern, Relationship (CPR) approach to having conversations. One time infractions are content based, multiple pattern based and ultimately factor into whether or not to continue the relationship.<br/><br/>Breaking the pattern of silence or violence is going to require the use of empathy building. "Why would a rational reliable person choose to act this way?".  Also target change with the "Who will do What by When, follow up". The best thought leaders build rapport and positive interactions daily, so crucial confrontations are met with shared pool of meaning.

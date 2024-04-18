@@ -1,38 +1,87 @@
-## The Big Short: Inside the Doomsday Machine
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** The Big Short: Inside the Doomsday Machine
+## Goodreads Data
 
-**Author:** Michael   Lewis
+### Book Id 
 
-**ISBN:** ="1442300051"
+7812111
 
-**ISBN13:** ="9781442300057"
+https://www.goodreads.com/book/show/7812111
 
-**My Rating:** 5
+## library information
 
-**Average Rating:** 4.30
+### ISBN 
+="1442300051"
 
-**Publisher:** Simon  Schuster Audio
+### ISBN13 
+="9781442300057"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 10
+### Title
+The Big Short: Inside the Doomsday Machine
 
-**Year Published:** 2010
+### Author 
+Michael   Lewis
 
-**Original Publication Year:** 2010
+### Author l-f 
+Lewis, Michael
 
-**Date Read:** 2017/06/02
+### Additional Authors
+Jesse Boggs
 
-**Date Added:** 2017/05/26
+### Publisher 
+Simon  Schuster Audio
 
-**Bookshelves:** business, history
+### Binding
+Audio CD
 
-**Bookshelves with positions:** business (#28), history (#14)
+### Number of Pages
+10
 
-**Exclusive Shelf:** read
+### Year Published
+2010
 
+### Original Publication Year 
+2010
 
-## My Review
+## user contributed data
 
+### My Rating
+5
+
+### Average Rating
+4.30
+
+### Date Read
+2017/06/02
+
+### Date Added
+2017/05/26
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+business, history
+
+### Bookshelves with positions
+business (#28), history (#14)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Disclosure: I enjoy the finance sector but even so learning about mezzanine tranches and CDO and synthetic CDOs was fascinating.<br/><br/>This is a great narrative of the complete abandonment of morals by the finance industry. I like the story telling aspect as it followed a group of money managers through the collapse.<br/><br/>Tying the modern day collapse back to the Equity IPO of Solomon brothers was especially interesting. Before that moment all money managed funds were private partnerships and partners were liable. By transferring the risk to stock holders in the 80s firms had no issue leveraging another's money.<br/><br/>This is my first book by Michael Lewis and based on the strength of this book I've added his other to my "to read" list.

@@ -1,38 +1,87 @@
-## Queen of Sorcery (The Belgariad #2)
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Queen of Sorcery (The Belgariad #2)
+## Goodreads Data
 
-**Author:** David Eddings
+### Book Id 
 
-**ISBN:** ="0345335651"
+587582
 
-**ISBN13:** ="9780345335654"
+https://www.goodreads.com/book/show/587582
 
-**My Rating:** 5
+## library information
 
-**Average Rating:** 4.15
+### ISBN 
+="0345335651"
 
-**Publisher:** Del Rey
+### ISBN13 
+="9780345335654"
 
-**Binding:** Mass Market Paperback
+## book information
 
-**Number of Pages:** 326
+### Title
+Queen of Sorcery (The Belgariad #2)
 
-**Year Published:** 1982
+### Author 
+David Eddings
 
-**Original Publication Year:** 1982
+### Author l-f 
+Eddings, David
 
-**Date Read:** 2021/03/08
+### Additional Authors
+Empty
 
-**Date Added:** 2021/03/16
+### Publisher 
+Del Rey
 
-**Bookshelves:** fantasy, childhood-favorite
+### Binding
+Mass Market Paperback
 
-**Bookshelves with positions:** fantasy (#4), childhood-favorite (#4)
+### Number of Pages
+326
 
-**Exclusive Shelf:** read
+### Year Published
+1982
 
+### Original Publication Year 
+1982
 
-## My Review
+## user contributed data
 
+### My Rating
+5
+
+### Average Rating
+4.15
+
+### Date Read
+2021/03/08
+
+### Date Added
+2021/03/16
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+fantasy, childhood-favorite
+
+### Bookshelves with positions
+fantasy (#4), childhood-favorite (#4)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Picked this up from my childhood pile to give it a reread. I found all my favorite characters. One thing I do wish I could un-see though is all the similarities to other works of fiction in the same time period. All and all a great trip back in time.

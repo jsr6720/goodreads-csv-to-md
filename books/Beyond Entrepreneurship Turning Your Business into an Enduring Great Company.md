@@ -1,38 +1,87 @@
-## Beyond Entrepreneurship: Turning Your Business into an Enduring Great Company
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Beyond Entrepreneurship: Turning Your Business into an Enduring Great Company
+## Goodreads Data
 
-**Author:** James C. Collins
+### Book Id 
 
-**ISBN:** ="0133815269"
+869231
 
-**ISBN13:** ="9780133815269"
+https://www.goodreads.com/book/show/869231
 
-**My Rating:** 5
+## library information
 
-**Average Rating:** 4.09
+### ISBN 
+="0133815269"
 
-**Publisher:** Prentice Hall Press
+### ISBN13 
+="9780133815269"
 
-**Binding:** Paperback
+## book information
 
-**Number of Pages:** 
+### Title
+Beyond Entrepreneurship: Turning Your Business into an Enduring Great Company
 
-**Year Published:** 1995
+### Author 
+James C. Collins
 
-**Original Publication Year:** 1992
+### Author l-f 
+Collins, James C.
 
-**Date Read:** 2021/02/06
+### Additional Authors
+William C. Lazier
 
-**Date Added:** 2021/01/12
+### Publisher 
+Prentice Hall Press
 
-**Bookshelves:** business, management
+### Binding
+Paperback
 
-**Bookshelves with positions:** business (#61), management (#14)
+### Number of Pages
+Empty
 
-**Exclusive Shelf:** read
+### Year Published
+1995
 
+### Original Publication Year 
+1992
 
-## My Review
+## user contributed data
 
+### My Rating
+5
+
+### Average Rating
+4.09
+
+### Date Read
+2021/02/06
+
+### Date Added
+2021/01/12
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+business, management
+
+### Bookshelves with positions
+business (#61), management (#14)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Amazing book and really shows the foundational thinking of Collins future work. I liked this right up there with Andy Groves book [b:High Output Management|324750|High Output Management|Andrew S. Grove|https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347800461l/324750._SY75_.jpg|315440] and [b:First, Break All the Rules: What the World's Greatest Managers Do Differently|50937|First, Break All the Rules  What the World's Greatest Managers Do Differently|Marcus Buckingham|https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442357545l/50937._SY75_.jpg|49725].<br/><br/>This books focuses on companies that are past seed stage, but not quite past 5 years. It is also a fantastic blueprint for brining innovation sectors back into established companies.

@@ -1,38 +1,87 @@
-## The Autobiography of Andrew Carnegie
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** The Autobiography of Andrew Carnegie
+## Goodreads Data
 
-**Author:** Andrew Carnegie
+### Book Id 
 
-**ISBN:** ="1452607451"
+13591052
 
-**ISBN13:** ="9781452607450"
+https://www.goodreads.com/book/show/13591052
 
-**My Rating:** 4
+## library information
 
-**Average Rating:** 3.89
+### ISBN 
+="1452607451"
 
-**Publisher:** Tantor Media
+### ISBN13 
+="9781452607450"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 
+### Title
+The Autobiography of Andrew Carnegie
 
-**Year Published:** 2012
+### Author 
+Andrew Carnegie
 
-**Original Publication Year:** 1920
+### Author l-f 
+Carnegie, Andrew
 
-**Date Read:** 2016/09/25
+### Additional Authors
+Antony Ferguson
 
-**Date Added:** 2016/09/12
+### Publisher 
+Tantor Media
 
-**Bookshelves:** biography
+### Binding
+Audio CD
 
-**Bookshelves with positions:** biography (#2)
+### Number of Pages
+Empty
 
-**Exclusive Shelf:** read
+### Year Published
+2012
 
+### Original Publication Year 
+1920
 
-## My Review
+## user contributed data
 
+### My Rating
+4
+
+### Average Rating
+3.89
+
+### Date Read
+2016/09/25
+
+### Date Added
+2016/09/12
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+biography
+
+### Bookshelves with positions
+biography (#2)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Fantastic book that covers the life of Carnegie and that of growing up in the turn of the 18th century.<br/><br/>Favorite parts included the discussion of steel making process and investing only to which one could afford. Carnegie saw several boom-bust cycles and was able to flourish through all times.<br/><br/>'Put the most selective eggs in one basket and watch them all flourish'. His attention to the craft of steel making and recognizing that vertical integration was key to profits made him a very wealthy man.<br/><br/>He was tough on laborers who did not honor their agreements, but was very fair when time came to negotiate terms.

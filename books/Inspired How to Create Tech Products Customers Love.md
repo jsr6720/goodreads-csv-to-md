@@ -1,38 +1,87 @@
-## Inspired: How to Create Tech Products Customers Love
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Inspired: How to Create Tech Products Customers Love
+## Goodreads Data
 
-**Author:** Marty Cagan
+### Book Id 
 
-**ISBN:** ="1119387507"
+35249663
 
-**ISBN13:** ="9781119387503"
+https://www.goodreads.com/book/show/35249663
 
-**My Rating:** 5
+## library information
 
-**Average Rating:** 4.24
+### ISBN 
+="1119387507"
 
-**Publisher:** Wiley
+### ISBN13 
+="9781119387503"
 
-**Binding:** Hardcover
+## book information
 
-**Number of Pages:** 349
+### Title
+Inspired: How to Create Tech Products Customers Love
 
-**Year Published:** 2017
+### Author 
+Marty Cagan
 
-**Original Publication Year:** 2008
+### Author l-f 
+Cagan, Marty
 
-**Date Read:** 
+### Additional Authors
+Empty
 
-**Date Added:** 2021/04/20
+### Publisher 
+Wiley
 
-**Bookshelves:** did-not-finish
+### Binding
+Hardcover
 
-**Bookshelves with positions:** did-not-finish (#31)
+### Number of Pages
+349
 
-**Exclusive Shelf:** did-not-finish
+### Year Published
+2017
 
+### Original Publication Year 
+2008
 
-## My Review
+## user contributed data
 
+### My Rating
+5
+
+### Average Rating
+4.24
+
+### Date Read
+Empty
+
+### Date Added
+2021/04/20
+
+### Exclusive Shelf
+did-not-finish
+
+### Bookshelves
+did-not-finish
+
+### Bookshelves with positions
+did-not-finish (#31)
+
+### Read Count
+0
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Great book, especially for a product leader at a technology company. Read about half the book and put it down. A bit repetitive.

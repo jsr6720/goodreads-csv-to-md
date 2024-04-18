@@ -1,38 +1,87 @@
-## Lone Star Nation
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Lone Star Nation
+## Goodreads Data
 
-**Author:** H.W. Brands
+### Book Id 
 
-**ISBN:** ="0736699317"
+6890
 
-**ISBN13:** ="9780736699310"
+https://www.goodreads.com/book/show/6890
 
-**My Rating:** 5
+## library information
 
-**Average Rating:** 4.17
+### ISBN 
+="0736699317"
 
-**Publisher:** Books on tape
+### ISBN13 
+="9780736699310"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 15
+### Title
+Lone Star Nation
 
-**Year Published:** 2004
+### Author 
+H.W. Brands
 
-**Original Publication Year:** 2003
+### Author l-f 
+Brands, H.W.
 
-**Date Read:** 2017/09/13
+### Additional Authors
+Empty
 
-**Date Added:** 2017/08/25
+### Publisher 
+Books on tape
 
-**Bookshelves:** history
+### Binding
+Audio CD
 
-**Bookshelves with positions:** history (#16)
+### Number of Pages
+15
 
-**Exclusive Shelf:** read
+### Year Published
+2004
 
+### Original Publication Year 
+2003
 
-## My Review
+## user contributed data
 
+### My Rating
+5
+
+### Average Rating
+4.17
+
+### Date Read
+2017/09/13
+
+### Date Added
+2017/08/25
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+history
+
+### Bookshelves with positions
+history (#16)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Great book that reminds me a lot of [a:David McCullough|6281688|David McCullough|https://images.gr-assets.com/authors/1429921568p2/6281688.jpg] writing style. Especially [b:John Adams|2203|John Adams|David McCullough|https://images.gr-assets.com/books/1478144278s/2203.jpg|963375].<br/><br/>This book delves just deep enough into the anthropology/geologic/political history of spain/mexico/france to give a solid background of Texas without being overbearing.<br/><br/>All the heros are present and accounted for. Great book.

@@ -1,38 +1,87 @@
-## Silos, Politics & Turf Wars: A Leadership Fable About Destroying the Barriers that Turn Colleagues into Competitors
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Silos, Politics & Turf Wars: A Leadership Fable About Destroying the Barriers that Turn Colleagues into Competitors
+## Goodreads Data
 
-**Author:** Patrick Lencioni
+### Book Id 
 
-**ISBN:** ="159397860X"
+3420855
 
-**ISBN13:** ="9781593978600"
+https://www.goodreads.com/book/show/3420855
 
-**My Rating:** 3
+## library information
 
-**Average Rating:** 4.05
+### ISBN 
+="159397860X"
 
-**Publisher:** Macmillan Audio
+### ISBN13 
+="9781593978600"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 0
+### Title
+Silos, Politics & Turf Wars: A Leadership Fable About Destroying the Barriers that Turn Colleagues into Competitors
 
-**Year Published:** 2006
+### Author 
+Patrick Lencioni
 
-**Original Publication Year:** 2006
+### Author l-f 
+Lencioni, Patrick
 
-**Date Read:** 2018/03/25
+### Additional Authors
+Empty
 
-**Date Added:** 2018/03/28
+### Publisher 
+Macmillan Audio
 
-**Bookshelves:** management
+### Binding
+Audio CD
 
-**Bookshelves with positions:** management (#2)
+### Number of Pages
+0
 
-**Exclusive Shelf:** read
+### Year Published
+2006
 
+### Original Publication Year 
+2006
 
-## My Review
+## user contributed data
 
+### My Rating
+3
+
+### Average Rating
+4.05
+
+### Date Read
+2018/03/25
+
+### Date Added
+2018/03/28
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+management
+
+### Bookshelves with positions
+management (#2)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 I don't like fables that are longer than Aesop. But I make an exception for Lencioni. Key takeaway: management needs to tackle projects as a team. And an organization of silos is a direct reflection of the leadership style of the executive team. If budgets and resources and allocations are all "us vs them" at the top. It reflects itself to the bottom

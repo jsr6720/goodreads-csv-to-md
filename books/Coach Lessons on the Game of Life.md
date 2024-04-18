@@ -1,38 +1,87 @@
-## Coach: Lessons on the Game of Life
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Coach: Lessons on the Game of Life
+## Goodreads Data
 
-**Author:** Michael   Lewis
+### Book Id 
 
-**ISBN:** ="1415921318"
+6924268
 
-**ISBN13:** ="9781415921319"
+https://www.goodreads.com/book/show/6924268
 
-**My Rating:** 4
+## library information
 
-**Average Rating:** 3.89
+### ISBN 
+="1415921318"
 
-**Publisher:** Books on Tape
+### ISBN13 
+="9781415921319"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 0
+### Title
+Coach: Lessons on the Game of Life
 
-**Year Published:** 2005
+### Author 
+Michael   Lewis
 
-**Original Publication Year:** 2005
+### Author l-f 
+Lewis, Michael
 
-**Date Read:** 2019/01/17
+### Additional Authors
+Empty
 
-**Date Added:** 2019/01/15
+### Publisher 
+Books on Tape
 
-**Bookshelves:** 
+### Binding
+Audio CD
 
-**Bookshelves with positions:** 
+### Number of Pages
+0
 
-**Exclusive Shelf:** read
+### Year Published
+2005
 
+### Original Publication Year 
+2005
 
-## My Review
+## user contributed data
 
+### My Rating
+4
+
+### Average Rating
+3.89
+
+### Date Read
+2019/01/17
+
+### Date Added
+2019/01/15
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+Empty
+
+### Bookshelves with positions
+Empty
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Proposed title change: "Back in my day..."<br/><br/>This book is a quick summary of how a coach who challenged his players in the past has lost out to the "curling" parents who try to smooth over every interaction little Bobby has and safeguard his eternal transcript to get into Harvard.<br/><br/>Great read.

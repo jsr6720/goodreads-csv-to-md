@@ -1,38 +1,87 @@
-## 30 Days to Love: The Ultimate Relationship Turnaround Guide (The Love Mentor's Guide)
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** 30 Days to Love: The Ultimate Relationship Turnaround Guide (The Love Mentor's Guide)
+## Goodreads Data
 
-**Author:** Diana Kirschner
+### Book Id 
 
-**ISBN:** ="1480557234"
+18100427
 
-**ISBN13:** ="9781480557239"
+https://www.goodreads.com/book/show/18100427
 
-**My Rating:** 0
+## library information
 
-**Average Rating:** 3.09
+### ISBN 
+="1480557234"
 
-**Publisher:** Brilliance Audio
+### ISBN13 
+="9781480557239"
 
-**Binding:** MP3 CD
+## book information
 
-**Number of Pages:** 0
+### Title
+30 Days to Love: The Ultimate Relationship Turnaround Guide (The Love Mentor's Guide)
 
-**Year Published:** 2013
+### Author 
+Diana Kirschner
 
-**Original Publication Year:** 2013
+### Author l-f 
+Kirschner, Diana
 
-**Date Read:** 
+### Additional Authors
+Tanya Eby
 
-**Date Added:** 2017/04/13
+### Publisher 
+Brilliance Audio
 
-**Bookshelves:** did-not-finish
+### Binding
+MP3 CD
 
-**Bookshelves with positions:** did-not-finish (#9)
+### Number of Pages
+0
 
-**Exclusive Shelf:** did-not-finish
+### Year Published
+2013
 
+### Original Publication Year 
+2013
 
-## My Review
+## user contributed data
 
+### My Rating
+0
 
+### Average Rating
+3.09
+
+### Date Read
+Empty
+
+### Date Added
+2017/04/13
+
+### Exclusive Shelf
+did-not-finish
+
+### Bookshelves
+did-not-finish
+
+### Bookshelves with positions
+did-not-finish (#9)
+
+### Read Count
+0
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
+Empty

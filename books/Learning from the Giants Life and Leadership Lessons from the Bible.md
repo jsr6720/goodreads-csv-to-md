@@ -1,38 +1,87 @@
-## Learning from the Giants: Life and Leadership Lessons from the Bible
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Learning from the Giants: Life and Leadership Lessons from the Bible
+## Goodreads Data
 
-**Author:** John C. Maxwell
+### Book Id 
 
-**ISBN:** ="1478982977"
+20981003
 
-**ISBN13:** ="9781478982975"
+https://www.goodreads.com/book/show/20981003
 
-**My Rating:** 0
+## library information
 
-**Average Rating:** 4.12
+### ISBN 
+="1478982977"
 
-**Publisher:** Faith Words
+### ISBN13 
+="9781478982975"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 
+### Title
+Learning from the Giants: Life and Leadership Lessons from the Bible
 
-**Year Published:** 2014
+### Author 
+John C. Maxwell
 
-**Original Publication Year:** 2014
+### Author l-f 
+Maxwell, John C.
 
-**Date Read:** 
+### Additional Authors
+Empty
 
-**Date Added:** 2018/09/14
+### Publisher 
+Faith Words
 
-**Bookshelves:** did-not-finish
+### Binding
+Audio CD
 
-**Bookshelves with positions:** did-not-finish (#17)
+### Number of Pages
+Empty
 
-**Exclusive Shelf:** did-not-finish
+### Year Published
+2014
 
+### Original Publication Year 
+2014
 
-## My Review
+## user contributed data
 
+### My Rating
+0
 
+### Average Rating
+4.12
+
+### Date Read
+Empty
+
+### Date Added
+2018/09/14
+
+### Exclusive Shelf
+did-not-finish
+
+### Bookshelves
+did-not-finish
+
+### Bookshelves with positions
+did-not-finish (#17)
+
+### Read Count
+0
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
+Empty

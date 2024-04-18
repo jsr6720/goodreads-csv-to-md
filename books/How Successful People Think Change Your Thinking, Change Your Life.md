@@ -1,38 +1,87 @@
-## How Successful People Think: Change Your Thinking, Change Your Life
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** How Successful People Think: Change Your Thinking, Change Your Life
+## Goodreads Data
 
-**Author:** John C. Maxwell
+### Book Id 
 
-**ISBN:** ="1599951681"
+6012533
 
-**ISBN13:** ="9781599951683"
+https://www.goodreads.com/book/show/6012533
 
-**My Rating:** 3
+## library information
 
-**Average Rating:** 3.94
+### ISBN 
+="1599951681"
 
-**Publisher:** Center Street
+### ISBN13 
+="9781599951683"
 
-**Binding:** Hardcover
+## book information
 
-**Number of Pages:** 127
+### Title
+How Successful People Think: Change Your Thinking, Change Your Life
 
-**Year Published:** 2009
+### Author 
+John C. Maxwell
 
-**Original Publication Year:** 
+### Author l-f 
+Maxwell, John C.
 
-**Date Read:** 2018/03/12
+### Additional Authors
+Empty
 
-**Date Added:** 2018/03/10
+### Publisher 
+Center Street
 
-**Bookshelves:** business
+### Binding
+Hardcover
 
-**Bookshelves with positions:** business (#37)
+### Number of Pages
+127
 
-**Exclusive Shelf:** read
+### Year Published
+2009
 
+### Original Publication Year 
+Empty
 
-## My Review
+## user contributed data
 
+### My Rating
+3
+
+### Average Rating
+3.94
+
+### Date Read
+2018/03/12
+
+### Date Added
+2018/03/10
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+business
+
+### Bookshelves with positions
+business (#37)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Solid book on the practices of thinking by successful people. Number one lesson to take away is that great achievers put forethought into their plans.<br/><br/>Maxwell has great leadership books. I missed that this was excerpted from a larger work and it shows. It's a reflection on different though habits and how best to match your personality to a specific habit. Things like, set a routine, or be prepared. Moving on to his much more acclaimed "5 Levels of Leadership" book

@@ -1,38 +1,87 @@
-## The Perfect Horse: the Daring U.S. Mission to Rescue the Priceless Stallions Kidnapped by the Nazis
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** The Perfect Horse: the Daring U.S. Mission to Rescue the Priceless Stallions Kidnapped by the Nazis
+## Goodreads Data
 
-**Author:** Elizabeth Letts
+### Book Id 
 
-**ISBN:** ="0345544803"
+28007894
 
-**ISBN13:** ="9780345544803"
+https://www.goodreads.com/book/show/28007894
 
-**My Rating:** 0
+## library information
 
-**Average Rating:** 4.07
+### ISBN 
+="0345544803"
 
-**Publisher:** Ballantine Books
+### ISBN13 
+="9780345544803"
 
-**Binding:** Hardcover
+## book information
 
-**Number of Pages:** 400
+### Title
+The Perfect Horse: the Daring U.S. Mission to Rescue the Priceless Stallions Kidnapped by the Nazis
 
-**Year Published:** 2016
+### Author 
+Elizabeth Letts
 
-**Original Publication Year:** 2016
+### Author l-f 
+Letts, Elizabeth
 
-**Date Read:** 
+### Additional Authors
+Empty
 
-**Date Added:** 2018/02/22
+### Publisher 
+Ballantine Books
 
-**Bookshelves:** did-not-finish
+### Binding
+Hardcover
 
-**Bookshelves with positions:** did-not-finish (#12)
+### Number of Pages
+400
 
-**Exclusive Shelf:** did-not-finish
+### Year Published
+2016
 
+### Original Publication Year 
+2016
 
-## My Review
+## user contributed data
 
+### My Rating
+0
 
+### Average Rating
+4.07
+
+### Date Read
+Empty
+
+### Date Added
+2018/02/22
+
+### Exclusive Shelf
+did-not-finish
+
+### Bookshelves
+did-not-finish
+
+### Bookshelves with positions
+did-not-finish (#12)
+
+### Read Count
+0
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
+Empty

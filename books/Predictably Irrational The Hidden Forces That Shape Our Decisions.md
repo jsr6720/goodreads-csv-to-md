@@ -1,38 +1,87 @@
-## Predictably Irrational: The Hidden Forces That Shape Our Decisions
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Predictably Irrational: The Hidden Forces That Shape Our Decisions
+## Goodreads Data
 
-**Author:** Dan Ariely
+### Book Id 
 
-**ISBN:** ="006145785X"
+1713424
 
-**ISBN13:** ="9780061457852"
+https://www.goodreads.com/book/show/1713424
 
-**My Rating:** 4
+## library information
 
-**Average Rating:** 4.12
+### ISBN 
+="006145785X"
 
-**Publisher:** HarperAudio
+### ISBN13 
+="9780061457852"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 336
+### Title
+Predictably Irrational: The Hidden Forces That Shape Our Decisions
 
-**Year Published:** 2008
+### Author 
+Dan Ariely
 
-**Original Publication Year:** 2008
+### Author l-f 
+Ariely, Dan
 
-**Date Read:** 2018/08/10
+### Additional Authors
+Simon  Jones
 
-**Date Added:** 2018/08/01
+### Publisher 
+HarperAudio
 
-**Bookshelves:** economics, psychology
+### Binding
+Audio CD
 
-**Bookshelves with positions:** economics (#6), psychology (#19)
+### Number of Pages
+336
 
-**Exclusive Shelf:** read
+### Year Published
+2008
 
+### Original Publication Year 
+2008
 
-## My Review
+## user contributed data
 
+### My Rating
+4
+
+### Average Rating
+4.12
+
+### Date Read
+2018/08/10
+
+### Date Added
+2018/08/01
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+economics, psychology
+
+### Bookshelves with positions
+economics (#6), psychology (#19)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 study of behavioral psychology and why we aren't rational agents as assumed by economic forces.<br/><br/>Great collection of studies and personal insights into how we keep making the same 'mistakes'.

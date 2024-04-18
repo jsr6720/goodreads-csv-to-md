@@ -1,38 +1,87 @@
-## Good Leaders Ask Great Questions: Your Foundation for Successful Leadership
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Good Leaders Ask Great Questions: Your Foundation for Successful Leadership
+## Goodreads Data
 
-**Author:** John C. Maxwell
+### Book Id 
 
-**ISBN:** ="1478924322"
+20706770
 
-**ISBN13:** ="9781478924326"
+https://www.goodreads.com/book/show/20706770
 
-**My Rating:** 5
+## library information
 
-**Average Rating:** 4.07
+### ISBN 
+="1478924322"
 
-**Publisher:** Center Street
+### ISBN13 
+="9781478924326"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 
+### Title
+Good Leaders Ask Great Questions: Your Foundation for Successful Leadership
 
-**Year Published:** 2014
+### Author 
+John C. Maxwell
 
-**Original Publication Year:** 
+### Author l-f 
+Maxwell, John C.
 
-**Date Read:** 2018/05/30
+### Additional Authors
+Empty
 
-**Date Added:** 2018/05/18
+### Publisher 
+Center Street
 
-**Bookshelves:** management, business
+### Binding
+Audio CD
 
-**Bookshelves with positions:** management (#7), business (#43)
+### Number of Pages
+Empty
 
-**Exclusive Shelf:** read
+### Year Published
+2014
 
+### Original Publication Year 
+Empty
 
-## My Review
+## user contributed data
 
+### My Rating
+5
+
+### Average Rating
+4.07
+
+### Date Read
+2018/05/30
+
+### Date Added
+2018/05/18
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+management, business
+
+### Bookshelves with positions
+management (#7), business (#43)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 You only get the answers to the questions you ask. How do you ask great questions? Read no further.

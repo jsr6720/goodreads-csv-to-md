@@ -1,38 +1,87 @@
-## Conversations With Major Dick Winters: Life Lessons from the Commander of the Band of Brothers
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Conversations With Major Dick Winters: Life Lessons from the Commander of the Band of Brothers
+## Goodreads Data
 
-**Author:** Cole C. Kingseed
+### Book Id 
 
-**ISBN:** ="1483026469"
+22220163
 
-**ISBN13:** ="9781483026466"
+https://www.goodreads.com/book/show/22220163
 
-**My Rating:** 5
+## library information
 
-**Average Rating:** 4.27
+### ISBN 
+="1483026469"
 
-**Publisher:** Blackstone Audio, Inc.
+### ISBN13 
+="9781483026466"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 0
+### Title
+Conversations With Major Dick Winters: Life Lessons from the Commander of the Band of Brothers
 
-**Year Published:** 2014
+### Author 
+Cole C. Kingseed
 
-**Original Publication Year:** 2014
+### Author l-f 
+Kingseed, Cole C.
 
-**Date Read:** 2019/09/14
+### Additional Authors
+Empty
 
-**Date Added:** 2019/08/28
+### Publisher 
+Blackstone Audio, Inc.
 
-**Bookshelves:** 
+### Binding
+Audio CD
 
-**Bookshelves with positions:** 
+### Number of Pages
+0
 
-**Exclusive Shelf:** read
+### Year Published
+2014
 
+### Original Publication Year 
+2014
 
-## My Review
+## user contributed data
 
+### My Rating
+5
+
+### Average Rating
+4.27
+
+### Date Read
+2019/09/14
+
+### Date Added
+2019/08/28
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+Empty
+
+### Bookshelves with positions
+Empty
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Written in conversation form. This is a great collection of stories. For anyone who has a relative from the WWII era I highly recommend.

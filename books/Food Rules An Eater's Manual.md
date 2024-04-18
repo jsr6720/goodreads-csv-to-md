@@ -1,38 +1,87 @@
-## Food Rules: An Eater's Manual
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Food Rules: An Eater's Manual
+## Goodreads Data
 
-**Author:** Michael Pollan
+### Book Id 
 
-**ISBN:** ="0143124102"
+17707668
 
-**ISBN13:** ="9780143124108"
+https://www.goodreads.com/book/show/17707668
 
-**My Rating:** 5
+## library information
 
-**Average Rating:** 3.99
+### ISBN 
+="0143124102"
 
-**Publisher:** Penguin Books
+### ISBN13 
+="9780143124108"
 
-**Binding:** Paperback
+## book information
 
-**Number of Pages:** 224
+### Title
+Food Rules: An Eater's Manual
 
-**Year Published:** 2013
+### Author 
+Michael Pollan
 
-**Original Publication Year:** 2008
+### Author l-f 
+Pollan, Michael
 
-**Date Read:** 2021/04/24
+### Additional Authors
+Maira Kalman
 
-**Date Added:** 2021/04/24
+### Publisher 
+Penguin Books
 
-**Bookshelves:** food
+### Binding
+Paperback
 
-**Bookshelves with positions:** food (#1)
+### Number of Pages
+224
 
-**Exclusive Shelf:** read
+### Year Published
+2013
 
+### Original Publication Year 
+2008
 
-## My Review
+## user contributed data
 
+### My Rating
+5
+
+### Average Rating
+3.99
+
+### Date Read
+2021/04/24
+
+### Date Added
+2021/04/24
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+food
+
+### Bookshelves with positions
+food (#1)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 A quick afternoon read. This is a whimsical and fun look at the mindset shifts we can have to eat better. <br/><br/>Eat food. Not too much. Mostly plants. <br/><br/>The illustrations add a nice perspective. 

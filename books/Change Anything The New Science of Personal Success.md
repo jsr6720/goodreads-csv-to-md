@@ -1,38 +1,87 @@
-## Change Anything: The New Science of Personal Success
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Change Anything: The New Science of Personal Success
+## Goodreads Data
 
-**Author:** Kerry Patterson
+### Book Id 
 
-**ISBN:** ="0446573914"
+9745641
 
-**ISBN13:** ="9780446573917"
+https://www.goodreads.com/book/show/9745641
 
-**My Rating:** 0
+## library information
 
-**Average Rating:** 3.88
+### ISBN 
+="0446573914"
 
-**Publisher:** Balance
+### ISBN13 
+="9780446573917"
 
-**Binding:** Hardcover
+## book information
 
-**Number of Pages:** 262
+### Title
+Change Anything: The New Science of Personal Success
 
-**Year Published:** 2011
+### Author 
+Kerry Patterson
 
-**Original Publication Year:** 2011
+### Author l-f 
+Patterson, Kerry
 
-**Date Read:** 
+### Additional Authors
+Joseph Grenny, David Maxfield, Ron McMillan, Al Switzler
 
-**Date Added:** 2019/02/05
+### Publisher 
+Balance
 
-**Bookshelves:** 
+### Binding
+Hardcover
 
-**Bookshelves with positions:** 
+### Number of Pages
+262
 
-**Exclusive Shelf:** read
+### Year Published
+2011
 
+### Original Publication Year 
+2011
 
-## My Review
+## user contributed data
 
+### My Rating
+0
 
+### Average Rating
+3.88
+
+### Date Read
+Empty
+
+### Date Added
+2019/02/05
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+Empty
+
+### Bookshelves with positions
+Empty
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
+Empty

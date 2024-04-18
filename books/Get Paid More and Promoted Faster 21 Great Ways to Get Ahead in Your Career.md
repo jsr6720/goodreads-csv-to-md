@@ -1,38 +1,87 @@
-## Get Paid More and Promoted Faster: 21 Great Ways to Get Ahead in Your Career
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Get Paid More and Promoted Faster: 21 Great Ways to Get Ahead in Your Career
+## Goodreads Data
 
-**Author:** Brian Tracy
+### Book Id 
 
-**ISBN:** ="1583762078"
+115634
 
-**ISBN13:** ="9781583762073"
+https://www.goodreads.com/book/show/115634
 
-**My Rating:** 3
+## library information
 
-**Average Rating:** 3.90
+### ISBN 
+="1583762078"
 
-**Publisher:** Berrett-Koehler Publishers
+### ISBN13 
+="9781583762073"
 
-**Binding:** Hardcover
+## book information
 
-**Number of Pages:** 110
+### Title
+Get Paid More and Promoted Faster: 21 Great Ways to Get Ahead in Your Career
 
-**Year Published:** 2001
+### Author 
+Brian Tracy
 
-**Original Publication Year:** 2001
+### Author l-f 
+Tracy, Brian
 
-**Date Read:** 2018/09/07
+### Additional Authors
+Empty
 
-**Date Added:** 2018/09/07
+### Publisher 
+Berrett-Koehler Publishers
 
-**Bookshelves:** business, personal-development
+### Binding
+Hardcover
 
-**Bookshelves with positions:** business (#49), personal-development (#23)
+### Number of Pages
+110
 
-**Exclusive Shelf:** read
+### Year Published
+2001
 
+### Original Publication Year 
+2001
 
-## My Review
+## user contributed data
 
+### My Rating
+3
+
+### Average Rating
+3.90
+
+### Date Read
+2018/09/07
+
+### Date Added
+2018/09/07
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+business, personal-development
+
+### Bookshelves with positions
+business (#49), personal-development (#23)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Quick read which is a collection of business truisms.<br/><br/>Come in early, stay late, choose your life. Succeed. I suppose the best two ways are choosing industry and company and projects above all else. 

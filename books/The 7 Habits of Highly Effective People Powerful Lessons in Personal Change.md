@@ -1,38 +1,87 @@
-## The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change
+## Goodreads Data
 
-**Author:** Stephen R. Covey
+### Book Id 
 
-**ISBN:** ="0743269519"
+36072
 
-**ISBN13:** ="9780743269513"
+https://www.goodreads.com/book/show/36072
 
-**My Rating:** 5
+## library information
 
-**Average Rating:** 4.16
+### ISBN 
+="0743269519"
 
-**Publisher:** Free Press
+### ISBN13 
+="9780743269513"
 
-**Binding:** Paperback
+## book information
 
-**Number of Pages:** 372
+### Title
+The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change
 
-**Year Published:** 2004
+### Author 
+Stephen R. Covey
 
-**Original Publication Year:** 1989
+### Author l-f 
+Covey, Stephen R.
 
-**Date Read:** 
+### Additional Authors
+Jim Collins
 
-**Date Added:** 2016/05/31
+### Publisher 
+Free Press
 
-**Bookshelves:** classics, read-again, business
+### Binding
+Paperback
 
-**Bookshelves with positions:** classics (#3), read-again (#10), business (#12)
+### Number of Pages
+372
 
-**Exclusive Shelf:** read
+### Year Published
+2004
 
+### Original Publication Year 
+1989
 
-## My Review
+## user contributed data
 
+### My Rating
+5
 
+### Average Rating
+4.16
+
+### Date Read
+Empty
+
+### Date Added
+2016/05/31
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+classics, read-again, business
+
+### Bookshelves with positions
+classics (#3), read-again (#10), business (#12)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
+Empty

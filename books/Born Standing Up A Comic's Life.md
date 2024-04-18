@@ -1,38 +1,87 @@
-## Born Standing Up: A Comic's Life
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Born Standing Up: A Comic's Life
+## Goodreads Data
 
-**Author:** Steve Martin
+### Book Id 
 
-**ISBN:** ="0743569725"
+1820790
 
-**ISBN13:** ="9780743569729"
+https://www.goodreads.com/book/show/1820790
 
-**My Rating:** 3
+## library information
 
-**Average Rating:** 3.88
+### ISBN 
+="0743569725"
 
-**Publisher:** Simon  Schuster Audio
+### ISBN13 
+="9780743569729"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 5
+### Title
+Born Standing Up: A Comic's Life
 
-**Year Published:** 2007
+### Author 
+Steve Martin
 
-**Original Publication Year:** 2007
+### Author l-f 
+Martin, Steve
 
-**Date Read:** 2017/06/15
+### Additional Authors
+Empty
 
-**Date Added:** 2017/06/16
+### Publisher 
+Simon  Schuster Audio
 
-**Bookshelves:** biography
+### Binding
+Audio CD
 
-**Bookshelves with positions:** biography (#13)
+### Number of Pages
+5
 
-**Exclusive Shelf:** read
+### Year Published
+2007
 
+### Original Publication Year 
+2007
 
-## My Review
+## user contributed data
 
+### My Rating
+3
+
+### Average Rating
+3.88
+
+### Date Read
+2017/06/15
+
+### Date Added
+2017/06/16
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+biography
+
+### Bookshelves with positions
+biography (#13)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Fun book that covers mainly growing up and a few decades 60-70s. Careful not to get whiplash from the frequent time leaps.<br/><br/>Came away feeling like I learned more about Martin's sexual encounters than his comedy routines. What is the secret to success? Like [a:Malcolm Gladwell|1439|Malcolm Gladwell|https://images.gr-assets.com/authors/1224601838p2/1439.jpg] asserts, practice. Decades and thousands of hours of practice. Martin spent full days for years practicing his work. Constantly refining and adding/removing bits.<br/><br/>I did like how he looked outward to find all those who helped him along the way and thank them.

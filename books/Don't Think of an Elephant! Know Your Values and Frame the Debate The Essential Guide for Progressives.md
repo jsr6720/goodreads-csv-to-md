@@ -1,38 +1,87 @@
-## Don't Think of an Elephant! Know Your Values and Frame the Debate: The Essential Guide for Progressives
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Don't Think of an Elephant! Know Your Values and Frame the Debate: The Essential Guide for Progressives
+## Goodreads Data
 
-**Author:** George Lakoff
+### Book Id 
 
-**ISBN:** ="1931498717"
+13455
 
-**ISBN13:** ="9781931498715"
+https://www.goodreads.com/book/show/13455
 
-**My Rating:** 5
+## library information
 
-**Average Rating:** 3.96
+### ISBN 
+="1931498717"
 
-**Publisher:** Chelsea Green Publishing
+### ISBN13 
+="9781931498715"
 
-**Binding:** Paperback
+## book information
 
-**Number of Pages:** 144
+### Title
+Don't Think of an Elephant! Know Your Values and Frame the Debate: The Essential Guide for Progressives
 
-**Year Published:** 2004
+### Author 
+George Lakoff
 
-**Original Publication Year:** 2004
+### Author l-f 
+Lakoff, George
 
-**Date Read:** 2020/09/09
+### Additional Authors
+Howard Dean, Don Hazen
 
-**Date Added:** 2020/09/09
+### Publisher 
+Chelsea Green Publishing
 
-**Bookshelves:** psychology
+### Binding
+Paperback
 
-**Bookshelves with positions:** psychology (#24)
+### Number of Pages
+144
 
-**Exclusive Shelf:** read
+### Year Published
+2004
 
+### Original Publication Year 
+2004
 
-## My Review
+## user contributed data
 
+### My Rating
+5
+
+### Average Rating
+3.96
+
+### Date Read
+2020/09/09
+
+### Date Added
+2020/09/09
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+psychology
+
+### Bookshelves with positions
+psychology (#24)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Inspects how to have conversations around values and how people vote with their minds not their pocketbooks. How people frame ideas in their mind is how they interpret the world around them. Take a look at [b:The Undoing Project: A Friendship That Changed Our Minds|35631386|The Undoing Project  A Friendship That Changed Our Minds|Michael   Lewis|https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509135882l/35631386._SY75_.jpg|50830817] or [b:Predictably Irrational: The Hidden Forces That Shape Our Decisions|1713426|Predictably Irrational  The Hidden Forces That Shape Our Decisions|Dan Ariely|https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1255573980l/1713426._SY75_.jpg|3074803]

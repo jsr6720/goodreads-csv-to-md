@@ -1,38 +1,87 @@
-## How To Win Friends And Influence People
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** How To Win Friends And Influence People
+## Goodreads Data
 
-**Author:** Dale Carnegie
+### Book Id 
 
-**ISBN:** ="1442344830"
+10863287
 
-**ISBN13:** ="9781442344839"
+https://www.goodreads.com/book/show/10863287
 
-**My Rating:** 5
+## library information
 
-**Average Rating:** 4.22
+### ISBN 
+="1442344830"
 
-**Publisher:** Simon & Schuster Audio
+### ISBN13 
+="9781442344839"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 10
+### Title
+How To Win Friends And Influence People
 
-**Year Published:** 2011
+### Author 
+Dale Carnegie
 
-**Original Publication Year:** 1936
+### Author l-f 
+Carnegie, Dale
 
-**Date Read:** 2015/06/18
+### Additional Authors
+Andrew Macmillan
 
-**Date Added:** 2016/05/31
+### Publisher 
+Simon & Schuster Audio
 
-**Bookshelves:** classics, read-again
+### Binding
+Audio CD
 
-**Bookshelves with positions:** classics (#2), read-again (#7)
+### Number of Pages
+10
 
-**Exclusive Shelf:** read
+### Year Published
+2011
 
+### Original Publication Year 
+1936
 
-## My Review
+## user contributed data
 
+### My Rating
+5
 
+### Average Rating
+4.22
+
+### Date Read
+2015/06/18
+
+### Date Added
+2016/05/31
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+classics, read-again
+
+### Bookshelves with positions
+classics (#2), read-again (#7)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
+Empty

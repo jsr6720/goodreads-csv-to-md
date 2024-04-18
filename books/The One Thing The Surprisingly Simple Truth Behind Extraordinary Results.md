@@ -1,38 +1,87 @@
-## The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results
+## Goodreads Data
 
-**Author:** Gary Keller
+### Book Id 
 
-**ISBN:** ="1885167776"
+16256798
 
-**ISBN13:** ="9781885167774"
+https://www.goodreads.com/book/show/16256798
 
-**My Rating:** 4
+## library information
 
-**Average Rating:** 4.13
+### ISBN 
+="1885167776"
 
-**Publisher:** Bard Press
+### ISBN13 
+="9781885167774"
 
-**Binding:** Hardcover
+## book information
 
-**Number of Pages:** 240
+### Title
+The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results
 
-**Year Published:** 2013
+### Author 
+Gary Keller
 
-**Original Publication Year:** 2012
+### Author l-f 
+Keller, Gary
 
-**Date Read:** 2021/02/05
+### Additional Authors
+Jay Papasan
 
-**Date Added:** 2021/02/06
+### Publisher 
+Bard Press
 
-**Bookshelves:** business, personal-development
+### Binding
+Hardcover
 
-**Bookshelves with positions:** business (#62), personal-development (#28)
+### Number of Pages
+240
 
-**Exclusive Shelf:** read
+### Year Published
+2013
 
+### Original Publication Year 
+2012
 
-## My Review
+## user contributed data
 
+### My Rating
+4
+
+### Average Rating
+4.13
+
+### Date Read
+2021/02/05
+
+### Date Added
+2021/02/06
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+business, personal-development
+
+### Bookshelves with positions
+business (#62), personal-development (#28)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Quick read that covers some of the highlights of personal growth. Summarized in a sentence. Find the one thing you can do today that aligns you to your long term goals. Rinse repeat.<br/><br/>Sounds a lot like the quality improvement by Deming.

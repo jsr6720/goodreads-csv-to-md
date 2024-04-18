@@ -1,38 +1,87 @@
-## Budoshoshinshu: Essential Teachings on the Way of the Warrior
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Budoshoshinshu: Essential Teachings on the Way of the Warrior
+## Goodreads Data
 
-**Author:** Daidōji Yūzan
+### Book Id 
 
-**ISBN:** ="0834841703"
+42739760
 
-**ISBN13:** ="9780834841703"
+https://www.goodreads.com/book/show/42739760
 
-**My Rating:** 5
+## library information
 
-**Average Rating:** 4.03
+### ISBN 
+="0834841703"
 
-**Publisher:** Shambhala
+### ISBN13 
+="9780834841703"
 
-**Binding:** Kindle Edition
+## book information
 
-**Number of Pages:** 209
+### Title
+Budoshoshinshu: Essential Teachings on the Way of the Warrior
 
-**Year Published:** 2018
+### Author 
+Daidōji Yūzan
 
-**Original Publication Year:** 1943
+### Author l-f 
+Yūzan, Daidōji
 
-**Date Read:** 2020/01/01
+### Additional Authors
+Bill Wilson
 
-**Date Added:** 2020/07/03
+### Publisher 
+Shambhala
 
-**Bookshelves:** 
+### Binding
+Kindle Edition
 
-**Bookshelves with positions:** 
+### Number of Pages
+209
 
-**Exclusive Shelf:** read
+### Year Published
+2018
 
+### Original Publication Year 
+1943
 
-## My Review
+## user contributed data
 
+### My Rating
+5
+
+### Average Rating
+4.03
+
+### Date Read
+2020/01/01
+
+### Date Added
+2020/07/03
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+Empty
+
+### Bookshelves with positions
+Empty
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Great collection of “ways of the warrior”. Since the book covers a period of time when much of Japan is peaceful very little is mentioned on strategy and war. <br/><br/>The book reads much like A wise mature self help book full of life lessons. Reading more than once if you too consider the way of the warrior. 

@@ -1,38 +1,87 @@
-## Deep Work: Rules for Focused Success in a Distracted World
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Deep Work: Rules for Focused Success in a Distracted World
+## Goodreads Data
 
-**Author:** Cal Newport
+### Book Id 
 
-**ISBN:** =""
+30649921
 
-**ISBN13:** ="9781478910008"
+https://www.goodreads.com/book/show/30649921
 
-**My Rating:** 3
+## library information
 
-**Average Rating:** 4.18
+### ISBN 
+=""
 
-**Publisher:** Hachette Audio UK
+### ISBN13 
+="9781478910008"
 
-**Binding:** Audiobook
+## book information
 
-**Number of Pages:** 8
+### Title
+Deep Work: Rules for Focused Success in a Distracted World
 
-**Year Published:** 2016
+### Author 
+Cal Newport
 
-**Original Publication Year:** 2016
+### Author l-f 
+Newport, Cal
 
-**Date Read:** 2020/07/03
+### Additional Authors
+Jeff Bottoms
 
-**Date Added:** 2020/03/04
+### Publisher 
+Hachette Audio UK
 
-**Bookshelves:** 
+### Binding
+Audiobook
 
-**Bookshelves with positions:** 
+### Number of Pages
+8
 
-**Exclusive Shelf:** read
+### Year Published
+2016
 
+### Original Publication Year 
+2016
 
-## My Review
+## user contributed data
 
+### My Rating
+3
 
+### Average Rating
+4.18
+
+### Date Read
+2020/07/03
+
+### Date Added
+2020/03/04
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+Empty
+
+### Bookshelves with positions
+Empty
+
+### Read Count
+2
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
+Empty

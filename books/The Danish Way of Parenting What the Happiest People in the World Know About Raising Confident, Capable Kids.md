@@ -1,38 +1,87 @@
-## The Danish Way of Parenting: What the Happiest People in the World Know About Raising Confident, Capable Kids
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** The Danish Way of Parenting: What the Happiest People in the World Know About Raising Confident, Capable Kids
+## Goodreads Data
 
-**Author:** Jessica Joelle Alexander
+### Book Id 
 
-**ISBN:** ="014311171X"
+28815322
 
-**ISBN13:** ="9780143111719"
+https://www.goodreads.com/book/show/28815322
 
-**My Rating:** 4
+## library information
 
-**Average Rating:** 4.07
+### ISBN 
+="014311171X"
 
-**Publisher:** TarcherPerigee
+### ISBN13 
+="9780143111719"
 
-**Binding:** Paperback
+## book information
 
-**Number of Pages:** 208
+### Title
+The Danish Way of Parenting: What the Happiest People in the World Know About Raising Confident, Capable Kids
 
-**Year Published:** 2016
+### Author 
+Jessica Joelle Alexander
 
-**Original Publication Year:** 2014
+### Author l-f 
+Alexander, Jessica Joelle
 
-**Date Read:** 2018/12/14
+### Additional Authors
+Iben Sandahl
 
-**Date Added:** 2018/12/23
+### Publisher 
+TarcherPerigee
 
-**Bookshelves:** parenting
+### Binding
+Paperback
 
-**Bookshelves with positions:** parenting (#9)
+### Number of Pages
+208
 
-**Exclusive Shelf:** read
+### Year Published
+2016
 
+### Original Publication Year 
+2014
 
-## My Review
+## user contributed data
 
+### My Rating
+4
+
+### Average Rating
+4.07
+
+### Date Read
+2018/12/14
+
+### Date Added
+2018/12/23
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+parenting
+
+### Bookshelves with positions
+parenting (#9)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 There are better parenting guides. There are better child development books. But you'd be hard pressed to find a more concise collection of parenting ideas for happiness. <br/><br/>Of course happy families are all alike. And unhappy ones each in their own way. 

@@ -1,38 +1,87 @@
-## The American Revolution
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** The American Revolution
+## Goodreads Data
 
-**Author:** Allen C. Guelzo
+### Book Id 
 
-**ISBN:** ="1598034332"
+7491145
 
-**ISBN13:** ="9781598034332"
+https://www.goodreads.com/book/show/7491145
 
-**My Rating:** 4
+## library information
 
-**Average Rating:** 4.09
+### ISBN 
+="1598034332"
 
-**Publisher:** The Great Courses
+### ISBN13 
+="9781598034332"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 24
+### Title
+The American Revolution
 
-**Year Published:** 
+### Author 
+Allen C. Guelzo
 
-**Original Publication Year:** 2008
+### Author l-f 
+Guelzo, Allen C.
 
-**Date Read:** 2015/08/28
+### Additional Authors
+Empty
 
-**Date Added:** 2016/10/11
+### Publisher 
+The Great Courses
 
-**Bookshelves:** history
+### Binding
+Audio CD
 
-**Bookshelves with positions:** history (#8)
+### Number of Pages
+24
 
-**Exclusive Shelf:** read
+### Year Published
+Empty
 
+### Original Publication Year 
+2008
 
-## My Review
+## user contributed data
 
+### My Rating
+4
+
+### Average Rating
+4.09
+
+### Date Read
+2015/08/28
+
+### Date Added
+2016/10/11
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+history
+
+### Bookshelves with positions
+history (#8)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Good history of the revolutionary war with emphasis on the Britain side of things. How after the French and Indian War Britain was wary of taming Americans who now had battle experience.<br/><br/>Good history of the revolutionary war with emphasis on the Britain side of things. Final summary of how the war ended. Good lecture series.

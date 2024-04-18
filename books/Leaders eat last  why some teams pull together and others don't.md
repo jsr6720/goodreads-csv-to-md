@@ -1,38 +1,87 @@
-## Leaders eat last : why some teams pull together and others don't
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Leaders eat last : why some teams pull together and others don't
+## Goodreads Data
 
-**Author:** Simon Sinek
+### Book Id 
 
-**ISBN:** ="1480542555"
+18184461
 
-**ISBN13:** ="9781480542556"
+https://www.goodreads.com/book/show/18184461
 
-**My Rating:** 4
+## library information
 
-**Average Rating:** 4.10
+### ISBN 
+="1480542555"
 
-**Publisher:** Brilliance Audio
+### ISBN13 
+="9781480542556"
 
-**Binding:** Audiobook
+## book information
 
-**Number of Pages:** 7
+### Title
+Leaders eat last : why some teams pull together and others don't
 
-**Year Published:** 2014
+### Author 
+Simon Sinek
 
-**Original Publication Year:** 2014
+### Author l-f 
+Sinek, Simon
 
-**Date Read:** 2018/03/12
+### Additional Authors
+Empty
 
-**Date Added:** 2018/03/16
+### Publisher 
+Brilliance Audio
 
-**Bookshelves:** business, psychology
+### Binding
+Audiobook
 
-**Bookshelves with positions:** business (#38), psychology (#16)
+### Number of Pages
+7
 
-**Exclusive Shelf:** read
+### Year Published
+2014
 
+### Original Publication Year 
+2014
 
-## My Review
+## user contributed data
 
+### My Rating
+4
+
+### Average Rating
+4.10
+
+### Date Read
+2018/03/12
+
+### Date Added
+2018/03/16
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+business, psychology
+
+### Bookshelves with positions
+business (#38), psychology (#16)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 This book does not focus on strategic initiatives. It is a study of the history of mankind and how it's anthropology can be used with managing people.<br/><br/>Partly [b:A Brief History of Mankind|6567068|A Brief History of Mankind|Cyril Aydon|https://images.gr-assets.com/books/1348472665s/6567068.jpg|6760016] and [b:Thinking, Fast and Slow|11468377|Thinking, Fast and Slow|Daniel Kahneman|https://images.gr-assets.com/books/1317793965s/11468377.jpg|16402639] Sinek makes the case that only by understanding how humans react physiologically to situations can we lead them.<br/><br/>If I had no background in mental models this would've been a 5/5. This book tries a bit hard to be everything to everyone. It has a deep history of how humans behave anthropologically and how to best serve a leadership position to the group. Key take-away. Better to be the servant and perform favors than to be the tyrant and demand action. This was a good book and my summary doesn't do it justice. Also added to my list by the same author [b:Start with Why: How Great Leaders Inspire Everyone to Take Action|7108725|Start with Why  How Great Leaders Inspire Everyone to Take Action|Simon Sinek|https://images.gr-assets.com/books/1360936414s/7108725.jpg|7367737]

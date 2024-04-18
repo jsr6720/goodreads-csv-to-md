@@ -1,38 +1,87 @@
-## Confronting Reality Doing What Matters to Get Things Right
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Confronting Reality Doing What Matters to Get Things Right
+## Goodreads Data
 
-**Author:** Larry Bossidy
+### Book Id 
 
-**ISBN:** ="1415913161"
+16681954
 
-**ISBN13:** ="9781415913161"
+https://www.goodreads.com/book/show/16681954
 
-**My Rating:** 3
+## library information
 
-**Average Rating:** 3.80
+### ISBN 
+="1415913161"
 
-**Publisher:** Books on Tape
+### ISBN13 
+="9781415913161"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 
+### Title
+Confronting Reality Doing What Matters to Get Things Right
 
-**Year Published:** 2004
+### Author 
+Larry Bossidy
 
-**Original Publication Year:** 2004
+### Author l-f 
+Bossidy, Larry
 
-**Date Read:** 2017/12/17
+### Additional Authors
+Ram Charan, Kevin Gray
 
-**Date Added:** 2017/12/11
+### Publisher 
+Books on Tape
 
-**Bookshelves:** business
+### Binding
+Audio CD
 
-**Bookshelves with positions:** business (#34)
+### Number of Pages
+Empty
 
-**Exclusive Shelf:** read
+### Year Published
+2004
 
+### Original Publication Year 
+2004
 
-## My Review
+## user contributed data
 
+### My Rating
+3
+
+### Average Rating
+3.80
+
+### Date Read
+2017/12/17
+
+### Date Added
+2017/12/11
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+business
+
+### Bookshelves with positions
+business (#34)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 A collection of stories that emphasize corporations that got it right vs those that missed the boat. There were lots of references to "The Business Model" that never seemed to get fully articulated throughout the book.<br/><br/>A good series of business stories, but nothing actionable. Would focus on [b:Execution: The Discipline of Getting Things Done|1635|Execution  The Discipline of Getting Things Done|Larry Bossidy|https://images.gr-assets.com/books/1350857284s/1635.jpg|1436710] instead.

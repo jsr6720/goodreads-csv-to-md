@@ -1,38 +1,87 @@
-## Long Way Down
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Long Way Down
+## Goodreads Data
 
-**Author:** Jason Reynolds
+### Book Id 
 
-**ISBN:** ="1481438255"
+22552026
 
-**ISBN13:** ="9781481438254"
+https://www.goodreads.com/book/show/22552026
 
-**My Rating:** 5
+## library information
 
-**Average Rating:** 4.26
+### ISBN 
+="1481438255"
 
-**Publisher:** Atheneum/Caitlyn Dlouhy Books
+### ISBN13 
+="9781481438254"
 
-**Binding:** Hardcover
+## book information
 
-**Number of Pages:** 306
+### Title
+Long Way Down
 
-**Year Published:** 2017
+### Author 
+Jason Reynolds
 
-**Original Publication Year:** 2017
+### Author l-f 
+Reynolds, Jason
 
-**Date Read:** 2021/04/26
+### Additional Authors
+Empty
 
-**Date Added:** 2021/04/27
+### Publisher 
+Atheneum/Caitlyn Dlouhy Books
 
-**Bookshelves:** poetry
+### Binding
+Hardcover
 
-**Bookshelves with positions:** poetry (#1)
+### Number of Pages
+306
 
-**Exclusive Shelf:** read
+### Year Published
+2017
 
+### Original Publication Year 
+2017
 
-## My Review
+## user contributed data
 
+### My Rating
+5
+
+### Average Rating
+4.26
+
+### Date Read
+2021/04/26
+
+### Date Added
+2021/04/27
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+poetry
+
+### Bookshelves with positions
+poetry (#1)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Are you coming? A poets look at violence and the act of revenge.

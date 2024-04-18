@@ -1,38 +1,87 @@
-## The Charisma Myth: How Anyone Can Master the Art and Science of Personal Magnetism
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** The Charisma Myth: How Anyone Can Master the Art and Science of Personal Magnetism
+## Goodreads Data
 
-**Author:** Olivia  Fox Cabane
+### Book Id 
 
-**ISBN:** ="1469085828"
+16160821
 
-**ISBN13:** ="9781469085821"
+https://www.goodreads.com/book/show/16160821
 
-**My Rating:** 2
+## library information
 
-**Average Rating:** 3.92
+### ISBN 
+="1469085828"
 
-**Publisher:** Your Coach In A Box
+### ISBN13 
+="9781469085821"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 
+### Title
+The Charisma Myth: How Anyone Can Master the Art and Science of Personal Magnetism
 
-**Year Published:** 2013
+### Author 
+Olivia  Fox Cabane
 
-**Original Publication Year:** 2012
+### Author l-f 
+Cabane, Olivia Fox
 
-**Date Read:** 2018/09/06
+### Additional Authors
+Lisa Cordileone
 
-**Date Added:** 2018/09/06
+### Publisher 
+Your Coach In A Box
 
-**Bookshelves:** did-not-finish
+### Binding
+Audio CD
 
-**Bookshelves with positions:** did-not-finish (#14)
+### Number of Pages
+Empty
 
-**Exclusive Shelf:** did-not-finish
+### Year Published
+2013
 
+### Original Publication Year 
+2012
 
-## My Review
+## user contributed data
 
+### My Rating
+2
+
+### Average Rating
+3.92
+
+### Date Read
+2018/09/06
+
+### Date Added
+2018/09/06
+
+### Exclusive Shelf
+did-not-finish
+
+### Bookshelves
+did-not-finish
+
+### Bookshelves with positions
+did-not-finish (#14)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Book in one sentence: Confidence, attention and warmth will help your interactions.<br/><br/>Be ready to hear 'my client' over and over again as [a:Olivia Fox Cabane|1124434|Olivia Fox Cabane|https://images.gr-assets.com/authors/1320613995p2/1124434.jpg] re-hashes her main point from different leadership books.<br/><br/>If this is your first foray into charisma see [b:How to Win Friends and Influence People|4865|How to Win Friends and Influence People|Dale Carnegie|https://images.gr-assets.com/books/1442726934s/4865.jpg|2370171] or [b:Influence: The Psychology of Persuasion|28815|Influence  The Psychology of Persuasion|Robert B. Cialdini|https://images.gr-assets.com/books/1391026083s/28815.jpg|29303]

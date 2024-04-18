@@ -1,38 +1,87 @@
-## The Long-Distance Leader: Rules for Remarkable Remote Leadership
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** The Long-Distance Leader: Rules for Remarkable Remote Leadership
+## Goodreads Data
 
-**Author:** Kevin Eikenberry
+### Book Id 
 
-**ISBN:** ="1523094613"
+36162566
 
-**ISBN13:** ="9781523094615"
+https://www.goodreads.com/book/show/36162566
 
-**My Rating:** 4
+## library information
 
-**Average Rating:** 3.60
+### ISBN 
+="1523094613"
 
-**Publisher:** Berrett-Koehler Publishers
+### ISBN13 
+="9781523094615"
 
-**Binding:** Paperback
+## book information
 
-**Number of Pages:** 192
+### Title
+The Long-Distance Leader: Rules for Remarkable Remote Leadership
 
-**Year Published:** 2018
+### Author 
+Kevin Eikenberry
 
-**Original Publication Year:** 
+### Author l-f 
+Eikenberry, Kevin
 
-**Date Read:** 2021/01/09
+### Additional Authors
+Wayne Turmel
 
-**Date Added:** 2021/01/09
+### Publisher 
+Berrett-Koehler Publishers
 
-**Bookshelves:** 
+### Binding
+Paperback
 
-**Bookshelves with positions:** 
+### Number of Pages
+192
 
-**Exclusive Shelf:** read
+### Year Published
+2018
 
+### Original Publication Year 
+Empty
 
-## My Review
+## user contributed data
 
+### My Rating
+4
+
+### Average Rating
+3.60
+
+### Date Read
+2021/01/09
+
+### Date Added
+2021/01/09
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+Empty
+
+### Bookshelves with positions
+Empty
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Quick read with lots of actions to take at the end of each chapter. Nice collection of key manager concepts and their online implications. <br/><br/>If you read nothing else. Buy a high quality web cam. 

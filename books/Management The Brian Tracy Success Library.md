@@ -1,38 +1,87 @@
-## Management: The Brian Tracy Success Library
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Management: The Brian Tracy Success Library
+## Goodreads Data
 
-**Author:** Brian Tracy
+### Book Id 
 
-**ISBN:** ="1469060876"
+25319236
 
-**ISBN13:** ="9781469060873"
+https://www.goodreads.com/book/show/25319236
 
-**My Rating:** 4
+## library information
 
-**Average Rating:** 4.23
+### ISBN 
+="1469060876"
 
-**Publisher:** Gildan Media
+### ISBN13 
+="9781469060873"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 
+### Title
+Management: The Brian Tracy Success Library
 
-**Year Published:** 2015
+### Author 
+Brian Tracy
 
-**Original Publication Year:** 2014
+### Author l-f 
+Tracy, Brian
 
-**Date Read:** 2019/06/07
+### Additional Authors
+Empty
 
-**Date Added:** 2019/06/07
+### Publisher 
+Gildan Media
 
-**Bookshelves:** 
+### Binding
+Audio CD
 
-**Bookshelves with positions:** 
+### Number of Pages
+Empty
 
-**Exclusive Shelf:** read
+### Year Published
+2015
 
+### Original Publication Year 
+2014
 
-## My Review
+## user contributed data
 
+### My Rating
+4
+
+### Average Rating
+4.23
+
+### Date Read
+2019/06/07
+
+### Date Added
+2019/06/07
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+Empty
+
+### Bookshelves with positions
+Empty
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Great quick advice about the habits of successful management. <br/><br/>Worth a pickup over year to check up on your goals setting. Time resourcefulness and effectiveness. 

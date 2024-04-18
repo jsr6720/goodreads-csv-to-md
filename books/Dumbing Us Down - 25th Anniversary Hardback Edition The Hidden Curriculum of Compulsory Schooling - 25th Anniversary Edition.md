@@ -1,38 +1,87 @@
-## Dumbing Us Down - 25th Anniversary Hardback Edition: The Hidden Curriculum of Compulsory Schooling - 25th Anniversary Edition
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Dumbing Us Down - 25th Anniversary Hardback Edition: The Hidden Curriculum of Compulsory Schooling - 25th Anniversary Edition
+## Goodreads Data
 
-**Author:** John Taylor Gatto
+### Book Id 
 
-**ISBN:** ="0865718563"
+31945094
 
-**ISBN13:** ="9780865718562"
+https://www.goodreads.com/book/show/31945094
 
-**My Rating:** 2
+## library information
 
-**Average Rating:** 4.15
+### ISBN 
+="0865718563"
 
-**Publisher:** New Society Publishers
+### ISBN13 
+="9780865718562"
 
-**Binding:** Hardcover
+## book information
 
-**Number of Pages:** 144
+### Title
+Dumbing Us Down - 25th Anniversary Hardback Edition: The Hidden Curriculum of Compulsory Schooling - 25th Anniversary Edition
 
-**Year Published:** 2017
+### Author 
+John Taylor Gatto
 
-**Original Publication Year:** 2002
+### Author l-f 
+Gatto, John Taylor
 
-**Date Read:** 2018/08/22
+### Additional Authors
+Empty
 
-**Date Added:** 2018/08/22
+### Publisher 
+New Society Publishers
 
-**Bookshelves:** parenting
+### Binding
+Hardcover
 
-**Bookshelves with positions:** parenting (#7)
+### Number of Pages
+144
 
-**Exclusive Shelf:** read
+### Year Published
+2017
 
+### Original Publication Year 
+2002
 
-## My Review
+## user contributed data
 
+### My Rating
+2
+
+### Average Rating
+4.15
+
+### Date Read
+2018/08/22
+
+### Date Added
+2018/08/22
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+parenting
+
+### Bookshelves with positions
+parenting (#7)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 I agree that the systematic application of universal standards regresses everyone to a lower common denominator. But what I disagree with is the application of free market to solve the problem.<br/><br/>Free Market assumes no friction to changing schools and that everyone can migrate to the 'top' performing schools. How could this bear out? Private schools and boarding schools are the epitome of free market schooling and yet they are out of reach of all but the richest Americans.<br/><br/>I also think that this 'community' driven model is dangerous as it could result in cultures like North Korea and other isolated groups where free access to information is not permitted.<br/><br/>The lectures within raise valid points, but there lacks a solution.

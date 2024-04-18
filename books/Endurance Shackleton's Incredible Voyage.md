@@ -1,38 +1,87 @@
-## Endurance: Shackleton's Incredible Voyage
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Endurance: Shackleton's Incredible Voyage
+## Goodreads Data
 
-**Author:** Alfred Lansing
+### Book Id 
 
-**ISBN:** ="1433208180"
+2185083
 
-**ISBN13:** ="9781433208188"
+https://www.goodreads.com/book/show/2185083
 
-**My Rating:** 5
+## library information
 
-**Average Rating:** 4.44
+### ISBN 
+="1433208180"
 
-**Publisher:** Blackstone Audio Inc.
+### ISBN13 
+="9781433208188"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 9
+### Title
+Endurance: Shackleton's Incredible Voyage
 
-**Year Published:** 2008
+### Author 
+Alfred Lansing
 
-**Original Publication Year:** 1959
+### Author l-f 
+Lansing, Alfred
 
-**Date Read:** 2018/01/25
+### Additional Authors
+Simon Prebble
 
-**Date Added:** 2018/01/26
+### Publisher 
+Blackstone Audio Inc.
 
-**Bookshelves:** history
+### Binding
+Audio CD
 
-**Bookshelves with positions:** history (#18)
+### Number of Pages
+9
 
-**Exclusive Shelf:** read
+### Year Published
+2008
 
+### Original Publication Year 
+1959
 
-## My Review
+## user contributed data
 
+### My Rating
+5
+
+### Average Rating
+4.44
+
+### Date Read
+2018/01/25
+
+### Date Added
+2018/01/26
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+history
+
+### Bookshelves with positions
+history (#18)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 A great reading of Shackleton's voyage through the antarctic. This accounting is so riveting it rivals any fictional hero book. Pairs well with  "River of Doubt" by Candice Millard

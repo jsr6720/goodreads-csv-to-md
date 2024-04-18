@@ -1,38 +1,87 @@
-## The Five Most Important Questions You Will Ever Ask About Your Organization
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** The Five Most Important Questions You Will Ever Ask About Your Organization
+## Goodreads Data
 
-**Author:** Peter F. Drucker
+### Book Id 
 
-**ISBN:** ="0470227567"
+2988554
 
-**ISBN13:** ="9780470227565"
+https://www.goodreads.com/book/show/2988554
 
-**My Rating:** 4
+## library information
 
-**Average Rating:** 3.96
+### ISBN 
+="0470227567"
 
-**Publisher:** Jossey-Bass
+### ISBN13 
+="9780470227565"
 
-**Binding:** Paperback
+## book information
 
-**Number of Pages:** 144
+### Title
+The Five Most Important Questions You Will Ever Ask About Your Organization
 
-**Year Published:** 2008
+### Author 
+Peter F. Drucker
 
-**Original Publication Year:** 1993
+### Author l-f 
+Drucker, Peter F.
 
-**Date Read:** 2020/12/25
+### Additional Authors
+Frances Hesselbein Leadership Institute
 
-**Date Added:** 2020/12/25
+### Publisher 
+Jossey-Bass
 
-**Bookshelves:** 
+### Binding
+Paperback
 
-**Bookshelves with positions:** 
+### Number of Pages
+144
 
-**Exclusive Shelf:** read
+### Year Published
+2008
 
+### Original Publication Year 
+1993
 
-## My Review
+## user contributed data
 
+### My Rating
+4
+
+### Average Rating
+3.96
+
+### Date Read
+2020/12/25
+
+### Date Added
+2020/12/25
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+Empty
+
+### Bookshelves with positions
+Empty
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Quick read and lots of examples from the social sector. <br/><br/>Bring your pen and paper. This is a workbook which requires brainstorming and exercise to get the best value from. 

@@ -1,38 +1,87 @@
-## The Ideal Team Player: How to Recognize and Cultivate The Three Essential Virtues (J-B Lencioni Series)
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** The Ideal Team Player: How to Recognize and Cultivate The Three Essential Virtues (J-B Lencioni Series)
+## Goodreads Data
 
-**Author:** Patrick Lencioni
+### Book Id 
 
-**ISBN:** =""
+28930640
 
-**ISBN13:** =""
+https://www.goodreads.com/book/show/28930640
 
-**My Rating:** 3
+## library information
 
-**Average Rating:** 4.08
+### ISBN 
+=""
 
-**Publisher:** Jossey-Bass
+### ISBN13 
+=""
 
-**Binding:** Kindle Edition
+## book information
 
-**Number of Pages:** 226
+### Title
+The Ideal Team Player: How to Recognize and Cultivate The Three Essential Virtues (J-B Lencioni Series)
 
-**Year Published:** 2016
+### Author 
+Patrick Lencioni
 
-**Original Publication Year:** 2016
+### Author l-f 
+Lencioni, Patrick
 
-**Date Read:** 2018/04/30
+### Additional Authors
+Empty
 
-**Date Added:** 2018/05/06
+### Publisher 
+Jossey-Bass
 
-**Bookshelves:** management, business
+### Binding
+Kindle Edition
 
-**Bookshelves with positions:** management (#4), business (#41)
+### Number of Pages
+226
 
-**Exclusive Shelf:** read
+### Year Published
+2016
 
+### Original Publication Year 
+2016
 
-## My Review
+## user contributed data
 
+### My Rating
+3
+
+### Average Rating
+4.08
+
+### Date Read
+2018/04/30
+
+### Date Added
+2018/05/06
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+management, business
+
+### Bookshelves with positions
+management (#4), business (#41)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Evaluate team members on their core qualities: Hungry, Humble and People-Smarts.<br/>Like most of Lencioni's book stick to the model not the fabel. THe meat is in the summary

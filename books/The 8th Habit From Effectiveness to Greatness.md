@@ -1,38 +1,87 @@
-## The 8th Habit: From Effectiveness to Greatness
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** The 8th Habit: From Effectiveness to Greatness
+## Goodreads Data
 
-**Author:** Stephen R. Covey
+### Book Id 
 
-**ISBN:** ="1929494785"
+1678669
 
-**ISBN13:** ="9781929494781"
+https://www.goodreads.com/book/show/1678669
 
-**My Rating:** 3
+## library information
 
-**Average Rating:** 4.02
+### ISBN 
+="1929494785"
 
-**Publisher:** Franklin Covey
+### ISBN13 
+="9781929494781"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 13
+### Title
+The 8th Habit: From Effectiveness to Greatness
 
-**Year Published:** 2011
+### Author 
+Stephen R. Covey
 
-**Original Publication Year:** 
+### Author l-f 
+Covey, Stephen R.
 
-**Date Read:** 2015/01/01
+### Additional Authors
+Empty
 
-**Date Added:** 2016/10/11
+### Publisher 
+Franklin Covey
 
-**Bookshelves:** 
+### Binding
+Audio CD
 
-**Bookshelves with positions:** 
+### Number of Pages
+13
 
-**Exclusive Shelf:** read
+### Year Published
+2011
 
+### Original Publication Year 
+Empty
 
-## My Review
+## user contributed data
 
+### My Rating
+3
+
+### Average Rating
+4.02
+
+### Date Read
+2015/01/01
+
+### Date Added
+2016/10/11
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+Empty
+
+### Bookshelves with positions
+Empty
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Interwoven into all the other 7 habits is passion. Not as good as the first 7 habits, but still a good book

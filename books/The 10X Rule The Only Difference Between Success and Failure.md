@@ -1,38 +1,87 @@
-## The 10X Rule: The Only Difference Between Success and Failure
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** The 10X Rule: The Only Difference Between Success and Failure
+## Goodreads Data
 
-**Author:** Grant Cardone
+### Book Id 
 
-**ISBN:** ="1596599200"
+12345998
 
-**ISBN13:** ="9781596599208"
+https://www.goodreads.com/book/show/12345998
 
-**My Rating:** 2
+## library information
 
-**Average Rating:** 3.94
+### ISBN 
+="1596599200"
 
-**Publisher:** Your Coach In A Box
+### ISBN13 
+="9781596599208"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 7
+### Title
+The 10X Rule: The Only Difference Between Success and Failure
 
-**Year Published:** 2011
+### Author 
+Grant Cardone
 
-**Original Publication Year:** 2011
+### Author l-f 
+Cardone, Grant
 
-**Date Read:** 2017/02/08
+### Additional Authors
+Empty
 
-**Date Added:** 2017/02/01
+### Publisher 
+Your Coach In A Box
 
-**Bookshelves:** did-not-finish
+### Binding
+Audio CD
 
-**Bookshelves with positions:** did-not-finish (#3)
+### Number of Pages
+7
 
-**Exclusive Shelf:** did-not-finish
+### Year Published
+2011
 
+### Original Publication Year 
+2011
 
-## My Review
+## user contributed data
 
+### My Rating
+2
+
+### Average Rating
+3.94
+
+### Date Read
+2017/02/08
+
+### Date Added
+2017/02/01
+
+### Exclusive Shelf
+did-not-finish
+
+### Bookshelves
+did-not-finish
+
+### Bookshelves with positions
+did-not-finish (#3)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 This book is a lot of yelling and not much substance.<br/><br/>See things like [book:Blue Ocean Strategy|4898] for a discussion on how dominating a sector is important.<br/><br/>See [book:The 7 Habits of Highly Effective People|36072] for how to be a better person.<br/><br/>See [author:James C. Collins|2826] for the flywheel concept.<br/><br/>It's hard to listen to a guy tell you that he would be more successful if he didn't' violate his own 10x rule. This author is not for me.

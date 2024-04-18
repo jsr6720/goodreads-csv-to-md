@@ -1,38 +1,87 @@
-## The Body Fat Solution: 5 Principles for Burning Fat, Building Lean Muscle, Ending Emotional Eating, and Maintaining Your Perfect Weight
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** The Body Fat Solution: 5 Principles for Burning Fat, Building Lean Muscle, Ending Emotional Eating, and Maintaining Your Perfect Weight
+## Goodreads Data
 
-**Author:** Tom Venuto
+### Book Id 
 
-**ISBN:** ="1602836248"
+6153032
 
-**ISBN13:** ="9781602836242"
+https://www.goodreads.com/book/show/6153032
 
-**My Rating:** 5
+## library information
 
-**Average Rating:** 4.09
+### ISBN 
+="1602836248"
 
-**Publisher:** BBC Audiobooks America
+### ISBN13 
+="9781602836242"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 1
+### Title
+The Body Fat Solution: 5 Principles for Burning Fat, Building Lean Muscle, Ending Emotional Eating, and Maintaining Your Perfect Weight
 
-**Year Published:** 2009
+### Author 
+Tom Venuto
 
-**Original Publication Year:** 2009
+### Author l-f 
+Venuto, Tom
 
-**Date Read:** 2016/07/13
+### Additional Authors
+L.J. Ganser
 
-**Date Added:** 2016/10/11
+### Publisher 
+BBC Audiobooks America
 
-**Bookshelves:** personal-development, read-again
+### Binding
+Audio CD
 
-**Bookshelves with positions:** personal-development (#12), read-again (#16)
+### Number of Pages
+1
 
-**Exclusive Shelf:** read
+### Year Published
+2009
 
+### Original Publication Year 
+2009
 
-## My Review
+## user contributed data
 
+### My Rating
+5
+
+### Average Rating
+4.09
+
+### Date Read
+2016/07/13
+
+### Date Added
+2016/10/11
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+personal-development, read-again
+
+### Bookshelves with positions
+personal-development (#12), read-again (#16)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 This is a great a book that blends the life approach of "Think and Grow Rich" with the way the mind works with eating. Lots of good advice.<br/><br/>To say it only focuses on food, diet and exercise is selling the book short. Really dives deep on mindset needed for long term healthy living.

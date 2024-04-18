@@ -1,38 +1,87 @@
-## Toxic In-Laws: Loving Strategies for Protecting Your Marriage
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Toxic In-Laws: Loving Strategies for Protecting Your Marriage
+## Goodreads Data
 
-**Author:** Susan Forward
+### Book Id 
 
-**ISBN:** =""
+534108
 
-**ISBN13:** =""
+https://www.goodreads.com/book/show/534108
 
-**My Rating:** 4
+## library information
 
-**Average Rating:** 4.18
+### ISBN 
+=""
 
-**Publisher:** HarperCollins Publishers Inc.
+### ISBN13 
+=""
 
-**Binding:** Paperback
+## book information
 
-**Number of Pages:** 304
+### Title
+Toxic In-Laws: Loving Strategies for Protecting Your Marriage
 
-**Year Published:** 2002
+### Author 
+Susan Forward
 
-**Original Publication Year:** 2001
+### Author l-f 
+Forward, Susan
 
-**Date Read:** 2016/08/01
+### Additional Authors
+Donna Frazier
 
-**Date Added:** 2016/10/11
+### Publisher 
+HarperCollins Publishers Inc.
 
-**Bookshelves:** 
+### Binding
+Paperback
 
-**Bookshelves with positions:** 
+### Number of Pages
+304
 
-**Exclusive Shelf:** read
+### Year Published
+2002
 
+### Original Publication Year 
+2001
 
-## My Review
+## user contributed data
 
+### My Rating
+4
 
+### Average Rating
+4.18
+
+### Date Read
+2016/08/01
+
+### Date Added
+2016/10/11
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+Empty
+
+### Bookshelves with positions
+Empty
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
+Empty

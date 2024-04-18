@@ -1,38 +1,87 @@
-## Isaac's Storm: A Man, a Time, and the Deadliest Hurricane in History
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Isaac's Storm: A Man, a Time, and the Deadliest Hurricane in History
+## Goodreads Data
 
-**Author:** Erik Larson
+### Book Id 
 
-**ISBN:** ="0739340360"
+2169230
 
-**ISBN13:** ="9780739340363"
+https://www.goodreads.com/book/show/2169230
 
-**My Rating:** 3
+## library information
 
-**Average Rating:** 4.04
+### ISBN 
+="0739340360"
 
-**Publisher:** Random House Audio
+### ISBN13 
+="9780739340363"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 9
+### Title
+Isaac's Storm: A Man, a Time, and the Deadliest Hurricane in History
 
-**Year Published:** 2006
+### Author 
+Erik Larson
 
-**Original Publication Year:** 1999
+### Author l-f 
+Larson, Erik
 
-**Date Read:** 2015/07/22
+### Additional Authors
+Edward Herrmann
 
-**Date Added:** 2016/09/30
+### Publisher 
+Random House Audio
 
-**Bookshelves:** history
+### Binding
+Audio CD
 
-**Bookshelves with positions:** history (#6)
+### Number of Pages
+9
 
-**Exclusive Shelf:** read
+### Year Published
+2006
 
+### Original Publication Year 
+1999
 
-## My Review
+## user contributed data
 
+### My Rating
+3
+
+### Average Rating
+4.04
+
+### Date Read
+2015/07/22
+
+### Date Added
+2016/09/30
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+history
+
+### Bookshelves with positions
+history (#6)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Good. Actually quite sad towards the end on account of detail description of death and loss of life.<br/>The twin story telling of Isaac's life and the storm build up was confusing.<br/><br/>Should review basic Texas geography before listening.<br/>Sparked an interest in the weather bureau though...

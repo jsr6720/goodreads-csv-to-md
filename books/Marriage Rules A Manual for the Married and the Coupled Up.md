@@ -1,38 +1,87 @@
-## Marriage Rules: A Manual for the Married and the Coupled Up
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Marriage Rules: A Manual for the Married and the Coupled Up
+## Goodreads Data
 
-**Author:** Harriet Lerner
+### Book Id 
 
-**ISBN:** ="1592406912"
+12144326
 
-**ISBN13:** ="9781592406913"
+https://www.goodreads.com/book/show/12144326
 
-**My Rating:** 5
+## library information
 
-**Average Rating:** 3.88
+### ISBN 
+="1592406912"
 
-**Publisher:** Gotham
+### ISBN13 
+="9781592406913"
 
-**Binding:** Hardcover
+## book information
 
-**Number of Pages:** 288
+### Title
+Marriage Rules: A Manual for the Married and the Coupled Up
 
-**Year Published:** 2012
+### Author 
+Harriet Lerner
 
-**Original Publication Year:** 2012
+### Author l-f 
+Lerner, Harriet
 
-**Date Read:** 2016/11/09
+### Additional Authors
+Empty
 
-**Date Added:** 2016/10/11
+### Publisher 
+Gotham
 
-**Bookshelves:** personal-development, read-again
+### Binding
+Hardcover
 
-**Bookshelves with positions:** personal-development (#16), read-again (#17)
+### Number of Pages
+288
 
-**Exclusive Shelf:** read
+### Year Published
+2012
 
+### Original Publication Year 
+2012
 
-## My Review
+## user contributed data
 
+### My Rating
+5
+
+### Average Rating
+3.88
+
+### Date Read
+2016/11/09
+
+### Date Added
+2016/10/11
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+personal-development, read-again
+
+### Bookshelves with positions
+personal-development (#16), read-again (#17)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 I really enjoyed this books content and format. More so than any other book you can find 5 or 10 rules that really speak to you and work them with your partner. <br/><br/>This book ha a heavy emphasis on family of origin relationships and many other common pirfalls. <br/><br/>

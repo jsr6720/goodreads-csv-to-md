@@ -1,38 +1,87 @@
-## The 80/20 Principle: The Secret of Achieving More with Less
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** The 80/20 Principle: The Secret of Achieving More with Less
+## Goodreads Data
 
-**Author:** Richard Koch
+### Book Id 
 
-**ISBN:** ="1486213421"
+20918035
 
-**ISBN13:** ="9781486213429"
+https://www.goodreads.com/book/show/20918035
 
-**My Rating:** 5
+## library information
 
-**Average Rating:** 3.99
+### ISBN 
+="1486213421"
 
-**Publisher:** Bolinda Audio
+### ISBN13 
+="9781486213429"
 
-**Binding:** MP3 CD
+## book information
 
-**Number of Pages:** 0
+### Title
+The 80/20 Principle: The Secret of Achieving More with Less
 
-**Year Published:** 2014
+### Author 
+Richard Koch
 
-**Original Publication Year:** 1997
+### Author l-f 
+Koch, Richard
 
-**Date Read:** 2016/04/28
+### Additional Authors
+Richard Aspel
 
-**Date Added:** 2016/05/31
+### Publisher 
+Bolinda Audio
 
-**Bookshelves:** business, personal-development, read-again
+### Binding
+MP3 CD
 
-**Bookshelves with positions:** business (#18), personal-development (#11), read-again (#14)
+### Number of Pages
+0
 
-**Exclusive Shelf:** read
+### Year Published
+2014
 
+### Original Publication Year 
+1997
 
-## My Review
+## user contributed data
 
+### My Rating
+5
+
+### Average Rating
+3.99
+
+### Date Read
+2016/04/28
+
+### Date Added
+2016/05/31
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+business, personal-development, read-again
+
+### Bookshelves with positions
+business (#18), personal-development (#11), read-again (#14)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 This is a great book. On par with Napoleon Hill's [b:Think and Grow Rich|30186948|Think and Grow Rich|Napoleon Hill|https://d.gr-assets.com/books/1463241782s/30186948.jpg|1199320]. There are so many concepts and I started my notes a bit late. Will have to listen to this one again.<br/><br/>The greatest lie in life is that it's fair. This book is the study of how identifying the 20% or minority of causes that generate the majority of results. Italian economist Pareto discovered this principle in looking at large populations and discovered that wealth is not progressive. 20% of the population tends to hold 80% of the wealth.<br/><br/>Understanding this can lead us to focus on what is our 20% contribution of wealth and how best to leverage that in our lives. Most importantly is building a partnership of other like-minded individuals who contribute their 20% and covers your 80%. These groups of individuals can generate much wealth with any idea.<br/><br/>The best ideas create a new market with an old concept. Think ebay or amazon which created a new online market on top of an old idea (bidding, books respectively). Young talent is the most cost effective way to attain wealth building. Make sure you pay top talent or it will leave.<br/><br/>Sure sign of stagnation is best employees leaving in a block. 1 or 2 is understandable, but more than that and there are forces at work that are stifling your best. Equity investments are the most important form of wealth building. 

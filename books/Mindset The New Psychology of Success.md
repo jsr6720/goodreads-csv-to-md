@@ -1,38 +1,87 @@
-## Mindset: The New Psychology of Success
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Mindset: The New Psychology of Success
+## Goodreads Data
 
-**Author:** Carol S. Dweck
+### Book Id 
 
-**ISBN:** ="1596597682"
+11233933
 
-**ISBN13:** ="9781596597686"
+https://www.goodreads.com/book/show/11233933
 
-**My Rating:** 1
+## library information
 
-**Average Rating:** 4.10
+### ISBN 
+="1596597682"
 
-**Publisher:** Your Coach In A Box
+### ISBN13 
+="9781596597686"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 0
+### Title
+Mindset: The New Psychology of Success
 
-**Year Published:** 2011
+### Author 
+Carol S. Dweck
 
-**Original Publication Year:** 2006
+### Author l-f 
+Dweck, Carol S.
 
-**Date Read:** 2016/05/05
+### Additional Authors
+Marguerite Gavin
 
-**Date Added:** 2016/08/25
+### Publisher 
+Your Coach In A Box
 
-**Bookshelves:** psychology, did-not-finish
+### Binding
+Audio CD
 
-**Bookshelves with positions:** psychology (#3), did-not-finish (#4)
+### Number of Pages
+0
 
-**Exclusive Shelf:** did-not-finish
+### Year Published
+2011
 
+### Original Publication Year 
+2006
 
-## My Review
+## user contributed data
 
+### My Rating
+1
+
+### Average Rating
+4.10
+
+### Date Read
+2016/05/05
+
+### Date Added
+2016/08/25
+
+### Exclusive Shelf
+did-not-finish
+
+### Bookshelves
+psychology, did-not-finish
+
+### Bookshelves with positions
+psychology (#3), did-not-finish (#4)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 This book is a collection of studies around two types of mindsets. "Growth" mindset and "Fixed" mindset. <br/><br/>Abandoned this book after the first few chapters (cds). It is literally the same topic over and over. "growth" is good, "fixed" is bad. Followed by a different example cited in literature.<br/><br/>Fixed mindsets believe that their worth is a measure of any one moment in time. Whereas growth mindset believe that anything can be improved with practice and effort. Growth is not mislead into thinking everyone can achieve the pinnacle of success in a chosen field, only that one failure does not define them.

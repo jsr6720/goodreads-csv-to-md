@@ -1,38 +1,87 @@
-## The Universe in a Nutshell
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** The Universe in a Nutshell
+## Goodreads Data
 
-**Author:** Stephen Hawking
+### Book Id 
 
-**ISBN:** ="055371449X"
+32608
 
-**ISBN13:** ="9780553714494"
+https://www.goodreads.com/book/show/32608
 
-**My Rating:** 4
+## library information
 
-**Average Rating:** 4.18
+### ISBN 
+="055371449X"
 
-**Publisher:** Random House Audio
+### ISBN13 
+="9780553714494"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 0
+### Title
+The Universe in a Nutshell
 
-**Year Published:** 2001
+### Author 
+Stephen Hawking
 
-**Original Publication Year:** 2001
+### Author l-f 
+Hawking, Stephen
 
-**Date Read:** 2019/03/19
+### Additional Authors
+Simon Prebble
 
-**Date Added:** 2019/03/19
+### Publisher 
+Random House Audio
 
-**Bookshelves:** 
+### Binding
+Audio CD
 
-**Bookshelves with positions:** 
+### Number of Pages
+0
 
-**Exclusive Shelf:** read
+### Year Published
+2001
 
+### Original Publication Year 
+2001
 
-## My Review
+## user contributed data
 
+### My Rating
+4
+
+### Average Rating
+4.18
+
+### Date Read
+2019/03/19
+
+### Date Added
+2019/03/19
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+Empty
+
+### Bookshelves with positions
+Empty
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 If this is a book for the masses. Then I still feel dumb. Hold on tight until the end and all the concepts are put to work to describe what humans are likely experiencing.<br/><br/>Favorite concept in the book is that 'intelligence is not really a great survival trait, bacteria will continue to thrive with no intelligence'.<br/><br/>Certainly can't fault a person for trying to build their mental model understanding of the universe. I've decided that my passion for "Space" now includes pretty pictures, big rockets and the excitement of exploration. To go boldly where no-one has gone before...

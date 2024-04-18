@@ -1,38 +1,87 @@
-## Washington's Farewell: The Founding Father's Warning to Future Generations
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Washington's Farewell: The Founding Father's Warning to Future Generations
+## Goodreads Data
 
-**Author:** John P. Avlon
+### Book Id 
 
-**ISBN:** ="1508234442"
+32505860
 
-**ISBN13:** ="9781508234449"
+https://www.goodreads.com/book/show/32505860
 
-**My Rating:** 4
+## library information
 
-**Average Rating:** 4.19
+### ISBN 
+="1508234442"
 
-**Publisher:** Simon  Schuster Audio
+### ISBN13 
+="9781508234449"
 
-**Binding:** Audiobook
+## book information
 
-**Number of Pages:** 
+### Title
+Washington's Farewell: The Founding Father's Warning to Future Generations
 
-**Year Published:** 2017
+### Author 
+John P. Avlon
 
-**Original Publication Year:** 2017
+### Author l-f 
+Avlon, John P.
 
-**Date Read:** 2020/01/21
+### Additional Authors
+Empty
 
-**Date Added:** 2020/01/16
+### Publisher 
+Simon  Schuster Audio
 
-**Bookshelves:** leadership, history
+### Binding
+Audiobook
 
-**Bookshelves with positions:** leadership (#5), history (#28)
+### Number of Pages
+Empty
 
-**Exclusive Shelf:** read
+### Year Published
+2017
 
+### Original Publication Year 
+2017
 
-## My Review
+## user contributed data
 
+### My Rating
+4
+
+### Average Rating
+4.19
+
+### Date Read
+2020/01/21
+
+### Date Added
+2020/01/16
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+leadership, history
+
+### Bookshelves with positions
+leadership (#5), history (#28)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 This book traces one printed 'speech' and its impact over the decades/centuries.<br/>For one man to attain the height of power and willingly part with it was unprecedented.<br/><br/>Warning, there is Lots of repetition of history as it traces the document and impact through founding and modern times.<br/><br/>My only caveat is the full text of the farewell is read as an appendix. Wish it was first.

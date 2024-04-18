@@ -1,38 +1,87 @@
-## High Output Management
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** High Output Management
+## Goodreads Data
 
-**Author:** Andrew S. Grove
+### Book Id 
 
-**ISBN:** ="0679762884"
+324750
 
-**ISBN13:** ="9780679762881"
+https://www.goodreads.com/book/show/324750
 
-**My Rating:** 5
+## library information
 
-**Average Rating:** 4.31
+### ISBN 
+="0679762884"
 
-**Publisher:** Vintage
+### ISBN13 
+="9780679762881"
 
-**Binding:** Paperback
+## book information
 
-**Number of Pages:** 272
+### Title
+High Output Management
 
-**Year Published:** 1995
+### Author 
+Andrew S. Grove
 
-**Original Publication Year:** 1983
+### Author l-f 
+Grove, Andrew S.
 
-**Date Read:** 2020/12/31
+### Additional Authors
+Empty
 
-**Date Added:** 2021/01/01
+### Publisher 
+Vintage
 
-**Bookshelves:** 
+### Binding
+Paperback
 
-**Bookshelves with positions:** 
+### Number of Pages
+272
 
-**Exclusive Shelf:** read
+### Year Published
+1995
 
+### Original Publication Year 
+1983
 
-## My Review
+## user contributed data
 
+### My Rating
+5
+
+### Average Rating
+4.31
+
+### Date Read
+2020/12/31
+
+### Date Added
+2021/01/01
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+Empty
+
+### Bookshelves with positions
+Empty
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Hard to believe this book was written in 1983! Everything is in here. Leading knowledge workers. Managing outside your domain of expertise. <br/><br/>Interviewing performance reviews and matrix organizational hierarchies. Great book. 

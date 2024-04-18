@@ -1,38 +1,87 @@
-## Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones
+## Goodreads Data
 
-**Author:** James Clear
+### Book Id 
 
-**ISBN:** =""
+40121378
 
-**ISBN13:** =""
+https://www.goodreads.com/book/show/40121378
 
-**My Rating:** 5
+## library information
 
-**Average Rating:** 4.36
+### ISBN 
+=""
 
-**Publisher:** Avery
+### ISBN13 
+=""
 
-**Binding:** Kindle Edition
+## book information
 
-**Number of Pages:** 319
+### Title
+Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones
 
-**Year Published:** 2018
+### Author 
+James Clear
 
-**Original Publication Year:** 2018
+### Author l-f 
+Clear, James
 
-**Date Read:** 2020/12/15
+### Additional Authors
+Empty
 
-**Date Added:** 2020/12/15
+### Publisher 
+Avery
 
-**Bookshelves:** business, leadership, personal-development
+### Binding
+Kindle Edition
 
-**Bookshelves with positions:** business (#59), leadership (#8), personal-development (#27)
+### Number of Pages
+319
 
-**Exclusive Shelf:** read
+### Year Published
+2018
 
+### Original Publication Year 
+2018
 
-## My Review
+## user contributed data
 
+### My Rating
+5
+
+### Average Rating
+4.36
+
+### Date Read
+2020/12/15
+
+### Date Added
+2020/12/15
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+business, leadership, personal-development
+
+### Bookshelves with positions
+business (#59), leadership (#8), personal-development (#27)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 One of the best books on personal habit making I've ever read.<br/><br/>Start small, chain habits and always have a plan. Great read.

@@ -1,38 +1,87 @@
-## The 33 Strategies of War
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** The 33 Strategies of War
+## Goodreads Data
 
-**Author:** Robert Greene
+### Book Id 
 
-**ISBN:** ="1598870912"
+20997
 
-**ISBN13:** ="9781598870916"
+https://www.goodreads.com/book/show/20997
 
-**My Rating:** 3
+## library information
 
-**Average Rating:** 4.22
+### ISBN 
+="1598870912"
 
-**Publisher:** HighBridge Company
+### ISBN13 
+="9781598870916"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 1
+### Title
+The 33 Strategies of War
 
-**Year Published:** 2007
+### Author 
+Robert Greene
 
-**Original Publication Year:** 2001
+### Author l-f 
+Greene, Robert
 
-**Date Read:** 2020/01/16
+### Additional Authors
+Don Leslie
 
-**Date Added:** 2020/01/02
+### Publisher 
+HighBridge Company
 
-**Bookshelves:** 
+### Binding
+Audio CD
 
-**Bookshelves with positions:** 
+### Number of Pages
+1
 
-**Exclusive Shelf:** read
+### Year Published
+2007
 
+### Original Publication Year 
+2001
 
-## My Review
+## user contributed data
 
+### My Rating
+3
+
+### Average Rating
+4.22
+
+### Date Read
+2020/01/16
+
+### Date Added
+2020/01/02
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+Empty
+
+### Bookshelves with positions
+Empty
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 After reading "48 Laws of Power" [a:Robert Greene|865|Robert Greene|https://images.gr-assets.com/authors/1298212921p2/865.jpg] I picked up this book. Follows the same format as the former, but I didn't find it as compelling. The psychology of humans being more interesting than the tactics of battle.

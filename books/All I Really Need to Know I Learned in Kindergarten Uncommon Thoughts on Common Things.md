@@ -1,38 +1,87 @@
-## All I Really Need to Know I Learned in Kindergarten: Uncommon Thoughts on Common Things
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** All I Really Need to Know I Learned in Kindergarten: Uncommon Thoughts on Common Things
+## Goodreads Data
 
-**Author:** Robert Fulghum
+### Book Id 
 
-**ISBN:** ="0345466179"
+862478
 
-**ISBN13:** ="9780345466174"
+https://www.goodreads.com/book/show/862478
 
-**My Rating:** 3
+## library information
 
-**Average Rating:** 4.00
+### ISBN 
+="0345466179"
 
-**Publisher:** Ballantine Books
+### ISBN13 
+="9780345466174"
 
-**Binding:** Hardcover
+## book information
 
-**Number of Pages:** 240
+### Title
+All I Really Need to Know I Learned in Kindergarten: Uncommon Thoughts on Common Things
 
-**Year Published:** 2003
+### Author 
+Robert Fulghum
 
-**Original Publication Year:** 1986
+### Author l-f 
+Fulghum, Robert
 
-**Date Read:** 
+### Additional Authors
+Empty
 
-**Date Added:** 2018/06/20
+### Publisher 
+Ballantine Books
 
-**Bookshelves:** 
+### Binding
+Hardcover
 
-**Bookshelves with positions:** 
+### Number of Pages
+240
 
-**Exclusive Shelf:** read
+### Year Published
+2003
 
+### Original Publication Year 
+1986
 
-## My Review
+## user contributed data
 
+### My Rating
+3
+
+### Average Rating
+4.00
+
+### Date Read
+Empty
+
+### Date Added
+2018/06/20
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+Empty
+
+### Bookshelves with positions
+Empty
+
+### Read Count
+2
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Fun read with nuggets of wisdeom contained in chapters.<br/><br/>One or two will jump out and grab you. Watch out.

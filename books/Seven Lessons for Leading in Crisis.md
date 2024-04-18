@@ -1,38 +1,87 @@
-## Seven Lessons for Leading in Crisis
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Seven Lessons for Leading in Crisis
+## Goodreads Data
 
-**Author:** Bill  George
+### Book Id 
 
-**ISBN:** ="1596594667"
+13526999
 
-**ISBN13:** ="9781596594661"
+https://www.goodreads.com/book/show/13526999
 
-**My Rating:** 3
+## library information
 
-**Average Rating:** 3.68
+### ISBN 
+="1596594667"
 
-**Publisher:** Your Coach Digital
+### ISBN13 
+="9781596594661"
 
-**Binding:** Audiobook
+## book information
 
-**Number of Pages:** 
+### Title
+Seven Lessons for Leading in Crisis
 
-**Year Published:** 2009
+### Author 
+Bill  George
 
-**Original Publication Year:** 2009
+### Author l-f 
+George, Bill
 
-**Date Read:** 2018/09/06
+### Additional Authors
+Empty
 
-**Date Added:** 2018/09/06
+### Publisher 
+Your Coach Digital
 
-**Bookshelves:** business
+### Binding
+Audiobook
 
-**Bookshelves with positions:** business (#48)
+### Number of Pages
+Empty
 
-**Exclusive Shelf:** read
+### Year Published
+2009
 
+### Original Publication Year 
+2009
 
-## My Review
+## user contributed data
 
+### My Rating
+3
+
+### Average Rating
+3.68
+
+### Date Read
+2018/09/06
+
+### Date Added
+2018/09/06
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+business
+
+### Bookshelves with positions
+business (#48)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 The only lesson worth mentioning is: never let a good crisis go to waste.<br/><br/>Those inflection points melt away resistance and allow a person or organization reform itself.

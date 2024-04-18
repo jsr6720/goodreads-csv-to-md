@@ -1,38 +1,87 @@
-## Truman
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Truman
+## Goodreads Data
 
-**Author:** David McCullough
+### Book Id 
 
-**ISBN:** ="0743508068"
+727535
 
-**ISBN13:** ="9780743508063"
+https://www.goodreads.com/book/show/727535
 
-**My Rating:** 4
+## library information
 
-**Average Rating:** 4.15
+### ISBN 
+="0743508068"
 
-**Publisher:** Simon & Schuster Audio
+### ISBN13 
+="9780743508063"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 6
+### Title
+Truman
 
-**Year Published:** 1992
+### Author 
+David McCullough
 
-**Original Publication Year:** 1992
+### Author l-f 
+McCullough, David
 
-**Date Read:** 2016/04/30
+### Additional Authors
+Empty
 
-**Date Added:** 2016/09/26
+### Publisher 
+Simon & Schuster Audio
 
-**Bookshelves:** biography
+### Binding
+Audio CD
 
-**Bookshelves with positions:** biography (#3)
+### Number of Pages
+6
 
-**Exclusive Shelf:** read
+### Year Published
+1992
 
+### Original Publication Year 
+1992
 
-## My Review
+## user contributed data
 
+### My Rating
+4
+
+### Average Rating
+4.15
+
+### Date Read
+2016/04/30
+
+### Date Added
+2016/09/26
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+biography
+
+### Bookshelves with positions
+biography (#3)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Great book on the history of Harry S Truman. <br/><br/>Most significant achievement was not allowing McCarthy drag the US into WWIII with China during the Korean conflict. Also was commended for his absolute integrity from the very beginning. <br/><br/>Won elections shaking one hand at a time over thousands of miles.

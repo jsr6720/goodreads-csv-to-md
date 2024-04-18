@@ -1,38 +1,87 @@
-## Lead with Humility: 12 Leadership Lessons from Pope Francis
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Lead with Humility: 12 Leadership Lessons from Pope Francis
+## Goodreads Data
 
-**Author:** Jeffrey A. Krames
+### Book Id 
 
-**ISBN:** ="1520003366"
+28158863
 
-**ISBN13:** ="9781520003368"
+https://www.goodreads.com/book/show/28158863
 
-**My Rating:** 3
+## library information
 
-**Average Rating:** 3.97
+### ISBN 
+="1520003366"
 
-**Publisher:** Gildan Media on Dreamscape Audio
+### ISBN13 
+="9781520003368"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 3
+### Title
+Lead with Humility: 12 Leadership Lessons from Pope Francis
 
-**Year Published:** 2015
+### Author 
+Jeffrey A. Krames
 
-**Original Publication Year:** 2014
+### Author l-f 
+Krames, Jeffrey A.
 
-**Date Read:** 2018/09/15
+### Additional Authors
+Walter Dixon
 
-**Date Added:** 2018/09/18
+### Publisher 
+Gildan Media on Dreamscape Audio
 
-**Bookshelves:** leadership
+### Binding
+Audio CD
 
-**Bookshelves with positions:** leadership (#1)
+### Number of Pages
+3
 
-**Exclusive Shelf:** read
+### Year Published
+2015
 
+### Original Publication Year 
+2014
 
-## My Review
+## user contributed data
 
+### My Rating
+3
+
+### Average Rating
+3.97
+
+### Date Read
+2018/09/15
+
+### Date Added
+2018/09/18
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+leadership
+
+### Bookshelves with positions
+leadership (#1)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 I'm not sure I got all 12 lessons, but the key ones I read in this book:<br/>* Management by walking around/"Smell like your Flock". If you're not out in the world observing those you serve you will isolate yourself as a leader<br/>* Humility/Servant leadership. Leaders exist to serve not to be served. Examples abound of how Pope Francis has punished those who treat the church as  a way to elevate themselves above others<br/>* Politics are to be known, not avoid. Just because you serve in Gods path doesn't mean you can leave everything to chance. Be prepared such that when your time comes you are ready.

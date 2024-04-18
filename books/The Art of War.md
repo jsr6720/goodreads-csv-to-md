@@ -1,38 +1,87 @@
-## The Art of War
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** The Art of War
+## Goodreads Data
 
-**Author:** Sun Tzu
+### Book Id 
 
-**ISBN:** ="1400100674"
+1093941
 
-**ISBN13:** ="9781400100675"
+https://www.goodreads.com/book/show/1093941
 
-**My Rating:** 4
+## library information
 
-**Average Rating:** 3.96
+### ISBN 
+="1400100674"
 
-**Publisher:** Tantor Audio
+### ISBN13 
+="9781400100675"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 3
+### Title
+The Art of War
 
-**Year Published:** 2003
+### Author 
+Sun Tzu
 
-**Original Publication Year:** -400
+### Author l-f 
+Tzu, Sun
 
-**Date Read:** 2018/02/05
+### Additional Authors
+Scott Brick, Shelly Frasier
 
-**Date Added:** 2018/02/05
+### Publisher 
+Tantor Audio
 
-**Bookshelves:** classics, history
+### Binding
+Audio CD
 
-**Bookshelves with positions:** classics (#5), history (#19)
+### Number of Pages
+3
 
-**Exclusive Shelf:** read
+### Year Published
+2003
 
+### Original Publication Year 
+-400
 
-## My Review
+## user contributed data
 
+### My Rating
+4
+
+### Average Rating
+3.96
+
+### Date Read
+2018/02/05
+
+### Date Added
+2018/02/05
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+classics, history
+
+### Bookshelves with positions
+classics (#5), history (#19)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Great reading of the 13 chapters of the art of war. Pairs great with Great courses reading of the material.

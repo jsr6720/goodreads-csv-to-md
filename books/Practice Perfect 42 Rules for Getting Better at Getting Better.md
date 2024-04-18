@@ -1,38 +1,87 @@
-## Practice Perfect: 42 Rules for Getting Better at Getting Better
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Practice Perfect: 42 Rules for Getting Better at Getting Better
+## Goodreads Data
 
-**Author:** Doug Lemov
+### Book Id 
 
-**ISBN:** ="111821658X"
+13838561
 
-**ISBN13:** ="9781118216583"
+https://www.goodreads.com/book/show/13838561
 
-**My Rating:** 2
+## library information
 
-**Average Rating:** 3.81
+### ISBN 
+="111821658X"
 
-**Publisher:** Jossey-Bass
+### ISBN13 
+="9781118216583"
 
-**Binding:** Hardcover
+## book information
 
-**Number of Pages:** 288
+### Title
+Practice Perfect: 42 Rules for Getting Better at Getting Better
 
-**Year Published:** 2012
+### Author 
+Doug Lemov
 
-**Original Publication Year:** 2012
+### Author l-f 
+Lemov, Doug
 
-**Date Read:** 
+### Additional Authors
+Erica Woolway, Katie Yezzi, Dan Heath
 
-**Date Added:** 2019/03/14
+### Publisher 
+Jossey-Bass
 
-**Bookshelves:** did-not-finish
+### Binding
+Hardcover
 
-**Bookshelves with positions:** did-not-finish (#22)
+### Number of Pages
+288
 
-**Exclusive Shelf:** did-not-finish
+### Year Published
+2012
 
+### Original Publication Year 
+2012
 
-## My Review
+## user contributed data
 
+### My Rating
+2
 
+### Average Rating
+3.81
+
+### Date Read
+Empty
+
+### Date Added
+2019/03/14
+
+### Exclusive Shelf
+did-not-finish
+
+### Bookshelves
+did-not-finish
+
+### Bookshelves with positions
+did-not-finish (#22)
+
+### Read Count
+0
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
+Empty

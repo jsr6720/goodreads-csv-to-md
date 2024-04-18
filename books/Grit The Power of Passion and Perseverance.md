@@ -1,38 +1,87 @@
-## Grit: The Power of Passion and Perseverance
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Grit: The Power of Passion and Perseverance
+## Goodreads Data
 
-**Author:** Angela Duckworth
+### Book Id 
 
-**ISBN:** ="1442397136"
+25814095
 
-**ISBN13:** ="9781442397132"
+https://www.goodreads.com/book/show/25814095
 
-**My Rating:** 4
+## library information
 
-**Average Rating:** 4.08
+### ISBN 
+="1442397136"
 
-**Publisher:** Simon & Schuster Audio
+### ISBN13 
+="9781442397132"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 
+### Title
+Grit: The Power of Passion and Perseverance
 
-**Year Published:** 2016
+### Author 
+Angela Duckworth
 
-**Original Publication Year:** 2016
+### Author l-f 
+Duckworth, Angela
 
-**Date Read:** 2017/11/20
+### Additional Authors
+Empty
 
-**Date Added:** 2017/11/08
+### Publisher 
+Simon & Schuster Audio
 
-**Bookshelves:** psychology
+### Binding
+Audio CD
 
-**Bookshelves with positions:** psychology (#14)
+### Number of Pages
+Empty
 
-**Exclusive Shelf:** read
+### Year Published
+2016
 
+### Original Publication Year 
+2016
 
-## My Review
+## user contributed data
 
+### My Rating
+4
+
+### Average Rating
+4.08
+
+### Date Read
+2017/11/20
+
+### Date Added
+2017/11/08
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+psychology
+
+### Bookshelves with positions
+psychology (#14)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Often it's dedication to a task over time results in greatness. Not innate talent or ability. In fact these are lies we tell ourselves to allow us to feel better about not also achieving greatness.<br/><br/>To borrow an analogy from Collins. When the chicken emerges from the egg to the outside world it looks like a phenomenal achievement, but from the chicks perspective it's just the next step.<br/><br/>So how do you define grit? Essentially its the will to go on in the face of challenges, set backs and failures. Focus on a 'top-level' goal and perseverance is more attainable.<br/><br/>First 3rd and last 3rd of the book are best, lots of filler studies in the middle chapters that repeat the same message. Grit can be built and taught, here's another study that proves grit is a worth measure of success.

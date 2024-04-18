@@ -1,38 +1,87 @@
-## The Dream Manager
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** The Dream Manager
+## Goodreads Data
 
-**Author:** Matthew Kelly
+### Book Id 
 
-**ISBN:** ="1401388442"
+1794345
 
-**ISBN13:** ="9781401388447"
+https://www.goodreads.com/book/show/1794345
 
-**My Rating:** 4
+## library information
 
-**Average Rating:** 4.10
+### ISBN 
+="1401388442"
 
-**Publisher:** Hyperion
+### ISBN13 
+="9781401388447"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 176
+### Title
+The Dream Manager
 
-**Year Published:** 2007
+### Author 
+Matthew Kelly
 
-**Original Publication Year:** 2007
+### Author l-f 
+Kelly, Matthew
 
-**Date Read:** 2017/08/03
+### Additional Authors
+David Slavin
 
-**Date Added:** 2017/08/03
+### Publisher 
+Hyperion
 
-**Bookshelves:** 
+### Binding
+Audio CD
 
-**Bookshelves with positions:** 
+### Number of Pages
+176
 
-**Exclusive Shelf:** read
+### Year Published
+2007
 
+### Original Publication Year 
+2007
 
-## My Review
+## user contributed data
 
+### My Rating
+4
+
+### Average Rating
+4.10
+
+### Date Read
+2017/08/03
+
+### Date Added
+2017/08/03
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+Empty
+
+### Bookshelves with positions
+Empty
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Care about your people and yourself and they in turn will care about the business.

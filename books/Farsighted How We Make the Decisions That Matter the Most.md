@@ -1,38 +1,87 @@
-## Farsighted: How We Make the Decisions That Matter the Most
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Farsighted: How We Make the Decisions That Matter the Most
+## Goodreads Data
 
-**Author:** Steven Johnson
+### Book Id 
 
-**ISBN:** ="1594488215"
+38769051
 
-**ISBN13:** ="9781594488214"
+https://www.goodreads.com/book/show/38769051
 
-**My Rating:** 1
+## library information
 
-**Average Rating:** 3.56
+### ISBN 
+="1594488215"
 
-**Publisher:** Riverhead
+### ISBN13 
+="9781594488214"
 
-**Binding:** Hardcover
+## book information
 
-**Number of Pages:** 256
+### Title
+Farsighted: How We Make the Decisions That Matter the Most
 
-**Year Published:** 2018
+### Author 
+Steven Johnson
 
-**Original Publication Year:** 2018
+### Author l-f 
+Johnson, Steven
 
-**Date Read:** 
+### Additional Authors
+Empty
 
-**Date Added:** 2019/04/29
+### Publisher 
+Riverhead
 
-**Bookshelves:** did-not-finish
+### Binding
+Hardcover
 
-**Bookshelves with positions:** did-not-finish (#23)
+### Number of Pages
+256
 
-**Exclusive Shelf:** did-not-finish
+### Year Published
+2018
 
+### Original Publication Year 
+2018
 
-## My Review
+## user contributed data
 
+### My Rating
+1
+
+### Average Rating
+3.56
+
+### Date Read
+Empty
+
+### Date Added
+2019/04/29
+
+### Exclusive Shelf
+did-not-finish
+
+### Bookshelves
+did-not-finish
+
+### Bookshelves with positions
+did-not-finish (#23)
+
+### Read Count
+0
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 https://en.wikipedia.org/wiki/Farsighted_(book)<br/><br/>Summary: <br/>Don't fall for the paradox of presented options<br/>mind map all available options<br/>Attach outcomes to the mind map<br/>Work through and eliminate the cruft<br/>Make the right decision<br/><br/>*Caveat* did not finish this book. couldn't get past his narrative style.

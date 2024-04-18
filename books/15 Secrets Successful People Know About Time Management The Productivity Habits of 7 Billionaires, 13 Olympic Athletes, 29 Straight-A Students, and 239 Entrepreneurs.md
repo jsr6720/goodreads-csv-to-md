@@ -1,38 +1,87 @@
-## 15 Secrets Successful People Know About Time Management: The Productivity Habits of 7 Billionaires, 13 Olympic Athletes, 29 Straight-A Students, and 239 Entrepreneurs
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** 15 Secrets Successful People Know About Time Management: The Productivity Habits of 7 Billionaires, 13 Olympic Athletes, 29 Straight-A Students, and 239 Entrepreneurs
+## Goodreads Data
 
-**Author:** Kevin E. Kruse
+### Book Id 
 
-**ISBN:** ="0985056444"
+27139721
 
-**ISBN13:** =""
+https://www.goodreads.com/book/show/27139721
 
-**My Rating:** 4
+## library information
 
-**Average Rating:** 3.99
+### ISBN 
+="0985056444"
 
-**Publisher:** The Kruse Group
+### ISBN13 
+=""
 
-**Binding:** Kindle Edition
+## book information
 
-**Number of Pages:** 204
+### Title
+15 Secrets Successful People Know About Time Management: The Productivity Habits of 7 Billionaires, 13 Olympic Athletes, 29 Straight-A Students, and 239 Entrepreneurs
 
-**Year Published:** 2015
+### Author 
+Kevin E. Kruse
 
-**Original Publication Year:** 2015
+### Author l-f 
+Kruse, Kevin E.
 
-**Date Read:** 2020/10/25
+### Additional Authors
+Empty
 
-**Date Added:** 2020/10/25
+### Publisher 
+The Kruse Group
 
-**Bookshelves:** 
+### Binding
+Kindle Edition
 
-**Bookshelves with positions:** 
+### Number of Pages
+204
 
-**Exclusive Shelf:** read
+### Year Published
+2015
 
+### Original Publication Year 
+2015
 
-## My Review
+## user contributed data
 
+### My Rating
+4
+
+### Average Rating
+3.99
+
+### Date Read
+2020/10/25
+
+### Date Added
+2020/10/25
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+Empty
+
+### Bookshelves with positions
+Empty
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Quick read that nicely summarizes some of the best stress management techniques and task maximization strategies. <br/><br/>I do get that kruse is also selling consulting. Some of the material just refers out to his website. 

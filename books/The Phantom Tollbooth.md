@@ -1,38 +1,87 @@
-## The Phantom Tollbooth
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** The Phantom Tollbooth
+## Goodreads Data
 
-**Author:** Norton Juster
+### Book Id 
 
-**ISBN:** ="0394820371"
+378
 
-**ISBN13:** ="9780394820378"
+https://www.goodreads.com/book/show/378
 
-**My Rating:** 5
+## library information
 
-**Average Rating:** 4.20
+### ISBN 
+="0394820371"
 
-**Publisher:** Random House Bullseye Books
+### ISBN13 
+="9780394820378"
 
-**Binding:** Paperback
+## book information
 
-**Number of Pages:** 248
+### Title
+The Phantom Tollbooth
 
-**Year Published:** 1996
+### Author 
+Norton Juster
 
-**Original Publication Year:** 1961
+### Author l-f 
+Juster, Norton
 
-**Date Read:** 2021/04/03
+### Additional Authors
+Jules Feiffer, Maurice Sendak
 
-**Date Added:** 2021/04/03
+### Publisher 
+Random House Bullseye Books
 
-**Bookshelves:** childhood-favorite, fiction
+### Binding
+Paperback
 
-**Bookshelves with positions:** childhood-favorite (#6), fiction (#1)
+### Number of Pages
+248
 
-**Exclusive Shelf:** read
+### Year Published
+1996
 
+### Original Publication Year 
+1961
 
-## My Review
+## user contributed data
 
+### My Rating
+5
+
+### Average Rating
+4.20
+
+### Date Read
+2021/04/03
+
+### Date Added
+2021/04/03
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+childhood-favorite, fiction
+
+### Bookshelves with positions
+childhood-favorite (#6), fiction (#1)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 A fun whimsical look at mature childhood books. Classic. 

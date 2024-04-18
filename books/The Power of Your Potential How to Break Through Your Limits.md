@@ -1,38 +1,87 @@
-## The Power of Your Potential: How to Break Through Your Limits
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** The Power of Your Potential: How to Break Through Your Limits
+## Goodreads Data
 
-**Author:** John C. Maxwell
+### Book Id 
 
-**ISBN:** ="1478924411"
+36204840
 
-**ISBN13:** ="9781478924418"
+https://www.goodreads.com/book/show/36204840
 
-**My Rating:** 1
+## library information
 
-**Average Rating:** 4.16
+### ISBN 
+="1478924411"
 
-**Publisher:** Center Street
+### ISBN13 
+="9781478924418"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 
+### Title
+The Power of Your Potential: How to Break Through Your Limits
 
-**Year Published:** 2018
+### Author 
+John C. Maxwell
 
-**Original Publication Year:** 
+### Author l-f 
+Maxwell, John C.
 
-**Date Read:** 2020/02/20
+### Additional Authors
+Christian Steiner
 
-**Date Added:** 2020/02/10
+### Publisher 
+Center Street
 
-**Bookshelves:** did-not-finish
+### Binding
+Audio CD
 
-**Bookshelves with positions:** did-not-finish (#30)
+### Number of Pages
+Empty
 
-**Exclusive Shelf:** did-not-finish
+### Year Published
+2018
 
+### Original Publication Year 
+Empty
 
-## My Review
+## user contributed data
 
+### My Rating
+1
+
+### Average Rating
+4.16
+
+### Date Read
+2020/02/20
+
+### Date Added
+2020/02/10
+
+### Exclusive Shelf
+did-not-finish
+
+### Bookshelves
+did-not-finish
+
+### Bookshelves with positions
+did-not-finish (#30)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Not Maxwell's best work. Sticking to the 101 series.

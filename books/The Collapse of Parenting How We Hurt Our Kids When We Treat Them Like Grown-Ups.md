@@ -1,38 +1,87 @@
-## The Collapse of Parenting: How We Hurt Our Kids When We Treat Them Like Grown-Ups
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** The Collapse of Parenting: How We Hurt Our Kids When We Treat Them Like Grown-Ups
+## Goodreads Data
 
-**Author:** Leonard Sax
+### Book Id 
 
-**ISBN:** ="1504658507"
+28197121
 
-**ISBN13:** ="9781504658508"
+https://www.goodreads.com/book/show/28197121
 
-**My Rating:** 5
+## library information
 
-**Average Rating:** 4.26
+### ISBN 
+="1504658507"
 
-**Publisher:** Blackstone Audiobooks
+### ISBN13 
+="9781504658508"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 
+### Title
+The Collapse of Parenting: How We Hurt Our Kids When We Treat Them Like Grown-Ups
 
-**Year Published:** 2015
+### Author 
+Leonard Sax
 
-**Original Publication Year:** 2015
+### Author l-f 
+Sax, Leonard
 
-**Date Read:** 2018/05/17
+### Additional Authors
+Empty
 
-**Date Added:** 2018/05/10
+### Publisher 
+Blackstone Audiobooks
 
-**Bookshelves:** parenting, personal-development
+### Binding
+Audio CD
 
-**Bookshelves with positions:** parenting (#5), personal-development (#21)
+### Number of Pages
+Empty
 
-**Exclusive Shelf:** read
+### Year Published
+2015
 
+### Original Publication Year 
+2015
 
-## My Review
+## user contributed data
 
+### My Rating
+5
+
+### Average Rating
+4.26
+
+### Date Read
+2018/05/17
+
+### Date Added
+2018/05/10
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+parenting, personal-development
+
+### Bookshelves with positions
+parenting (#5), personal-development (#21)
+
+### Read Count
+2
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Great book about how to be your child's educator not friend.

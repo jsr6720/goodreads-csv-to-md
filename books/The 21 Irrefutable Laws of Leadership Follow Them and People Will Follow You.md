@@ -1,38 +1,87 @@
-## The 21 Irrefutable Laws of Leadership: Follow Them and People Will Follow You
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** The 21 Irrefutable Laws of Leadership: Follow Them and People Will Follow You
+## Goodreads Data
 
-**Author:** John C. Maxwell
+### Book Id 
 
-**ISBN:** ="1480553638"
+18229043
 
-**ISBN13:** ="9781480553637"
+https://www.goodreads.com/book/show/18229043
 
-**My Rating:** 5
+## library information
 
-**Average Rating:** 4.15
+### ISBN 
+="1480553638"
 
-**Publisher:** Thomas Nelson on Brilliance Audio
+### ISBN13 
+="9781480553637"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 3
+### Title
+The 21 Irrefutable Laws of Leadership: Follow Them and People Will Follow You
 
-**Year Published:** 2013
+### Author 
+John C. Maxwell
 
-**Original Publication Year:** 1998
+### Author l-f 
+Maxwell, John C.
 
-**Date Read:** 2015/09/25
+### Additional Authors
+Empty
 
-**Date Added:** 2016/10/11
+### Publisher 
+Thomas Nelson on Brilliance Audio
 
-**Bookshelves:** business, read-again, personal-development
+### Binding
+Audio CD
 
-**Bookshelves with positions:** business (#9), read-again (#9), personal-development (#9)
+### Number of Pages
+3
 
-**Exclusive Shelf:** read
+### Year Published
+2013
 
+### Original Publication Year 
+1998
 
-## My Review
+## user contributed data
 
+### My Rating
+5
 
+### Average Rating
+4.15
+
+### Date Read
+2015/09/25
+
+### Date Added
+2016/10/11
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+business, read-again, personal-development
+
+### Bookshelves with positions
+business (#9), read-again (#9), personal-development (#9)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
+Empty

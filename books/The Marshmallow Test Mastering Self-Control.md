@@ -1,38 +1,87 @@
-## The Marshmallow Test: Mastering Self-Control
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** The Marshmallow Test: Mastering Self-Control
+## Goodreads Data
 
-**Author:** Walter Mischel
+### Book Id 
 
-**ISBN:** ="1469249065"
+20791679
 
-**ISBN13:** ="9781469249063"
+https://www.goodreads.com/book/show/20791679
 
-**My Rating:** 4
+## library information
 
-**Average Rating:** 3.73
+### ISBN 
+="1469249065"
 
-**Publisher:** Brilliance Audio
+### ISBN13 
+="9781469249063"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 7
+### Title
+The Marshmallow Test: Mastering Self-Control
 
-**Year Published:** 2014
+### Author 
+Walter Mischel
 
-**Original Publication Year:** 2014
+### Author l-f 
+Mischel, Walter
 
-**Date Read:** 2015/12/24
+### Additional Authors
+Empty
 
-**Date Added:** 2016/10/11
+### Publisher 
+Brilliance Audio
 
-**Bookshelves:** psychology
+### Binding
+Audio CD
 
-**Bookshelves with positions:** psychology (#8)
+### Number of Pages
+7
 
-**Exclusive Shelf:** read
+### Year Published
+2014
 
+### Original Publication Year 
+2014
 
-## My Review
+## user contributed data
 
+### My Rating
+4
+
+### Average Rating
+3.73
+
+### Date Read
+2015/12/24
+
+### Date Added
+2016/10/11
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+psychology
+
+### Bookshelves with positions
+psychology (#8)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Great book, same two system concept as previously read in [b:Emotional Intelligence|26329|Emotional Intelligence  Why It Can Matter More Than IQ|Daniel Goleman|https://d.gr-assets.com/books/1388185411s/26329.jpg|587647], but this time 'hot' and 'cold' system<br/>Hot -> amygdala, fast responses<br/>Cold -> Prefrontal Cortex and Hippocampus, memory plus decision making<br/><br/>Three parts: <br/>1. preschoolers and executive function. <br/>2. Marshmallows to 401k. Self control at adult level<br/>3. policy impacts.<br/><br/>Focuses on how self control can be improved and how it, on groups, predicts success. Solid 4. Not quite a 5 not sure if this is because of my previous experience with Emotional Intelligence. First third of the book about the history of the test at Stanford is very interesting. Added to list [b:Mindset|40745|Mindset  The New Psychology of Success|Carol S. Dweck|https://d.gr-assets.com/books/1436227012s/40745.jpg|40330] recommended in this book. That was disappointing.<br/><br/>Some techniques for mastering self-control:<br/>1. Increase psychological distance - reflect on the situation as a fly on the wall<br/>2. Associate future consequences with immediate action - if I smoke I'll get cancer<br/>3. Frame the temptation. Think of the cognitive physical attributes - A cookie is round and made of flour eggs sugar<br/>4. if/then conditioning. Replay scenarios to train the hot system. If I see a cookie Then I will not eat it

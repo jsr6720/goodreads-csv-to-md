@@ -1,38 +1,87 @@
-## Good Strategy/Bad Strategy: The Difference and Why It Matters
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Good Strategy/Bad Strategy: The Difference and Why It Matters
+## Goodreads Data
 
-**Author:** Richard P. Rumelt
+### Book Id 
 
-**ISBN:** ="1611748178"
+13179689
 
-**ISBN13:** ="9781611748178"
+https://www.goodreads.com/book/show/13179689
 
-**My Rating:** 1
+## library information
 
-**Average Rating:** 4.13
+### ISBN 
+="1611748178"
 
-**Publisher:** HighBridge Company
+### ISBN13 
+="9781611748178"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 705
+### Title
+Good Strategy/Bad Strategy: The Difference and Why It Matters
 
-**Year Published:** 2012
+### Author 
+Richard P. Rumelt
 
-**Original Publication Year:** 2011
+### Author l-f 
+Rumelt, Richard P.
 
-**Date Read:** 2019/12/23
+### Additional Authors
+Sean Runnette
 
-**Date Added:** 2019/12/18
+### Publisher 
+HighBridge Company
 
-**Bookshelves:** did-not-finish
+### Binding
+Audio CD
 
-**Bookshelves with positions:** did-not-finish (#28)
+### Number of Pages
+705
 
-**Exclusive Shelf:** did-not-finish
+### Year Published
+2012
 
+### Original Publication Year 
+2011
 
-## My Review
+## user contributed data
 
+### My Rating
+1
+
+### Average Rating
+4.13
+
+### Date Read
+2019/12/23
+
+### Date Added
+2019/12/18
+
+### Exclusive Shelf
+did-not-finish
+
+### Bookshelves
+did-not-finish
+
+### Bookshelves with positions
+did-not-finish (#28)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Did not finish. Narration was just too dry. <br/><br/>Good strategy contains a kernel of 'obvious' truth.

@@ -1,38 +1,87 @@
-## Collaboration Begins With You: Be a Silo Buster
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Collaboration Begins With You: Be a Silo Buster
+## Goodreads Data
 
-**Author:** Kenneth H. Blanchard
+### Book Id 
 
-**ISBN:** ="1681419823"
+26780622
 
-**ISBN13:** ="9781681419824"
+https://www.goodreads.com/book/show/26780622
 
-**My Rating:** 2
+## library information
 
-**Average Rating:** 4.03
+### ISBN 
+="1681419823"
 
-**Publisher:** Berrett-Koehler on Dreamscape Audio
+### ISBN13 
+="9781681419824"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 0
+### Title
+Collaboration Begins With You: Be a Silo Buster
 
-**Year Published:** 2015
+### Author 
+Kenneth H. Blanchard
 
-**Original Publication Year:** 
+### Author l-f 
+Blanchard, Kenneth H.
 
-**Date Read:** 2018/05/10
+### Additional Authors
+Jane Ripley, Eunice Parisi-Carew
 
-**Date Added:** 2018/05/06
+### Publisher 
+Berrett-Koehler on Dreamscape Audio
 
-**Bookshelves:** business, management
+### Binding
+Audio CD
 
-**Bookshelves with positions:** business (#42), management (#6)
+### Number of Pages
+0
 
-**Exclusive Shelf:** read
+### Year Published
+2015
 
+### Original Publication Year 
+Empty
 
-## My Review
+## user contributed data
 
+### My Rating
+2
+
+### Average Rating
+4.03
+
+### Date Read
+2018/05/10
+
+### Date Added
+2018/05/06
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+business, management
+
+### Bookshelves with positions
+business (#42), management (#6)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 ready. Be the change you want to see.

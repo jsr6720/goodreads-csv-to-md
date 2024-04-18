@@ -1,38 +1,87 @@
-## Leadership: In Turbulent Times
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Leadership: In Turbulent Times
+## Goodreads Data
 
-**Author:** Doris Kearns Goodwin
+### Book Id 
 
-**ISBN:** =""
+38657386
 
-**ISBN13:** =""
+https://www.goodreads.com/book/show/38657386
 
-**My Rating:** 5
+## library information
 
-**Average Rating:** 4.40
+### ISBN 
+=""
 
-**Publisher:** Simon & Schuster
+### ISBN13 
+=""
 
-**Binding:** Hardcover
+## book information
 
-**Number of Pages:** 473
+### Title
+Leadership: In Turbulent Times
 
-**Year Published:** 2018
+### Author 
+Doris Kearns Goodwin
 
-**Original Publication Year:** 2018
+### Author l-f 
+Goodwin, Doris Kearns
 
-**Date Read:** 2020/10/12
+### Additional Authors
+Empty
 
-**Date Added:** 2020/09/14
+### Publisher 
+Simon & Schuster
 
-**Bookshelves:** biography, leadership, history
+### Binding
+Hardcover
 
-**Bookshelves with positions:** biography (#20), leadership (#6), history (#32)
+### Number of Pages
+473
 
-**Exclusive Shelf:** read
+### Year Published
+2018
 
+### Original Publication Year 
+2018
 
-## My Review
+## user contributed data
 
+### My Rating
+5
+
+### Average Rating
+4.40
+
+### Date Read
+2020/10/12
+
+### Date Added
+2020/09/14
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+biography, leadership, history
+
+### Bookshelves with positions
+biography (#20), leadership (#6), history (#32)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Great book that is more a collection of essays looking into the leadership styles of 4 great luminaries. I read this along side [b:Leading Change|51370|Leading Change|John P. Kotter|https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1427779756l/51370._SX50_.jpg|50134] and it paired really nicely. Contrasting how effective leaders lead change and a blue print for all changes.<br/><br/>Of particular note was the setbacks sections. It was humbling to read about how each leader had serious setbacks in their life. None of them had a straight path 'to the top'. Two of them LBJ/Roosevelt had taken the VP job only to find themselves trust into the spotlight.<br/><br/>Are Leaders born or made? Do the circumstances make the man, or does the man rise to the occasion? You'll find all this and more in this great novel. Left me with my favorite book 'hungover' sensation.

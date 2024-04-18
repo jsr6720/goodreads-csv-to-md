@@ -1,38 +1,87 @@
-## Our Iceberg Is Melting: Changing and Succeeding Under Any Conditions
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Our Iceberg Is Melting: Changing and Succeeding Under Any Conditions
+## Goodreads Data
 
-**Author:** John P. Kotter
+### Book Id 
 
-**ISBN:** ="1427200246"
+1234204
 
-**ISBN13:** ="9781427200242"
+https://www.goodreads.com/book/show/1234204
 
-**My Rating:** 2
+## library information
 
-**Average Rating:** 3.77
+### ISBN 
+="1427200246"
 
-**Publisher:** Macmillan Audio
+### ISBN13 
+="9781427200242"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 0
+### Title
+Our Iceberg Is Melting: Changing and Succeeding Under Any Conditions
 
-**Year Published:** 2006
+### Author 
+John P. Kotter
 
-**Original Publication Year:** 2005
+### Author l-f 
+Kotter, John P.
 
-**Date Read:** 2016/05/11
+### Additional Authors
+Holger Rathgeber, Oliver Wyman
 
-**Date Added:** 2016/05/31
+### Publisher 
+Macmillan Audio
 
-**Bookshelves:** business
+### Binding
+Audio CD
 
-**Bookshelves with positions:** business (#7)
+### Number of Pages
+0
 
-**Exclusive Shelf:** read
+### Year Published
+2006
 
+### Original Publication Year 
+2005
 
-## My Review
+## user contributed data
 
+### My Rating
+2
+
+### Average Rating
+3.77
+
+### Date Read
+2016/05/11
+
+### Date Added
+2016/05/31
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+business
+
+### Bookshelves with positions
+business (#7)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 An 'ok' written fable about the perils of not changing. It expands on the format of [b:Who Moved My Cheese?|4894|Who Moved My Cheese?|Spencer Johnson|https://d2arxad8u2l0g7.cloudfront.net/books/1388639717s/4894.jpg|3332594] (author has a forward to this book) to include more specific methods to disseminating change. One thing I did not like about the book was it did not focus on the failings of change, or on the failures of change.<br/><br/>Whereas "Haw" from cheese book fate is unknown everyone in this fable gets a happy ending. Once nice thing was the author's interview and how this book grew from its principle works "Leading Change" and "Heart of Change". I've added both to my list.<br/><br/>The primary focus of these fables is to give a new language to discussing problems. It's not negative to make a joke correlating behavior between individuals and a character in a book. Key takeaways: secrecy breeds mistrust, first who then what - form a leadership team of the right people, know that circumstance is not who you are. Personally I think fables should be left to [a:Aesop|12452|Aesop|https://d2arxad8u2l0g7.cloudfront.net/authors/1219179559p2/12452.jpg].

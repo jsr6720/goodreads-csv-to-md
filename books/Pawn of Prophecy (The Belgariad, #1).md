@@ -1,38 +1,87 @@
-## Pawn of Prophecy (The Belgariad, #1)
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Pawn of Prophecy (The Belgariad, #1)
+## Goodreads Data
 
-**Author:** David Eddings
+### Book Id 
 
-**ISBN:** ="0345468643"
+44659
 
-**ISBN13:** ="9780345468642"
+https://www.goodreads.com/book/show/44659
 
-**My Rating:** 5
+## library information
 
-**Average Rating:** 4.16
+### ISBN 
+="0345468643"
 
-**Publisher:** Del Rey
+### ISBN13 
+="9780345468642"
 
-**Binding:** Paperback
+## book information
 
-**Number of Pages:** 304
+### Title
+Pawn of Prophecy (The Belgariad, #1)
 
-**Year Published:** 2004
+### Author 
+David Eddings
 
-**Original Publication Year:** 1982
+### Author l-f 
+Eddings, David
 
-**Date Read:** 2021/03/04
+### Additional Authors
+Empty
 
-**Date Added:** 2021/03/16
+### Publisher 
+Del Rey
 
-**Bookshelves:** childhood-favorite, fantasy
+### Binding
+Paperback
 
-**Bookshelves with positions:** childhood-favorite (#1), fantasy (#1)
+### Number of Pages
+304
 
-**Exclusive Shelf:** read
+### Year Published
+2004
 
+### Original Publication Year 
+1982
 
-## My Review
+## user contributed data
 
+### My Rating
+5
+
+### Average Rating
+4.16
+
+### Date Read
+2021/03/04
+
+### Date Added
+2021/03/16
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+childhood-favorite, fantasy
+
+### Bookshelves with positions
+childhood-favorite (#1), fantasy (#1)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Picked this up from my childhood pile to give it a reread. I found all my favorite characters. One thing I do wish I could un-see though is all the similarities to other works of fiction in the same time period. All and all a great trip back in time.

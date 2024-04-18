@@ -1,38 +1,87 @@
-## Influence: Mastering Life's Most Powerful Skill
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Influence: Mastering Life's Most Powerful Skill
+## Goodreads Data
 
-**Author:** Kenneth G. Brown
+### Book Id 
 
-**ISBN:** ="1490659412"
+40648831
 
-**ISBN13:** ="9781490659411"
+https://www.goodreads.com/book/show/40648831
 
-**My Rating:** 5
+## library information
 
-**Average Rating:** 3.69
+### ISBN 
+="1490659412"
 
-**Publisher:** Recorded Books
+### ISBN13 
+="9781490659411"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 6
+### Title
+Influence: Mastering Life's Most Powerful Skill
 
-**Year Published:** 2013
+### Author 
+Kenneth G. Brown
 
-**Original Publication Year:** 2013
+### Author l-f 
+Brown, Kenneth G.
 
-**Date Read:** 2018/07/06
+### Additional Authors
+Empty
 
-**Date Added:** 2018/06/26
+### Publisher 
+Recorded Books
 
-**Bookshelves:** business, psychology
+### Binding
+Audio CD
 
-**Bookshelves with positions:** business (#45), psychology (#17)
+### Number of Pages
+6
 
-**Exclusive Shelf:** read
+### Year Published
+2013
 
+### Original Publication Year 
+2013
 
-## My Review
+## user contributed data
 
+### My Rating
+5
+
+### Average Rating
+3.69
+
+### Date Read
+2018/07/06
+
+### Date Added
+2018/06/26
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+business, psychology
+
+### Bookshelves with positions
+business (#45), psychology (#17)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Great overview of lots of influence classics. This is a great course that covers all the recent literature. 

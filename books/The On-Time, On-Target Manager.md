@@ -1,38 +1,87 @@
-## The On-Time, On-Target Manager
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** The On-Time, On-Target Manager
+## Goodreads Data
 
-**Author:** Kenneth H. Blanchard
+### Book Id 
 
-**ISBN:** ="0060584823"
+2722323
 
-**ISBN13:** ="9780060584825"
+https://www.goodreads.com/book/show/2722323
 
-**My Rating:** 2
+## library information
 
-**Average Rating:** 3.69
+### ISBN 
+="0060584823"
 
-**Publisher:** HarperAudio
+### ISBN13 
+="9780060584825"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 0
+### Title
+The On-Time, On-Target Manager
 
-**Year Published:** 2004
+### Author 
+Kenneth H. Blanchard
 
-**Original Publication Year:** 2004
+### Author l-f 
+Blanchard, Kenneth H.
 
-**Date Read:** 2017/09/18
+### Additional Authors
+Steve Gottry, Brian Corrigan
 
-**Date Added:** 2017/09/18
+### Publisher 
+HarperAudio
 
-**Bookshelves:** business
+### Binding
+Audio CD
 
-**Bookshelves with positions:** business (#31)
+### Number of Pages
+0
 
-**Exclusive Shelf:** read
+### Year Published
+2004
 
+### Original Publication Year 
+2004
 
-## My Review
+## user contributed data
 
+### My Rating
+2
+
+### Average Rating
+3.69
+
+### Date Read
+2017/09/18
+
+### Date Added
+2017/09/18
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+business
+
+### Bookshelves with positions
+business (#31)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Honestly, the book [Eat That Frog|95887] is a far superior book to this one.<br/><br/>I really didn't gain anything from this book other than a healthy dose of skepticism of the CEO (Chief Effectiveness Officer).

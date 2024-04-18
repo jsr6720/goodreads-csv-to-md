@@ -1,38 +1,87 @@
-## Plato and a Platypus Walk Into a Bar...: Understanding Philosophy Through Jokes
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Plato and a Platypus Walk Into a Bar...: Understanding Philosophy Through Jokes
+## Goodreads Data
 
-**Author:** Thomas Cathcart
+### Book Id 
 
-**ISBN:** ="1428173765"
+1615198
 
-**ISBN13:** ="9781428173767"
+https://www.goodreads.com/book/show/1615198
 
-**My Rating:** 2
+## library information
 
-**Average Rating:** 3.76
+### ISBN 
+="1428173765"
 
-**Publisher:** Recorded Books
+### ISBN13 
+="9781428173767"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 4
+### Title
+Plato and a Platypus Walk Into a Bar...: Understanding Philosophy Through Jokes
 
-**Year Published:** 2007
+### Author 
+Thomas Cathcart
 
-**Original Publication Year:** 2006
+### Author l-f 
+Cathcart, Thomas
 
-**Date Read:** 2015/07/27
+### Additional Authors
+Johnny Heller
 
-**Date Added:** 2016/09/30
+### Publisher 
+Recorded Books
 
-**Bookshelves:** philosophy
+### Binding
+Audio CD
 
-**Bookshelves with positions:** philosophy (#1)
+### Number of Pages
+4
 
-**Exclusive Shelf:** read
+### Year Published
+2007
 
+### Original Publication Year 
+2006
 
-## My Review
+## user contributed data
 
+### My Rating
+2
+
+### Average Rating
+3.76
+
+### Date Read
+2015/07/27
+
+### Date Added
+2016/09/30
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+philosophy
+
+### Bookshelves with positions
+philosophy (#1)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Eh. This was 'ok'. Some good jokes, but not enough tying philosophy to the jokes.<br/>Would not recommend, but would not say don't read it.

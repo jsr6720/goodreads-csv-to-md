@@ -1,38 +1,87 @@
-## Raising Men: Lessons Navy SEALs Learned from Their Training and Taught to Their Sons
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Raising Men: Lessons Navy SEALs Learned from Their Training and Taught to Their Sons
+## Goodreads Data
 
-**Author:** Eric  Davis
+### Book Id 
 
-**ISBN:** ="125009173X"
+26114625
 
-**ISBN13:** ="9781250091734"
+https://www.goodreads.com/book/show/26114625
 
-**My Rating:** 0
+## library information
 
-**Average Rating:** 4.03
+### ISBN 
+="125009173X"
 
-**Publisher:** St. Martin's Press
+### ISBN13 
+="9781250091734"
 
-**Binding:** Hardcover
+## book information
 
-**Number of Pages:** 256
+### Title
+Raising Men: Lessons Navy SEALs Learned from Their Training and Taught to Their Sons
 
-**Year Published:** 2016
+### Author 
+Eric  Davis
 
-**Original Publication Year:** 2016
+### Author l-f 
+Davis, Eric
 
-**Date Read:** 
+### Additional Authors
+Chris  Martin
 
-**Date Added:** 2019/11/05
+### Publisher 
+St. Martin's Press
 
-**Bookshelves:** did-not-finish
+### Binding
+Hardcover
 
-**Bookshelves with positions:** did-not-finish (#27)
+### Number of Pages
+256
 
-**Exclusive Shelf:** did-not-finish
+### Year Published
+2016
 
+### Original Publication Year 
+2016
 
-## My Review
+## user contributed data
 
+### My Rating
+0
 
+### Average Rating
+4.03
+
+### Date Read
+Empty
+
+### Date Added
+2019/11/05
+
+### Exclusive Shelf
+did-not-finish
+
+### Bookshelves
+did-not-finish
+
+### Bookshelves with positions
+did-not-finish (#27)
+
+### Read Count
+0
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
+Empty

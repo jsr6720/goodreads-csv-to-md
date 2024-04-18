@@ -1,38 +1,87 @@
-## Codependent No More: How to Stop Controlling Others and Start Caring for Yourself
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Codependent No More: How to Stop Controlling Others and Start Caring for Yourself
+## Goodreads Data
 
-**Author:** Melody Beattie
+### Book Id 
 
-**ISBN:** ="1419381229"
+2317502
 
-**ISBN13:** ="9781419381225"
+https://www.goodreads.com/book/show/2317502
 
-**My Rating:** 3
+## library information
 
-**Average Rating:** 4.13
+### ISBN 
+="1419381229"
 
-**Publisher:** Recorded Books, Inc.
+### ISBN13 
+="9781419381225"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 7
+### Title
+Codependent No More: How to Stop Controlling Others and Start Caring for Yourself
 
-**Year Published:** 2005
+### Author 
+Melody Beattie
 
-**Original Publication Year:** 1986
+### Author l-f 
+Beattie, Melody
 
-**Date Read:** 2016/08/09
+### Additional Authors
+Empty
 
-**Date Added:** 2016/10/11
+### Publisher 
+Recorded Books, Inc.
 
-**Bookshelves:** personal-development
+### Binding
+Audio CD
 
-**Bookshelves with positions:** personal-development (#13)
+### Number of Pages
+7
 
-**Exclusive Shelf:** read
+### Year Published
+2005
 
+### Original Publication Year 
+1986
 
-## My Review
+## user contributed data
 
+### My Rating
+3
+
+### Average Rating
+4.13
+
+### Date Read
+2016/08/09
+
+### Date Added
+2016/10/11
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+personal-development
+
+### Bookshelves with positions
+personal-development (#13)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Suppose someone told you that you are codependent. How would you respond? What does that even mean?<br/><br/>This book gives a good anecdotal history of the phrase and it's use.

@@ -1,38 +1,87 @@
-## How to Raise an Adult: Break Free of the Overparenting Trap and Prepare Your Kid for Success
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** How to Raise an Adult: Break Free of the Overparenting Trap and Prepare Your Kid for Success
+## Goodreads Data
 
-**Author:** Julie Lythcott-Haims
+### Book Id 
 
-**ISBN:** ="1627791779"
+23168823
 
-**ISBN13:** ="9781627791779"
+https://www.goodreads.com/book/show/23168823
 
-**My Rating:** 1
+## library information
 
-**Average Rating:** 4.09
+### ISBN 
+="1627791779"
 
-**Publisher:** Henry Holt and Co.
+### ISBN13 
+="9781627791779"
 
-**Binding:** Hardcover
+## book information
 
-**Number of Pages:** 368
+### Title
+How to Raise an Adult: Break Free of the Overparenting Trap and Prepare Your Kid for Success
 
-**Year Published:** 2015
+### Author 
+Julie Lythcott-Haims
 
-**Original Publication Year:** 2015
+### Author l-f 
+Lythcott-Haims, Julie
 
-**Date Read:** 
+### Additional Authors
+Empty
 
-**Date Added:** 2018/09/26
+### Publisher 
+Henry Holt and Co.
 
-**Bookshelves:** did-not-finish
+### Binding
+Hardcover
 
-**Bookshelves with positions:** did-not-finish (#18)
+### Number of Pages
+368
 
-**Exclusive Shelf:** did-not-finish
+### Year Published
+2015
 
+### Original Publication Year 
+2015
 
-## My Review
+## user contributed data
 
+### My Rating
+1
+
+### Average Rating
+4.09
+
+### Date Read
+Empty
+
+### Date Added
+2018/09/26
+
+### Exclusive Shelf
+did-not-finish
+
+### Bookshelves
+did-not-finish
+
+### Bookshelves with positions
+did-not-finish (#18)
+
+### Read Count
+0
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Did not like nor did I finish. Judging from the other reviews, the bulk of the book is anecdotal and preaching from the elite upper-middle class problems. To be the freshman dean of Stanford and say colleges don't matter is a tough sell. To live in the safe confines of Palo Alto and say 'let your children roam' is a tough sell.<br/><br/>This book is beyond long that is accomplished by [b:How Much Is Enough?|157936|How Much Is Enough?  Everything You Need to Know to Steer Clear of Overindulgence and Raise Likeable, Responsible and Respectful Ch|Jean Illsley Clarke|https://images.gr-assets.com/books/1348181967s/157936.jpg|152422] or [b:Boundaries with Kids|40930550|Boundaries with Kids|Dr. Henry / Townsend, Dr. John Cloud|https://images.gr-assets.com/books/1532379460s/40930550.jpg|63808654]. For sure skip the LONG introduction and focus on the second half of the book if you're looking for practical tips to implement.

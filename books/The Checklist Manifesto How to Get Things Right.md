@@ -1,38 +1,87 @@
-## The Checklist Manifesto: How to Get Things Right
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** The Checklist Manifesto: How to Get Things Right
+## Goodreads Data
 
-**Author:** Atul Gawande
+### Book Id 
 
-**ISBN:** ="1427208980"
+7313207
 
-**ISBN13:** ="9781427208989"
+https://www.goodreads.com/book/show/7313207
 
-**My Rating:** 4
+## library information
 
-**Average Rating:** 4.04
+### ISBN 
+="1427208980"
 
-**Publisher:** Macmillan Audio
+### ISBN13 
+="9781427208989"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 7
+### Title
+The Checklist Manifesto: How to Get Things Right
 
-**Year Published:** 2010
+### Author 
+Atul Gawande
 
-**Original Publication Year:** 2009
+### Author l-f 
+Gawande, Atul
 
-**Date Read:** 2016/09/30
+### Additional Authors
+John Bedford Lloyd
 
-**Date Added:** 2016/09/12
+### Publisher 
+Macmillan Audio
 
-**Bookshelves:** personal-development
+### Binding
+Audio CD
 
-**Bookshelves with positions:** personal-development (#2)
+### Number of Pages
+7
 
-**Exclusive Shelf:** read
+### Year Published
+2010
 
+### Original Publication Year 
+2009
 
-## My Review
+## user contributed data
 
+### My Rating
+4
+
+### Average Rating
+4.04
+
+### Date Read
+2016/09/30
+
+### Date Added
+2016/09/12
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+personal-development
+
+### Bookshelves with positions
+personal-development (#2)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 It's the study of identifying crucial processes and force fixing them. I liked the breakdown of simple, complex and complicated problems. I also liked all the anecdotal stories, there is a heavy emphasis on surgery stories that may upset the more squeamish.<br/><br/>Simple - repeatable by recipe and steps, low skill involved<br/>Complicated - Many sub-systems joined together with many experts, still repeatable (think moon launch)<br/>Complex - Raising kids. Enough said<br/><br/>A checklist is not always a box, it is identifying the 10% that effects the most change. See the [b:The 80/20 Principle: The Secret to Achieving More with Less|181206|The 80/20 Principle  The Secret to Achieving More with Less|Richard Koch|https://d2arxad8u2l0g7.cloudfront.net/books/1437557431s/181206.jpg|175093] for more on this.<br/><br/>Also there are 'do-confirm' check list and 'read-do' checklist. The former to catch missed steps the latter to step-through processes. Each checklist should be 5-9 items in length, no longer than 90 seconds to execute, should fit on one page.<br/><br/>Key takeaway: whole processes should not require a checklist, we want to have a mechanism to confirm no 'stupid' mistakes were made.<br/><br/>

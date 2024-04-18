@@ -1,38 +1,87 @@
-## The Energy Bus: 10 Rules to Fuel Your Life, Work, and Team with Positive Energy
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** The Energy Bus: 10 Rules to Fuel Your Life, Work, and Team with Positive Energy
+## Goodreads Data
 
-**Author:** Jon Gordon
+### Book Id 
 
-**ISBN:** ="0470100281"
+81107
 
-**ISBN13:** ="9780470100288"
+https://www.goodreads.com/book/show/81107
 
-**My Rating:** 2
+## library information
 
-**Average Rating:** 3.85
+### ISBN 
+="0470100281"
 
-**Publisher:** Wiley
+### ISBN13 
+="9780470100288"
 
-**Binding:** Hardcover
+## book information
 
-**Number of Pages:** 192
+### Title
+The Energy Bus: 10 Rules to Fuel Your Life, Work, and Team with Positive Energy
 
-**Year Published:** 2007
+### Author 
+Jon Gordon
 
-**Original Publication Year:** 2007
+### Author l-f 
+Gordon, Jon
 
-**Date Read:** 2021/04/07
+### Additional Authors
+Ken Blanchard
 
-**Date Added:** 2021/04/07
+### Publisher 
+Wiley
 
-**Bookshelves:** personal-development
+### Binding
+Hardcover
 
-**Bookshelves with positions:** personal-development (#31)
+### Number of Pages
+192
 
-**Exclusive Shelf:** read
+### Year Published
+2007
 
+### Original Publication Year 
+2007
 
-## My Review
+## user contributed data
 
+### My Rating
+2
+
+### Average Rating
+3.85
+
+### Date Read
+2021/04/07
+
+### Date Added
+2021/04/07
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+personal-development
+
+### Bookshelves with positions
+personal-development (#31)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Meh. A little too strong on the manifesting and lacks grit.<br/><br/>While its true that a positive attitude can improve things this book's fable lacks the punch of Patrick Lencioni and the tenacity of actual changes.<br/><br/>If you skip this book, the one good advice it has is identify your vision statement and focus on making it reality.

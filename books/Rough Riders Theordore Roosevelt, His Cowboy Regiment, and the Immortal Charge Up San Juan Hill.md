@@ -1,38 +1,87 @@
-## Rough Riders: Theordore Roosevelt, His Cowboy Regiment, and the Immortal Charge Up San Juan Hill
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Rough Riders: Theordore Roosevelt, His Cowboy Regiment, and the Immortal Charge Up San Juan Hill
+## Goodreads Data
 
-**Author:** Mark Lee Gardner
+### Book Id 
 
-**ISBN:** ="1504732669"
+29445916
 
-**ISBN13:** ="9781504732666"
+https://www.goodreads.com/book/show/29445916
 
-**My Rating:** 5
+## library information
 
-**Average Rating:** 4.05
+### ISBN 
+="1504732669"
 
-**Publisher:** HarperCollins
+### ISBN13 
+="9781504732666"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 1
+### Title
+Rough Riders: Theordore Roosevelt, His Cowboy Regiment, and the Immortal Charge Up San Juan Hill
 
-**Year Published:** 2016
+### Author 
+Mark Lee Gardner
 
-**Original Publication Year:** 2016
+### Author l-f 
+Gardner, Mark Lee
 
-**Date Read:** 2019/06/21
+### Additional Authors
+Danny Campbell
 
-**Date Added:** 2019/06/11
+### Publisher 
+HarperCollins
 
-**Bookshelves:** biography, history, leadership
+### Binding
+Audio CD
 
-**Bookshelves with positions:** biography (#17), history (#24), leadership (#3)
+### Number of Pages
+1
 
-**Exclusive Shelf:** read
+### Year Published
+2016
 
+### Original Publication Year 
+2016
 
-## My Review
+## user contributed data
 
+### My Rating
+5
+
+### Average Rating
+4.05
+
+### Date Read
+2019/06/21
+
+### Date Added
+2019/06/11
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+biography, history, leadership
+
+### Bookshelves with positions
+biography (#17), history (#24), leadership (#3)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 While it must be tough to separate the story of the Rough Riders from such a large figure in american history (Roosevelt). This book does a good job staying in the narrative of the Rough Riders formation, voyage and fighting spirit.

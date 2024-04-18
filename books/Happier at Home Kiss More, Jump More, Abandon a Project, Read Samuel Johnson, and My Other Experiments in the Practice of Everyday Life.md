@@ -1,38 +1,87 @@
-## Happier at Home: Kiss More, Jump More, Abandon a Project, Read Samuel Johnson, and My Other Experiments in the Practice of Everyday Life
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Happier at Home: Kiss More, Jump More, Abandon a Project, Read Samuel Johnson, and My Other Experiments in the Practice of Everyday Life
+## Goodreads Data
 
-**Author:** Gretchen Rubin
+### Book Id 
 
-**ISBN:** ="0449014401"
+16309811
 
-**ISBN13:** ="9780449014400"
+https://www.goodreads.com/book/show/16309811
 
-**My Rating:** 1
+## library information
 
-**Average Rating:** 3.54
+### ISBN 
+="0449014401"
 
-**Publisher:** Books on Tape
+### ISBN13 
+="9780449014400"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 10
+### Title
+Happier at Home: Kiss More, Jump More, Abandon a Project, Read Samuel Johnson, and My Other Experiments in the Practice of Everyday Life
 
-**Year Published:** 2012
+### Author 
+Gretchen Rubin
 
-**Original Publication Year:** 2012
+### Author l-f 
+Rubin, Gretchen
 
-**Date Read:** 
+### Additional Authors
+Käthe Mazur
 
-**Date Added:** 2018/10/12
+### Publisher 
+Books on Tape
 
-**Bookshelves:** did-not-finish
+### Binding
+Audio CD
 
-**Bookshelves with positions:** did-not-finish (#20)
+### Number of Pages
+10
 
-**Exclusive Shelf:** did-not-finish
+### Year Published
+2012
 
+### Original Publication Year 
+2012
 
-## My Review
+## user contributed data
 
+### My Rating
+1
+
+### Average Rating
+3.54
+
+### Date Read
+Empty
+
+### Date Added
+2018/10/12
+
+### Exclusive Shelf
+did-not-finish
+
+### Bookshelves
+did-not-finish
+
+### Bookshelves with positions
+did-not-finish (#20)
+
+### Read Count
+0
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 I'll save you the trouble. Read Benjamin Franklin Autobiography and his use of a virtues chart.<br/><br/>Everything else in this book is difficult to relate to as a common person. IE getting rid of 4 computers from my Manhattan apartment.

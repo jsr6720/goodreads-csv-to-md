@@ -1,38 +1,87 @@
-## Elon Musk: Tesla, Spacex, and the Quest for a Fantastic Future
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Elon Musk: Tesla, Spacex, and the Quest for a Fantastic Future
+## Goodreads Data
 
-**Author:** Ashlee Vance
+### Book Id 
 
-**ISBN:** ="1481533657"
+25728942
 
-**ISBN13:** ="9781481533652"
+https://www.goodreads.com/book/show/25728942
 
-**My Rating:** 4
+## library information
 
-**Average Rating:** 4.18
+### ISBN 
+="1481533657"
 
-**Publisher:** HarperCollins
+### ISBN13 
+="9781481533652"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 11
+### Title
+Elon Musk: Tesla, Spacex, and the Quest for a Fantastic Future
 
-**Year Published:** 2015
+### Author 
+Ashlee Vance
 
-**Original Publication Year:** 2015
+### Author l-f 
+Vance, Ashlee
 
-**Date Read:** 2016/07/27
+### Additional Authors
+Empty
 
-**Date Added:** 2016/05/31
+### Publisher 
+HarperCollins
 
-**Bookshelves:** biography
+### Binding
+Audio CD
 
-**Bookshelves with positions:** biography (#4)
+### Number of Pages
+11
 
-**Exclusive Shelf:** read
+### Year Published
+2015
 
+### Original Publication Year 
+2015
 
-## My Review
+## user contributed data
 
+### My Rating
+4
+
+### Average Rating
+4.18
+
+### Date Read
+2016/07/27
+
+### Date Added
+2016/05/31
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+biography
+
+### Bookshelves with positions
+biography (#4)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Good biography that traces Elon Musk's humble origins in South Africa all the way to running Solar City, Tesla and Space X. Really dug deep into the technical details which I liked.

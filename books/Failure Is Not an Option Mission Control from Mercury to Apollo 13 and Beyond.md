@@ -1,38 +1,87 @@
-## Failure Is Not an Option: Mission Control from Mercury to Apollo 13 and Beyond
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Failure Is Not an Option: Mission Control from Mercury to Apollo 13 and Beyond
+## Goodreads Data
 
-**Author:** Gene Kranz
+### Book Id 
 
-**ISBN:** ="1452603901"
+12064316
 
-**ISBN13:** ="9781452603902"
+https://www.goodreads.com/book/show/12064316
 
-**My Rating:** 5
+## library information
 
-**Average Rating:** 4.29
+### ISBN 
+="1452603901"
 
-**Publisher:** Tantor Media
+### ISBN13 
+="9781452603902"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 0
+### Title
+Failure Is Not an Option: Mission Control from Mercury to Apollo 13 and Beyond
 
-**Year Published:** 2011
+### Author 
+Gene Kranz
 
-**Original Publication Year:** 2000
+### Author l-f 
+Kranz, Gene
 
-**Date Read:** 2016/09/12
+### Additional Authors
+Danny Campbell
 
-**Date Added:** 2016/08/25
+### Publisher 
+Tantor Media
 
-**Bookshelves:** biography
+### Binding
+Audio CD
 
-**Bookshelves with positions:** biography (#1)
+### Number of Pages
+0
 
-**Exclusive Shelf:** read
+### Year Published
+2011
 
+### Original Publication Year 
+2000
 
-## My Review
+## user contributed data
 
+### My Rating
+5
+
+### Average Rating
+4.29
+
+### Date Read
+2016/09/12
+
+### Date Added
+2016/08/25
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+biography
+
+### Bookshelves with positions
+biography (#1)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 This was a fantastic book starting with Mercury and going through Apollo. Blow by blow accounts of mission control are riveting. I especially like rich background Kranz discusses over the course of the missions.

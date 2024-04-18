@@ -1,38 +1,87 @@
-## Private Empire: ExxonMobil and American Power
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Private Empire: ExxonMobil and American Power
+## Goodreads Data
 
-**Author:** Steve Coll
+### Book Id 
 
-**ISBN:** ="1611760720"
+13588080
 
-**ISBN13:** ="9781611760729"
+https://www.goodreads.com/book/show/13588080
 
-**My Rating:** 4
+## library information
 
-**Average Rating:** 3.99
+### ISBN 
+="1611760720"
 
-**Publisher:** Penguin Audio
+### ISBN13 
+="9781611760729"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 20
+### Title
+Private Empire: ExxonMobil and American Power
 
-**Year Published:** 2012
+### Author 
+Steve Coll
 
-**Original Publication Year:** 2012
+### Author l-f 
+Coll, Steve
 
-**Date Read:** 2018/12/23
+### Additional Authors
+Malcolm Hillgartner
 
-**Date Added:** 2018/02/15
+### Publisher 
+Penguin Audio
 
-**Bookshelves:** business
+### Binding
+Audio CD
 
-**Bookshelves with positions:** business (#53)
+### Number of Pages
+20
 
-**Exclusive Shelf:** read
+### Year Published
+2012
 
+### Original Publication Year 
+2012
 
-## My Review
+## user contributed data
 
+### My Rating
+4
+
+### Average Rating
+3.99
+
+### Date Read
+2018/12/23
+
+### Date Added
+2018/02/15
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+business
+
+### Bookshelves with positions
+business (#53)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Long. Detailed. History of Exxon mobile from its birth out of the standard oil breakup. This book covers the key players including brief Secretary of State Rex tillerson. <br/><br/>At 18 cds broke this into two readings but covers the entire globe. Almost a collection of short stories based on location. 
