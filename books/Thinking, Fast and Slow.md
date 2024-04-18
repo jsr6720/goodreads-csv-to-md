@@ -1,38 +1,87 @@
-## Thinking, Fast and Slow
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Thinking, Fast and Slow
+## Goodreads Data
 
-**Author:** Daniel Kahneman
+### Book Id 
 
-**ISBN:** ="0739357999"
+13135899
 
-**ISBN13:** ="9780739357996"
+https://www.goodreads.com/book/show/13135899
 
-**My Rating:** 5
+## library information
 
-**Average Rating:** 4.18
+### ISBN 
+="0739357999"
 
-**Publisher:** Random House Audio
+### ISBN13 
+="9780739357996"
 
-**Binding:** Audiobook
+## book information
 
-**Number of Pages:** 20
+### Title
+Thinking, Fast and Slow
 
-**Year Published:** 2011
+### Author 
+Daniel Kahneman
 
-**Original Publication Year:** 2011
+### Author l-f 
+Kahneman, Daniel
 
-**Date Read:** 2015/11/06
+### Additional Authors
+Patrick Egan
 
-**Date Added:** 2016/05/31
+### Publisher 
+Random House Audio
 
-**Bookshelves:** psychology, read-again
+### Binding
+Audiobook
 
-**Bookshelves with positions:** psychology (#5), read-again (#5)
+### Number of Pages
+20
 
-**Exclusive Shelf:** read
+### Year Published
+2011
 
+### Original Publication Year 
+2011
 
-## My Review
+## user contributed data
 
+### My Rating
+5
+
+### Average Rating
+4.18
+
+### Date Read
+2015/11/06
+
+### Date Added
+2016/05/31
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+psychology, read-again
+
+### Bookshelves with positions
+psychology (#5), read-again (#5)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 System 1 (amygdala, ancient brain) and system 2 (thoughtful top down executive brain)<br/>compete for making decision. System 2 is lazy and will often trust system 1 most of the time.<br/>This books summarizes the logical fallacy heuristics. How system 1 will generalize and make patterns<br/>from seemingly different groups. Focus on engaging system 2 to make informed judgement<br/>I find it ironic that Kahneman makes the case that success is often a mis-attribution of luck. The less<br/>someone knows the more he is apt to 'know everything'. But not him. his book is FACT!<br/><br/>Also talk on heuristics (biases) and simple problems substitution. How the laws of ECONs does not apply to humans as we can't act consistently rational. Final section on remembering self vs experiencing self.

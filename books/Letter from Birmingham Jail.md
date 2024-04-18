@@ -1,38 +1,87 @@
-## Letter from Birmingham Jail
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Letter from Birmingham Jail
+## Goodreads Data
 
-**Author:** Martin Luther King Jr.
+### Book Id 
 
-**ISBN:** ="161045748X"
+17623918
 
-**ISBN13:** ="9781610457484"
+https://www.goodreads.com/book/show/17623918
 
-**My Rating:** 5
+## library information
 
-**Average Rating:** 4.72
+### ISBN 
+="161045748X"
 
-**Publisher:** Mission Audio
+### ISBN13 
+="9781610457484"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 0
+### Title
+Letter from Birmingham Jail
 
-**Year Published:** 2013
+### Author 
+Martin Luther King Jr.
 
-**Original Publication Year:** 1963
+### Author l-f 
+Jr., Martin Luther King
 
-**Date Read:** 2018/09/06
+### Additional Authors
+Dion Graham
 
-**Date Added:** 2018/09/06
+### Publisher 
+Mission Audio
 
-**Bookshelves:** 
+### Binding
+Audio CD
 
-**Bookshelves with positions:** 
+### Number of Pages
+0
 
-**Exclusive Shelf:** read
+### Year Published
+2013
 
+### Original Publication Year 
+1963
 
-## My Review
+## user contributed data
 
+### My Rating
+5
+
+### Average Rating
+4.72
+
+### Date Read
+2018/09/06
+
+### Date Added
+2018/09/06
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+Empty
+
+### Bookshelves with positions
+Empty
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Nice to listen to the source material.

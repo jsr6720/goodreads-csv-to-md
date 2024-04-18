@@ -1,38 +1,87 @@
-## Aesop's Fables
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Aesop's Fables
+## Goodreads Data
 
-**Author:** Aesop
+### Book Id 
 
-**ISBN:** ="1400138914"
+8873903
 
-**ISBN13:** ="9781400138913"
+https://www.goodreads.com/book/show/8873903
 
-**My Rating:** 5
+## library information
 
-**Average Rating:** 4.05
+### ISBN 
+="1400138914"
 
-**Publisher:** Tantor Media
+### ISBN13 
+="9781400138913"
 
-**Binding:** Audio CD + ebook
+## book information
 
-**Number of Pages:** 0
+### Title
+Aesop's Fables
 
-**Year Published:** 2008
+### Author 
+Aesop
 
-**Original Publication Year:** -560
+### Author l-f 
+Aesop, Aesop
 
-**Date Read:** 2015/07/14
+### Additional Authors
+Jonathan Kent
 
-**Date Added:** 2016/05/31
+### Publisher 
+Tantor Media
 
-**Bookshelves:** classics, read-again
+### Binding
+Audio CD + ebook
 
-**Bookshelves with positions:** classics (#1), read-again (#3)
+### Number of Pages
+0
 
-**Exclusive Shelf:** read
+### Year Published
+2008
 
+### Original Publication Year 
+-560
 
-## My Review
+## user contributed data
 
+### My Rating
+5
+
+### Average Rating
+4.05
+
+### Date Read
+2015/07/14
+
+### Date Added
+2016/05/31
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+classics, read-again
+
+### Bookshelves with positions
+classics (#1), read-again (#3)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Very fun listen. Didn't realize so many stories with morals were from so ancient a time.

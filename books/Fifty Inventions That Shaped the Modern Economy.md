@@ -1,38 +1,87 @@
-## Fifty Inventions That Shaped the Modern Economy
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Fifty Inventions That Shaped the Modern Economy
+## Goodreads Data
 
-**Author:** Tim Harford
+### Book Id 
 
-**ISBN:** ="0735216134"
+33358206
 
-**ISBN13:** ="9780735216136"
+https://www.goodreads.com/book/show/33358206
 
-**My Rating:** 4
+## library information
 
-**Average Rating:** 4.07
+### ISBN 
+="0735216134"
 
-**Publisher:** Riverhead Books
+### ISBN13 
+="9780735216136"
 
-**Binding:** Hardcover
+## book information
 
-**Number of Pages:** 336
+### Title
+Fifty Inventions That Shaped the Modern Economy
 
-**Year Published:** 2017
+### Author 
+Tim Harford
 
-**Original Publication Year:** 2017
+### Author l-f 
+Harford, Tim
 
-**Date Read:** 2020/11/08
+### Additional Authors
+Empty
 
-**Date Added:** 2020/11/08
+### Publisher 
+Riverhead Books
 
-**Bookshelves:** 
+### Binding
+Hardcover
 
-**Bookshelves with positions:** 
+### Number of Pages
+336
 
-**Exclusive Shelf:** read
+### Year Published
+2017
 
+### Original Publication Year 
+2017
 
-## My Review
+## user contributed data
 
+### My Rating
+4
+
+### Average Rating
+4.07
+
+### Date Read
+2020/11/08
+
+### Date Added
+2020/11/08
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+Empty
+
+### Bookshelves with positions
+Empty
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Quick light read overview of the threads of humanity through the lens of specific inventions. More specifically constellations of inventions. Ie paper plus printing press equals fiat money. <br/><br/>Fun and interesting. Would recommend. 

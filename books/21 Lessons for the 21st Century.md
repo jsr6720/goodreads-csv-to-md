@@ -1,38 +1,87 @@
-## 21 Lessons for the 21st Century
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** 21 Lessons for the 21st Century
+## Goodreads Data
 
-**Author:** Yuval Noah Harari
+### Book Id 
 
-**ISBN:** ="0525639853"
+39025805
 
-**ISBN13:** ="9780525639855"
+https://www.goodreads.com/book/show/39025805
 
-**My Rating:** 4
+## library information
 
-**Average Rating:** 4.17
+### ISBN 
+="0525639853"
 
-**Publisher:** Random House Audio
+### ISBN13 
+="9780525639855"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 0
+### Title
+21 Lessons for the 21st Century
 
-**Year Published:** 2018
+### Author 
+Yuval Noah Harari
 
-**Original Publication Year:** 2018
+### Author l-f 
+Harari, Yuval Noah
 
-**Date Read:** 2019/02/05
+### Additional Authors
+Empty
 
-**Date Added:** 2019/01/25
+### Publisher 
+Random House Audio
 
-**Bookshelves:** 
+### Binding
+Audio CD
 
-**Bookshelves with positions:** 
+### Number of Pages
+0
 
-**Exclusive Shelf:** read
+### Year Published
+2018
 
+### Original Publication Year 
+2018
 
-## My Review
+## user contributed data
 
+### My Rating
+4
+
+### Average Rating
+4.17
+
+### Date Read
+2019/02/05
+
+### Date Added
+2019/01/25
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+Empty
+
+### Bookshelves with positions
+Empty
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Depressing book. Life is just a swirl of Neurons firing and everything is a story refuted by science. <br/><br/>Not a list of skills but a collection of  thoughts of the future and how knowing thyself is the best protection against the algorithms. 

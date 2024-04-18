@@ -1,0 +1,87 @@
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
+
+## Goodreads Data
+
+### Book Id 
+
+25728942
+
+https://www.goodreads.com/book/show/25728942
+
+## library information
+
+### ISBN 
+="1481533657"
+
+### ISBN13 
+="9781481533652"
+
+## book information
+
+### Title
+Elon Musk: Tesla, Spacex, and the Quest for a Fantastic Future
+
+### Author 
+Ashlee Vance
+
+### Author l-f 
+Vance, Ashlee
+
+### Additional Authors
+Empty
+
+### Publisher 
+HarperCollins
+
+### Binding
+Audio CD
+
+### Number of Pages
+11
+
+### Year Published
+2015
+
+### Original Publication Year 
+2015
+
+## user contributed data
+
+### My Rating
+4
+
+### Average Rating
+4.18
+
+### Date Read
+2016/07/27
+
+### Date Added
+2016/05/31
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+biography
+
+### Bookshelves with positions
+biography (#4)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
+Good biography that traces Elon Musk's humble origins in South Africa all the way to running Solar City, Tesla and Space X. Really dug deep into the technical details which I liked.

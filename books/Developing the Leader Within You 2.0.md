@@ -1,38 +1,87 @@
-## Developing the Leader Within You 2.0
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Developing the Leader Within You 2.0
+## Goodreads Data
 
-**Author:** John C. Maxwell
+### Book Id 
 
-**ISBN:** ="1543638066"
+35433815
 
-**ISBN13:** ="9781543638066"
+https://www.goodreads.com/book/show/35433815
 
-**My Rating:** 4
+## library information
 
-**Average Rating:** 4.30
+### ISBN 
+="1543638066"
 
-**Publisher:** Thomas Nelson on Brilliance Audio
+### ISBN13 
+="9781543638066"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 
+### Title
+Developing the Leader Within You 2.0
 
-**Year Published:** 2018
+### Author 
+John C. Maxwell
 
-**Original Publication Year:** 2018
+### Author l-f 
+Maxwell, John C.
 
-**Date Read:** 2019/06/07
+### Additional Authors
+Empty
 
-**Date Added:** 2019/05/14
+### Publisher 
+Thomas Nelson on Brilliance Audio
 
-**Bookshelves:** 
+### Binding
+Audio CD
 
-**Bookshelves with positions:** 
+### Number of Pages
+Empty
 
-**Exclusive Shelf:** read
+### Year Published
+2018
 
+### Original Publication Year 
+2018
 
-## My Review
+## user contributed data
 
+### My Rating
+4
+
+### Average Rating
+4.30
+
+### Date Read
+2019/06/07
+
+### Date Added
+2019/05/14
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+Empty
+
+### Bookshelves with positions
+Empty
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 An update to the original. I found that maxwell still has a great message. But I liked the first edition better. <br/><br/>In a nutshell. Always be growing. Always be learning. <br/><br/>Nothing meaningful or worthwhile happens by accident. Those journeys are always uphill. 

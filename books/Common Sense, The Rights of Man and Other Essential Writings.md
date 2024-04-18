@@ -1,38 +1,87 @@
-## Common Sense, The Rights of Man and Other Essential Writings
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Common Sense, The Rights of Man and Other Essential Writings
+## Goodreads Data
 
-**Author:** Thomas Paine
+### Book Id 
 
-**ISBN:** ="0451528891"
+99955
 
-**ISBN13:** ="9780451528896"
+https://www.goodreads.com/book/show/99955
 
-**My Rating:** 4
+## library information
 
-**Average Rating:** 4.14
+### ISBN 
+="0451528891"
 
-**Publisher:** Signet
+### ISBN13 
+="9780451528896"
 
-**Binding:** Paperback
+## book information
 
-**Number of Pages:** 416
+### Title
+Common Sense, The Rights of Man and Other Essential Writings
 
-**Year Published:** 2003
+### Author 
+Thomas Paine
 
-**Original Publication Year:** 1776
+### Author l-f 
+Paine, Thomas
 
-**Date Read:** 2017/01/29
+### Additional Authors
+Jack Fruchtman Jr., Sidney Hook
 
-**Date Added:** 2017/01/29
+### Publisher 
+Signet
 
-**Bookshelves:** history, classics
+### Binding
+Paperback
 
-**Bookshelves with positions:** history (#10), classics (#4)
+### Number of Pages
+416
 
-**Exclusive Shelf:** read
+### Year Published
+2003
 
+### Original Publication Year 
+1776
 
-## My Review
+## user contributed data
 
+### My Rating
+4
+
+### Average Rating
+4.14
+
+### Date Read
+2017/01/29
+
+### Date Added
+2017/01/29
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+history, classics
+
+### Bookshelves with positions
+history (#10), classics (#4)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Great read to fill in some of the thoughts prior to the revolution. Funny how in 250 years politics still hasn't changed. Those who disagree with Paine are fools. <br/><br/>Personally read as part of becks book. 

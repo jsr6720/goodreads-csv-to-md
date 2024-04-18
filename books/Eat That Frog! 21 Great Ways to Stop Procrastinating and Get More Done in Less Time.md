@@ -1,38 +1,87 @@
-## Eat That Frog! 21 Great Ways to Stop Procrastinating and Get More Done in Less Time
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Eat That Frog! 21 Great Ways to Stop Procrastinating and Get More Done in Less Time
+## Goodreads Data
 
-**Author:** Brian Tracy
+### Book Id 
 
-**ISBN:** ="1572707208"
+1399615
 
-**ISBN13:** ="9781572707207"
+https://www.goodreads.com/book/show/1399615
 
-**My Rating:** 5
+## library information
 
-**Average Rating:** 3.87
+### ISBN 
+="1572707208"
 
-**Publisher:** BBC Audiobooks America
+### ISBN13 
+="9781572707207"
 
-**Binding:** Audiobook
+## book information
 
-**Number of Pages:** 3
+### Title
+Eat That Frog! 21 Great Ways to Stop Procrastinating and Get More Done in Less Time
 
-**Year Published:** 2007
+### Author 
+Brian Tracy
 
-**Original Publication Year:** 2001
+### Author l-f 
+Tracy, Brian
 
-**Date Read:** 2016/03/03
+### Additional Authors
+Empty
 
-**Date Added:** 2016/05/31
+### Publisher 
+BBC Audiobooks America
 
-**Bookshelves:** personal-development, read-again
+### Binding
+Audiobook
 
-**Bookshelves with positions:** personal-development (#4), read-again (#2)
+### Number of Pages
+3
 
-**Exclusive Shelf:** read
+### Year Published
+2007
 
+### Original Publication Year 
+2001
 
-## My Review
+## user contributed data
 
+### My Rating
+5
+
+### Average Rating
+3.87
+
+### Date Read
+2016/03/03
+
+### Date Added
+2016/05/31
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+personal-development, read-again
+
+### Bookshelves with positions
+personal-development (#4), read-again (#2)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 A short book that summarizes 21 effective habits against procrastination. It also draws on a huge body of work including Covey, Maxwell, Drucker and others. Definitely on the list for listening to again.<br/>Make no mistake what this book lacks in length it makes up for in density.<br/><br/>Primarily a focus on gathering strength to focus on the most important task and accomplishing it. Either via time method (a little bit each day) or task method (one slice at a time). ABCDE method of priority. ABC are your most important tasks A - serious consequences if I don't do it, B - mild consequences if I don't do it, C - no consequences. D - delegate to others, E - eliminate. Once tasks are rated this way it becomes very clear the course of action to take. This planning should be done nightly, weekly, monthly, yearly.<br/><br/>3 D's Desire, Determination, Discipline. Sounds a lot like Napoleon Hill. The frog metaphor is to tackle the task that you alone can do that gives the most value to the organization. In fact many people use 'activity' as a cover for lack of results. It's not enough to be moving, you have to be delivering results. Even the ants look busy.

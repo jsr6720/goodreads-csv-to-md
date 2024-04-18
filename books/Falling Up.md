@@ -1,38 +1,87 @@
-## Falling Up
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Falling Up
+## Goodreads Data
 
-**Author:** Shel Silverstein
+### Book Id 
 
-**ISBN:** ="0060513098"
+30120
 
-**ISBN13:** ="9780060513092"
+https://www.goodreads.com/book/show/30120
 
-**My Rating:** 5
+## library information
 
-**Average Rating:** 4.35
+### ISBN 
+="0060513098"
 
-**Publisher:** Harpercollins Childrens Books
+### ISBN13 
+="9780060513092"
 
-**Binding:** Hardcover
+## book information
 
-**Number of Pages:** 178
+### Title
+Falling Up
 
-**Year Published:** 2003
+### Author 
+Shel Silverstein
 
-**Original Publication Year:** 1996
+### Author l-f 
+Silverstein, Shel
 
-**Date Read:** 2021/04/27
+### Additional Authors
+Empty
 
-**Date Added:** 2021/04/27
+### Publisher 
+Harpercollins Childrens Books
 
-**Bookshelves:** poetry, childhood-favorite
+### Binding
+Hardcover
 
-**Bookshelves with positions:** poetry (#2), childhood-favorite (#7)
+### Number of Pages
+178
 
-**Exclusive Shelf:** read
+### Year Published
+2003
 
+### Original Publication Year 
+1996
 
-## My Review
+## user contributed data
 
+### My Rating
+5
+
+### Average Rating
+4.35
+
+### Date Read
+2021/04/27
+
+### Date Added
+2021/04/27
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+poetry, childhood-favorite
+
+### Bookshelves with positions
+poetry (#2), childhood-favorite (#7)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Revisiting another childhood favorite. Kids loved it. Great reminder of the fun things in life.

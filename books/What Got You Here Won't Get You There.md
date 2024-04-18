@@ -1,38 +1,87 @@
-## What Got You Here Won't Get You There
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** What Got You Here Won't Get You There
+## Goodreads Data
 
-**Author:** Marshall Goldsmith
+### Book Id 
 
-**ISBN:** =""
+84525
 
-**ISBN13:** ="9781781251560"
+https://www.goodreads.com/book/show/84525
 
-**My Rating:** 5
+## library information
 
-**Average Rating:** 3.96
+### ISBN 
+=""
 
-**Publisher:** PROFILE BOOKS
+### ISBN13 
+="9781781251560"
 
-**Binding:** Paperback
+## book information
 
-**Number of Pages:** 256
+### Title
+What Got You Here Won't Get You There
 
-**Year Published:** 2013
+### Author 
+Marshall Goldsmith
 
-**Original Publication Year:** 2006
+### Author l-f 
+Goldsmith, Marshall
 
-**Date Read:** 
+### Additional Authors
+Empty
 
-**Date Added:** 2016/05/31
+### Publisher 
+PROFILE BOOKS
 
-**Bookshelves:** read-again, business, personal-development
+### Binding
+Paperback
 
-**Bookshelves with positions:** read-again (#11), business (#13), personal-development (#10)
+### Number of Pages
+256
 
-**Exclusive Shelf:** read
+### Year Published
+2013
 
+### Original Publication Year 
+2006
 
-## My Review
+## user contributed data
 
+### My Rating
+5
 
+### Average Rating
+3.96
+
+### Date Read
+Empty
+
+### Date Added
+2016/05/31
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+read-again, business, personal-development
+
+### Bookshelves with positions
+read-again (#11), business (#13), personal-development (#10)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
+Empty

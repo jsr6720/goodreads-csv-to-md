@@ -1,38 +1,87 @@
-## Leadership 101
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Leadership 101
+## Goodreads Data
 
-**Author:** John C. Maxwell
+### Book Id 
 
-**ISBN:** ="1596448318"
+9917744
 
-**ISBN13:** ="9781596448315"
+https://www.goodreads.com/book/show/9917744
 
-**My Rating:** 5
+## library information
 
-**Average Rating:** 4.14
+### ISBN 
+="1596448318"
 
-**Publisher:** Christian Audio
+### ISBN13 
+="9781596448315"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 0
+### Title
+Leadership 101
 
-**Year Published:** 2009
+### Author 
+John C. Maxwell
 
-**Original Publication Year:** 
+### Author l-f 
+Maxwell, John C.
 
-**Date Read:** 2015/08/21
+### Additional Authors
+Sean Runnette
 
-**Date Added:** 2016/10/11
+### Publisher 
+Christian Audio
 
-**Bookshelves:** business, personal-development, read-again
+### Binding
+Audio CD
 
-**Bookshelves with positions:** business (#8), personal-development (#8), read-again (#8)
+### Number of Pages
+0
 
-**Exclusive Shelf:** read
+### Year Published
+2009
 
+### Original Publication Year 
+Empty
 
-## My Review
+## user contributed data
 
+### My Rating
+5
+
+### Average Rating
+4.14
+
+### Date Read
+2015/08/21
+
+### Date Added
+2016/10/11
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+business, personal-development, read-again
+
+### Bookshelves with positions
+business (#8), personal-development (#8), read-again (#8)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Excellent summary of Leadership. Need to get the full version. Lots of references to Covey's material.

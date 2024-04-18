@@ -1,38 +1,87 @@
-## Magician's Gambit (The Belgariad #3)
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Magician's Gambit (The Belgariad #3)
+## Goodreads Data
 
-**Author:** David Eddings
+### Book Id 
 
-**ISBN:** ="0345335457"
+44688
 
-**ISBN13:** ="9780345335456"
+https://www.goodreads.com/book/show/44688
 
-**My Rating:** 5
+## library information
 
-**Average Rating:** 4.15
+### ISBN 
+="0345335457"
 
-**Publisher:** Del Rey
+### ISBN13 
+="9780345335456"
 
-**Binding:** Mass Market Paperback
+## book information
 
-**Number of Pages:** 305
+### Title
+Magician's Gambit (The Belgariad #3)
 
-**Year Published:** 1983
+### Author 
+David Eddings
 
-**Original Publication Year:** 1983
+### Author l-f 
+Eddings, David
 
-**Date Read:** 2021/03/07
+### Additional Authors
+Empty
 
-**Date Added:** 2021/03/16
+### Publisher 
+Del Rey
 
-**Bookshelves:** fantasy, childhood-favorite
+### Binding
+Mass Market Paperback
 
-**Bookshelves with positions:** fantasy (#2), childhood-favorite (#2)
+### Number of Pages
+305
 
-**Exclusive Shelf:** read
+### Year Published
+1983
 
+### Original Publication Year 
+1983
 
-## My Review
+## user contributed data
 
+### My Rating
+5
+
+### Average Rating
+4.15
+
+### Date Read
+2021/03/07
+
+### Date Added
+2021/03/16
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+fantasy, childhood-favorite
+
+### Bookshelves with positions
+fantasy (#2), childhood-favorite (#2)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Picked this up from my childhood pile to give it a reread. I found all my favorite characters. One thing I do wish I could un-see though is all the similarities to other works of fiction in the same time period. All and all a great trip back in time.

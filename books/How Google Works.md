@@ -1,38 +1,87 @@
-## How Google Works
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** How Google Works
+## Goodreads Data
 
-**Author:** Eric Schmidt
+### Book Id 
 
-**ISBN:** ="1478983523"
+20549465
 
-**ISBN13:** ="9781478983521"
+https://www.goodreads.com/book/show/20549465
 
-**My Rating:** 4
+## library information
 
-**Average Rating:** 4.05
+### ISBN 
+="1478983523"
 
-**Publisher:** Grand Central Publishing
+### ISBN13 
+="9781478983521"
 
-**Binding:** Audio CD
+## book information
 
-**Number of Pages:** 8
+### Title
+How Google Works
 
-**Year Published:** 2014
+### Author 
+Eric Schmidt
 
-**Original Publication Year:** 2014
+### Author l-f 
+Schmidt, Eric
 
-**Date Read:** 2017/11/07
+### Additional Authors
+Jonathan Rosenberg, Alan Eagle, Holter Graham
 
-**Date Added:** 2017/11/08
+### Publisher 
+Grand Central Publishing
 
-**Bookshelves:** business
+### Binding
+Audio CD
 
-**Bookshelves with positions:** business (#33)
+### Number of Pages
+8
 
-**Exclusive Shelf:** read
+### Year Published
+2014
 
+### Original Publication Year 
+2014
 
-## My Review
+## user contributed data
 
+### My Rating
+4
+
+### Average Rating
+4.05
+
+### Date Read
+2017/11/07
+
+### Date Added
+2017/11/08
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+business
+
+### Bookshelves with positions
+business (#33)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 A collection of short anecdotes about Google and its management practices.<br/><br/>Coined the phrase "smart-creative" which is the evolution of Drucker's "knowledge worker". These smart creatives drive company growth by turning technical insights into marketable products.<br/>

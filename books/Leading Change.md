@@ -1,38 +1,87 @@
-## Leading Change
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Leading Change
+## Goodreads Data
 
-**Author:** John P. Kotter
+### Book Id 
 
-**ISBN:** ="0875847471"
+51370
 
-**ISBN13:** ="9780875847474"
+https://www.goodreads.com/book/show/51370
 
-**My Rating:** 5
+## library information
 
-**Average Rating:** 4.03
+### ISBN 
+="0875847471"
 
-**Publisher:** Harvard Business School Pr
+### ISBN13 
+="9780875847474"
 
-**Binding:** Audiobook
+## book information
 
-**Number of Pages:** 187
+### Title
+Leading Change
 
-**Year Published:** 1996
+### Author 
+John P. Kotter
 
-**Original Publication Year:** 1988
+### Author l-f 
+Kotter, John P.
 
-**Date Read:** 2020/10/12
+### Additional Authors
+Empty
 
-**Date Added:** 2020/10/11
+### Publisher 
+Harvard Business School Pr
 
-**Bookshelves:** business, leadership, management, personal-development, read-again
+### Binding
+Audiobook
 
-**Bookshelves with positions:** business (#58), leadership (#7), management (#12), personal-development (#26), read-again (#23)
+### Number of Pages
+187
 
-**Exclusive Shelf:** read
+### Year Published
+1996
 
+### Original Publication Year 
+1988
 
-## My Review
+## user contributed data
 
+### My Rating
+5
+
+### Average Rating
+4.03
+
+### Date Read
+2020/10/12
+
+### Date Added
+2020/10/11
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+business, leadership, management, personal-development, read-again
+
+### Bookshelves with positions
+business (#58), leadership (#7), management (#12), personal-development (#26), read-again (#23)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 This is a comprehensive blueprint for leading change in an organization. It details the difference between being a manager and being a leader. One is title based, anyone can be a leader. Communication underpins all of the phases to changes, and it can take years to establish a measurable culture shift.<br/><br/>Great book for anyone who is responsible for leading change at any level of the organization.

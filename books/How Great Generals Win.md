@@ -1,38 +1,87 @@
-## How Great Generals Win
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** How Great Generals Win
+## Goodreads Data
 
-**Author:** Bevin Alexander
+### Book Id 
 
-**ISBN:** ="0786109092"
+11914590
 
-**ISBN13:** ="9780786109098"
+https://www.goodreads.com/book/show/11914590
 
-**My Rating:** 4
+## library information
 
-**Average Rating:** 3.78
+### ISBN 
+="0786109092"
 
-**Publisher:** Blackstone Pub
+### ISBN13 
+="9780786109098"
 
-**Binding:** Audio Cassette
+## book information
 
-**Number of Pages:** 0
+### Title
+How Great Generals Win
 
-**Year Published:** 1995
+### Author 
+Bevin Alexander
 
-**Original Publication Year:** 1993
+### Author l-f 
+Alexander, Bevin
 
-**Date Read:** 2015/08/15
+### Additional Authors
+James Slattery
 
-**Date Added:** 2016/10/11
+### Publisher 
+Blackstone Pub
 
-**Bookshelves:** history
+### Binding
+Audio Cassette
 
-**Bookshelves with positions:** history (#7)
+### Number of Pages
+0
 
-**Exclusive Shelf:** read
+### Year Published
+1995
 
+### Original Publication Year 
+1993
 
-## My Review
+## user contributed data
 
+### My Rating
+4
+
+### Average Rating
+3.78
+
+### Date Read
+2015/08/15
+
+### Date Added
+2016/10/11
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+history
+
+### Bookshelves with positions
+history (#7)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Barred from a 4 based on it's overly dry approach to battle movements. Most interesting part of the book was footnotes on the evolution of battle and war technology. Would recommend to the right person.

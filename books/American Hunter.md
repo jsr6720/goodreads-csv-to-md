@@ -1,38 +1,87 @@
-## American Hunter
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** American Hunter
+## Goodreads Data
 
-**Author:** Willie Robertson
+### Book Id 
 
-**ISBN:** ="1442388242"
+25110847
 
-**ISBN13:** ="9781442388246"
+https://www.goodreads.com/book/show/25110847
 
-**My Rating:** 1
+## library information
 
-**Average Rating:** 3.80
+### ISBN 
+="1442388242"
 
-**Publisher:** Simon  Schuster Audio
+### ISBN13 
+="9781442388246"
 
-**Binding:** Audiobook
+## book information
 
-**Number of Pages:** 
+### Title
+American Hunter
 
-**Year Published:** 2015
+### Author 
+Willie Robertson
 
-**Original Publication Year:** 2015
+### Author l-f 
+Robertson, Willie
 
-**Date Read:** 
+### Additional Authors
+William  Doyle
 
-**Date Added:** 2018/09/18
+### Publisher 
+Simon  Schuster Audio
 
-**Bookshelves:** did-not-finish
+### Binding
+Audiobook
 
-**Bookshelves with positions:** did-not-finish (#19)
+### Number of Pages
+Empty
 
-**Exclusive Shelf:** did-not-finish
+### Year Published
+2015
 
+### Original Publication Year 
+2015
 
-## My Review
+## user contributed data
 
+### My Rating
+1
+
+### Average Rating
+3.80
+
+### Date Read
+Empty
+
+### Date Added
+2018/09/18
+
+### Exclusive Shelf
+did-not-finish
+
+### Bookshelves
+did-not-finish
+
+### Bookshelves with positions
+did-not-finish (#19)
+
+### Read Count
+0
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Didn't finish. Book was a collection of anecdotes about his personal life, uninteresting, and previous hunter's lives which barely scratched the surface of their rich history.<br/><br/>Moral: people who spend time outdoors are more 'rugged' than those who spend time indoors.

@@ -1,38 +1,87 @@
-## Dont Sweat the Small Stuff and Its All Small Stuff
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Dont Sweat the Small Stuff and Its All Small Stuff
+## Goodreads Data
 
-**Author:** Richard Carlson
+### Book Id 
 
-**ISBN:** ="0671046217"
+508637
 
-**ISBN13:** ="9780671046217"
+https://www.goodreads.com/book/show/508637
 
-**My Rating:** 4
+## library information
 
-**Average Rating:** 4.00
+### ISBN 
+="0671046217"
 
-**Publisher:** Simon & Schuster Audio
+### ISBN13 
+="9780671046217"
 
-**Binding:** Audio Cassette
+## book information
 
-**Number of Pages:** 0
+### Title
+Dont Sweat the Small Stuff and Its All Small Stuff
 
-**Year Published:** 1999
+### Author 
+Richard Carlson
 
-**Original Publication Year:** 1997
+### Author l-f 
+Carlson, Richard
 
-**Date Read:** 2016/06/05
+### Additional Authors
+Empty
 
-**Date Added:** 2016/09/29
+### Publisher 
+Simon & Schuster Audio
 
-**Bookshelves:** personal-development
+### Binding
+Audio Cassette
 
-**Bookshelves with positions:** personal-development (#6)
+### Number of Pages
+0
 
-**Exclusive Shelf:** read
+### Year Published
+1999
 
+### Original Publication Year 
+1997
 
-## My Review
+## user contributed data
 
+### My Rating
+4
+
+### Average Rating
+4.00
+
+### Date Read
+2016/06/05
+
+### Date Added
+2016/09/29
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+personal-development
+
+### Bookshelves with positions
+personal-development (#6)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 An alternative title could be "strategies for living a peaceful life" and while it would be more descriptive of the contents of the book, the original title is very effective at capturing my attention. <br/><br/>Two things I've learned from this book: your inbox will still be full when you die, and life is too short to sweat the small stuff. Think of any incident and think of it's importance in 1, 10, 100 years. The great majority of our daily interactions will be rendered moot by this analysis. See also 80/20 principle.

@@ -1,38 +1,87 @@
-## Steve Jobs
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Steve Jobs
+## Goodreads Data
 
-**Author:** Walter Isaacson
+### Book Id 
 
-**ISBN:** ="1451648537"
+11084145
 
-**ISBN13:** ="9781451648539"
+https://www.goodreads.com/book/show/11084145
 
-**My Rating:** 4
+## library information
 
-**Average Rating:** 4.16
+### ISBN 
+="1451648537"
 
-**Publisher:** Simon & Schuster
+### ISBN13 
+="9781451648539"
 
-**Binding:** Hardcover
+## book information
 
-**Number of Pages:** 630
+### Title
+Steve Jobs
 
-**Year Published:** 2011
+### Author 
+Walter Isaacson
 
-**Original Publication Year:** 2011
+### Author l-f 
+Isaacson, Walter
 
-**Date Read:** 2019/04/26
+### Additional Authors
+Empty
 
-**Date Added:** 2016/05/31
+### Publisher 
+Simon & Schuster
 
-**Bookshelves:** business, biography, management
+### Binding
+Hardcover
 
-**Bookshelves with positions:** business (#55), biography (#16), management (#9)
+### Number of Pages
+630
 
-**Exclusive Shelf:** read
+### Year Published
+2011
 
+### Original Publication Year 
+2011
 
-## My Review
+## user contributed data
 
+### My Rating
+4
+
+### Average Rating
+4.16
+
+### Date Read
+2019/04/26
+
+### Date Added
+2016/05/31
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+business, biography, management
+
+### Bookshelves with positions
+business (#55), biography (#16), management (#9)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 Great book that covers Jobs life and history. Picked this up as it was the 'official' biography even though there are other books out there. Isaacson bends delves deep into the weeds of Jobs idiosyncrasies that may or not be related to Jobs success. <br/><br/>Were Jobs' diets weird? Sure. Did I need to know that he embodied the smelly hippie with pilgrimages to India. Interesting, but no thanks. Great coverage on the technical aspects of the early Apple computers. <br/><br/>Isaacson also points out multiple times that Jobs harsh style was not necessary for the success of his company. Unfounded statement that sounds nice on paper but ignores the scores of stories he documented as "Jobs told us the impossible was possible and most of the time it was".

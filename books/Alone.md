@@ -1,38 +1,87 @@
-## Alone
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** Alone
+## Goodreads Data
 
-**Author:** Michael Korda
+### Book Id 
 
-**ISBN:** ="1543674151"
+36398011
 
-**ISBN13:** ="9781543674156"
+https://www.goodreads.com/book/show/36398011
 
-**My Rating:** 4
+## library information
 
-**Average Rating:** 4.10
+### ISBN 
+="1543674151"
 
-**Publisher:** Audible Studios on Brilliance Audio
+### ISBN13 
+="9781543674156"
 
-**Binding:** MP3 CD
+## book information
 
-**Number of Pages:** 13
+### Title
+Alone
 
-**Year Published:** 2017
+### Author 
+Michael Korda
 
-**Original Publication Year:** 2017
+### Author l-f 
+Korda, Michael
 
-**Date Read:** 2019/08/05
+### Additional Authors
+John Lee
 
-**Date Added:** 2019/07/22
+### Publisher 
+Audible Studios on Brilliance Audio
 
-**Bookshelves:** history
+### Binding
+MP3 CD
 
-**Bookshelves with positions:** history (#26)
+### Number of Pages
+13
 
-**Exclusive Shelf:** read
+### Year Published
+2017
 
+### Original Publication Year 
+2017
 
-## My Review
+## user contributed data
 
+### My Rating
+4
+
+### Average Rating
+4.10
+
+### Date Read
+2019/08/05
+
+### Date Added
+2019/07/22
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+history
+
+### Bookshelves with positions
+history (#26)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 If you ever wonder what the Thief of Baghdad, or "That Lady Hamilton" had to do with WWII and the British defeat at Dunkirk look no further than this book.<br/><br/>Michael Korda weaves his personal narrative of 6-7 years old into the saga of WWII. Warning he comes from a pampered rich background and acknowledges this in the book. Not many boys had full time nannies and trans-Atlantic flights in the 40's.<br/><br/>Great book that covers the events leading up to the evacuation of Dunkirk including how both sides reacted to getting the British forces off the main continent.

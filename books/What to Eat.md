@@ -1,38 +1,87 @@
-## What to Eat
+<!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-**Title:** What to Eat
+## Goodreads Data
 
-**Author:** Marion Nestle
+### Book Id 
 
-**ISBN:** ="0865477043"
+75182
 
-**ISBN13:** ="9780865477049"
+https://www.goodreads.com/book/show/75182
 
-**My Rating:** 5
+## library information
 
-**Average Rating:** 4.03
+### ISBN 
+="0865477043"
 
-**Publisher:** North Point Press
+### ISBN13 
+="9780865477049"
 
-**Binding:** Hardcover
+## book information
 
-**Number of Pages:** 624
+### Title
+What to Eat
 
-**Year Published:** 2006
+### Author 
+Marion Nestle
 
-**Original Publication Year:** 2006
+### Author l-f 
+Nestle, Marion
 
-**Date Read:** 2021/05/31
+### Additional Authors
+Empty
 
-**Date Added:** 2021/04/24
+### Publisher 
+North Point Press
 
-**Bookshelves:** food, personal-development
+### Binding
+Hardcover
 
-**Bookshelves with positions:** food (#4), personal-development (#33)
+### Number of Pages
+624
 
-**Exclusive Shelf:** read
+### Year Published
+2006
 
+### Original Publication Year 
+2006
 
-## My Review
+## user contributed data
 
+### My Rating
+5
+
+### Average Rating
+4.03
+
+### Date Read
+2021/05/31
+
+### Date Added
+2021/04/24
+
+### Exclusive Shelf
+read
+
+### Bookshelves
+food, personal-development
+
+### Bookshelves with positions
+food (#4), personal-development (#33)
+
+### Read Count
+1
+
+### Owned Copies
+0
+
+### Spoiler 
+Empty
+
+## Review
+
+### Private Notes
+Empty
+
+### My Review
 This is a great look of HOW to go grocery shopping. With a look at mostly NY stores it offers a great insight in how best to shop and feed your body.
