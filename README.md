@@ -4,6 +4,14 @@ Takes an exported Goodreads CSV and generates markdown files targeting jekyll md
 
 They[citation needed](https://xkcd.com/285/) say the brain can't tell the difference between audio books and physical books, majority of this list was consumed via audioCD during my commute to/from work.
 
+### Steps to export
+
+1. [Export your goodreads data](#export-of-goodreads-data) to csv
+2. Modify [basic template](/md-template.md) and/or [jekyll template](/jekyll-template.md) to your hearts content
+3. run ```python goodreads-csv-to-markdown.py```
+    * If you're getting a ```KeyError``` it most likely means you have a misnamed ```{header}``` in your tempalte
+4. Copy markdown output to new system of record
+
 ## Very manual process
 
 https://www.goodreads.com/api as of 2024 states there is no longer active support for api keys and directs to https://help.goodreads.com/s/article/Does-Goodreads-support-the-use-of-APIs which directs users to use the [account data export feature](#export-of-goodreads-data).

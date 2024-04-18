@@ -7,6 +7,8 @@ tags: <<tags-csv>
 uid: <<uid>>
 ---
 
+<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
+
 ## Intro Heading
 
 {Title}
@@ -15,7 +17,7 @@ uid: <<uid>>
 
 ##### Author's Note
 
-
+Generated using https://github.com/jsr6720/goodreads-csv-to-md script
 
 ##### Significant revisions
 

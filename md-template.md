@@ -1,49 +1,87 @@
 <!-- This template shows how to bulk convert all columns of data into one markdown file -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
-Book Id {Book Id}
+## Goodreads Data
 
-Title {Title}
+### Book Id 
 
-Author {Author}
+{Book Id}
 
-Author l-f {Author l-f}
+https://www.goodreads.com/book/show/{Book Id}
 
-Additional Authors {Additional Authors}
+## library information
 
-ISBN {ISBN}
+### ISBN 
+{ISBN}
 
-ISBN13 {ISBN13}
+### ISBN13 
+{ISBN13}
 
-My Rating {My Rating}
+## book information
 
-Average Rating {Average Rating}
+### Title
+{Title}
 
-Publisher {Publisher}
+### Author 
+{Author}
 
-Binding {Binding}
+### Author l-f 
+{Author l-f}
 
-Number of Pages {Number of Pages}
+### Additional Authors
+{Additional Authors}
 
-Year Published {Year Published}
+### Publisher 
+{Publisher}
 
-Original Publication Year {Original Publication Year}
+### Binding
+{Binding}
 
-Date Read {Date Read}
+### Number of Pages
+{Number of Pages}
 
-Date Added {Date Added}
+### Year Published
+{Year Published}
 
-Bookshelves {Bookshelves}
+### Original Publication Year 
+{Original Publication Year}
 
-Bookshelves with positions {Bookshelves with positions}
+## user contributed data
 
-Exclusive Shelf {Exclusive Shelf}
+### My Rating
+{My Rating}
 
-My Review {My Review}
+### Average Rating
+{Average Rating}
 
-Spoiler {Spoiler}
+### Date Read
+{Date Read}
 
-Private Notes {Private Notes}
+### Date Added
+{Date Added}
 
-Read Count {Read Count}
+### Exclusive Shelf
+{Exclusive Shelf}
 
-Owned Copies {Owned Copies}
+### Bookshelves
+{Bookshelves}
+
+### Bookshelves with positions
+{Bookshelves with positions}
+
+### Read Count
+{Read Count}
+
+### Owned Copies
+{Owned Copies}
+
+### Spoiler 
+{Spoiler}
+
+## Review
+
+### Private Notes
+{Private Notes}
+
+### My Review
+{My Review}
