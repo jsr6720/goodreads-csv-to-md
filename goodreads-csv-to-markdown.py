@@ -4,7 +4,7 @@ from datetime import datetime
 from sanitize_filename import sanitize # pip3 install sanitize_filename
 
 ## Bookshelves == tags
-## titles can be unwiedly for a file name
+## 'fixed'title length, but if starts with "The" I want to move it to the end, like "The 10X Rule" -> "10X Rule, The"
 ## dates in (Date Read, Date Added)
 ## optional download book image
 ## some reviews have links to authors/books. need to parse those
@@ -22,7 +22,13 @@ config = {
 
 def getFileNameByTitle(title):
     # for my limited dataset really long titles, or books with subtitles usually have a ":" in them
-    return sanitize(title.split(':')[0].strip())
+    result = sanitize(title.split(':')[0].strip())
+
+    if result.lower().startswith('the'):
+        # Slice out "the" from the beginning of the string
+        return result[3:] + ", " + result[:3]
+    else: 
+        return result
 
 def getFileNameForJekyll(headings, aBook):
     # follows a specific pattern of YYYY-MM-DD-title.md
