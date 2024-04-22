@@ -1,7 +1,7 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on '{short-title}'"
+title:  "Detect Thoughts on \"{short-title}\""
 date:   {jekyll-date} -0400
 tags: book review {author-ln} {book-tags}
 uid: {guid}
