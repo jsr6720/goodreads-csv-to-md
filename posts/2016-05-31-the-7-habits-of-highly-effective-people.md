@@ -1,20 +1,21 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on 'The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change'"
+title:  "Detect Thoughts on 'The 7 Habits of Highly Effective People'"
 date:   2016-05-31 00:00:00 -0400
 tags: book review Covey classics read-again business
-uid: 5c105270-780d-4c4a-90bb-71c1ba525aa8
+uid: b4d24a17-2f8d-4c43-bf19-e1b745b08f2b
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 5/5
 
-Detect Thoughts: Empty
+Empty
 
 ### Date Read
-Empty
+
 
 ### Date Added
 2016/05/31
@@ -22,7 +23,6 @@ Empty
 ## Goodreads book information
 
 *The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change* by Stephen R. Covey
-Jim Collins
 
 https://www.goodreads.com/book/show/36072
 
@@ -38,10 +38,10 @@ Stephen R. Covey, *The 7 Habits of Highly Effective People: Powerful Lessons in 
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { 2024-04-22 00:30:48 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
+- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
 

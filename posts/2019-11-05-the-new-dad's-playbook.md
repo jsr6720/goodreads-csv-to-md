@@ -1,20 +1,21 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on 'The New Dad's Playbook: Gearing Up for the Biggest Game of Your Life'"
+title:  "Detect Thoughts on 'The New Dad's Playbook'"
 date:   2019-11-05 00:00:00 -0400
 tags: book review Watson did-not-finish
-uid: 343b584e-9688-4d63-8c26-22d8403065d3
+uid: bb11302d-19a6-431e-bc21-e3fd1da98445
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 0/5
 
-Detect Thoughts: Empty
+Empty
 
 ### Date Read
-Empty
+
 
 ### Date Added
 2019/11/05
@@ -22,7 +23,6 @@ Empty
 ## Goodreads book information
 
 *The New Dad's Playbook: Gearing Up for the Biggest Game of Your Life* by Benjamin Watson
-Meg Meeker
 
 https://www.goodreads.com/book/show/32510934
 
@@ -38,10 +38,10 @@ Benjamin Watson, *The New Dad's Playbook: Gearing Up for the Biggest Game of You
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { 2024-04-22 00:30:47 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
+- {{ 2024-04-22 01:43:31 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
 

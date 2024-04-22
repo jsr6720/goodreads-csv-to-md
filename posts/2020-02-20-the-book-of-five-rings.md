@@ -4,14 +4,15 @@ author: James Rowe
 title:  "Detect Thoughts on 'The Book of Five Rings'"
 date:   2020-02-20 00:00:00 -0400
 tags: book review Musashi history
-uid: cf08f327-0634-4452-918d-085031eabca1
+uid: f64b55af-f545-4958-a34c-ace2a7abd67c
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 4/5
 
-Detect Thoughts: Focuses on the combat aspects of leadership, but has concepts as well.
+Focuses on the combat aspects of leadership, but has concepts as well.
 
 ### Date Read
 2020/02/20
@@ -22,7 +23,6 @@ Detect Thoughts: Focuses on the combat aspects of leadership, but has concepts a
 ## Goodreads book information
 
 *The Book of Five Rings* by Miyamoto Musashi
-Shiro Tsujimura, William Scott Wilson
 
 https://www.goodreads.com/book/show/13151220
 
@@ -38,10 +38,10 @@ Miyamoto Musashi, *The Book of Five Rings*, Shiro Tsujimura, William Scott Wilso
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { 2024-04-22 00:30:47 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
+- {{ 2024-04-22 01:43:31 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
 

@@ -1,17 +1,18 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on 'Failure Is Not an Option: Mission Control from Mercury to Apollo 13 and Beyond'"
+title:  "Detect Thoughts on 'Failure Is Not an Option'"
 date:   2016-09-12 00:00:00 -0400
 tags: book review Kranz biography
-uid: b44d362b-4520-4dc7-84e1-28b3539750c4
+uid: 3839ab80-a2b1-4adf-9674-e5ff90953e28
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 5/5
 
-Detect Thoughts: This was a fantastic book starting with Mercury and going through Apollo. Blow by blow accounts of mission control are riveting. I especially like rich background Kranz discusses over the course of the missions.
+This was a fantastic book starting with Mercury and going through Apollo. Blow by blow accounts of mission control are riveting. I especially like rich background Kranz discusses over the course of the missions.
 
 ### Date Read
 2016/09/12
@@ -22,7 +23,6 @@ Detect Thoughts: This was a fantastic book starting with Mercury and going throu
 ## Goodreads book information
 
 *Failure Is Not an Option: Mission Control from Mercury to Apollo 13 and Beyond* by Gene Kranz
-Danny Campbell
 
 https://www.goodreads.com/book/show/12064316
 
@@ -38,10 +38,10 @@ Gene Kranz, *Failure Is Not an Option: Mission Control from Mercury to Apollo 13
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { 2024-04-22 00:30:48 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
+- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
 

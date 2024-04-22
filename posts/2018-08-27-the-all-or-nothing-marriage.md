@@ -1,17 +1,18 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on 'The All-or-Nothing Marriage: How the Best Marriages Work'"
+title:  "Detect Thoughts on 'The All-or-Nothing Marriage'"
 date:   2018-08-27 00:00:00 -0400
 tags: book review Finkel psychology
-uid: ea2a0d09-4eff-4c21-9934-b932585c3ea6
+uid: ca330c10-602b-4c1b-aa83-a6feec7e3209
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 4/5
 
-Detect Thoughts: Finkel matches maslow's hierarchy of needs to the marriage.<br/><br/>The higher elevations are hard to attain with one partner, but knowing that you can come off the peak to summit another day helps all interactions.<br/><br/>Also forming a partnership dynamic that does what's right for the couple and not what society deems appropriate helps tremendously.<br/><br/>There is a tremendous amount of data in this book as well that covers every happiness scenario within hetero-sexual couples. Great expansion on the topics covered in [b:Ten Lessons to Transform Your Marriage|634227|Ten Lessons to Transform Your Marriage  America's Love Lab Experts Share Their Strategies for Strengthening Your Relationship|John M. Gottman|https://images.gr-assets.com/books/1320547555s/634227.jpg|4029698]
+Finkel matches maslow's hierarchy of needs to the marriage.<br/><br/>The higher elevations are hard to attain with one partner, but knowing that you can come off the peak to summit another day helps all interactions.<br/><br/>Also forming a partnership dynamic that does what's right for the couple and not what society deems appropriate helps tremendously.<br/><br/>There is a tremendous amount of data in this book as well that covers every happiness scenario within hetero-sexual couples. Great expansion on the topics covered in [Ten Lessons to Transform Your Marriage](https://www.goodreads.com/book/show/634227)
 
 ### Date Read
 2018/08/27
@@ -22,7 +23,6 @@ Detect Thoughts: Finkel matches maslow's hierarchy of needs to the marriage.<br/
 ## Goodreads book information
 
 *The All-or-Nothing Marriage: How the Best Marriages Work* by Eli J. Finkel
-Empty
 
 https://www.goodreads.com/book/show/34001660
 
@@ -34,14 +34,14 @@ Bookshelves: psychology
 
 Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
-Eli J. Finkel, *The All-or-Nothing Marriage: How the Best Marriages Work*, Empty Dutton 2017 (Hardcover)[^1]
+Eli J. Finkel, *The All-or-Nothing Marriage: How the Best Marriages Work*,  Dutton 2017 (Hardcover)[^1]
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { 2024-04-22 00:30:47 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
+- {{ 2024-04-22 01:43:31 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
 

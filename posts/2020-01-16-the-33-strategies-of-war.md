@@ -3,15 +3,16 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on 'The 33 Strategies of War'"
 date:   2020-01-16 00:00:00 -0400
-tags: book review Greene Empty
-uid: 86aba4e1-a80a-46db-bb0e-c5886c2c6433
+tags: book review Greene 
+uid: c9e945ab-375d-4645-bd2a-999f7e70039b
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 3/5
 
-Detect Thoughts: After reading "48 Laws of Power" [a:Robert Greene|865|Robert Greene|https://images.gr-assets.com/authors/1298212921p2/865.jpg] I picked up this book. Follows the same format as the former, but I didn't find it as compelling. The psychology of humans being more interesting than the tactics of battle.
+After reading "48 Laws of Power" [Robert Greene](https://www.goodreads.com/author/show/865) I picked up this book. Follows the same format as the former, but I didn't find it as compelling. The psychology of humans being more interesting than the tactics of battle.
 
 ### Date Read
 2020/01/16
@@ -22,11 +23,10 @@ Detect Thoughts: After reading "48 Laws of Power" [a:Robert Greene|865|Robert Gr
 ## Goodreads book information
 
 *The 33 Strategies of War* by Robert Greene
-Don Leslie
 
 https://www.goodreads.com/book/show/20997
 
-Bookshelves: Empty
+Bookshelves: 
 
 ---
 
@@ -38,10 +38,10 @@ Robert Greene, *The 33 Strategies of War*, Don Leslie HighBridge Company 2007 (A
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { 2024-04-22 00:30:47 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
+- {{ 2024-04-22 01:43:31 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
 

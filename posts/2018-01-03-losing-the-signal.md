@@ -1,17 +1,18 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on 'Losing the Signal: The Untold Story Behind the Extraordinary Rise and Spectacular Fall of BlackBerry'"
+title:  "Detect Thoughts on 'Losing the Signal'"
 date:   2018-01-03 00:00:00 -0400
 tags: book review McNish business
-uid: 18a823e9-d157-4175-b6c4-8e3bfd35ba67
+uid: a8841ce7-5c9d-47b1-a052-6689d8aee1e8
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 3/5
 
-Detect Thoughts: This is a great, if not LONG, look into the company Research in Motion. I liked it for it's technical aspects, but the book is much more a twin biography of co-ceo's than it is a business story.<br/><br/>The downfall of Blackberry can be traced to the head Engineer who failed to recognize that the new players would break the service providers network instead of playing by the rules.
+This is a great, if not LONG, look into the company Research in Motion. I liked it for it's technical aspects, but the book is much more a twin biography of co-ceo's than it is a business story.<br/><br/>The downfall of Blackberry can be traced to the head Engineer who failed to recognize that the new players would break the service providers network instead of playing by the rules.
 
 ### Date Read
 2018/01/03
@@ -22,7 +23,6 @@ Detect Thoughts: This is a great, if not LONG, look into the company Research in
 ## Goodreads book information
 
 *Losing the Signal: The Untold Story Behind the Extraordinary Rise and Spectacular Fall of BlackBerry* by Jacquie McNish
-Sean Silcoff, William Hughes
 
 https://www.goodreads.com/book/show/29361615
 
@@ -38,10 +38,10 @@ Jacquie McNish, *Losing the Signal: The Untold Story Behind the Extraordinary Ri
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { 2024-04-22 00:30:48 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
+- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
 

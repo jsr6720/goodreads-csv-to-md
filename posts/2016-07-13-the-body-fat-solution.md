@@ -1,17 +1,18 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on 'The Body Fat Solution: 5 Principles for Burning Fat, Building Lean Muscle, Ending Emotional Eating, and Maintaining Your Perfect Weight'"
+title:  "Detect Thoughts on 'The Body Fat Solution'"
 date:   2016-07-13 00:00:00 -0400
 tags: book review Venuto personal-development read-again
-uid: 22837ba4-a8c3-494b-8726-faef8adbc764
+uid: 5d33a1fc-9cfb-4f8d-a44b-568e1f53b51e
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 5/5
 
-Detect Thoughts: This is a great a book that blends the life approach of "Think and Grow Rich" with the way the mind works with eating. Lots of good advice.<br/><br/>To say it only focuses on food, diet and exercise is selling the book short. Really dives deep on mindset needed for long term healthy living.
+This is a great a book that blends the life approach of "Think and Grow Rich" with the way the mind works with eating. Lots of good advice.<br/><br/>To say it only focuses on food, diet and exercise is selling the book short. Really dives deep on mindset needed for long term healthy living.
 
 ### Date Read
 2016/07/13
@@ -22,7 +23,6 @@ Detect Thoughts: This is a great a book that blends the life approach of "Think 
 ## Goodreads book information
 
 *The Body Fat Solution: 5 Principles for Burning Fat, Building Lean Muscle, Ending Emotional Eating, and Maintaining Your Perfect Weight* by Tom Venuto
-L.J. Ganser
 
 https://www.goodreads.com/book/show/6153032
 
@@ -38,10 +38,10 @@ Tom Venuto, *The Body Fat Solution: 5 Principles for Burning Fat, Building Lean 
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { 2024-04-22 00:30:48 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
+- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
 

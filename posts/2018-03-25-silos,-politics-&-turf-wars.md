@@ -1,17 +1,18 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on 'Silos, Politics & Turf Wars: A Leadership Fable About Destroying the Barriers that Turn Colleagues into Competitors'"
+title:  "Detect Thoughts on 'Silos, Politics & Turf Wars'"
 date:   2018-03-25 00:00:00 -0400
 tags: book review Lencioni management
-uid: b9b05e4f-93f4-4b37-b318-e16728d94861
+uid: 81960090-603b-476c-9ec7-bb4226f649e3
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 3/5
 
-Detect Thoughts: I don't like fables that are longer than Aesop. But I make an exception for Lencioni. Key takeaway: management needs to tackle projects as a team. And an organization of silos is a direct reflection of the leadership style of the executive team. If budgets and resources and allocations are all "us vs them" at the top. It reflects itself to the bottom
+I don't like fables that are longer than Aesop. But I make an exception for Lencioni. Key takeaway: management needs to tackle projects as a team. And an organization of silos is a direct reflection of the leadership style of the executive team. If budgets and resources and allocations are all "us vs them" at the top. It reflects itself to the bottom
 
 ### Date Read
 2018/03/25
@@ -22,7 +23,6 @@ Detect Thoughts: I don't like fables that are longer than Aesop. But I make an e
 ## Goodreads book information
 
 *Silos, Politics & Turf Wars: A Leadership Fable About Destroying the Barriers that Turn Colleagues into Competitors* by Patrick Lencioni
-Empty
 
 https://www.goodreads.com/book/show/3420855
 
@@ -34,14 +34,14 @@ Bookshelves: management
 
 Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
-Patrick Lencioni, *Silos, Politics & Turf Wars: A Leadership Fable About Destroying the Barriers that Turn Colleagues into Competitors*, Empty Macmillan Audio 2006 (Audio CD)[^1]
+Patrick Lencioni, *Silos, Politics & Turf Wars: A Leadership Fable About Destroying the Barriers that Turn Colleagues into Competitors*,  Macmillan Audio 2006 (Audio CD)[^1]
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { 2024-04-22 00:30:48 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
+- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
 

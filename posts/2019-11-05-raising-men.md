@@ -1,20 +1,21 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on 'Raising Men: Lessons Navy SEALs Learned from Their Training and Taught to Their Sons'"
+title:  "Detect Thoughts on 'Raising Men'"
 date:   2019-11-05 00:00:00 -0400
 tags: book review Davis did-not-finish
-uid: b04934ba-244b-4873-96b6-2b7c556420f5
+uid: 6d65a36b-32f7-43cb-bf4b-ce69a07951c1
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 0/5
 
-Detect Thoughts: Empty
+Empty
 
 ### Date Read
-Empty
+
 
 ### Date Added
 2019/11/05
@@ -22,7 +23,6 @@ Empty
 ## Goodreads book information
 
 *Raising Men: Lessons Navy SEALs Learned from Their Training and Taught to Their Sons* by Eric  Davis
-Chris  Martin
 
 https://www.goodreads.com/book/show/26114625
 
@@ -38,10 +38,10 @@ Eric  Davis, *Raising Men: Lessons Navy SEALs Learned from Their Training and Ta
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { 2024-04-22 00:30:47 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
+- {{ 2024-04-22 01:43:31 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
 

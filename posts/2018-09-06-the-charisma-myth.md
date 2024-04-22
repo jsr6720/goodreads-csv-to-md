@@ -1,17 +1,18 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on 'The Charisma Myth: How Anyone Can Master the Art and Science of Personal Magnetism'"
+title:  "Detect Thoughts on 'The Charisma Myth'"
 date:   2018-09-06 00:00:00 -0400
 tags: book review Cabane did-not-finish
-uid: 46bd629e-52fa-4b9f-9038-fa8dbd40e772
+uid: c643ad86-39cd-4a48-9b4f-bc2023ba8c2e
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 2/5
 
-Detect Thoughts: Book in one sentence: Confidence, attention and warmth will help your interactions.<br/><br/>Be ready to hear 'my client' over and over again as [a:Olivia Fox Cabane|1124434|Olivia Fox Cabane|https://images.gr-assets.com/authors/1320613995p2/1124434.jpg] re-hashes her main point from different leadership books.<br/><br/>If this is your first foray into charisma see [b:How to Win Friends and Influence People|4865|How to Win Friends and Influence People|Dale Carnegie|https://images.gr-assets.com/books/1442726934s/4865.jpg|2370171] or [b:Influence: The Psychology of Persuasion|28815|Influence  The Psychology of Persuasion|Robert B. Cialdini|https://images.gr-assets.com/books/1391026083s/28815.jpg|29303]
+Book in one sentence: Confidence, attention and warmth will help your interactions.<br/><br/>Be ready to hear 'my client' over and over again as [Olivia Fox Cabane](https://www.goodreads.com/author/show/1124434) re-hashes her main point from different leadership books.<br/><br/>If this is your first foray into charisma see [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865) or [Influence: The Psychology of Persuasion](https://www.goodreads.com/book/show/28815)
 
 ### Date Read
 2018/09/06
@@ -22,7 +23,6 @@ Detect Thoughts: Book in one sentence: Confidence, attention and warmth will hel
 ## Goodreads book information
 
 *The Charisma Myth: How Anyone Can Master the Art and Science of Personal Magnetism* by Olivia  Fox Cabane
-Lisa Cordileone
 
 https://www.goodreads.com/book/show/16160821
 
@@ -38,10 +38,10 @@ Olivia  Fox Cabane, *The Charisma Myth: How Anyone Can Master the Art and Scienc
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { 2024-04-22 00:30:47 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
+- {{ 2024-04-22 01:43:31 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
 

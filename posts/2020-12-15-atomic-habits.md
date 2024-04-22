@@ -1,17 +1,18 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on 'Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones'"
+title:  "Detect Thoughts on 'Atomic Habits'"
 date:   2020-12-15 00:00:00 -0400
 tags: book review Clear business leadership personal-development
-uid: 1c9ae9e7-4cea-4f18-a0b9-1e59410095a4
+uid: 97e7f2f7-6e18-47de-9bfe-a9aeb6fbb034
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 5/5
 
-Detect Thoughts: One of the best books on personal habit making I've ever read.<br/><br/>Start small, chain habits and always have a plan. Great read.
+One of the best books on personal habit making I've ever read.<br/><br/>Start small, chain habits and always have a plan. Great read.
 
 ### Date Read
 2020/12/15
@@ -22,7 +23,6 @@ Detect Thoughts: One of the best books on personal habit making I've ever read.<
 ## Goodreads book information
 
 *Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones* by James Clear
-Empty
 
 https://www.goodreads.com/book/show/40121378
 
@@ -34,14 +34,14 @@ Bookshelves: business, leadership, personal-development
 
 Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
-James Clear, *Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones*, Empty Avery 2018 (Kindle Edition)[^1]
+James Clear, *Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones*,  Avery 2018 (Kindle Edition)[^1]
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { 2024-04-22 00:30:47 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
+- {{ 2024-04-22 01:43:31 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
 

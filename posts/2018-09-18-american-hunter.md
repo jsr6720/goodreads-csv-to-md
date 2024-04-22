@@ -4,17 +4,18 @@ author: James Rowe
 title:  "Detect Thoughts on 'American Hunter'"
 date:   2018-09-18 00:00:00 -0400
 tags: book review Robertson did-not-finish
-uid: df257452-1c09-44c3-93e7-3d147990c583
+uid: fab0a623-46f2-4fec-ac76-598090fe9db9
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 1/5
 
-Detect Thoughts: Didn't finish. Book was a collection of anecdotes about his personal life, uninteresting, and previous hunter's lives which barely scratched the surface of their rich history.<br/><br/>Moral: people who spend time outdoors are more 'rugged' than those who spend time indoors.
+Didn't finish. Book was a collection of anecdotes about his personal life, uninteresting, and previous hunter's lives which barely scratched the surface of their rich history.<br/><br/>Moral: people who spend time outdoors are more 'rugged' than those who spend time indoors.
 
 ### Date Read
-Empty
+
 
 ### Date Added
 2018/09/18
@@ -22,7 +23,6 @@ Empty
 ## Goodreads book information
 
 *American Hunter* by Willie Robertson
-William  Doyle
 
 https://www.goodreads.com/book/show/25110847
 
@@ -38,10 +38,10 @@ Willie Robertson, *American Hunter*, William  Doyle Simon  Schuster Audio 2015 (
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { 2024-04-22 00:30:47 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
+- {{ 2024-04-22 01:43:31 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
 

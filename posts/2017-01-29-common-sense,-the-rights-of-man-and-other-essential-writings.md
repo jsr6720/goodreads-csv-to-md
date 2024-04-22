@@ -4,14 +4,15 @@ author: James Rowe
 title:  "Detect Thoughts on 'Common Sense, The Rights of Man and Other Essential Writings'"
 date:   2017-01-29 00:00:00 -0400
 tags: book review Paine history classics
-uid: 5fecbcf3-bc4d-429b-8331-0d2d59c1fa81
+uid: 71d1309b-99ad-4a37-bd28-fe6183401de5
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 4/5
 
-Detect Thoughts: Great read to fill in some of the thoughts prior to the revolution. Funny how in 250 years politics still hasn't changed. Those who disagree with Paine are fools. <br/><br/>Personally read as part of becks book. 
+Great read to fill in some of the thoughts prior to the revolution. Funny how in 250 years politics still hasn't changed. Those who disagree with Paine are fools. <br/><br/>Personally read as part of becks book. 
 
 ### Date Read
 2017/01/29
@@ -22,7 +23,6 @@ Detect Thoughts: Great read to fill in some of the thoughts prior to the revolut
 ## Goodreads book information
 
 *Common Sense, The Rights of Man and Other Essential Writings* by Thomas Paine
-Jack Fruchtman Jr., Sidney Hook
 
 https://www.goodreads.com/book/show/99955
 
@@ -38,10 +38,10 @@ Thomas Paine, *Common Sense, The Rights of Man and Other Essential Writings*, Ja
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { 2024-04-22 00:30:48 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
+- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
 

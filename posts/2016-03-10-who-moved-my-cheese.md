@@ -4,14 +4,15 @@ author: James Rowe
 title:  "Detect Thoughts on 'Who Moved My Cheese'"
 date:   2016-03-10 00:00:00 -0400
 tags: book review Johnson business read-again
-uid: ae081b4c-5758-44d4-8e99-399bcb802881
+uid: 41fbfee4-af3a-48a0-b3e8-3b9c02175e66
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 5/5
 
-Detect Thoughts: A story of change. Best quote "If you weren't afraid, what would you do". The forward/afterword aren't that compelling, the author interview is definitely worth it. The core story is though. Him and Haw, Sniff and Scurry are a metaphor for the people in life. Laugh at yourself and be ready for change. "Are you afraid of change?" , "Is everyone else afraid of change?". Laugh at the incongruity of your answers. Sniff and Scurry are the impulse/instinct driven individuals. Him and Haw the 'little people' of the maze.<br/><br/>Observe what you have now. Find what indicates change is in the air (Sniff). Take action, find the next big thing (scurry). Be like Haw. Reflect and embrace change. Life is more enjoyable when the chase brings pleasure not the destination. Him stagnates and stays behind. Book focuses heavily on visualizing your future self successful. Reminds me of the [b:Think and Grow Rich|30186948|Think and Grow Rich|Napoleon Hill|https://d.gr-assets.com/books/1463241782s/30186948.jpg|1199320] principle of self affirmation. Visualize your success and the mind works on it constantly.<br/><br/>Another interesting bit. This book has been re-worked every year since it's release. Phrases have been updated and improved due to reader feedback. Also, most importantly, Haw returns for Him one time in the newer version of the book to try and get him to change. But the lesson remains, you can't bring everyone, let go and move on.
+A story of change. Best quote "If you weren't afraid, what would you do". The forward/afterword aren't that compelling, the author interview is definitely worth it. The core story is though. Him and Haw, Sniff and Scurry are a metaphor for the people in life. Laugh at yourself and be ready for change. "Are you afraid of change?" , "Is everyone else afraid of change?". Laugh at the incongruity of your answers. Sniff and Scurry are the impulse/instinct driven individuals. Him and Haw the 'little people' of the maze.<br/><br/>Observe what you have now. Find what indicates change is in the air (Sniff). Take action, find the next big thing (scurry). Be like Haw. Reflect and embrace change. Life is more enjoyable when the chase brings pleasure not the destination. Him stagnates and stays behind. Book focuses heavily on visualizing your future self successful. Reminds me of the [Think and Grow Rich](https://www.goodreads.com/book/show/30186948) principle of self affirmation. Visualize your success and the mind works on it constantly.<br/><br/>Another interesting bit. This book has been re-worked every year since it's release. Phrases have been updated and improved due to reader feedback. Also, most importantly, Haw returns for Him one time in the newer version of the book to try and get him to change. But the lesson remains, you can't bring everyone, let go and move on.
 
 ### Date Read
 2016/03/10
@@ -22,7 +23,6 @@ Detect Thoughts: A story of change. Best quote "If you weren't afraid, what woul
 ## Goodreads book information
 
 *Who Moved My Cheese* by Spencer Johnson
-Kenneth Blanchard, Tony Roberts, Karen Ziémba
 
 https://www.goodreads.com/book/show/5975997
 
@@ -38,10 +38,10 @@ Spencer Johnson, *Who Moved My Cheese*, Kenneth Blanchard, Tony Roberts, Karen Z
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { 2024-04-22 00:30:48 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
+- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
 

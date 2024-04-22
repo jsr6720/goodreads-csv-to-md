@@ -1,17 +1,18 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on 'The Best Business Books Ever: The 100 Most Influential Management Books You'll Never Have Time To Read'"
+title:  "Detect Thoughts on 'The Best Business Books Ever'"
 date:   2020-10-25 00:00:00 -0400
-tags: book review Books Empty
-uid: 83a4e0e9-a718-4965-b0f7-244f95fb229b
+tags: book review Books 
+uid: 4f7f9ffe-ce8b-42ea-9dae-4fffbba60084
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 3/5
 
-Detect Thoughts: Already showing it’s age due to a conspicuous lack of big tech firms. This book has a handful of classics and a whole swath of “huh”? I do like the key concepts and was able to knock quite a few books off ‘the list’. Worth the checkout from the library. 
+Already showing it’s age due to a conspicuous lack of big tech firms. This book has a handful of classics and a whole swath of “huh”? I do like the key concepts and was able to knock quite a few books off ‘the list’. Worth the checkout from the library. 
 
 ### Date Read
 2020/10/25
@@ -22,11 +23,10 @@ Detect Thoughts: Already showing it’s age due to a conspicuous lack of big tec
 ## Goodreads book information
 
 *The Best Business Books Ever: The 100 Most Influential Management Books You'll Never Have Time To Read* by Basic Books
-Empty
 
 https://www.goodreads.com/book/show/9500645
 
-Bookshelves: Empty
+Bookshelves: 
 
 ---
 
@@ -34,14 +34,14 @@ Bookshelves: Empty
 
 Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
-Basic Books, *The Best Business Books Ever: The 100 Most Influential Management Books You'll Never Have Time To Read*, Empty Basic Books 2011 (Paperback)[^1]
+Basic Books, *The Best Business Books Ever: The 100 Most Influential Management Books You'll Never Have Time To Read*,  Basic Books 2011 (Paperback)[^1]
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { 2024-04-22 00:30:47 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
+- {{ 2024-04-22 01:43:31 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
 

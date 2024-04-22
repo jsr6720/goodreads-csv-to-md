@@ -1,17 +1,18 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on 'The Marshmallow Test: Mastering Self-Control'"
+title:  "Detect Thoughts on 'The Marshmallow Test'"
 date:   2015-12-24 00:00:00 -0400
 tags: book review Mischel psychology
-uid: 145485ad-4ea4-46f9-87eb-d74b04e49967
+uid: 4dccbd93-bbea-4a14-8fe1-866d429d18d5
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 4/5
 
-Detect Thoughts: Great book, same two system concept as previously read in [b:Emotional Intelligence|26329|Emotional Intelligence  Why It Can Matter More Than IQ|Daniel Goleman|https://d.gr-assets.com/books/1388185411s/26329.jpg|587647], but this time 'hot' and 'cold' system<br/>Hot -> amygdala, fast responses<br/>Cold -> Prefrontal Cortex and Hippocampus, memory plus decision making<br/><br/>Three parts: <br/>1. preschoolers and executive function. <br/>2. Marshmallows to 401k. Self control at adult level<br/>3. policy impacts.<br/><br/>Focuses on how self control can be improved and how it, on groups, predicts success. Solid 4. Not quite a 5 not sure if this is because of my previous experience with Emotional Intelligence. First third of the book about the history of the test at Stanford is very interesting. Added to list [b:Mindset|40745|Mindset  The New Psychology of Success|Carol S. Dweck|https://d.gr-assets.com/books/1436227012s/40745.jpg|40330] recommended in this book. That was disappointing.<br/><br/>Some techniques for mastering self-control:<br/>1. Increase psychological distance - reflect on the situation as a fly on the wall<br/>2. Associate future consequences with immediate action - if I smoke I'll get cancer<br/>3. Frame the temptation. Think of the cognitive physical attributes - A cookie is round and made of flour eggs sugar<br/>4. if/then conditioning. Replay scenarios to train the hot system. If I see a cookie Then I will not eat it
+Great book, same two system concept as previously read in [Emotional Intelligence](https://www.goodreads.com/book/show/26329), but this time 'hot' and 'cold' system<br/>Hot -> amygdala, fast responses<br/>Cold -> Prefrontal Cortex and Hippocampus, memory plus decision making<br/><br/>Three parts: <br/>1. preschoolers and executive function. <br/>2. Marshmallows to 401k. Self control at adult level<br/>3. policy impacts.<br/><br/>Focuses on how self control can be improved and how it, on groups, predicts success. Solid 4. Not quite a 5 not sure if this is because of my previous experience with Emotional Intelligence. First third of the book about the history of the test at Stanford is very interesting. Added to list [Mindset](https://www.goodreads.com/book/show/40745) recommended in this book. That was disappointing.<br/><br/>Some techniques for mastering self-control:<br/>1. Increase psychological distance - reflect on the situation as a fly on the wall<br/>2. Associate future consequences with immediate action - if I smoke I'll get cancer<br/>3. Frame the temptation. Think of the cognitive physical attributes - A cookie is round and made of flour eggs sugar<br/>4. if/then conditioning. Replay scenarios to train the hot system. If I see a cookie Then I will not eat it
 
 ### Date Read
 2015/12/24
@@ -22,7 +23,6 @@ Detect Thoughts: Great book, same two system concept as previously read in [b:Em
 ## Goodreads book information
 
 *The Marshmallow Test: Mastering Self-Control* by Walter Mischel
-Empty
 
 https://www.goodreads.com/book/show/20791679
 
@@ -34,14 +34,14 @@ Bookshelves: psychology
 
 Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
-Walter Mischel, *The Marshmallow Test: Mastering Self-Control*, Empty Brilliance Audio 2014 (Audio CD)[^1]
+Walter Mischel, *The Marshmallow Test: Mastering Self-Control*,  Brilliance Audio 2014 (Audio CD)[^1]
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { 2024-04-22 00:30:48 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
+- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
 

@@ -1,17 +1,18 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on 'The Opposite of Spoiled: Raising Kids Who Are Grounded, Generous, and Smart About Money'"
+title:  "Detect Thoughts on 'The Opposite of Spoiled'"
 date:   2017-03-10 00:00:00 -0400
 tags: book review Lieber parenting
-uid: 3162046e-8039-480d-b57d-b3b0e6ff0ed5
+uid: ddbf9ac0-1d6e-4fc3-bb59-9866d98109c7
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 3/5
 
-Detect Thoughts: Spoiling children is only 1/4 material possessions. He started with a list by James Fogarty [book:Overindulged Children: A Parent's Guide to Mentoring|2831457]<br/><br/>spoiled children tend to have various things in common: <br/>1. They have few chores or other responsibilities, <br/>2. there aren't many rules that govern their behavior or schedules, <br/>3. parents and others lavish them with time and assistance,<br/>4. they have a lot of material possessions.<br/><br/>Beyond this quoting of the above book the narrative was 'ok'. True to journalistic fashion the language was good but seemed long for a book. I skipped through many of the chapters pertaining charitable giving.<br/><br/>The cover of the book gives away the meat of the story. Provide your children from an early age a stipend for work beyond required chores that they split into 'spend now', 'save for later' and 'give away' categories.
+Spoiling children is only 1/4 material possessions. He started with a list by James Fogarty [book:Overindulged Children: A Parent's Guide to Mentoring|2831457]<br/><br/>spoiled children tend to have various things in common: <br/>1. They have few chores or other responsibilities, <br/>2. there aren't many rules that govern their behavior or schedules, <br/>3. parents and others lavish them with time and assistance,<br/>4. they have a lot of material possessions.<br/><br/>Beyond this quoting of the above book the narrative was 'ok'. True to journalistic fashion the language was good but seemed long for a book. I skipped through many of the chapters pertaining charitable giving.<br/><br/>The cover of the book gives away the meat of the story. Provide your children from an early age a stipend for work beyond required chores that they split into 'spend now', 'save for later' and 'give away' categories.
 
 ### Date Read
 2017/03/10
@@ -22,7 +23,6 @@ Detect Thoughts: Spoiling children is only 1/4 material possessions. He started 
 ## Goodreads book information
 
 *The Opposite of Spoiled: Raising Kids Who Are Grounded, Generous, and Smart About Money* by Ron Lieber
-Empty
 
 https://www.goodreads.com/book/show/26154885
 
@@ -34,14 +34,14 @@ Bookshelves: parenting
 
 Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
-Ron Lieber, *The Opposite of Spoiled: Raising Kids Who Are Grounded, Generous, and Smart About Money*, Empty HarperCollins Publishers and Blackstone Audio 2015 (Audio CD)[^1]
+Ron Lieber, *The Opposite of Spoiled: Raising Kids Who Are Grounded, Generous, and Smart About Money*,  HarperCollins Publishers and Blackstone Audio 2015 (Audio CD)[^1]
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { 2024-04-22 00:30:48 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
+- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
 

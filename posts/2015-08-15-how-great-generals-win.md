@@ -4,14 +4,15 @@ author: James Rowe
 title:  "Detect Thoughts on 'How Great Generals Win'"
 date:   2015-08-15 00:00:00 -0400
 tags: book review Alexander history
-uid: f7035ad1-1633-47c6-af7b-da5300b6573c
+uid: 7d1dcdd9-a09e-4be3-81f7-3128b146aae9
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 4/5
 
-Detect Thoughts: Barred from a 4 based on it's overly dry approach to battle movements. Most interesting part of the book was footnotes on the evolution of battle and war technology. Would recommend to the right person.
+Barred from a 4 based on it's overly dry approach to battle movements. Most interesting part of the book was footnotes on the evolution of battle and war technology. Would recommend to the right person.
 
 ### Date Read
 2015/08/15
@@ -22,7 +23,6 @@ Detect Thoughts: Barred from a 4 based on it's overly dry approach to battle mov
 ## Goodreads book information
 
 *How Great Generals Win* by Bevin Alexander
-James Slattery
 
 https://www.goodreads.com/book/show/11914590
 
@@ -38,10 +38,10 @@ Bevin Alexander, *How Great Generals Win*, James Slattery Blackstone Pub 1995 (A
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { 2024-04-22 00:30:48 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
+- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
 

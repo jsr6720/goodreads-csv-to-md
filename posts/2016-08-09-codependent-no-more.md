@@ -1,17 +1,18 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on 'Codependent No More: How to Stop Controlling Others and Start Caring for Yourself'"
+title:  "Detect Thoughts on 'Codependent No More'"
 date:   2016-08-09 00:00:00 -0400
 tags: book review Beattie personal-development
-uid: 2ca36f1d-d1ed-436e-9c21-999c96e975d0
+uid: 0844e1c6-9a2f-48c3-9562-c8300651ad95
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 3/5
 
-Detect Thoughts: Suppose someone told you that you are codependent. How would you respond? What does that even mean?<br/><br/>This book gives a good anecdotal history of the phrase and it's use.
+Suppose someone told you that you are codependent. How would you respond? What does that even mean?<br/><br/>This book gives a good anecdotal history of the phrase and it's use.
 
 ### Date Read
 2016/08/09
@@ -22,7 +23,6 @@ Detect Thoughts: Suppose someone told you that you are codependent. How would yo
 ## Goodreads book information
 
 *Codependent No More: How to Stop Controlling Others and Start Caring for Yourself* by Melody Beattie
-Empty
 
 https://www.goodreads.com/book/show/2317502
 
@@ -34,14 +34,14 @@ Bookshelves: personal-development
 
 Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
-Melody Beattie, *Codependent No More: How to Stop Controlling Others and Start Caring for Yourself*, Empty Recorded Books, Inc. 2005 (Audio CD)[^1]
+Melody Beattie, *Codependent No More: How to Stop Controlling Others and Start Caring for Yourself*,  Recorded Books, Inc. 2005 (Audio CD)[^1]
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { 2024-04-22 00:30:48 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
+- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
 

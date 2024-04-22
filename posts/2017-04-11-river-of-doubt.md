@@ -4,14 +4,15 @@ author: James Rowe
 title:  "Detect Thoughts on 'River of Doubt'"
 date:   2017-04-11 00:00:00 -0400
 tags: book review Millard history biography
-uid: 52004294-4fba-47ee-93f2-cafeaf91bc37
+uid: 550f6790-a5f1-40e4-ab4d-5fcbd4207ec4
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 5/5
 
-Detect Thoughts: Fantastic book that follows Roosevelt down the river of doubt. And just like the many tributaries of the river the book is interwoven with great history lessons on the Amazonian jungle.
+Fantastic book that follows Roosevelt down the river of doubt. And just like the many tributaries of the river the book is interwoven with great history lessons on the Amazonian jungle.
 
 ### Date Read
 2017/04/11
@@ -22,7 +23,6 @@ Detect Thoughts: Fantastic book that follows Roosevelt down the river of doubt. 
 ## Goodreads book information
 
 *River of Doubt* by Candice Millard
-Paul Michael
 
 https://www.goodreads.com/book/show/2495901
 
@@ -38,10 +38,10 @@ Candice Millard, *River of Doubt*, Paul Michael Books on Tape 2000 (Audio CD)[^1
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { 2024-04-22 00:30:48 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
+- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
 

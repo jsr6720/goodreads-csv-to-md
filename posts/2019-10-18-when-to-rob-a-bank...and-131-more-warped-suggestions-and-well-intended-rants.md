@@ -4,14 +4,15 @@ author: James Rowe
 title:  "Detect Thoughts on 'When to Rob a Bank...And 131 More Warped Suggestions and Well-Intended Rants'"
 date:   2019-10-18 00:00:00 -0400
 tags: book review Dubner economics
-uid: b0de24f1-da3a-4f35-9a59-1b9bbc43776b
+uid: d9dfbf1f-cbbf-4421-a6a0-903edb9add09
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 4/5
 
-Detect Thoughts: Oh sure you could read the blog, but this is a fun read of collection of facts. If you liked Freakonomics this is that on a smaller scale.
+Oh sure you could read the blog, but this is a fun read of collection of facts. If you liked Freakonomics this is that on a smaller scale.
 
 ### Date Read
 2019/10/18
@@ -22,7 +23,6 @@ Detect Thoughts: Oh sure you could read the blog, but this is a fun read of coll
 ## Goodreads book information
 
 *When to Rob a Bank...And 131 More Warped Suggestions and Well-Intended Rants* by Stephen J. Dubner
-Steven D. Levitt, Erik Bergmann, Thérèse Plummer
 
 https://www.goodreads.com/book/show/23261572
 
@@ -38,10 +38,10 @@ Stephen J. Dubner, *When to Rob a Bank...And 131 More Warped Suggestions and Wel
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { 2024-04-22 00:30:47 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
+- {{ 2024-04-22 01:43:31 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
 

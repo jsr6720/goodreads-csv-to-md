@@ -1,17 +1,18 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on 'Emotional Intelligence: Why It Can Matter More Than IQ (Leading with Emotional Intelligence)'"
+title:  "Detect Thoughts on 'Emotional Intelligence'"
 date:   2015-09-02 00:00:00 -0400
 tags: book review Goleman read-again psychology
-uid: 775c5c9c-10b8-474f-bfc3-6d2eb97fb05e
+uid: 7c48f662-f261-4bc3-8129-26ec1026137d
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 5/5
 
-Detect Thoughts: Great book. Picked up on this via corporate training. highly recommend.<br/>Goes into great depth of child development, brain growth, marriage problems, work problems<br/>Could not put this down.
+Great book. Picked up on this via corporate training. highly recommend.<br/>Goes into great depth of child development, brain growth, marriage problems, work problems<br/>Could not put this down.
 
 ### Date Read
 2015/09/02
@@ -22,7 +23,6 @@ Detect Thoughts: Great book. Picked up on this via corporate training. highly re
 ## Goodreads book information
 
 *Emotional Intelligence: Why It Can Matter More Than IQ (Leading with Emotional Intelligence)* by Daniel Goleman
-Barrett Whitener
 
 https://www.goodreads.com/book/show/163105
 
@@ -38,10 +38,10 @@ Daniel Goleman, *Emotional Intelligence: Why It Can Matter More Than IQ (Leading
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { 2024-04-22 00:30:48 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
+- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
 

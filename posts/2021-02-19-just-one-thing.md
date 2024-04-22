@@ -1,17 +1,18 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on 'Just One Thing: Developing a Buddha Brain One Simple Practice at a Time'"
+title:  "Detect Thoughts on 'Just One Thing'"
 date:   2021-02-19 00:00:00 -0400
 tags: book review Hanson personal-development philosophy
-uid: 473bc9ab-6d0c-4219-a7d2-26fdff219042
+uid: a3246b09-1366-4dac-9433-dbe9747043a1
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 5/5
 
-Detect Thoughts: Great volume that's worth a read and re-read. Focus in on the things to approach happiness by Letting Go and appreciating all the wonderful things in life.<br/><br/>While our neurons and evolution have wired us to see the negative in life. This makes for poor mental health. Focus on the positives and reduce stress.
+Great volume that's worth a read and re-read. Focus in on the things to approach happiness by Letting Go and appreciating all the wonderful things in life.<br/><br/>While our neurons and evolution have wired us to see the negative in life. This makes for poor mental health. Focus on the positives and reduce stress.
 
 ### Date Read
 2021/02/19
@@ -22,7 +23,6 @@ Detect Thoughts: Great volume that's worth a read and re-read. Focus in on the t
 ## Goodreads book information
 
 *Just One Thing: Developing a Buddha Brain One Simple Practice at a Time* by Rick Hanson
-Empty
 
 https://www.goodreads.com/book/show/11276139
 
@@ -34,14 +34,14 @@ Bookshelves: personal-development, philosophy
 
 Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
-Rick Hanson, *Just One Thing: Developing a Buddha Brain One Simple Practice at a Time*, Empty New Harbinger Publications 2011 (Paperback)[^1]
+Rick Hanson, *Just One Thing: Developing a Buddha Brain One Simple Practice at a Time*,  New Harbinger Publications 2011 (Paperback)[^1]
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { 2024-04-22 00:30:47 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
+- {{ 2024-04-22 01:43:31 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
 

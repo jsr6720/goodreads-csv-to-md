@@ -1,17 +1,18 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on 'Team of Teams: The Power of Small Groups in a Fragmented World'"
+title:  "Detect Thoughts on 'Team of Teams'"
 date:   2017-01-04 00:00:00 -0400
 tags: book review McChrystal business
-uid: 6ca741ce-c317-4870-afd6-813ee2db1707
+uid: 243d789e-022f-4505-8702-38270df4057f
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 5/5
 
-Detect Thoughts: Great narrative that looks how a complicated world became a complex one and how that impacts businesses. This is a continuation of the concept outlined in [b:The Checklist Manifesto|6667514|The Checklist Manifesto  How to Get Things Right|Atul Gawande|https://images.gr-assets.com/books/1312061594s/6667514.jpg|6862414]. Simple problems linked together can form complication problems.<br/><br/>Complex problems are a mesh of interdependent issues where linear inputs/outputs cannot be graphed. The 'butterfly effect' is in full force in these ecosystems. I'm liking the deep history of attribution of how command and control systems came into being by [a:Frederick Winslow Taylor|485537|Frederick Winslow Taylor|https://images.gr-assets.com/authors/1277924395p2/485537.jpg] as the first "Scientific Management" practitioner.<br/><br/>This book has many anecdotal stories in which McChrystal details how having a shared consciousness benefited their strategic operations. Today's managers should be "eyes on, hands off" and follow a pattern of "gardener, not chess master". No longer can one person have the expertise to make every decision, the most important role of the leader is to foster a fertile environment for subordinates to thrive.
+Great narrative that looks how a complicated world became a complex one and how that impacts businesses. This is a continuation of the concept outlined in [The Checklist Manifesto](https://www.goodreads.com/book/show/6667514). Simple problems linked together can form complication problems.<br/><br/>Complex problems are a mesh of interdependent issues where linear inputs/outputs cannot be graphed. The 'butterfly effect' is in full force in these ecosystems. I'm liking the deep history of attribution of how command and control systems came into being by [Frederick Winslow Taylor](https://www.goodreads.com/author/show/485537) as the first "Scientific Management" practitioner.<br/><br/>This book has many anecdotal stories in which McChrystal details how having a shared consciousness benefited their strategic operations. Today's managers should be "eyes on, hands off" and follow a pattern of "gardener, not chess master". No longer can one person have the expertise to make every decision, the most important role of the leader is to foster a fertile environment for subordinates to thrive.
 
 ### Date Read
 2017/01/04
@@ -22,7 +23,6 @@ Detect Thoughts: Great narrative that looks how a complicated world became a com
 ## Goodreads book information
 
 *Team of Teams: The Power of Small Groups in a Fragmented World* by Stanley McChrystal
-Chris Fussell
 
 https://www.goodreads.com/book/show/23016447
 
@@ -38,10 +38,10 @@ Stanley McChrystal, *Team of Teams: The Power of Small Groups in a Fragmented Wo
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { 2024-04-22 00:30:48 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
+- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
 

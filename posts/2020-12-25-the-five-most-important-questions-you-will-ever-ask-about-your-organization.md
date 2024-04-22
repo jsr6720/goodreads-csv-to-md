@@ -3,15 +3,16 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on 'The Five Most Important Questions You Will Ever Ask About Your Organization'"
 date:   2020-12-25 00:00:00 -0400
-tags: book review Drucker Empty
-uid: b49af3fc-de77-4a08-b641-de2ee5db7bf9
+tags: book review Drucker 
+uid: 7804a520-612b-413c-97e0-46ca21e3b602
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 4/5
 
-Detect Thoughts: Quick read and lots of examples from the social sector. <br/><br/>Bring your pen and paper. This is a workbook which requires brainstorming and exercise to get the best value from. 
+Quick read and lots of examples from the social sector. <br/><br/>Bring your pen and paper. This is a workbook which requires brainstorming and exercise to get the best value from. 
 
 ### Date Read
 2020/12/25
@@ -22,11 +23,10 @@ Detect Thoughts: Quick read and lots of examples from the social sector. <br/><b
 ## Goodreads book information
 
 *The Five Most Important Questions You Will Ever Ask About Your Organization* by Peter F. Drucker
-Frances Hesselbein Leadership Institute
 
 https://www.goodreads.com/book/show/2988554
 
-Bookshelves: Empty
+Bookshelves: 
 
 ---
 
@@ -38,10 +38,10 @@ Peter F. Drucker, *The Five Most Important Questions You Will Ever Ask About You
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { 2024-04-22 00:30:47 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
+- {{ 2024-04-22 01:43:31 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
 

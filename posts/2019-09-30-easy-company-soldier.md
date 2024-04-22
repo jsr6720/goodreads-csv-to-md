@@ -1,17 +1,18 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on 'Easy Company Soldier: The Legendary Battles of a Sergeant from World War II's "Band of Brothers"'"
+title:  "Detect Thoughts on 'Easy Company Soldier'"
 date:   2019-09-30 00:00:00 -0400
-tags: book review Malarkey Empty
-uid: 401e0ea9-6262-4a8b-ad64-510b41d2c92b
+tags: book review Malarkey 
+uid: 8c06c1d7-09c2-454c-ba8c-8b8b010f3068
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 5/5
 
-Detect Thoughts: Great companion to Conversations with Major Dick Winters. Covers some of the same era. If Dick Winters is the boy scout then Malarkey is the Shop Class Hero.
+Great companion to Conversations with Major Dick Winters. Covers some of the same era. If Dick Winters is the boy scout then Malarkey is the Shop Class Hero.
 
 ### Date Read
 2019/09/30
@@ -22,11 +23,10 @@ Detect Thoughts: Great companion to Conversations with Major Dick Winters. Cover
 ## Goodreads book information
 
 *Easy Company Soldier: The Legendary Battles of a Sergeant from World War II's "Band of Brothers"* by Don Malarkey
-Bob Welch
 
 https://www.goodreads.com/book/show/3835022
 
-Bookshelves: Empty
+Bookshelves: 
 
 ---
 
@@ -38,10 +38,10 @@ Don Malarkey, *Easy Company Soldier: The Legendary Battles of a Sergeant from Wo
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { 2024-04-22 00:30:47 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
+- {{ 2024-04-22 01:43:31 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
 

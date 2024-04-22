@@ -3,15 +3,16 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on 'Letter from Birmingham Jail'"
 date:   2018-09-06 00:00:00 -0400
-tags: book review Jr. Empty
-uid: 5e3e8f70-b77d-401d-80eb-fbd67a88c3bf
+tags: book review Jr. 
+uid: d58b648f-52f0-4659-9313-f8d412f85c6a
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 5/5
 
-Detect Thoughts: Nice to listen to the source material.
+Nice to listen to the source material.
 
 ### Date Read
 2018/09/06
@@ -22,11 +23,10 @@ Detect Thoughts: Nice to listen to the source material.
 ## Goodreads book information
 
 *Letter from Birmingham Jail* by Martin Luther King Jr.
-Dion Graham
 
 https://www.goodreads.com/book/show/17623918
 
-Bookshelves: Empty
+Bookshelves: 
 
 ---
 
@@ -38,10 +38,10 @@ Martin Luther King Jr., *Letter from Birmingham Jail*, Dion Graham Mission Audio
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { 2024-04-22 00:30:47 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
+- {{ 2024-04-22 01:43:31 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
 

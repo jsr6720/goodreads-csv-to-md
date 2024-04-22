@@ -1,17 +1,18 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on 'Ready, Set, Breathe: Practicing Mindfulness with Your Children for Fewer Meltdowns and a More Peaceful Family'"
+title:  "Detect Thoughts on 'Ready, Set, Breathe'"
 date:   2019-10-25 00:00:00 -0400
-tags: book review Naumburg Empty
-uid: ce0b3659-e186-481a-aa26-06ddf0a8d12e
+tags: book review Naumburg 
+uid: 6835cc14-9e79-4dcd-8dc7-9d0b02792c2e
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 3/5
 
-Detect Thoughts: Breath before acting. You're not always going to be a perfect parent
+Breath before acting. You're not always going to be a perfect parent
 
 ### Date Read
 2019/10/25
@@ -22,11 +23,10 @@ Detect Thoughts: Breath before acting. You're not always going to be a perfect p
 ## Goodreads book information
 
 *Ready, Set, Breathe: Practicing Mindfulness with Your Children for Fewer Meltdowns and a More Peaceful Family* by Carla Naumburg
-Empty
 
 https://www.goodreads.com/book/show/23845909
 
-Bookshelves: Empty
+Bookshelves: 
 
 ---
 
@@ -34,14 +34,14 @@ Bookshelves: Empty
 
 Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
-Carla Naumburg, *Ready, Set, Breathe: Practicing Mindfulness with Your Children for Fewer Meltdowns and a More Peaceful Family*, Empty New Harbinger Publications 2015 (Paperback)[^1]
+Carla Naumburg, *Ready, Set, Breathe: Practicing Mindfulness with Your Children for Fewer Meltdowns and a More Peaceful Family*,  New Harbinger Publications 2015 (Paperback)[^1]
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { 2024-04-22 00:30:47 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
+- {{ 2024-04-22 01:43:31 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
 

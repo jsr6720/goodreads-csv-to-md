@@ -4,14 +4,15 @@ author: James Rowe
 title:  "Detect Thoughts on 'The 48 Laws of Power'"
 date:   2018-09-01 00:00:00 -0400
 tags: book review Greene business psychology
-uid: 62a2ec5c-3faf-48d6-ad29-2895c3c363ac
+uid: 086fa285-5df9-4c9d-881c-71a8419bfed7
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 5/5
 
-Detect Thoughts: This book contains the hard truths of the habits and mannerism of people who don't play nice. Full of excerpts from history, antiqued and modern, you'd be a fool to not know these tricks.<br/><br/>Great read.
+This book contains the hard truths of the habits and mannerism of people who don't play nice. Full of excerpts from history, antiqued and modern, you'd be a fool to not know these tricks.<br/><br/>Great read.
 
 ### Date Read
 2018/09/01
@@ -22,7 +23,6 @@ Detect Thoughts: This book contains the hard truths of the habits and mannerism 
 ## Goodreads book information
 
 *The 48 Laws of Power* by Robert Greene
-Don Leslie
 
 https://www.goodreads.com/book/show/1170150
 
@@ -38,10 +38,10 @@ Robert Greene, *The 48 Laws of Power*, Don Leslie HighBridge Audio 2007 (Audio C
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { 2024-04-22 00:30:47 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
+- {{ 2024-04-22 01:43:31 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
 

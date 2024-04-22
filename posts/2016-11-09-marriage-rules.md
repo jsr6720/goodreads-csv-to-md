@@ -1,17 +1,18 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on 'Marriage Rules: A Manual for the Married and the Coupled Up'"
+title:  "Detect Thoughts on 'Marriage Rules'"
 date:   2016-11-09 00:00:00 -0400
 tags: book review Lerner personal-development read-again
-uid: 807a4877-e220-488b-98fa-aecc9ffea3ca
+uid: 8e18c5e7-2b5e-4a3f-9d08-5890ba12c62f
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 5/5
 
-Detect Thoughts: I really enjoyed this books content and format. More so than any other book you can find 5 or 10 rules that really speak to you and work them with your partner. <br/><br/>This book ha a heavy emphasis on family of origin relationships and many other common pirfalls. <br/><br/>
+I really enjoyed this books content and format. More so than any other book you can find 5 or 10 rules that really speak to you and work them with your partner. <br/><br/>This book ha a heavy emphasis on family of origin relationships and many other common pirfalls. <br/><br/>
 
 ### Date Read
 2016/11/09
@@ -22,7 +23,6 @@ Detect Thoughts: I really enjoyed this books content and format. More so than an
 ## Goodreads book information
 
 *Marriage Rules: A Manual for the Married and the Coupled Up* by Harriet Lerner
-Empty
 
 https://www.goodreads.com/book/show/12144326
 
@@ -34,14 +34,14 @@ Bookshelves: personal-development, read-again
 
 Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
-Harriet Lerner, *Marriage Rules: A Manual for the Married and the Coupled Up*, Empty Gotham 2012 (Hardcover)[^1]
+Harriet Lerner, *Marriage Rules: A Manual for the Married and the Coupled Up*,  Gotham 2012 (Hardcover)[^1]
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { 2024-04-22 00:30:48 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
+- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
 

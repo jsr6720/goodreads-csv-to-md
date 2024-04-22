@@ -1,17 +1,18 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on 'Rough Riders: Theordore Roosevelt, His Cowboy Regiment, and the Immortal Charge Up San Juan Hill'"
+title:  "Detect Thoughts on 'Rough Riders'"
 date:   2019-06-21 00:00:00 -0400
 tags: book review Gardner biography history leadership
-uid: 652c5e86-ec57-47ec-b50d-ebf1edec765a
+uid: 869e6331-a343-471b-a03f-18f2f705a120
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 5/5
 
-Detect Thoughts: While it must be tough to separate the story of the Rough Riders from such a large figure in american history (Roosevelt). This book does a good job staying in the narrative of the Rough Riders formation, voyage and fighting spirit.
+While it must be tough to separate the story of the Rough Riders from such a large figure in american history (Roosevelt). This book does a good job staying in the narrative of the Rough Riders formation, voyage and fighting spirit.
 
 ### Date Read
 2019/06/21
@@ -22,7 +23,6 @@ Detect Thoughts: While it must be tough to separate the story of the Rough Rider
 ## Goodreads book information
 
 *Rough Riders: Theordore Roosevelt, His Cowboy Regiment, and the Immortal Charge Up San Juan Hill* by Mark Lee Gardner
-Danny Campbell
 
 https://www.goodreads.com/book/show/29445916
 
@@ -38,10 +38,10 @@ Mark Lee Gardner, *Rough Riders: Theordore Roosevelt, His Cowboy Regiment, and t
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { 2024-04-22 00:30:47 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
+- {{ 2024-04-22 01:43:31 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
 

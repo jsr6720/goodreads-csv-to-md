@@ -1,20 +1,21 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on 'Doing the Right Things Right: How the Effective Executive Spends Time'"
+title:  "Detect Thoughts on 'Doing the Right Things Right'"
 date:   2019-08-27 00:00:00 -0400
 tags: book review Stack did-not-finish
-uid: 633ba230-aa5a-4ca0-8399-b7e627924b36
+uid: 7080b45e-d9a1-4962-be4c-ee25f3f7e390
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 0/5
 
-Detect Thoughts: Empty
+Empty
 
 ### Date Read
-Empty
+
 
 ### Date Added
 2019/08/27
@@ -22,7 +23,6 @@ Empty
 ## Goodreads book information
 
 *Doing the Right Things Right: How the Effective Executive Spends Time* by Laura Stack
-William A. Cohen
 
 https://www.goodreads.com/book/show/27037552
 
@@ -38,10 +38,10 @@ Laura Stack, *Doing the Right Things Right: How the Effective Executive Spends T
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { 2024-04-22 00:30:47 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
+- {{ 2024-04-22 01:43:31 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
 

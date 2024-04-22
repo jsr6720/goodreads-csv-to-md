@@ -1,17 +1,18 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on 'Thank You for Being Late: Finding a Job, Running a Country, and Keeping Your Head in an Age of Accelerations'"
+title:  "Detect Thoughts on 'Thank You for Being Late'"
 date:   2018-04-20 00:00:00 -0400
 tags: book review Friedman history
-uid: f3bd10a2-51c4-43d0-85b0-f77e06a22946
+uid: 82fa2be0-9ce5-4123-83ad-793b51a05692
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 4/5
 
-Detect Thoughts: Empty
+Empty
 
 ### Date Read
 2018/04/20
@@ -22,7 +23,6 @@ Detect Thoughts: Empty
 ## Goodreads book information
 
 *Thank You for Being Late: Finding a Job, Running a Country, and Keeping Your Head in an Age of Accelerations* by Thomas L. Friedman
-Oliver Wyman
 
 https://www.goodreads.com/book/show/26792267
 
@@ -38,10 +38,10 @@ Thomas L. Friedman, *Thank You for Being Late: Finding a Job, Running a Country,
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { 2024-04-22 00:30:48 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
+- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
 

@@ -4,14 +4,15 @@ author: James Rowe
 title:  "Detect Thoughts on 'Steve Jobs'"
 date:   2019-04-26 00:00:00 -0400
 tags: book review Isaacson business biography management
-uid: d1751640-3ea0-4be3-a8d6-6615ff5f843f
+uid: 30fb982d-ae28-46bb-ab32-7281679b0d9b
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 4/5
 
-Detect Thoughts: Great book that covers Jobs life and history. Picked this up as it was the 'official' biography even though there are other books out there. Isaacson bends delves deep into the weeds of Jobs idiosyncrasies that may or not be related to Jobs success. <br/><br/>Were Jobs' diets weird? Sure. Did I need to know that he embodied the smelly hippie with pilgrimages to India. Interesting, but no thanks. Great coverage on the technical aspects of the early Apple computers. <br/><br/>Isaacson also points out multiple times that Jobs harsh style was not necessary for the success of his company. Unfounded statement that sounds nice on paper but ignores the scores of stories he documented as "Jobs told us the impossible was possible and most of the time it was".
+Great book that covers Jobs life and history. Picked this up as it was the 'official' biography even though there are other books out there. Isaacson bends delves deep into the weeds of Jobs idiosyncrasies that may or not be related to Jobs success. <br/><br/>Were Jobs' diets weird? Sure. Did I need to know that he embodied the smelly hippie with pilgrimages to India. Interesting, but no thanks. Great coverage on the technical aspects of the early Apple computers. <br/><br/>Isaacson also points out multiple times that Jobs harsh style was not necessary for the success of his company. Unfounded statement that sounds nice on paper but ignores the scores of stories he documented as "Jobs told us the impossible was possible and most of the time it was".
 
 ### Date Read
 2019/04/26
@@ -22,7 +23,6 @@ Detect Thoughts: Great book that covers Jobs life and history. Picked this up as
 ## Goodreads book information
 
 *Steve Jobs* by Walter Isaacson
-Empty
 
 https://www.goodreads.com/book/show/11084145
 
@@ -34,14 +34,14 @@ Bookshelves: business, biography, management
 
 Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
-Walter Isaacson, *Steve Jobs*, Empty Simon & Schuster 2011 (Hardcover)[^1]
+Walter Isaacson, *Steve Jobs*,  Simon & Schuster 2011 (Hardcover)[^1]
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { 2024-04-22 00:30:47 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
+- {{ 2024-04-22 01:43:31 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
 

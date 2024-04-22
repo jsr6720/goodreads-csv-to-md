@@ -1,17 +1,18 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on 'Leadership Lessons from a UPS Driver: Delivering a Culture of We, Not Me'"
+title:  "Detect Thoughts on 'Leadership Lessons from a UPS Driver'"
 date:   2018-02-02 00:00:00 -0400
 tags: book review Wallace business
-uid: 064923dc-3d46-4c55-bf9a-6bab07f5bc51
+uid: f4a6f755-822b-4863-bd79-ec89e833608f
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 5/5
 
-Detect Thoughts: Great collection of business stories that help drive the culture of UPS.<br/><br/>This is definitely a "Management by walking around" approach and reflects the disperse nature of the organization. Short and to the point there are many great pieces of advice here.
+Great collection of business stories that help drive the culture of UPS.<br/><br/>This is definitely a "Management by walking around" approach and reflects the disperse nature of the organization. Short and to the point there are many great pieces of advice here.
 
 ### Date Read
 2018/02/02
@@ -22,7 +23,6 @@ Detect Thoughts: Great collection of business stories that help drive the cultur
 ## Goodreads book information
 
 *Leadership Lessons from a UPS Driver: Delivering a Culture of We, Not Me* by Ron Wallace
-Empty
 
 https://www.goodreads.com/book/show/28158907
 
@@ -34,14 +34,14 @@ Bookshelves: business
 
 Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
-Ron Wallace, *Leadership Lessons from a UPS Driver: Delivering a Culture of We, Not Me*, Empty Berrett-Koehler on Dreamscape Audio 2016 (Audio CD)[^1]
+Ron Wallace, *Leadership Lessons from a UPS Driver: Delivering a Culture of We, Not Me*,  Berrett-Koehler on Dreamscape Audio 2016 (Audio CD)[^1]
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { 2024-04-22 00:30:48 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
+- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
 

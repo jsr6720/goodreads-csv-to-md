@@ -1,17 +1,18 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on 'Glenn Beck's Common Sense: The Case Against an Out-of-Control Government, Inspired by Thomas Paine'"
+title:  "Detect Thoughts on 'Glenn Beck's Common Sense'"
 date:   2017-01-24 00:00:00 -0400
-tags: book review Beck Empty
-uid: 7e77f695-8c12-4123-9cf6-5542b7c2b113
+tags: book review Beck 
+uid: 0eb849a5-ae52-4819-851b-6784f4fb68f9
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 3/5
 
-Detect Thoughts: Picked this book up because I read an article about Beck's remorse over Trump's victory.<br/>Bonus: This book includes the original text of Thomas Pains Common Sense.<br/><br/>Here are my key takeaways:<br/><br/>* Back a politician not a party.<br/>* Use the tools of democracy to change the system. Violence is not needed<br/>* Redistricting as a political tool is killing democracy<br/>* Active informed citizens are required for a representative republic<br/><br/>
+Picked this book up because I read an article about Beck's remorse over Trump's victory.<br/>Bonus: This book includes the original text of Thomas Pains Common Sense.<br/><br/>Here are my key takeaways:<br/><br/>* Back a politician not a party.<br/>* Use the tools of democracy to change the system. Violence is not needed<br/>* Redistricting as a political tool is killing democracy<br/>* Active informed citizens are required for a representative republic<br/><br/>
 
 ### Date Read
 2017/01/24
@@ -22,11 +23,10 @@ Detect Thoughts: Picked this book up because I read an article about Beck's remo
 ## Goodreads book information
 
 *Glenn Beck's Common Sense: The Case Against an Out-of-Control Government, Inspired by Thomas Paine* by Glenn Beck
-Empty
 
 https://www.goodreads.com/book/show/6478256
 
-Bookshelves: Empty
+Bookshelves: 
 
 ---
 
@@ -34,14 +34,14 @@ Bookshelves: Empty
 
 Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
-Glenn Beck, *Glenn Beck's Common Sense: The Case Against an Out-of-Control Government, Inspired by Thomas Paine*, Empty Threshold Editions 2009 (Paperback)[^1]
+Glenn Beck, *Glenn Beck's Common Sense: The Case Against an Out-of-Control Government, Inspired by Thomas Paine*,  Threshold Editions 2009 (Paperback)[^1]
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { 2024-04-22 00:30:48 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
+- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
 

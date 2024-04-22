@@ -1,17 +1,18 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on 'Private Empire: ExxonMobil and American Power'"
+title:  "Detect Thoughts on 'Private Empire'"
 date:   2018-12-23 00:00:00 -0400
 tags: book review Coll business
-uid: 822ab622-bd70-4f93-aed3-59d3d3ab79fb
+uid: 0a7ab13e-a626-4c9a-867f-609f170a86db
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 4/5
 
-Detect Thoughts: Long. Detailed. History of Exxon mobile from its birth out of the standard oil breakup. This book covers the key players including brief Secretary of State Rex tillerson. <br/><br/>At 18 cds broke this into two readings but covers the entire globe. Almost a collection of short stories based on location. 
+Long. Detailed. History of Exxon mobile from its birth out of the standard oil breakup. This book covers the key players including brief Secretary of State Rex tillerson. <br/><br/>At 18 cds broke this into two readings but covers the entire globe. Almost a collection of short stories based on location. 
 
 ### Date Read
 2018/12/23
@@ -22,7 +23,6 @@ Detect Thoughts: Long. Detailed. History of Exxon mobile from its birth out of t
 ## Goodreads book information
 
 *Private Empire: ExxonMobil and American Power* by Steve Coll
-Malcolm Hillgartner
 
 https://www.goodreads.com/book/show/13588080
 
@@ -38,10 +38,10 @@ Steve Coll, *Private Empire: ExxonMobil and American Power*, Malcolm Hillgartner
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { 2024-04-22 00:30:47 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
+- {{ 2024-04-22 01:43:31 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
 

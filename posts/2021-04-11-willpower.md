@@ -1,17 +1,18 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on 'Willpower: Rediscovering the Greatest Human Strength'"
+title:  "Detect Thoughts on 'Willpower'"
 date:   2021-04-11 00:00:00 -0400
 tags: book review Baumeister psychology personal-development
-uid: cd44134c-32e3-4b59-87b1-3fadda8d63a7
+uid: 32a34b13-da13-4601-9ec2-3f609b1d8ff5
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 3/5
 
-Detect Thoughts: Book is a little over the top with self-references. Middle of the book is a little slow but first few chapters and last few chapters definitely a good read.<br/><br/>Key concepts: eliminate temptation and frame the decision on future self vs past self.
+Book is a little over the top with self-references. Middle of the book is a little slow but first few chapters and last few chapters definitely a good read.<br/><br/>Key concepts: eliminate temptation and frame the decision on future self vs past self.
 
 ### Date Read
 2021/04/11
@@ -22,7 +23,6 @@ Detect Thoughts: Book is a little over the top with self-references. Middle of t
 ## Goodreads book information
 
 *Willpower: Rediscovering the Greatest Human Strength* by Roy F. Baumeister
-John Tierney
 
 https://www.goodreads.com/book/show/11104933
 
@@ -38,10 +38,10 @@ Roy F. Baumeister, *Willpower: Rediscovering the Greatest Human Strength*, John 
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { 2024-04-22 00:30:47 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
+- {{ 2024-04-22 01:43:31 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
 

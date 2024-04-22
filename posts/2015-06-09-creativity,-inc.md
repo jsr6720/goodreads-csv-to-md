@@ -1,17 +1,18 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on 'Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration'"
+title:  "Detect Thoughts on 'Creativity, Inc.'"
 date:   2015-06-09 00:00:00 -0400
 tags: book review Catmull did-not-finish
-uid: e159e041-6fa2-46de-a6be-4914480f0bb1
+uid: ad138127-899d-45ec-a5f9-68bb19253d1b
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 1/5
 
-Detect Thoughts: Couldn't finish. History of Pixar was interesting, but failed to deliver an engaging experience.<br/>To clarify, it's not bad, its just not for me.
+Couldn't finish. History of Pixar was interesting, but failed to deliver an engaging experience.<br/>To clarify, it's not bad, its just not for me.
 
 ### Date Read
 2015/06/09
@@ -22,7 +23,6 @@ Detect Thoughts: Couldn't finish. History of Pixar was interesting, but failed t
 ## Goodreads book information
 
 *Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration* by Ed Catmull
-Amy    Wallace
 
 https://www.goodreads.com/book/show/18077873
 
@@ -38,10 +38,10 @@ Ed Catmull, *Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Wa
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { 2024-04-22 00:30:48 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
+- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
 

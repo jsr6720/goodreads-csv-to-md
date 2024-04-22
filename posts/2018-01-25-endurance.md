@@ -1,17 +1,18 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on 'Endurance: Shackleton's Incredible Voyage'"
+title:  "Detect Thoughts on 'Endurance'"
 date:   2018-01-25 00:00:00 -0400
 tags: book review Lansing history
-uid: 428a7da0-9e75-4ea9-8941-7c41ecbeb4f7
+uid: 329bc871-ea72-4eff-b21a-753a0567cf28
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 5/5
 
-Detect Thoughts: A great reading of Shackleton's voyage through the antarctic. This accounting is so riveting it rivals any fictional hero book. Pairs well with  "River of Doubt" by Candice Millard
+A great reading of Shackleton's voyage through the antarctic. This accounting is so riveting it rivals any fictional hero book. Pairs well with  "River of Doubt" by Candice Millard
 
 ### Date Read
 2018/01/25
@@ -22,7 +23,6 @@ Detect Thoughts: A great reading of Shackleton's voyage through the antarctic. T
 ## Goodreads book information
 
 *Endurance: Shackleton's Incredible Voyage* by Alfred Lansing
-Simon Prebble
 
 https://www.goodreads.com/book/show/2185083
 
@@ -38,10 +38,10 @@ Alfred Lansing, *Endurance: Shackleton's Incredible Voyage*, Simon Prebble Black
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { 2024-04-22 00:30:48 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
+- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
 

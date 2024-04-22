@@ -4,14 +4,15 @@ author: James Rowe
 title:  "Detect Thoughts on 'Dont Sweat the Small Stuff and Its All Small Stuff'"
 date:   2016-06-05 00:00:00 -0400
 tags: book review Carlson personal-development
-uid: 6ce2f7f2-c09d-40b8-a717-4c4edc8fd4f6
+uid: 4909c060-f2fd-4a0c-ab47-80318eaf6ace
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 4/5
 
-Detect Thoughts: An alternative title could be "strategies for living a peaceful life" and while it would be more descriptive of the contents of the book, the original title is very effective at capturing my attention. <br/><br/>Two things I've learned from this book: your inbox will still be full when you die, and life is too short to sweat the small stuff. Think of any incident and think of it's importance in 1, 10, 100 years. The great majority of our daily interactions will be rendered moot by this analysis. See also 80/20 principle.
+An alternative title could be "strategies for living a peaceful life" and while it would be more descriptive of the contents of the book, the original title is very effective at capturing my attention. <br/><br/>Two things I've learned from this book: your inbox will still be full when you die, and life is too short to sweat the small stuff. Think of any incident and think of it's importance in 1, 10, 100 years. The great majority of our daily interactions will be rendered moot by this analysis. See also 80/20 principle.
 
 ### Date Read
 2016/06/05
@@ -22,7 +23,6 @@ Detect Thoughts: An alternative title could be "strategies for living a peaceful
 ## Goodreads book information
 
 *Dont Sweat the Small Stuff and Its All Small Stuff* by Richard Carlson
-Empty
 
 https://www.goodreads.com/book/show/508637
 
@@ -34,14 +34,14 @@ Bookshelves: personal-development
 
 Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
-Richard Carlson, *Dont Sweat the Small Stuff and Its All Small Stuff*, Empty Simon & Schuster Audio 1999 (Audio Cassette)[^1]
+Richard Carlson, *Dont Sweat the Small Stuff and Its All Small Stuff*,  Simon & Schuster Audio 1999 (Audio Cassette)[^1]
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { 2024-04-22 00:30:48 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
+- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
 

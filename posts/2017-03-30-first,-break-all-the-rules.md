@@ -1,17 +1,18 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on 'First, Break All the Rules: What the World's Greatest Managers Do Differently'"
+title:  "Detect Thoughts on 'First, Break All the Rules'"
 date:   2017-03-30 00:00:00 -0400
 tags: book review Buckingham business read-again
-uid: 49047574-1bdf-41d2-a33a-e85ed219ceec
+uid: 08c4e058-a594-4c99-91a7-958d6bfe85ae
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 5/5
 
-Detect Thoughts: Great book that challenges many of the assumptions about managing people.<br/><br/>Greatest contribution is the list of questions that guide great performers.<br/>Do I know what is expected of me at work?<br/>Do I have the materials and equipment I need to do my work right? <br/>Do I have the opportunity to do what I do best everyday? <br/>... Many more<br/><br/>Remember that "average" is a long way off from a cluster of high-performers. Focusing on innate talent and train skills is the best way to accomplish great staff.
+Great book that challenges many of the assumptions about managing people.<br/><br/>Greatest contribution is the list of questions that guide great performers.<br/>Do I know what is expected of me at work?<br/>Do I have the materials and equipment I need to do my work right? <br/>Do I have the opportunity to do what I do best everyday? <br/>... Many more<br/><br/>Remember that "average" is a long way off from a cluster of high-performers. Focusing on innate talent and train skills is the best way to accomplish great staff.
 
 ### Date Read
 2017/03/30
@@ -22,7 +23,6 @@ Detect Thoughts: Great book that challenges many of the assumptions about managi
 ## Goodreads book information
 
 *First, Break All the Rules: What the World's Greatest Managers Do Differently* by Marcus Buckingham
-Curt Coffman
 
 https://www.goodreads.com/book/show/50937
 
@@ -38,10 +38,10 @@ Marcus Buckingham, *First, Break All the Rules: What the World's Greatest Manage
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { 2024-04-22 00:30:48 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
+- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
 

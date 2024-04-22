@@ -1,17 +1,18 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on 'The Man Without a Face: The Unlikely Rise of Vladimir Putin'"
+title:  "Detect Thoughts on 'The Man Without a Face'"
 date:   2016-11-04 00:00:00 -0400
 tags: book review Gessen history
-uid: a57f78df-bcd2-48ab-832e-f77e0ab8c603
+uid: 59c55d73-7837-4979-b23e-cf4cea54f525
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 2/5
 
-Detect Thoughts: So first. Aside from brief biographical information about Putin in his early years growing up in Leningrad there is very little information about him in this book. Further I felt this book was more a historical narrative about the birth and perceived death of Democracy in Russia.<br/><br/>The book was heavy with so many examples of business men being jailed and investigative journalist being killed, but every time Gessen could only speculate that the 'orders came from the top'. I was disappointed that so much of the book focused on people around Putin and not himself.<br/><br/>What worked better as a series of investigative pieces felt like a book bounded from periodicals. I came away feeling more confused who Putin was as a man. Much of the biographical information provided by Gessen was considered suspect and likely false.
+So first. Aside from brief biographical information about Putin in his early years growing up in Leningrad there is very little information about him in this book. Further I felt this book was more a historical narrative about the birth and perceived death of Democracy in Russia.<br/><br/>The book was heavy with so many examples of business men being jailed and investigative journalist being killed, but every time Gessen could only speculate that the 'orders came from the top'. I was disappointed that so much of the book focused on people around Putin and not himself.<br/><br/>What worked better as a series of investigative pieces felt like a book bounded from periodicals. I came away feeling more confused who Putin was as a man. Much of the biographical information provided by Gessen was considered suspect and likely false.
 
 ### Date Read
 2016/11/04
@@ -22,7 +23,6 @@ Detect Thoughts: So first. Aside from brief biographical information about Putin
 ## Goodreads book information
 
 *The Man Without a Face: The Unlikely Rise of Vladimir Putin* by Masha Gessen
-Justine Eyre
 
 https://www.goodreads.com/book/show/14580465
 
@@ -38,10 +38,10 @@ Masha Gessen, *The Man Without a Face: The Unlikely Rise of Vladimir Putin*, Jus
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { 2024-04-22 00:30:48 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
+- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
 

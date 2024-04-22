@@ -1,17 +1,18 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on 'Patton, Montgomery, Rommel: Masters of War'"
+title:  "Detect Thoughts on 'Patton, Montgomery, Rommel'"
 date:   2019-12-18 00:00:00 -0400
 tags: book review Brighton history leadership
-uid: 4a1c69d2-dec9-4fae-bcde-23d99ede0805
+uid: 544eefdd-d4f5-44af-8d82-44aae0db18bc
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 4/5
 
-Detect Thoughts: Hard to summarize three great generals into one book. This one seems to do everyone justice. Coming away with a better appreciation for the commanders to fought the wars.<br/><br/>Check out the epilogue for summarized leadership lessons. Specifically in the will to fight and the means to fight.
+Hard to summarize three great generals into one book. This one seems to do everyone justice. Coming away with a better appreciation for the commanders to fought the wars.<br/><br/>Check out the epilogue for summarized leadership lessons. Specifically in the will to fight and the means to fight.
 
 ### Date Read
 2019/12/18
@@ -22,7 +23,6 @@ Detect Thoughts: Hard to summarize three great generals into one book. This one 
 ## Goodreads book information
 
 *Patton, Montgomery, Rommel: Masters of War* by Terry Brighton
-Mel Foster
 
 https://www.goodreads.com/book/show/7351831
 
@@ -38,10 +38,10 @@ Terry Brighton, *Patton, Montgomery, Rommel: Masters of War*, Mel Foster Tantor 
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { 2024-04-22 00:30:47 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
+- {{ 2024-04-22 01:43:31 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
 

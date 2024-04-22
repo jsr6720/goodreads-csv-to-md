@@ -3,18 +3,19 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on 'The Last Lecture'"
 date:   2016-05-31 00:00:00 -0400
-tags: book review Pausch Empty
-uid: 12b0f359-859d-46ea-b21c-2d83868d97de
+tags: book review Pausch 
+uid: b315ae86-e67d-4be7-86db-a2fd53abe0c4
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 4/5
 
-Detect Thoughts: Empty
+Empty
 
 ### Date Read
-Empty
+
 
 ### Date Added
 2016/05/31
@@ -22,11 +23,10 @@ Empty
 ## Goodreads book information
 
 *The Last Lecture* by Randy Pausch
-Jeffrey Zaslow
 
 https://www.goodreads.com/book/show/2318271
 
-Bookshelves: Empty
+Bookshelves: 
 
 ---
 
@@ -38,10 +38,10 @@ Randy Pausch, *The Last Lecture*, Jeffrey Zaslow Hachette Books 2008 (Hardcover)
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { 2024-04-22 00:30:48 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
+- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
 

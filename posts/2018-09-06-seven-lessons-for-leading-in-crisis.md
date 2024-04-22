@@ -4,14 +4,15 @@ author: James Rowe
 title:  "Detect Thoughts on 'Seven Lessons for Leading in Crisis'"
 date:   2018-09-06 00:00:00 -0400
 tags: book review George business
-uid: 36c89b71-0093-41c7-aa22-110e00c7e1de
+uid: 1d60be65-dc29-4399-b9ce-51a6bab912a0
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 3/5
 
-Detect Thoughts: The only lesson worth mentioning is: never let a good crisis go to waste.<br/><br/>Those inflection points melt away resistance and allow a person or organization reform itself.
+The only lesson worth mentioning is: never let a good crisis go to waste.<br/><br/>Those inflection points melt away resistance and allow a person or organization reform itself.
 
 ### Date Read
 2018/09/06
@@ -22,7 +23,6 @@ Detect Thoughts: The only lesson worth mentioning is: never let a good crisis go
 ## Goodreads book information
 
 *Seven Lessons for Leading in Crisis* by Bill  George
-Empty
 
 https://www.goodreads.com/book/show/13526999
 
@@ -34,14 +34,14 @@ Bookshelves: business
 
 Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
-Bill  George, *Seven Lessons for Leading in Crisis*, Empty Your Coach Digital 2009 (Audiobook)[^1]
+Bill  George, *Seven Lessons for Leading in Crisis*,  Your Coach Digital 2009 (Audiobook)[^1]
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { 2024-04-22 00:30:47 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
+- {{ 2024-04-22 01:43:31 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
 

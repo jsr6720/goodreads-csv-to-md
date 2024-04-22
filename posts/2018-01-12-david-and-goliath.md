@@ -1,17 +1,18 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on 'David and Goliath: The Triumph of the Underdog'"
+title:  "Detect Thoughts on 'David and Goliath'"
 date:   2018-01-12 00:00:00 -0400
 tags: book review Gladwell economics psychology
-uid: f938a80a-16df-4b18-8a7e-1bf4da31fc94
+uid: 71aa7b03-6029-447c-8b54-5d98e7218b66
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 5/5
 
-Detect Thoughts: A collection of stories that evaluates the premise that all disadvantages don't also come with advantages.<br/><br/>Starting with David and Goliath Gladwell examines human's inability to grasp an inverted U curve. How too much of a good thing can cease to yield returns and actually travel back down the effective curve.
+A collection of stories that evaluates the premise that all disadvantages don't also come with advantages.<br/><br/>Starting with David and Goliath Gladwell examines human's inability to grasp an inverted U curve. How too much of a good thing can cease to yield returns and actually travel back down the effective curve.
 
 ### Date Read
 2018/01/12
@@ -22,7 +23,6 @@ Detect Thoughts: A collection of stories that evaluates the premise that all dis
 ## Goodreads book information
 
 *David and Goliath: The Triumph of the Underdog* by Malcolm Gladwell
-Empty
 
 https://www.goodreads.com/book/show/17333713
 
@@ -34,14 +34,14 @@ Bookshelves: economics, psychology
 
 Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
-Malcolm Gladwell, *David and Goliath: The Triumph of the Underdog*, Empty Little, Brown & Company 2013 (Audiobook)[^1]
+Malcolm Gladwell, *David and Goliath: The Triumph of the Underdog*,  Little, Brown & Company 2013 (Audiobook)[^1]
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { 2024-04-22 00:30:48 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
+- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
 

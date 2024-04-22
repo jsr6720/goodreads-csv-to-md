@@ -1,17 +1,18 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on 'The Danish Way of Parenting: What the Happiest People in the World Know About Raising Confident, Capable Kids'"
+title:  "Detect Thoughts on 'The Danish Way of Parenting'"
 date:   2018-12-14 00:00:00 -0400
 tags: book review Alexander parenting
-uid: 850f50de-b958-4c9b-959a-8be81db9cc23
+uid: 99052b20-88da-4bb4-ac70-92611f3a6dcf
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 4/5
 
-Detect Thoughts: There are better parenting guides. There are better child development books. But you'd be hard pressed to find a more concise collection of parenting ideas for happiness. <br/><br/>Of course happy families are all alike. And unhappy ones each in their own way. 
+There are better parenting guides. There are better child development books. But you'd be hard pressed to find a more concise collection of parenting ideas for happiness. <br/><br/>Of course happy families are all alike. And unhappy ones each in their own way. 
 
 ### Date Read
 2018/12/14
@@ -22,7 +23,6 @@ Detect Thoughts: There are better parenting guides. There are better child devel
 ## Goodreads book information
 
 *The Danish Way of Parenting: What the Happiest People in the World Know About Raising Confident, Capable Kids* by Jessica Joelle Alexander
-Iben Sandahl
 
 https://www.goodreads.com/book/show/28815322
 
@@ -38,10 +38,10 @@ Jessica Joelle Alexander, *The Danish Way of Parenting: What the Happiest People
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { 2024-04-22 00:30:47 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
+- {{ 2024-04-22 01:43:31 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
 

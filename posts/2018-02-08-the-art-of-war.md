@@ -3,15 +3,16 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on 'The Art of War'"
 date:   2018-02-08 00:00:00 -0400
-tags: book review Wilson Empty
-uid: fc2e95ea-8b6b-4e53-a287-cdae9344e25a
+tags: book review Wilson 
+uid: 5dfbc5c3-87de-4d7d-96b2-f2799f880ab0
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 2/5
 
-Detect Thoughts: This professor is so full of himself he barely covered the material of the text.<br/><br/>If I hadn't read the book prior to the lecture series I wouldn't have had the slightest clue what he was referring to.
+This professor is so full of himself he barely covered the material of the text.<br/><br/>If I hadn't read the book prior to the lecture series I wouldn't have had the slightest clue what he was referring to.
 
 ### Date Read
 2018/02/08
@@ -22,11 +23,10 @@ Detect Thoughts: This professor is so full of himself he barely covered the mate
 ## Goodreads book information
 
 *The Art of War* by Andrew R. Wilson
-Empty
 
 https://www.goodreads.com/book/show/17203820
 
-Bookshelves: Empty
+Bookshelves: 
 
 ---
 
@@ -34,14 +34,14 @@ Bookshelves: Empty
 
 Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
-Andrew R. Wilson, *The Art of War*, Empty The Teaching Company 2012 (Audio CD)[^1]
+Andrew R. Wilson, *The Art of War*,  The Teaching Company 2012 (Audio CD)[^1]
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { 2024-04-22 00:30:48 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
+- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
 

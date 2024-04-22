@@ -1,20 +1,21 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on 'Dealing with China: An Insider Unmasks the New Economic Superpower'"
+title:  "Detect Thoughts on 'Dealing with China'"
 date:   2019-03-14 00:00:00 -0400
 tags: book review Jr. did-not-finish
-uid: b4b10e99-bd7f-467e-b6a1-244eee3a5a0d
+uid: a7acb89a-8ab0-4cf2-8c05-2fdb3e65c4c9
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 0/5
 
-Detect Thoughts: Empty
+Empty
 
 ### Date Read
-Empty
+
 
 ### Date Added
 2019/03/14
@@ -22,7 +23,6 @@ Empty
 ## Goodreads book information
 
 *Dealing with China: An Insider Unmasks the New Economic Superpower* by Henry M. Paulson Jr.
-Kevin Stillwell
 
 https://www.goodreads.com/book/show/29764076
 
@@ -38,10 +38,10 @@ Henry M. Paulson Jr., *Dealing with China: An Insider Unmasks the New Economic S
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { 2024-04-22 00:30:47 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
+- {{ 2024-04-22 01:43:31 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
 

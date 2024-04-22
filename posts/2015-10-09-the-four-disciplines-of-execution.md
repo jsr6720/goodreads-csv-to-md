@@ -3,15 +3,16 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on 'The Four Disciplines of Execution'"
 date:   2015-10-09 00:00:00 -0400
-tags: book review Covey Empty
-uid: 9a6b0a85-d01a-40bd-9592-5ec6ae6d9562
+tags: book review Covey 
+uid: 5cdada35-62cd-4d7a-954b-78eea79ca9dc
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 3/5
 
-Detect Thoughts: Workshop series, poor format for audio book. Got some cool worksheets out of the deal.<br/>Focus on the Wildly Important Goals (WIGs) to successfully convert lofty goals into concrete actions.<br/><br/>Only the introduction is by Covey so that was a bit of a let down.
+Workshop series, poor format for audio book. Got some cool worksheets out of the deal.<br/>Focus on the Wildly Important Goals (WIGs) to successfully convert lofty goals into concrete actions.<br/><br/>Only the introduction is by Covey so that was a bit of a let down.
 
 ### Date Read
 2015/10/09
@@ -22,11 +23,10 @@ Detect Thoughts: Workshop series, poor format for audio book. Got some cool work
 ## Goodreads book information
 
 *The Four Disciplines of Execution* by Stephen R. Covey
-Jennifer Colosimo
 
 https://www.goodreads.com/book/show/935736
 
-Bookshelves: Empty
+Bookshelves: 
 
 ---
 
@@ -38,10 +38,10 @@ Stephen R. Covey, *The Four Disciplines of Execution*, Jennifer Colosimo Covey 2
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { 2024-04-22 00:30:48 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
+- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
 

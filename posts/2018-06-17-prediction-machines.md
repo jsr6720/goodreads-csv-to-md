@@ -1,17 +1,18 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on 'Prediction Machines: The Simple Economics of Artificial Intelligence'"
+title:  "Detect Thoughts on 'Prediction Machines'"
 date:   2018-06-17 00:00:00 -0400
 tags: book review Agrawal business
-uid: b3f9c86c-1ef7-49e9-9418-9139a1146d2e
+uid: 07f7ab3b-0470-4eac-9060-03c5ae1ee5c9
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 4/5
 
-Detect Thoughts: Great overview of the current AI/Machine Learning landscape circa 2018.<br/><br/>Premise of the book is that AI can be evaluated via a framework of providing needs and by the types of data used to fuel the training, feedback and ongoing model needs.<br/><br/>Comes to the table with an Economics approach. If the cost of predicting something approaches zero, business will use it constantly. The nature of data builds a strong moat that can be hard to breach. This can favor the first mover.<br/>
+Great overview of the current AI/Machine Learning landscape circa 2018.<br/><br/>Premise of the book is that AI can be evaluated via a framework of providing needs and by the types of data used to fuel the training, feedback and ongoing model needs.<br/><br/>Comes to the table with an Economics approach. If the cost of predicting something approaches zero, business will use it constantly. The nature of data builds a strong moat that can be hard to breach. This can favor the first mover.<br/>
 
 ### Date Read
 2018/06/17
@@ -22,7 +23,6 @@ Detect Thoughts: Great overview of the current AI/Machine Learning landscape cir
 ## Goodreads book information
 
 *Prediction Machines: The Simple Economics of Artificial Intelligence* by Ajay Agrawal
-Joshua Gans, Avi Goldfarb
 
 https://www.goodreads.com/book/show/38910346
 
@@ -38,10 +38,10 @@ Ajay Agrawal, *Prediction Machines: The Simple Economics of Artificial Intellige
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { 2024-04-22 00:30:48 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
+- {{ 2024-04-22 01:43:31 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
 

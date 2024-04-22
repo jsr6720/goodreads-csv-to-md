@@ -1,17 +1,18 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on 'Toxic Parents: Overcoming Their Hurtful Legacy and Reclaiming Your Life'"
+title:  "Detect Thoughts on 'Toxic Parents'"
 date:   2016-07-01 00:00:00 -0400
-tags: book review Forward Empty
-uid: ee24c517-6837-42d2-880a-e2847723e9e3
+tags: book review Forward 
+uid: 78d4f01e-2a9e-485a-8c79-e8e30136d19a
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 4/5
 
-Detect Thoughts: Empty
+Empty
 
 ### Date Read
 2016/07/01
@@ -22,11 +23,10 @@ Detect Thoughts: Empty
 ## Goodreads book information
 
 *Toxic Parents: Overcoming Their Hurtful Legacy and Reclaiming Your Life* by Susan Forward
-Craig Buck
 
 https://www.goodreads.com/book/show/103999
 
-Bookshelves: Empty
+Bookshelves: 
 
 ---
 
@@ -38,10 +38,10 @@ Susan Forward, *Toxic Parents: Overcoming Their Hurtful Legacy and Reclaiming Yo
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { 2024-04-22 00:30:48 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
+- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
 

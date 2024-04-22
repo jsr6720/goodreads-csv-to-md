@@ -4,14 +4,15 @@ author: James Rowe
 title:  "Detect Thoughts on 'Great by Choice'"
 date:   2018-03-28 00:00:00 -0400
 tags: book review Collins business
-uid: ccf6be08-083f-4a05-a1ed-987170debbdd
+uid: cf737513-d8a2-412f-9940-95b493d431bc
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 4/5
 
-Detect Thoughts: Discipline and targeted moves are the key to success. Anyone chasing a miracle will be shocked to discover years of hard work. This book is different from his previous work because of the study emphasis on surviving and thriving during difficult macro-economic times
+Discipline and targeted moves are the key to success. Anyone chasing a miracle will be shocked to discover years of hard work. This book is different from his previous work because of the study emphasis on surviving and thriving during difficult macro-economic times
 
 ### Date Read
 2018/03/28
@@ -22,7 +23,6 @@ Detect Thoughts: Discipline and targeted moves are the key to success. Anyone ch
 ## Goodreads book information
 
 *Great by Choice* by Jim Collins
-Morten T. Hansen
 
 https://www.goodreads.com/book/show/12776650
 
@@ -38,10 +38,10 @@ Jim Collins, *Great by Choice*, Morten T. Hansen HarperAudio 2011 (Audio CD)[^1]
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { 2024-04-22 00:30:48 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
+- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
 

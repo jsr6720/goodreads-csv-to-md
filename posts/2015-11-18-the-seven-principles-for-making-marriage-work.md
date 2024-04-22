@@ -1,17 +1,18 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on 'The Seven Principles for Making Marriage Work: A Practical Guide from the Country's Foremost Relationship Expert'"
+title:  "Detect Thoughts on 'The Seven Principles for Making Marriage Work'"
 date:   2015-11-18 00:00:00 -0400
 tags: book review Gottman psychology read-again
-uid: 9b94e750-511d-4df8-ac6c-81f6943d0fd4
+uid: a52436be-1da9-42a2-92be-b3640d155cd7
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 5/5
 
-Detect Thoughts: Great book with lots of functional examples and test for 'scoring' a marriage.<br/>Key is a solid friendship that can weather the storm of life.<br/><br/>Learn to respect each other's differences and move past gridlock issues. Will definitely pick up again,<br/>need physical book to copy some of the exercises.
+Great book with lots of functional examples and test for 'scoring' a marriage.<br/>Key is a solid friendship that can weather the storm of life.<br/><br/>Learn to respect each other's differences and move past gridlock issues. Will definitely pick up again,<br/>need physical book to copy some of the exercises.
 
 ### Date Read
 2015/11/18
@@ -22,7 +23,6 @@ Detect Thoughts: Great book with lots of functional examples and test for 'scori
 ## Goodreads book information
 
 *The Seven Principles for Making Marriage Work: A Practical Guide from the Country's Foremost Relationship Expert* by John M. Gottman
-Nan Silver, John Allen Nelson
 
 https://www.goodreads.com/book/show/10650408
 
@@ -38,10 +38,10 @@ John M. Gottman, *The Seven Principles for Making Marriage Work: A Practical Gui
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { 2024-04-22 00:30:48 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
+- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
 

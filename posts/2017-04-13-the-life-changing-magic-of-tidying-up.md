@@ -1,20 +1,21 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on 'The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing'"
+title:  "Detect Thoughts on 'The Life-Changing Magic of Tidying Up'"
 date:   2017-04-13 00:00:00 -0400
 tags: book review Kondō did-not-finish
-uid: f7696aca-b268-40b5-8562-e89bf81a6198
+uid: 01920f9b-abc7-4211-9cc5-b1c8856bd80e
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 3/5
 
-Detect Thoughts: Aside from the gratuitous repetition of the book, here is what I took away before I could listen no longer:<br/><br/>1. Ask yourself "do I want it" not "shall I discard it"<br/>2. Hold it and ask "does it spark joy"<br/>3. Group by category not by location<br/>4. Don't discard things for other people<br/><br/>Honestly though this books seems to appeal to apartment dwellers of high socio-economic status that can afford to replace functional items at their leisure. Filed under "books that should have been a blog post".<br/><br/>-- post script --<br/><br/>I wanted to clarify in the weeks after I read this book that the concepts are solid. But the writing was poor. Perhaps she could have tidied her book as well as she tidies her clients homes.
+Aside from the gratuitous repetition of the book, here is what I took away before I could listen no longer:<br/><br/>1. Ask yourself "do I want it" not "shall I discard it"<br/>2. Hold it and ask "does it spark joy"<br/>3. Group by category not by location<br/>4. Don't discard things for other people<br/><br/>Honestly though this books seems to appeal to apartment dwellers of high socio-economic status that can afford to replace functional items at their leisure. Filed under "books that should have been a blog post".<br/><br/>-- post script --<br/><br/>I wanted to clarify in the weeks after I read this book that the concepts are solid. But the writing was poor. Perhaps she could have tidied her book as well as she tidies her clients homes.
 
 ### Date Read
-Empty
+
 
 ### Date Added
 2017/04/13
@@ -22,7 +23,6 @@ Empty
 ## Goodreads book information
 
 *The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing* by Marie Kondō
-Emily Woo Zeller
 
 https://www.goodreads.com/book/show/23862127
 
@@ -38,10 +38,10 @@ Marie Kondō, *The Life-Changing Magic of Tidying Up: The Japanese Art of Declut
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { 2024-04-22 00:30:48 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
+- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
 

@@ -1,17 +1,18 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on 'The Happiness Advantage: The Seven Principles of Positive Psychology That Fuel Success and Performance at Work'"
+title:  "Detect Thoughts on 'The Happiness Advantage'"
 date:   2018-10-25 00:00:00 -0400
-tags: book review Achor Empty
-uid: 964606a6-c65f-4d7b-b42a-44d350026979
+tags: book review Achor 
+uid: 03aed517-48f1-4925-9d3a-a321112c3c1d
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 3/5
 
-Detect Thoughts: Great summary here<br/>https://www.samuelthomasdavies.com/book-summaries/psychology/the-happiness-advantage/<br/><br/>Basically be positive, don't let life get you down and be happy.
+Great summary here<br/>https://www.samuelthomasdavies.com/book-summaries/psychology/the-happiness-advantage/<br/><br/>Basically be positive, don't let life get you down and be happy.
 
 ### Date Read
 2018/10/25
@@ -22,11 +23,10 @@ Detect Thoughts: Great summary here<br/>https://www.samuelthomasdavies.com/book-
 ## Goodreads book information
 
 *The Happiness Advantage: The Seven Principles of Positive Psychology That Fuel Success and Performance at Work* by Shawn Achor
-Empty
 
 https://www.goodreads.com/book/show/8564504
 
-Bookshelves: Empty
+Bookshelves: 
 
 ---
 
@@ -34,14 +34,14 @@ Bookshelves: Empty
 
 Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
-Shawn Achor, *The Happiness Advantage: The Seven Principles of Positive Psychology That Fuel Success and Performance at Work*, Empty Random House Audio 2010 (Audio CD)[^1]
+Shawn Achor, *The Happiness Advantage: The Seven Principles of Positive Psychology That Fuel Success and Performance at Work*,  Random House Audio 2010 (Audio CD)[^1]
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { 2024-04-22 00:30:47 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
+- {{ 2024-04-22 01:43:31 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
 

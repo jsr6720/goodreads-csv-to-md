@@ -1,17 +1,18 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on '50 Prosperity Classics: Attract It, Create It, Manage It, Share It - Wisdom From the Most Valuable Books on Wealth Creation and Abundance'"
+title:  "Detect Thoughts on '50 Prosperity Classics'"
 date:   2020-03-02 00:00:00 -0400
-tags: book review Butler-Bowdon Empty
-uid: e9a58b86-9666-44bd-b6ca-cda3cfe01c36
+tags: book review Butler-Bowdon 
+uid: b8e3124a-a419-4a43-b769-091178ea91b7
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 5/5
 
-Detect Thoughts: Great summary of 50 books.<br/><br/>Honestly this is an easy way to knock off titles you want a summary of but not actually read.
+Great summary of 50 books.<br/><br/>Honestly this is an easy way to knock off titles you want a summary of but not actually read.
 
 ### Date Read
 2020/03/02
@@ -22,11 +23,10 @@ Detect Thoughts: Great summary of 50 books.<br/><br/>Honestly this is an easy wa
 ## Goodreads book information
 
 *50 Prosperity Classics: Attract It, Create It, Manage It, Share It - Wisdom From the Most Valuable Books on Wealth Creation and Abundance* by Tom Butler-Bowdon
-Sean Pratt
 
 https://www.goodreads.com/book/show/3805308
 
-Bookshelves: Empty
+Bookshelves: 
 
 ---
 
@@ -38,10 +38,10 @@ Tom Butler-Bowdon, *50 Prosperity Classics: Attract It, Create It, Manage It, Sh
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { 2024-04-22 00:30:47 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
+- {{ 2024-04-22 01:43:31 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
 

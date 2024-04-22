@@ -1,17 +1,18 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on 'Isaac's Storm: A Man, a Time, and the Deadliest Hurricane in History'"
+title:  "Detect Thoughts on 'Isaac's Storm'"
 date:   2015-07-22 00:00:00 -0400
 tags: book review Larson history
-uid: 075503ad-3c29-4012-98f4-13aefecaa4da
+uid: ad7799f0-9a38-4f7f-9d88-9d6b2cf68a31
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 3/5
 
-Detect Thoughts: Good. Actually quite sad towards the end on account of detail description of death and loss of life.<br/>The twin story telling of Isaac's life and the storm build up was confusing.<br/><br/>Should review basic Texas geography before listening.<br/>Sparked an interest in the weather bureau though...
+Good. Actually quite sad towards the end on account of detail description of death and loss of life.<br/>The twin story telling of Isaac's life and the storm build up was confusing.<br/><br/>Should review basic Texas geography before listening.<br/>Sparked an interest in the weather bureau though...
 
 ### Date Read
 2015/07/22
@@ -22,7 +23,6 @@ Detect Thoughts: Good. Actually quite sad towards the end on account of detail d
 ## Goodreads book information
 
 *Isaac's Storm: A Man, a Time, and the Deadliest Hurricane in History* by Erik Larson
-Edward Herrmann
 
 https://www.goodreads.com/book/show/2169230
 
@@ -38,10 +38,10 @@ Erik Larson, *Isaac's Storm: A Man, a Time, and the Deadliest Hurricane in Histo
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { 2024-04-22 00:30:48 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
+- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
 

@@ -1,17 +1,18 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on 'The 25 Sales Skills: They Don't Teach at Business School'"
+title:  "Detect Thoughts on 'The 25 Sales Skills'"
 date:   2018-10-29 00:00:00 -0400
 tags: book review Schiffman business
-uid: 539f1d28-2cfa-4625-872b-4de70fa801fa
+uid: 81af055b-2182-425b-bf87-3aa83e7a32bb
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 3/5
 
-Detect Thoughts: Quick top hitting inter-personal things to watch for while making sales relationships.<br/>Emphasizes that even in today's ultra electronic world it's still 'know your customer' and build a relationship of solving problems.<br/><br/>Best tip I liked was "be righted". Make small mistakes in front of prospects to be corrected and gain valuable information while allowing the prospect a chance to feel superior.
+Quick top hitting inter-personal things to watch for while making sales relationships.<br/>Emphasizes that even in today's ultra electronic world it's still 'know your customer' and build a relationship of solving problems.<br/><br/>Best tip I liked was "be righted". Make small mistakes in front of prospects to be corrected and gain valuable information while allowing the prospect a chance to feel superior.
 
 ### Date Read
 2018/10/29
@@ -22,7 +23,6 @@ Detect Thoughts: Quick top hitting inter-personal things to watch for while maki
 ## Goodreads book information
 
 *The 25 Sales Skills: They Don't Teach at Business School* by Stephan Schiffman
-Empty
 
 https://www.goodreads.com/book/show/18568483
 
@@ -34,14 +34,14 @@ Bookshelves: business
 
 Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
-Stephan Schiffman, *The 25 Sales Skills: They Don't Teach at Business School*, Empty Brilliance Audio 2014 (Audio CD)[^1]
+Stephan Schiffman, *The 25 Sales Skills: They Don't Teach at Business School*,  Brilliance Audio 2014 (Audio CD)[^1]
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { 2024-04-22 00:30:47 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
+- {{ 2024-04-22 01:43:31 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
 

@@ -4,14 +4,15 @@ author: James Rowe
 title:  "Detect Thoughts on 'How Google Works'"
 date:   2017-11-07 00:00:00 -0400
 tags: book review Schmidt business
-uid: e254d4eb-174a-43bf-bd44-2d686c662adc
+uid: baa00c1c-7a78-4e6e-816f-def3ba1303ea
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 4/5
 
-Detect Thoughts: A collection of short anecdotes about Google and its management practices.<br/><br/>Coined the phrase "smart-creative" which is the evolution of Drucker's "knowledge worker". These smart creatives drive company growth by turning technical insights into marketable products.<br/>
+A collection of short anecdotes about Google and its management practices.<br/><br/>Coined the phrase "smart-creative" which is the evolution of Drucker's "knowledge worker". These smart creatives drive company growth by turning technical insights into marketable products.<br/>
 
 ### Date Read
 2017/11/07
@@ -22,7 +23,6 @@ Detect Thoughts: A collection of short anecdotes about Google and its management
 ## Goodreads book information
 
 *How Google Works* by Eric Schmidt
-Jonathan Rosenberg, Alan Eagle, Holter Graham
 
 https://www.goodreads.com/book/show/20549465
 
@@ -38,10 +38,10 @@ Eric Schmidt, *How Google Works*, Jonathan Rosenberg, Alan Eagle, Holter Graham 
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { 2024-04-22 00:30:48 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
+- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
 

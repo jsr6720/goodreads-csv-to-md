@@ -4,14 +4,15 @@ author: James Rowe
 title:  "Detect Thoughts on 'Falling Up'"
 date:   2021-04-27 00:00:00 -0400
 tags: book review Silverstein poetry childhood-favorite
-uid: 7a8c68f8-f477-442e-a7cc-ae9398e27873
+uid: 518bd763-00d9-4e7d-aea2-3aedae867941
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 5/5
 
-Detect Thoughts: Revisiting another childhood favorite. Kids loved it. Great reminder of the fun things in life.
+Revisiting another childhood favorite. Kids loved it. Great reminder of the fun things in life.
 
 ### Date Read
 2021/04/27
@@ -22,7 +23,6 @@ Detect Thoughts: Revisiting another childhood favorite. Kids loved it. Great rem
 ## Goodreads book information
 
 *Falling Up* by Shel Silverstein
-Empty
 
 https://www.goodreads.com/book/show/30120
 
@@ -34,14 +34,14 @@ Bookshelves: poetry, childhood-favorite
 
 Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
-Shel Silverstein, *Falling Up*, Empty Harpercollins Childrens Books 2003 (Hardcover)[^1]
+Shel Silverstein, *Falling Up*,  Harpercollins Childrens Books 2003 (Hardcover)[^1]
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { 2024-04-22 00:30:47 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
+- {{ 2024-04-22 01:43:31 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
 

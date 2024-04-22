@@ -4,14 +4,15 @@ author: James Rowe
 title:  "Detect Thoughts on 'The Art of War'"
 date:   2018-02-05 00:00:00 -0400
 tags: book review Tzu classics history
-uid: c469ea9a-84d9-4189-9878-74c9abd76560
+uid: d276d3cc-538c-4d31-bd5c-fecc633fe81c
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 4/5
 
-Detect Thoughts: Great reading of the 13 chapters of the art of war. Pairs great with Great courses reading of the material.
+Great reading of the 13 chapters of the art of war. Pairs great with Great courses reading of the material.
 
 ### Date Read
 2018/02/05
@@ -22,7 +23,6 @@ Detect Thoughts: Great reading of the 13 chapters of the art of war. Pairs great
 ## Goodreads book information
 
 *The Art of War* by Sun Tzu
-Scott Brick, Shelly Frasier
 
 https://www.goodreads.com/book/show/1093941
 
@@ -38,10 +38,10 @@ Sun Tzu, *The Art of War*, Scott Brick, Shelly Frasier Tantor Audio 2003 (Audio 
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { 2024-04-22 00:30:48 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
+- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
 

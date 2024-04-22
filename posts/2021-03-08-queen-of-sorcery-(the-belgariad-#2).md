@@ -4,14 +4,15 @@ author: James Rowe
 title:  "Detect Thoughts on 'Queen of Sorcery (The Belgariad #2)'"
 date:   2021-03-08 00:00:00 -0400
 tags: book review Eddings fantasy childhood-favorite
-uid: f31413e0-9f6e-403d-b75f-ded50277765a
+uid: 6dfe74b5-0680-44c2-9dd5-56223b66ab28
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 5/5
 
-Detect Thoughts: Picked this up from my childhood pile to give it a reread. I found all my favorite characters. One thing I do wish I could un-see though is all the similarities to other works of fiction in the same time period. All and all a great trip back in time.
+Picked this up from my childhood pile to give it a reread. I found all my favorite characters. One thing I do wish I could un-see though is all the similarities to other works of fiction in the same time period. All and all a great trip back in time.
 
 ### Date Read
 2021/03/08
@@ -22,7 +23,6 @@ Detect Thoughts: Picked this up from my childhood pile to give it a reread. I fo
 ## Goodreads book information
 
 *Queen of Sorcery (The Belgariad #2)* by David Eddings
-Empty
 
 https://www.goodreads.com/book/show/587582
 
@@ -34,14 +34,14 @@ Bookshelves: fantasy, childhood-favorite
 
 Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
-David Eddings, *Queen of Sorcery (The Belgariad #2)*, Empty Del Rey 1982 (Mass Market Paperback)[^1]
+David Eddings, *Queen of Sorcery (The Belgariad #2)*,  Del Rey 1982 (Mass Market Paperback)[^1]
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { 2024-04-22 00:30:47 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
+- {{ 2024-04-22 01:43:31 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
 

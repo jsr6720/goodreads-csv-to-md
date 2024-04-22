@@ -1,17 +1,18 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on 'Toxic In-Laws: Loving Strategies for Protecting Your Marriage'"
+title:  "Detect Thoughts on 'Toxic In-Laws'"
 date:   2016-08-01 00:00:00 -0400
-tags: book review Forward Empty
-uid: e6ec682f-eddb-4e12-ab8b-0922a09878b2
+tags: book review Forward 
+uid: 79105696-c578-4c6a-9134-60998b591f4c
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 4/5
 
-Detect Thoughts: Empty
+Empty
 
 ### Date Read
 2016/08/01
@@ -22,11 +23,10 @@ Detect Thoughts: Empty
 ## Goodreads book information
 
 *Toxic In-Laws: Loving Strategies for Protecting Your Marriage* by Susan Forward
-Donna Frazier
 
 https://www.goodreads.com/book/show/534108
 
-Bookshelves: Empty
+Bookshelves: 
 
 ---
 
@@ -38,10 +38,10 @@ Susan Forward, *Toxic In-Laws: Loving Strategies for Protecting Your Marriage*, 
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { 2024-04-22 00:30:48 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
+- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
 

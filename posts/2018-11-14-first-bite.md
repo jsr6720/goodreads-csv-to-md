@@ -1,17 +1,18 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on 'First Bite: How We Learn to Eat'"
+title:  "Detect Thoughts on 'First Bite'"
 date:   2018-11-14 00:00:00 -0400
 tags: book review Wilson personal-development psychology food
-uid: 5d60cf95-9405-4248-8710-b9d898c36b32
+uid: 08c1052d-d376-4edf-8d28-5e92b6ca1f82
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 4/5
 
-Detect Thoughts: Great book that tracks eating habits from birth to adulthood.<br/><br/>Bottom line. Eating habits are learned and cultural. Some key takeaways<br/><br/>1. Kids have a 'flavor' palate window 4months to 7months so early food tastes are critical<br/>2. It's never too late to change eating habits and behaviors<br/>3. Family dinner time is still an incredibly important aspect of healthy eating habits
+Great book that tracks eating habits from birth to adulthood.<br/><br/>Bottom line. Eating habits are learned and cultural. Some key takeaways<br/><br/>1. Kids have a 'flavor' palate window 4months to 7months so early food tastes are critical<br/>2. It's never too late to change eating habits and behaviors<br/>3. Family dinner time is still an incredibly important aspect of healthy eating habits
 
 ### Date Read
 2018/11/14
@@ -22,7 +23,6 @@ Detect Thoughts: Great book that tracks eating habits from birth to adulthood.<b
 ## Goodreads book information
 
 *First Bite: How We Learn to Eat* by Bee Wilson
-Empty
 
 https://www.goodreads.com/book/show/28153282
 
@@ -34,14 +34,14 @@ Bookshelves: personal-development, psychology, food
 
 Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
-Bee Wilson, *First Bite: How We Learn to Eat*, Empty Blackstone Audiobooks 2015 (Audio CD)[^1]
+Bee Wilson, *First Bite: How We Learn to Eat*,  Blackstone Audiobooks 2015 (Audio CD)[^1]
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { 2024-04-22 00:30:47 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
+- {{ 2024-04-22 01:43:31 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
 

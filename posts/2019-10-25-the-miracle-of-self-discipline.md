@@ -3,15 +3,16 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on 'The Miracle of Self-Discipline'"
 date:   2019-10-25 00:00:00 -0400
-tags: book review Tracy Empty
-uid: a0cff335-2a75-4621-8bdc-1902336f31f5
+tags: book review Tracy 
+uid: b6c44c88-5f29-40f8-9597-34764decf3cf
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 5/5
 
-Detect Thoughts: Mastery of self leads to master outside of self. Brian Tracy has a large set of books and this one delivers as the others do.
+Mastery of self leads to master outside of self. Brian Tracy has a large set of books and this one delivers as the others do.
 
 ### Date Read
 2019/10/25
@@ -22,11 +23,10 @@ Detect Thoughts: Mastery of self leads to master outside of self. Brian Tracy ha
 ## Goodreads book information
 
 *The Miracle of Self-Discipline* by Brian Tracy
-محمد اسکندری
 
 https://www.goodreads.com/book/show/11977494
 
-Bookshelves: Empty
+Bookshelves: 
 
 ---
 
@@ -38,10 +38,10 @@ Brian Tracy, *The Miracle of Self-Discipline*, محمد اسکندری Nightinga
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { 2024-04-22 00:30:47 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
+- {{ 2024-04-22 01:43:31 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
 

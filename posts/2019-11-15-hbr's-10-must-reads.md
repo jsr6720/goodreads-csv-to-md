@@ -1,17 +1,18 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on 'HBR's 10 Must Reads: The Essentials'"
+title:  "Detect Thoughts on 'HBR's 10 Must Reads'"
 date:   2019-11-15 00:00:00 -0400
 tags: book review Review business
-uid: 257bc626-e15f-4eca-bbe5-cbb4b5c67610
+uid: a36551d1-8003-4d85-bfce-49040cc23ece
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 3/5
 
-Detect Thoughts: Only 2 or 3 of these stories still feel fresh after 20 years. Specifically people and resources. Company and technology examples are very dated.
+Only 2 or 3 of these stories still feel fresh after 20 years. Specifically people and resources. Company and technology examples are very dated.
 
 ### Date Read
 2019/11/15
@@ -22,7 +23,6 @@ Detect Thoughts: Only 2 or 3 of these stories still feel fresh after 20 years. S
 ## Goodreads book information
 
 *HBR's 10 Must Reads: The Essentials* by Harvard Business Review
-Peter F. Drucker, Clayton M. Christensen, Michael E. Porter, Daniel Goleman, Brad Sanders, Susan Larkin
 
 https://www.goodreads.com/book/show/25789642
 
@@ -38,10 +38,10 @@ Harvard Business Review, *HBR's 10 Must Reads: The Essentials*, Peter F. Drucker
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { 2024-04-22 00:30:47 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
+- {{ 2024-04-22 01:43:31 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
 

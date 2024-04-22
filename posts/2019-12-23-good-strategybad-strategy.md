@@ -1,17 +1,18 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on 'Good Strategy/Bad Strategy: The Difference and Why It Matters'"
+title:  "Detect Thoughts on 'Good Strategy/Bad Strategy'"
 date:   2019-12-23 00:00:00 -0400
 tags: book review Rumelt did-not-finish
-uid: 07326f04-fae6-41bd-be3d-36d6bbe3209a
+uid: 37ba2300-e977-47d4-b223-c492d6ea437c
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 1/5
 
-Detect Thoughts: Did not finish. Narration was just too dry. <br/><br/>Good strategy contains a kernel of 'obvious' truth.
+Did not finish. Narration was just too dry. <br/><br/>Good strategy contains a kernel of 'obvious' truth.
 
 ### Date Read
 2019/12/23
@@ -22,7 +23,6 @@ Detect Thoughts: Did not finish. Narration was just too dry. <br/><br/>Good stra
 ## Goodreads book information
 
 *Good Strategy/Bad Strategy: The Difference and Why It Matters* by Richard P. Rumelt
-Sean Runnette
 
 https://www.goodreads.com/book/show/13179689
 
@@ -38,10 +38,10 @@ Richard P. Rumelt, *Good Strategy/Bad Strategy: The Difference and Why It Matter
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { 2024-04-22 00:30:47 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
+- {{ 2024-04-22 01:43:31 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
 

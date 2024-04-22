@@ -1,17 +1,18 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on 'Influence: Mastering Life's Most Powerful Skill'"
+title:  "Detect Thoughts on 'Influence'"
 date:   2018-07-06 00:00:00 -0400
 tags: book review Brown business psychology
-uid: 89b22877-b5b3-404c-b056-6a9f3016e105
+uid: b37ad46c-4f79-4b15-aa7f-e1fffddc64c6
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 5/5
 
-Detect Thoughts: Great overview of lots of influence classics. This is a great course that covers all the recent literature. 
+Great overview of lots of influence classics. This is a great course that covers all the recent literature. 
 
 ### Date Read
 2018/07/06
@@ -22,7 +23,6 @@ Detect Thoughts: Great overview of lots of influence classics. This is a great c
 ## Goodreads book information
 
 *Influence: Mastering Life's Most Powerful Skill* by Kenneth G. Brown
-Empty
 
 https://www.goodreads.com/book/show/40648831
 
@@ -34,14 +34,14 @@ Bookshelves: business, psychology
 
 Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
-Kenneth G. Brown, *Influence: Mastering Life's Most Powerful Skill*, Empty Recorded Books 2013 (Audio CD)[^1]
+Kenneth G. Brown, *Influence: Mastering Life's Most Powerful Skill*,  Recorded Books 2013 (Audio CD)[^1]
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { 2024-04-22 00:30:48 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
+- {{ 2024-04-22 01:43:31 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
 
