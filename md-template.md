@@ -1,5 +1,5 @@
 <!-- This template shows how to bulk convert all columns of data into one markdown file -->
-<!-- caveat: KeyError if there's a mismatch. Empty values output nothing -->
+<!-- caveat: substitution key matches column headers from default export. You will get a KeyError if there's a mismatch -->
 
 ## Goodreads Data
 
