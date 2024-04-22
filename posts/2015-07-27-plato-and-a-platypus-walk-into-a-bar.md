@@ -26,7 +26,13 @@ Binding/Format: Audio CD
 
 ## My Review 2/5
 
-Eh. This was 'ok'. Some good jokes, but not enough tying philosophy to the jokes.<br/>Would not recommend, but would not say don't read it.
+### Date Read
+2015/07/27
+
+### Date Added
+2016/09/30
+
+My Thoughts: Eh. This was 'ok'. Some good jokes, but not enough tying philosophy to the jokes.<br/>Would not recommend, but would not say don't read it.
 
 ---
 

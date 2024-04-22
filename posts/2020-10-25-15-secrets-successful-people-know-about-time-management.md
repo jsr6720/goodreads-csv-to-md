@@ -26,7 +26,13 @@ Binding/Format: Kindle Edition
 
 ## My Review 4/5
 
-Quick read that nicely summarizes some of the best stress management techniques and task maximization strategies. <br/><br/>I do get that kruse is also selling consulting. Some of the material just refers out to his website. 
+### Date Read
+2020/10/25
+
+### Date Added
+2020/10/25
+
+My Thoughts: Quick read that nicely summarizes some of the best stress management techniques and task maximization strategies. <br/><br/>I do get that kruse is also selling consulting. Some of the material just refers out to his website. 
 
 ---
 

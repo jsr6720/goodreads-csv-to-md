@@ -26,7 +26,13 @@ Binding/Format: Audio CD
 
 ## My Review 3/5
 
-Take aways:<br/><br/>Trust your people<br/>Weekly status meetings to ensure progress<br/><br/>* One minute goal settings<br/>* One minute praising<br/>* One minute reprimands<br/><br/>Bottom line, Clear expectations drive clear results.
+### Date Read
+2017/09/16
+
+### Date Added
+2017/09/18
+
+My Thoughts: Take aways:<br/><br/>Trust your people<br/>Weekly status meetings to ensure progress<br/><br/>* One minute goal settings<br/>* One minute praising<br/>* One minute reprimands<br/><br/>Bottom line, Clear expectations drive clear results.
 
 ---
 

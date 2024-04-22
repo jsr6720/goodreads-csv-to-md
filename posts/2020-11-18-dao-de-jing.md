@@ -26,7 +26,13 @@ Binding/Format: Hardcover
 
 ## My Review 4/5
 
-While you could read this in one sitting. Certainly thousand year old text deserves at least a second read through. <br/><br/>Theme of non interference and humble through the captures. Compelling enough for a revisit. 
+### Date Read
+2020/11/18
+
+### Date Added
+2020/11/18
+
+My Thoughts: While you could read this in one sitting. Certainly thousand year old text deserves at least a second read through. <br/><br/>Theme of non interference and humble through the captures. Compelling enough for a revisit. 
 
 ---
 

@@ -26,7 +26,13 @@ Binding/Format: Kindle Edition
 
 ## My Review 5/5
 
-Great collection of “ways of the warrior”. Since the book covers a period of time when much of Japan is peaceful very little is mentioned on strategy and war. <br/><br/>The book reads much like A wise mature self help book full of life lessons. Reading more than once if you too consider the way of the warrior. 
+### Date Read
+2020/01/01
+
+### Date Added
+2020/07/03
+
+My Thoughts: Great collection of “ways of the warrior”. Since the book covers a period of time when much of Japan is peaceful very little is mentioned on strategy and war. <br/><br/>The book reads much like A wise mature self help book full of life lessons. Reading more than once if you too consider the way of the warrior. 
 
 ---
 

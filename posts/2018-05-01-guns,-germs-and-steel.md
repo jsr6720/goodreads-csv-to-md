@@ -26,7 +26,13 @@ Binding/Format: Audio CD
 
 ## My Review 4/5
 
-Glad this was abridged. Great walk through history.<br/><br/>Moral of the story: euro-asia was blessed by first starter and long east-west axis.
+### Date Read
+2018/05/01
+
+### Date Added
+2018/04/20
+
+My Thoughts: Glad this was abridged. Great walk through history.<br/><br/>Moral of the story: euro-asia was blessed by first starter and long east-west axis.
 
 ---
 

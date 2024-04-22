@@ -26,7 +26,13 @@ Binding/Format: Paperback
 
 ## My Review 5/5
 
-Inspects how to have conversations around values and how people vote with their minds not their pocketbooks. How people frame ideas in their mind is how they interpret the world around them. Take a look at [b:The Undoing Project: A Friendship That Changed Our Minds|35631386|The Undoing Project  A Friendship That Changed Our Minds|Michael   Lewis|https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509135882l/35631386._SY75_.jpg|50830817] or [b:Predictably Irrational: The Hidden Forces That Shape Our Decisions|1713426|Predictably Irrational  The Hidden Forces That Shape Our Decisions|Dan Ariely|https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1255573980l/1713426._SY75_.jpg|3074803]
+### Date Read
+2020/09/09
+
+### Date Added
+2020/09/09
+
+My Thoughts: Inspects how to have conversations around values and how people vote with their minds not their pocketbooks. How people frame ideas in their mind is how they interpret the world around them. Take a look at [b:The Undoing Project: A Friendship That Changed Our Minds|35631386|The Undoing Project  A Friendship That Changed Our Minds|Michael   Lewis|https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509135882l/35631386._SY75_.jpg|50830817] or [b:Predictably Irrational: The Hidden Forces That Shape Our Decisions|1713426|Predictably Irrational  The Hidden Forces That Shape Our Decisions|Dan Ariely|https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1255573980l/1713426._SY75_.jpg|3074803]
 
 ---
 

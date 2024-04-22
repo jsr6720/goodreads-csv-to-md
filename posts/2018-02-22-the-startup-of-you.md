@@ -26,7 +26,13 @@ Binding/Format: Kindle Edition
 
 ## My Review 2/5
 
-Skip to the action steps to focus on what concrete steps you can take. However be warned the authors put forward lots of “actions” that preclude research on your behalf. <br/><br/>“Learn a skill” doesn’t just make you marketable. <br/>“Network” won’t drop opportunities in your path.<br/><br/>Short version: always be studying and learning. It's hard to take the advice of 'the winner' who's outcome worked. IE. A lottery winner could hold a seminar saying "buy lottery tickets it works for me". [a:Reid Hoffman|5039437|Reid Hoffman|https://images.gr-assets.com/authors/1321306394p2/5039437.jpg] "The Alliance" is a much better book encompassing the lessons in this book.
+### Date Read
+2018/02/22
+
+### Date Added
+2018/02/22
+
+My Thoughts: Skip to the action steps to focus on what concrete steps you can take. However be warned the authors put forward lots of “actions” that preclude research on your behalf. <br/><br/>“Learn a skill” doesn’t just make you marketable. <br/>“Network” won’t drop opportunities in your path.<br/><br/>Short version: always be studying and learning. It's hard to take the advice of 'the winner' who's outcome worked. IE. A lottery winner could hold a seminar saying "buy lottery tickets it works for me". [a:Reid Hoffman|5039437|Reid Hoffman|https://images.gr-assets.com/authors/1321306394p2/5039437.jpg] "The Alliance" is a much better book encompassing the lessons in this book.
 
 ---
 

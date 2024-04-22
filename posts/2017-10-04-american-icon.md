@@ -26,7 +26,13 @@ Binding/Format: Audio CD
 
 ## My Review 5/5
 
-Great book that pairs well with your choice of book about the great financial crisis of 2008 (Big Short).<br/><br/>Author wastes no time digging deep into the story of Ford and it's turnaround.
+### Date Read
+2017/10/04
+
+### Date Added
+2017/09/18
+
+My Thoughts: Great book that pairs well with your choice of book about the great financial crisis of 2008 (Big Short).<br/><br/>Author wastes no time digging deep into the story of Ford and it's turnaround.
 
 ---
 

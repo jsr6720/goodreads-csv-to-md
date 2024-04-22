@@ -26,7 +26,13 @@ Binding/Format: Audio CD
 
 ## My Review 3/5
 
-Great summary here<br/>https://www.samuelthomasdavies.com/book-summaries/psychology/the-happiness-advantage/<br/><br/>Basically be positive, don't let life get you down and be happy.
+### Date Read
+2018/10/25
+
+### Date Added
+2018/10/12
+
+My Thoughts: Great summary here<br/>https://www.samuelthomasdavies.com/book-summaries/psychology/the-happiness-advantage/<br/><br/>Basically be positive, don't let life get you down and be happy.
 
 ---
 

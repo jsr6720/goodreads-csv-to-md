@@ -26,7 +26,13 @@ Binding/Format: Audiobook
 
 ## My Review 4/5
 
-Oh sure you could read the blog, but this is a fun read of collection of facts. If you liked Freakonomics this is that on a smaller scale.
+### Date Read
+2019/10/18
+
+### Date Added
+2019/10/18
+
+My Thoughts: Oh sure you could read the blog, but this is a fun read of collection of facts. If you liked Freakonomics this is that on a smaller scale.
 
 ---
 

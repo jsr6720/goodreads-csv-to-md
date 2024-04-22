@@ -26,7 +26,13 @@ Binding/Format: Audiobook
 
 ## My Review 3/5
 
-The only lesson worth mentioning is: never let a good crisis go to waste.<br/><br/>Those inflection points melt away resistance and allow a person or organization reform itself.
+### Date Read
+2018/09/06
+
+### Date Added
+2018/09/06
+
+My Thoughts: The only lesson worth mentioning is: never let a good crisis go to waste.<br/><br/>Those inflection points melt away resistance and allow a person or organization reform itself.
 
 ---
 

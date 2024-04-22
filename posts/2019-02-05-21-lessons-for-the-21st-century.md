@@ -26,7 +26,13 @@ Binding/Format: Audio CD
 
 ## My Review 4/5
 
-Depressing book. Life is just a swirl of Neurons firing and everything is a story refuted by science. <br/><br/>Not a list of skills but a collection of  thoughts of the future and how knowing thyself is the best protection against the algorithms. 
+### Date Read
+2019/02/05
+
+### Date Added
+2019/01/25
+
+My Thoughts: Depressing book. Life is just a swirl of Neurons firing and everything is a story refuted by science. <br/><br/>Not a list of skills but a collection of  thoughts of the future and how knowing thyself is the best protection against the algorithms. 
 
 ---
 

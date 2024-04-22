@@ -26,7 +26,13 @@ Binding/Format: Audible Audio
 
 ## My Review 3/5
 
-This is a great, if not LONG, look into the company Research in Motion. I liked it for it's technical aspects, but the book is much more a twin biography of co-ceo's than it is a business story.<br/><br/>The downfall of Blackberry can be traced to the head Engineer who failed to recognize that the new players would break the service providers network instead of playing by the rules.
+### Date Read
+2018/01/03
+
+### Date Added
+2017/12/28
+
+My Thoughts: This is a great, if not LONG, look into the company Research in Motion. I liked it for it's technical aspects, but the book is much more a twin biography of co-ceo's than it is a business story.<br/><br/>The downfall of Blackberry can be traced to the head Engineer who failed to recognize that the new players would break the service providers network instead of playing by the rules.
 
 ---
 

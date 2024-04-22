@@ -26,7 +26,13 @@ Binding/Format: Paperback
 
 ## My Review 5/5
 
-Amazing. The life of John Adams is certainly overlooked as a founding father. Could not be happier.<br/><br/>Narrative of a strong man whose defining characteristic was New England purity and integrity.<br/>Jon Adams was the defense attorney for the British soldiers from the Boston massacre, did more to advance the independence cause in congress than any other member. <br/><br/>Founder of the navy and first father-son presidential pair. So many good lessons from his life.
+### Date Read
+2015/06/24
+
+### Date Added
+2016/05/31
+
+My Thoughts: Amazing. The life of John Adams is certainly overlooked as a founding father. Could not be happier.<br/><br/>Narrative of a strong man whose defining characteristic was New England purity and integrity.<br/>Jon Adams was the defense attorney for the British soldiers from the Boston massacre, did more to advance the independence cause in congress than any other member. <br/><br/>Founder of the navy and first father-son presidential pair. So many good lessons from his life.
 
 ---
 

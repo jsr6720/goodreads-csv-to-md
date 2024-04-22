@@ -26,7 +26,13 @@ Binding/Format: Audio CD
 
 ## My Review 5/5
 
-You only get the answers to the questions you ask. How do you ask great questions? Read no further.
+### Date Read
+2018/05/30
+
+### Date Added
+2018/05/18
+
+My Thoughts: You only get the answers to the questions you ask. How do you ask great questions? Read no further.
 
 ---
 

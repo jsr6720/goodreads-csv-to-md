@@ -26,7 +26,13 @@ Binding/Format: Audio CD
 
 ## My Review 5/5
 
-Great book. Picked up on this via corporate training. highly recommend.<br/>Goes into great depth of child development, brain growth, marriage problems, work problems<br/>Could not put this down.
+### Date Read
+2015/09/02
+
+### Date Added
+2016/09/30
+
+My Thoughts: Great book. Picked up on this via corporate training. highly recommend.<br/>Goes into great depth of child development, brain growth, marriage problems, work problems<br/>Could not put this down.
 
 ---
 

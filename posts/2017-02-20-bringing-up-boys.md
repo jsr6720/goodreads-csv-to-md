@@ -26,7 +26,13 @@ Binding/Format: Audiobook
 
 ## My Review 1/5
 
-Disclaimer. I abandoned book after 5 chapters.<br/><br/>What in principle looks like a book about raising boys in today's society spent far too much time admonishing the problems and far too little giving practical advice. Much preferred [book:Active Parenting Now: For Parents of Children Ages 5 to 12|1343214] and [book:Boundaries with Kids|104887] to this work.
+### Date Read
+2017/02/20
+
+### Date Added
+2017/02/16
+
+My Thoughts: Disclaimer. I abandoned book after 5 chapters.<br/><br/>What in principle looks like a book about raising boys in today's society spent far too much time admonishing the problems and far too little giving practical advice. Much preferred [book:Active Parenting Now: For Parents of Children Ages 5 to 12|1343214] and [book:Boundaries with Kids|104887] to this work.
 
 ---
 

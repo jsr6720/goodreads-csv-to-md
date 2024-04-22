@@ -26,7 +26,13 @@ Binding/Format: Audio CD
 
 ## My Review 4/5
 
-Great quick advice about the habits of successful management. <br/><br/>Worth a pickup over year to check up on your goals setting. Time resourcefulness and effectiveness. 
+### Date Read
+2019/06/07
+
+### Date Added
+2019/06/07
+
+My Thoughts: Great quick advice about the habits of successful management. <br/><br/>Worth a pickup over year to check up on your goals setting. Time resourcefulness and effectiveness. 
 
 ---
 

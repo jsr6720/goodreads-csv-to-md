@@ -26,7 +26,13 @@ Binding/Format: Audio CD
 
 ## My Review 3/5
 
-Book hasn't aged well in regards to technology, but then again it's 20 years old.<br/><br/>Key take away<br/>* technology should be streamlining process<br/>* new technology should coincide re-evaluating existing processes<br/>* CEO is ultimately responsible for 
+### Date Read
+2017/07/31
+
+### Date Added
+2017/07/17
+
+My Thoughts: Book hasn't aged well in regards to technology, but then again it's 20 years old.<br/><br/>Key take away<br/>* technology should be streamlining process<br/>* new technology should coincide re-evaluating existing processes<br/>* CEO is ultimately responsible for 
 
 ---
 

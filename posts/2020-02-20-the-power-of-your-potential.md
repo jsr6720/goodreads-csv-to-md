@@ -26,7 +26,13 @@ Binding/Format: Audio CD
 
 ## My Review 1/5
 
-Not Maxwell's best work. Sticking to the 101 series.
+### Date Read
+2020/02/20
+
+### Date Added
+2020/02/10
+
+My Thoughts: Not Maxwell's best work. Sticking to the 101 series.
 
 ---
 

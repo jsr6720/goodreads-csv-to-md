@@ -26,7 +26,13 @@ Binding/Format: Hardcover
 
 ## My Review 5/5
 
-I loved this book. Matches my leadership style. Constant 1-1 face-face communication with the team. Pairs great with the book I'm reading now by Maxwell ([b:The 5 Levels of Leadership|11225698|The 5 Levels of Leadership  Proven Steps to Maximize Your Potential|John C. Maxwell|https://images.gr-assets.com/books/1344269758s/11225698.jpg|16151548]). Each chapter details a common management problem (gleaned from Gallup polls and 9000+ site visits by the author).
+### Date Read
+2018/03/27
+
+### Date Added
+2018/03/28
+
+My Thoughts: I loved this book. Matches my leadership style. Constant 1-1 face-face communication with the team. Pairs great with the book I'm reading now by Maxwell ([b:The 5 Levels of Leadership|11225698|The 5 Levels of Leadership  Proven Steps to Maximize Your Potential|John C. Maxwell|https://images.gr-assets.com/books/1344269758s/11225698.jpg|16151548]). Each chapter details a common management problem (gleaned from Gallup polls and 9000+ site visits by the author).
 
 ---
 

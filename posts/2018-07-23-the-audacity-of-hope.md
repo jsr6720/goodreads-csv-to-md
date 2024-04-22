@@ -26,7 +26,13 @@ Binding/Format: Audio CD
 
 ## My Review 4/5
 
-I wish I had read this book before voting in the 2008 and 2012 elections. All of Obama's policies and broad ideas are laid plain in this book. If only it were a requirement for all politicians to write such a piece before running for office. We'd have a clearer picture and insight into the minds of our leaders.<br/><br/>The last chapter was especially touching and a true testament to the power of Michelle in the relationship and how along-side every great man is a great woman.
+### Date Read
+2018/07/23
+
+### Date Added
+2018/07/17
+
+My Thoughts: I wish I had read this book before voting in the 2008 and 2012 elections. All of Obama's policies and broad ideas are laid plain in this book. If only it were a requirement for all politicians to write such a piece before running for office. We'd have a clearer picture and insight into the minds of our leaders.<br/><br/>The last chapter was especially touching and a true testament to the power of Michelle in the relationship and how along-side every great man is a great woman.
 
 ---
 

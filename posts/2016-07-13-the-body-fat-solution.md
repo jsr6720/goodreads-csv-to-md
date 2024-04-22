@@ -26,7 +26,13 @@ Binding/Format: Audio CD
 
 ## My Review 5/5
 
-This is a great a book that blends the life approach of "Think and Grow Rich" with the way the mind works with eating. Lots of good advice.<br/><br/>To say it only focuses on food, diet and exercise is selling the book short. Really dives deep on mindset needed for long term healthy living.
+### Date Read
+2016/07/13
+
+### Date Added
+2016/10/11
+
+My Thoughts: This is a great a book that blends the life approach of "Think and Grow Rich" with the way the mind works with eating. Lots of good advice.<br/><br/>To say it only focuses on food, diet and exercise is selling the book short. Really dives deep on mindset needed for long term healthy living.
 
 ---
 

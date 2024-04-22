@@ -26,7 +26,13 @@ Binding/Format: Kindle Edition
 
 ## My Review 3/5
 
-Evaluate team members on their core qualities: Hungry, Humble and People-Smarts.<br/>Like most of Lencioni's book stick to the model not the fabel. THe meat is in the summary
+### Date Read
+2018/04/30
+
+### Date Added
+2018/05/06
+
+My Thoughts: Evaluate team members on their core qualities: Hungry, Humble and People-Smarts.<br/>Like most of Lencioni's book stick to the model not the fabel. THe meat is in the summary
 
 ---
 

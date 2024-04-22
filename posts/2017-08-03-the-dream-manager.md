@@ -26,7 +26,13 @@ Binding/Format: Audio CD
 
 ## My Review 4/5
 
-Care about your people and yourself and they in turn will care about the business.
+### Date Read
+2017/08/03
+
+### Date Added
+2017/08/03
+
+My Thoughts: Care about your people and yourself and they in turn will care about the business.
 
 ---
 

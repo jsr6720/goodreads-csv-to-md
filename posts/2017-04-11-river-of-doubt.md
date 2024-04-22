@@ -26,7 +26,13 @@ Binding/Format: Audio CD
 
 ## My Review 5/5
 
-Fantastic book that follows Roosevelt down the river of doubt. And just like the many tributaries of the river the book is interwoven with great history lessons on the Amazonian jungle.
+### Date Read
+2017/04/11
+
+### Date Added
+2017/04/04
+
+My Thoughts: Fantastic book that follows Roosevelt down the river of doubt. And just like the many tributaries of the river the book is interwoven with great history lessons on the Amazonian jungle.
 
 ---
 

@@ -26,7 +26,13 @@ Binding/Format: Hardcover
 
 ## My Review 5/5
 
-This is a great look of HOW to go grocery shopping. With a look at mostly NY stores it offers a great insight in how best to shop and feed your body.
+### Date Read
+2021/05/31
+
+### Date Added
+2021/04/24
+
+My Thoughts: This is a great look of HOW to go grocery shopping. With a look at mostly NY stores it offers a great insight in how best to shop and feed your body.
 
 ---
 

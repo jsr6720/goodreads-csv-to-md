@@ -26,7 +26,13 @@ Binding/Format: Paperback
 
 ## My Review 4/5
 
-There are better parenting guides. There are better child development books. But you'd be hard pressed to find a more concise collection of parenting ideas for happiness. <br/><br/>Of course happy families are all alike. And unhappy ones each in their own way. 
+### Date Read
+2018/12/14
+
+### Date Added
+2018/12/23
+
+My Thoughts: There are better parenting guides. There are better child development books. But you'd be hard pressed to find a more concise collection of parenting ideas for happiness. <br/><br/>Of course happy families are all alike. And unhappy ones each in their own way. 
 
 ---
 

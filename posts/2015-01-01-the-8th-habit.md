@@ -26,7 +26,13 @@ Binding/Format: Audio CD
 
 ## My Review 3/5
 
-Interwoven into all the other 7 habits is passion. Not as good as the first 7 habits, but still a good book
+### Date Read
+2015/01/01
+
+### Date Added
+2016/10/11
+
+My Thoughts: Interwoven into all the other 7 habits is passion. Not as good as the first 7 habits, but still a good book
 
 ---
 

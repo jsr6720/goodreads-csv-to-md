@@ -26,7 +26,13 @@ Binding/Format: Paperback
 
 ## My Review 5/5
 
-Great history on Kahneman and Tversky and their twin roles in identifying the non-rational aspects of our natures. Excellent story telling by Lewis.<br/><br/>Book covers the personal lives and interactions of each Kahneman and Tversky.
+### Date Read
+2020/08/09
+
+### Date Added
+2020/07/03
+
+My Thoughts: Great history on Kahneman and Tversky and their twin roles in identifying the non-rational aspects of our natures. Excellent story telling by Lewis.<br/><br/>Book covers the personal lives and interactions of each Kahneman and Tversky.
 
 ---
 

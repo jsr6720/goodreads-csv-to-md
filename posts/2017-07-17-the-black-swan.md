@@ -26,7 +26,13 @@ Binding/Format: Hardcover
 
 ## My Review 1/5
 
-Go for the summary.
+### Date Read
+2017/07/17
+
+### Date Added
+2017/07/17
+
+My Thoughts: Go for the summary.
 
 ---
 

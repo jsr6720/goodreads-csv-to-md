@@ -26,7 +26,13 @@ Binding/Format: Audio CD
 
 ## My Review 5/5
 
-Focuses also on the "Lean Startup". How to harness the power of the entrepreneurs who work at your company today. Heavy emphasis on the success found at GE.
+### Date Read
+2020/12/15
+
+### Date Added
+2020/12/15
+
+My Thoughts: Focuses also on the "Lean Startup". How to harness the power of the entrepreneurs who work at your company today. Heavy emphasis on the success found at GE.
 
 ---
 

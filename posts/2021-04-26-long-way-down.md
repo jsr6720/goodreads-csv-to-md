@@ -26,7 +26,13 @@ Binding/Format: Hardcover
 
 ## My Review 5/5
 
-Are you coming? A poets look at violence and the act of revenge.
+### Date Read
+2021/04/26
+
+### Date Added
+2021/04/27
+
+My Thoughts: Are you coming? A poets look at violence and the act of revenge.
 
 ---
 

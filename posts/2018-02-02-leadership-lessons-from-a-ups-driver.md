@@ -26,7 +26,13 @@ Binding/Format: Audio CD
 
 ## My Review 5/5
 
-Great collection of business stories that help drive the culture of UPS.<br/><br/>This is definitely a "Management by walking around" approach and reflects the disperse nature of the organization. Short and to the point there are many great pieces of advice here.
+### Date Read
+2018/02/02
+
+### Date Added
+2018/01/26
+
+My Thoughts: Great collection of business stories that help drive the culture of UPS.<br/><br/>This is definitely a "Management by walking around" approach and reflects the disperse nature of the organization. Short and to the point there are many great pieces of advice here.
 
 ---
 

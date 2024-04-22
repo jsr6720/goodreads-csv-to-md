@@ -26,7 +26,13 @@ Binding/Format: Audio CD
 
 ## My Review 2/5
 
-This professor is so full of himself he barely covered the material of the text.<br/><br/>If I hadn't read the book prior to the lecture series I wouldn't have had the slightest clue what he was referring to.
+### Date Read
+2018/02/08
+
+### Date Added
+2018/02/05
+
+My Thoughts: This professor is so full of himself he barely covered the material of the text.<br/><br/>If I hadn't read the book prior to the lecture series I wouldn't have had the slightest clue what he was referring to.
 
 ---
 

@@ -26,7 +26,13 @@ Binding/Format: Audiobook
 
 ## My Review 3/5
 
-A solid collection of NPR productions.
+### Date Read
+2017/06/25
+
+### Date Added
+2017/06/21
+
+My Thoughts: A solid collection of NPR productions.
 
 ---
 

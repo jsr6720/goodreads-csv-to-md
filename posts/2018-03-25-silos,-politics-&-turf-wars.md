@@ -26,7 +26,13 @@ Binding/Format: Audio CD
 
 ## My Review 3/5
 
-I don't like fables that are longer than Aesop. But I make an exception for Lencioni. Key takeaway: management needs to tackle projects as a team. And an organization of silos is a direct reflection of the leadership style of the executive team. If budgets and resources and allocations are all "us vs them" at the top. It reflects itself to the bottom
+### Date Read
+2018/03/25
+
+### Date Added
+2018/03/28
+
+My Thoughts: I don't like fables that are longer than Aesop. But I make an exception for Lencioni. Key takeaway: management needs to tackle projects as a team. And an organization of silos is a direct reflection of the leadership style of the executive team. If budgets and resources and allocations are all "us vs them" at the top. It reflects itself to the bottom
 
 ---
 

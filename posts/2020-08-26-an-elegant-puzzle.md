@@ -26,7 +26,13 @@ Binding/Format: Kindle Edition
 
 ## My Review 5/5
 
-A great, recent, look at software engineering management from a fellow engineer. Covers lots of topics and easily thumb-able to specific areas of interest.
+### Date Read
+2020/08/26
+
+### Date Added
+2020/03/24
+
+My Thoughts: A great, recent, look at software engineering management from a fellow engineer. Covers lots of topics and easily thumb-able to specific areas of interest.
 
 ---
 

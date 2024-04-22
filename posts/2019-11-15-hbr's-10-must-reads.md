@@ -26,7 +26,13 @@ Binding/Format: MP3 CD
 
 ## My Review 3/5
 
-Only 2 or 3 of these stories still feel fresh after 20 years. Specifically people and resources. Company and technology examples are very dated.
+### Date Read
+2019/11/15
+
+### Date Added
+2019/11/08
+
+My Thoughts: Only 2 or 3 of these stories still feel fresh after 20 years. Specifically people and resources. Company and technology examples are very dated.
 
 ---
 

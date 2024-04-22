@@ -26,7 +26,13 @@ Binding/Format: Hardcover
 
 ## My Review 4/5
 
-Focuses on the combat aspects of leadership, but has concepts as well.
+### Date Read
+2020/02/20
+
+### Date Added
+2020/01/16
+
+My Thoughts: Focuses on the combat aspects of leadership, but has concepts as well.
 
 ---
 

@@ -26,7 +26,13 @@ Binding/Format: Audio CD
 
 ## My Review 5/5
 
-Great summary of 50 books.<br/><br/>Honestly this is an easy way to knock off titles you want a summary of but not actually read.
+### Date Read
+2020/03/02
+
+### Date Added
+2020/03/04
+
+My Thoughts: Great summary of 50 books.<br/><br/>Honestly this is an easy way to knock off titles you want a summary of but not actually read.
 
 ---
 

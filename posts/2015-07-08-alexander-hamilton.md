@@ -26,7 +26,13 @@ Binding/Format: Audio CD
 
 ## My Review 4/5
 
-Abridged. Biggest let down was Hamilton's short life. Very good.<br/>Hamilton's role in a central bank and unifying the states into a strong nation was enlightening.
+### Date Read
+2015/07/08
+
+### Date Added
+2016/09/30
+
+My Thoughts: Abridged. Biggest let down was Hamilton's short life. Very good.<br/>Hamilton's role in a central bank and unifying the states into a strong nation was enlightening.
 
 ---
 

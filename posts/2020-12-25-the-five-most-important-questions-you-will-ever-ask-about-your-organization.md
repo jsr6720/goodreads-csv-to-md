@@ -26,7 +26,13 @@ Binding/Format: Paperback
 
 ## My Review 4/5
 
-Quick read and lots of examples from the social sector. <br/><br/>Bring your pen and paper. This is a workbook which requires brainstorming and exercise to get the best value from. 
+### Date Read
+2020/12/25
+
+### Date Added
+2020/12/25
+
+My Thoughts: Quick read and lots of examples from the social sector. <br/><br/>Bring your pen and paper. This is a workbook which requires brainstorming and exercise to get the best value from. 
 
 ---
 

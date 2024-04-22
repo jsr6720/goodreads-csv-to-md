@@ -26,7 +26,13 @@ Binding/Format: Audio CD
 
 ## My Review 4/5
 
-If this is a book for the masses. Then I still feel dumb. Hold on tight until the end and all the concepts are put to work to describe what humans are likely experiencing.<br/><br/>Favorite concept in the book is that 'intelligence is not really a great survival trait, bacteria will continue to thrive with no intelligence'.<br/><br/>Certainly can't fault a person for trying to build their mental model understanding of the universe. I've decided that my passion for "Space" now includes pretty pictures, big rockets and the excitement of exploration. To go boldly where no-one has gone before...
+### Date Read
+2019/03/19
+
+### Date Added
+2019/03/19
+
+My Thoughts: If this is a book for the masses. Then I still feel dumb. Hold on tight until the end and all the concepts are put to work to describe what humans are likely experiencing.<br/><br/>Favorite concept in the book is that 'intelligence is not really a great survival trait, bacteria will continue to thrive with no intelligence'.<br/><br/>Certainly can't fault a person for trying to build their mental model understanding of the universe. I've decided that my passion for "Space" now includes pretty pictures, big rockets and the excitement of exploration. To go boldly where no-one has gone before...
 
 ---
 

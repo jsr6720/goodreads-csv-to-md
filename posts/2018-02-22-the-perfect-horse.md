@@ -26,7 +26,13 @@ Binding/Format: Hardcover
 
 ## My Review 0/5
 
+### Date Read
 Empty
+
+### Date Added
+2018/02/22
+
+My Thoughts: Empty
 
 ---
 

@@ -26,7 +26,13 @@ Binding/Format: Paperback
 
 ## My Review 4/5
 
-Great read to fill in some of the thoughts prior to the revolution. Funny how in 250 years politics still hasn't changed. Those who disagree with Paine are fools. <br/><br/>Personally read as part of becks book. 
+### Date Read
+2017/01/29
+
+### Date Added
+2017/01/29
+
+My Thoughts: Great read to fill in some of the thoughts prior to the revolution. Funny how in 250 years politics still hasn't changed. Those who disagree with Paine are fools. <br/><br/>Personally read as part of becks book. 
 
 ---
 

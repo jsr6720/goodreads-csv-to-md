@@ -26,7 +26,13 @@ Binding/Format: Audio CD
 
 ## My Review 5/5
 
-While it must be tough to separate the story of the Rough Riders from such a large figure in american history (Roosevelt). This book does a good job staying in the narrative of the Rough Riders formation, voyage and fighting spirit.
+### Date Read
+2019/06/21
+
+### Date Added
+2019/06/11
+
+My Thoughts: While it must be tough to separate the story of the Rough Riders from such a large figure in american history (Roosevelt). This book does a good job staying in the narrative of the Rough Riders formation, voyage and fighting spirit.
 
 ---
 

@@ -26,7 +26,13 @@ Binding/Format: Audio CD
 
 ## My Review 5/5
 
-Mastery of self leads to master outside of self. Brian Tracy has a large set of books and this one delivers as the others do.
+### Date Read
+2019/10/25
+
+### Date Added
+2019/10/18
+
+My Thoughts: Mastery of self leads to master outside of self. Brian Tracy has a large set of books and this one delivers as the others do.
 
 ---
 

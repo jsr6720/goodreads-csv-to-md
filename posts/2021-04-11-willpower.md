@@ -26,7 +26,13 @@ Binding/Format: Hardcover
 
 ## My Review 3/5
 
-Book is a little over the top with self-references. Middle of the book is a little slow but first few chapters and last few chapters definitely a good read.<br/><br/>Key concepts: eliminate temptation and frame the decision on future self vs past self.
+### Date Read
+2021/04/11
+
+### Date Added
+2021/04/07
+
+My Thoughts: Book is a little over the top with self-references. Middle of the book is a little slow but first few chapters and last few chapters definitely a good read.<br/><br/>Key concepts: eliminate temptation and frame the decision on future self vs past self.
 
 ---
 

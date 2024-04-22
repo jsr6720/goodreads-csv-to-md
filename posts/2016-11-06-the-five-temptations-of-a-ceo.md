@@ -26,7 +26,13 @@ Binding/Format: Hardcover
 
 ## My Review 5/5
 
-Good quick read. Very compelling narrative and quick to get to the point. 
+### Date Read
+2016/11/06
+
+### Date Added
+2016/11/06
+
+My Thoughts: Good quick read. Very compelling narrative and quick to get to the point. 
 
 ---
 

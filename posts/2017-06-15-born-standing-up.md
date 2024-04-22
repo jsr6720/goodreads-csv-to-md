@@ -26,7 +26,13 @@ Binding/Format: Audio CD
 
 ## My Review 3/5
 
-Fun book that covers mainly growing up and a few decades 60-70s. Careful not to get whiplash from the frequent time leaps.<br/><br/>Came away feeling like I learned more about Martin's sexual encounters than his comedy routines. What is the secret to success? Like [a:Malcolm Gladwell|1439|Malcolm Gladwell|https://images.gr-assets.com/authors/1224601838p2/1439.jpg] asserts, practice. Decades and thousands of hours of practice. Martin spent full days for years practicing his work. Constantly refining and adding/removing bits.<br/><br/>I did like how he looked outward to find all those who helped him along the way and thank them.
+### Date Read
+2017/06/15
+
+### Date Added
+2017/06/16
+
+My Thoughts: Fun book that covers mainly growing up and a few decades 60-70s. Careful not to get whiplash from the frequent time leaps.<br/><br/>Came away feeling like I learned more about Martin's sexual encounters than his comedy routines. What is the secret to success? Like [a:Malcolm Gladwell|1439|Malcolm Gladwell|https://images.gr-assets.com/authors/1224601838p2/1439.jpg] asserts, practice. Decades and thousands of hours of practice. Martin spent full days for years practicing his work. Constantly refining and adding/removing bits.<br/><br/>I did like how he looked outward to find all those who helped him along the way and thank them.
 
 ---
 

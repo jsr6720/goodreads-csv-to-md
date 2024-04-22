@@ -26,7 +26,13 @@ Binding/Format: Audio CD
 
 ## My Review 1/5
 
-Did not finish. Narration was just too dry. <br/><br/>Good strategy contains a kernel of 'obvious' truth.
+### Date Read
+2019/12/23
+
+### Date Added
+2019/12/18
+
+My Thoughts: Did not finish. Narration was just too dry. <br/><br/>Good strategy contains a kernel of 'obvious' truth.
 
 ---
 

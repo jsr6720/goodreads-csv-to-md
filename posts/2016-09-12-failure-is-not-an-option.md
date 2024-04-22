@@ -26,7 +26,13 @@ Binding/Format: Audio CD
 
 ## My Review 5/5
 
-This was a fantastic book starting with Mercury and going through Apollo. Blow by blow accounts of mission control are riveting. I especially like rich background Kranz discusses over the course of the missions.
+### Date Read
+2016/09/12
+
+### Date Added
+2016/08/25
+
+My Thoughts: This was a fantastic book starting with Mercury and going through Apollo. Blow by blow accounts of mission control are riveting. I especially like rich background Kranz discusses over the course of the missions.
 
 ---
 

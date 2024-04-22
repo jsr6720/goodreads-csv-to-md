@@ -26,7 +26,13 @@ Binding/Format: Hardcover
 
 ## My Review 3/5
 
-Fun read with nuggets of wisdeom contained in chapters.<br/><br/>One or two will jump out and grab you. Watch out.
+### Date Read
+Empty
+
+### Date Added
+2018/06/20
+
+My Thoughts: Fun read with nuggets of wisdeom contained in chapters.<br/><br/>One or two will jump out and grab you. Watch out.
 
 ---
 

@@ -26,7 +26,13 @@ Binding/Format: Audio CD
 
 ## My Review 4/5
 
-Great reading of the 13 chapters of the art of war. Pairs great with Great courses reading of the material.
+### Date Read
+2018/02/05
+
+### Date Added
+2018/02/05
+
+My Thoughts: Great reading of the 13 chapters of the art of war. Pairs great with Great courses reading of the material.
 
 ---
 

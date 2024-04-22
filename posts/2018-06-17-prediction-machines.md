@@ -26,7 +26,13 @@ Binding/Format: Hardcover
 
 ## My Review 4/5
 
-Great overview of the current AI/Machine Learning landscape circa 2018.<br/><br/>Premise of the book is that AI can be evaluated via a framework of providing needs and by the types of data used to fuel the training, feedback and ongoing model needs.<br/><br/>Comes to the table with an Economics approach. If the cost of predicting something approaches zero, business will use it constantly. The nature of data builds a strong moat that can be hard to breach. This can favor the first mover.<br/>
+### Date Read
+2018/06/17
+
+### Date Added
+2018/06/18
+
+My Thoughts: Great overview of the current AI/Machine Learning landscape circa 2018.<br/><br/>Premise of the book is that AI can be evaluated via a framework of providing needs and by the types of data used to fuel the training, feedback and ongoing model needs.<br/><br/>Comes to the table with an Economics approach. If the cost of predicting something approaches zero, business will use it constantly. The nature of data builds a strong moat that can be hard to breach. This can favor the first mover.<br/>
 
 ---
 

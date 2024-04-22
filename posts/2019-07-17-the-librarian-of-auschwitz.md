@@ -26,7 +26,13 @@ Binding/Format: Audio CD
 
 ## My Review 5/5
 
-Lightly fictionalized account of real events of the Holocaust. <br/><br/>Fantastic read and very heavy at times, unflinching in its accounts of the actual events in the camp.
+### Date Read
+2019/07/17
+
+### Date Added
+2019/07/01
+
+My Thoughts: Lightly fictionalized account of real events of the Holocaust. <br/><br/>Fantastic read and very heavy at times, unflinching in its accounts of the actual events in the camp.
 
 ---
 

@@ -26,7 +26,13 @@ Binding/Format: Paperback
 
 ## My Review 3/5
 
-Already showing it’s age due to a conspicuous lack of big tech firms. This book has a handful of classics and a whole swath of “huh”? I do like the key concepts and was able to knock quite a few books off ‘the list’. Worth the checkout from the library. 
+### Date Read
+2020/10/25
+
+### Date Added
+2020/10/25
+
+My Thoughts: Already showing it’s age due to a conspicuous lack of big tech firms. This book has a handful of classics and a whole swath of “huh”? I do like the key concepts and was able to knock quite a few books off ‘the list’. Worth the checkout from the library. 
 
 ---
 

@@ -26,7 +26,13 @@ Binding/Format: Audio CD
 
 ## My Review 4/5
 
-Discipline and targeted moves are the key to success. Anyone chasing a miracle will be shocked to discover years of hard work. This book is different from his previous work because of the study emphasis on surviving and thriving during difficult macro-economic times
+### Date Read
+2018/03/28
+
+### Date Added
+2018/03/16
+
+My Thoughts: Discipline and targeted moves are the key to success. Anyone chasing a miracle will be shocked to discover years of hard work. This book is different from his previous work because of the study emphasis on surviving and thriving during difficult macro-economic times
 
 ---
 

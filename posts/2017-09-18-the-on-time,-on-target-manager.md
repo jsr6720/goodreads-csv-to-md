@@ -26,7 +26,13 @@ Binding/Format: Audio CD
 
 ## My Review 2/5
 
-Honestly, the book [Eat That Frog|95887] is a far superior book to this one.<br/><br/>I really didn't gain anything from this book other than a healthy dose of skepticism of the CEO (Chief Effectiveness Officer).
+### Date Read
+2017/09/18
+
+### Date Added
+2017/09/18
+
+My Thoughts: Honestly, the book [Eat That Frog|95887] is a far superior book to this one.<br/><br/>I really didn't gain anything from this book other than a healthy dose of skepticism of the CEO (Chief Effectiveness Officer).
 
 ---
 

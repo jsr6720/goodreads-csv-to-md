@@ -26,7 +26,13 @@ Binding/Format: Audio CD
 
 ## My Review 4/5
 
-Long. Detailed. History of Exxon mobile from its birth out of the standard oil breakup. This book covers the key players including brief Secretary of State Rex tillerson. <br/><br/>At 18 cds broke this into two readings but covers the entire globe. Almost a collection of short stories based on location. 
+### Date Read
+2018/12/23
+
+### Date Added
+2018/02/15
+
+My Thoughts: Long. Detailed. History of Exxon mobile from its birth out of the standard oil breakup. This book covers the key players including brief Secretary of State Rex tillerson. <br/><br/>At 18 cds broke this into two readings but covers the entire globe. Almost a collection of short stories based on location. 
 
 ---
 

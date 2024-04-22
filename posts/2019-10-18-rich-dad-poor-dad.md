@@ -26,7 +26,13 @@ Binding/Format: Audible Audio
 
 ## My Review 3/5
 
-I see what this is a classic, but towards the end it veers to close to "I've had a string of successes so can you!". Good read if you've read no other financial literature. Heavily focused on building wealth through real estate transactions and owning businesses.
+### Date Read
+2019/10/18
+
+### Date Added
+2019/10/18
+
+My Thoughts: I see what this is a classic, but towards the end it veers to close to "I've had a string of successes so can you!". Good read if you've read no other financial literature. Heavily focused on building wealth through real estate transactions and owning businesses.
 
 ---
 

@@ -26,7 +26,13 @@ Binding/Format: Audio CD
 
 ## My Review 5/5
 
-Great book about how to be your child's educator not friend.
+### Date Read
+2018/05/17
+
+### Date Added
+2018/05/10
+
+My Thoughts: Great book about how to be your child's educator not friend.
 
 ---
 

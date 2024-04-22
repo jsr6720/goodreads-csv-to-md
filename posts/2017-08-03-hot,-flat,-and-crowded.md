@@ -26,7 +26,13 @@ Binding/Format: Audio CD
 
 ## My Review 2/5
 
-This book takes WAY too long to say a few points. Could not finish, it felt like I was listening to the same chapters over and over again.<br/><br/>* Population growth is exponential (Crowded)<br/>* Science has determined that consuming fuels from hell is bad (Hot)<br/>* Globalization means there are fewer and fewer virgin resources to exploit for growth (Flat)
+### Date Read
+Empty
+
+### Date Added
+2017/08/03
+
+My Thoughts: This book takes WAY too long to say a few points. Could not finish, it felt like I was listening to the same chapters over and over again.<br/><br/>* Population growth is exponential (Crowded)<br/>* Science has determined that consuming fuels from hell is bad (Hot)<br/>* Globalization means there are fewer and fewer virgin resources to exploit for growth (Flat)
 
 ---
 

@@ -26,7 +26,13 @@ Binding/Format: Mass Market Paperback
 
 ## My Review 5/5
 
-Picked this up from my childhood pile to give it a reread. I found all my favorite characters. One thing I do wish I could un-see though is all the similarities to other works of fiction in the same time period. All and all a great trip back in time.
+### Date Read
+2021/03/11
+
+### Date Added
+2021/03/16
+
+My Thoughts: Picked this up from my childhood pile to give it a reread. I found all my favorite characters. One thing I do wish I could un-see though is all the similarities to other works of fiction in the same time period. All and all a great trip back in time.
 
 ---
 

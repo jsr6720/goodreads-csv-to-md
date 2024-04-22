@@ -26,7 +26,13 @@ Binding/Format: Paperback
 
 ## My Review 5/5
 
-A quick afternoon read. This is a whimsical and fun look at the mindset shifts we can have to eat better. <br/><br/>Eat food. Not too much. Mostly plants. <br/><br/>The illustrations add a nice perspective. 
+### Date Read
+2021/04/24
+
+### Date Added
+2021/04/24
+
+My Thoughts: A quick afternoon read. This is a whimsical and fun look at the mindset shifts we can have to eat better. <br/><br/>Eat food. Not too much. Mostly plants. <br/><br/>The illustrations add a nice perspective. 
 
 ---
 

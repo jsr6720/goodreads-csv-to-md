@@ -26,7 +26,13 @@ Binding/Format: Hardcover
 
 ## My Review 5/5
 
-Revisiting another childhood favorite. Kids loved it. Great reminder of the fun things in life.
+### Date Read
+2021/04/27
+
+### Date Added
+2021/04/27
+
+My Thoughts: Revisiting another childhood favorite. Kids loved it. Great reminder of the fun things in life.
 
 ---
 

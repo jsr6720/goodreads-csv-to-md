@@ -26,7 +26,13 @@ Binding/Format: Paperback
 
 ## My Review 4/5
 
-A collection of easily digested chapters that help hone in on any problem your facing as a parent.<br/><br/>Ask the following questions when deciding on an action for your kids:<br/>1. Is it good for the child's development?<br/>2. Is it within the families resources?<br/>3. Does it harm others?<br/><br/>Bottom line we live in a culture and age of abundance. You will always feel as if you're saying "no" more than "yes".
+### Date Read
+2018/09/28
+
+### Date Added
+2018/09/26
+
+My Thoughts: A collection of easily digested chapters that help hone in on any problem your facing as a parent.<br/><br/>Ask the following questions when deciding on an action for your kids:<br/>1. Is it good for the child's development?<br/>2. Is it within the families resources?<br/>3. Does it harm others?<br/><br/>Bottom line we live in a culture and age of abundance. You will always feel as if you're saying "no" more than "yes".
 
 ---
 

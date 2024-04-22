@@ -26,7 +26,13 @@ Binding/Format: Audio CD
 
 ## My Review 5/5
 
-Nice to listen to the source material.
+### Date Read
+2018/09/06
+
+### Date Added
+2018/09/06
+
+My Thoughts: Nice to listen to the source material.
 
 ---
 

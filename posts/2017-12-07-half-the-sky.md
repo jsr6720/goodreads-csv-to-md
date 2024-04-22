@@ -26,7 +26,13 @@ Binding/Format: Audio CD
 
 ## My Review 5/5
 
-Hard book to finish. So many stories that are tragic. Even the happy endings are less than stellar.
+### Date Read
+2017/12/07
+
+### Date Added
+2017/11/22
+
+My Thoughts: Hard book to finish. So many stories that are tragic. Even the happy endings are less than stellar.
 
 ---
 

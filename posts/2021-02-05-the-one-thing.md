@@ -26,7 +26,13 @@ Binding/Format: Hardcover
 
 ## My Review 4/5
 
-Quick read that covers some of the highlights of personal growth. Summarized in a sentence. Find the one thing you can do today that aligns you to your long term goals. Rinse repeat.<br/><br/>Sounds a lot like the quality improvement by Deming.
+### Date Read
+2021/02/05
+
+### Date Added
+2021/02/06
+
+My Thoughts: Quick read that covers some of the highlights of personal growth. Summarized in a sentence. Find the one thing you can do today that aligns you to your long term goals. Rinse repeat.<br/><br/>Sounds a lot like the quality improvement by Deming.
 
 ---
 

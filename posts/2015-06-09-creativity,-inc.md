@@ -26,7 +26,13 @@ Binding/Format: Audio CD
 
 ## My Review 1/5
 
-Couldn't finish. History of Pixar was interesting, but failed to deliver an engaging experience.<br/>To clarify, it's not bad, its just not for me.
+### Date Read
+2015/06/09
+
+### Date Added
+2016/05/31
+
+My Thoughts: Couldn't finish. History of Pixar was interesting, but failed to deliver an engaging experience.<br/>To clarify, it's not bad, its just not for me.
 
 ---
 

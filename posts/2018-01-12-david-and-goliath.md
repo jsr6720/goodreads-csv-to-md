@@ -26,7 +26,13 @@ Binding/Format: Audiobook
 
 ## My Review 5/5
 
-A collection of stories that evaluates the premise that all disadvantages don't also come with advantages.<br/><br/>Starting with David and Goliath Gladwell examines human's inability to grasp an inverted U curve. How too much of a good thing can cease to yield returns and actually travel back down the effective curve.
+### Date Read
+2018/01/12
+
+### Date Added
+2018/01/06
+
+My Thoughts: A collection of stories that evaluates the premise that all disadvantages don't also come with advantages.<br/><br/>Starting with David and Goliath Gladwell examines human's inability to grasp an inverted U curve. How too much of a good thing can cease to yield returns and actually travel back down the effective curve.
 
 ---
 

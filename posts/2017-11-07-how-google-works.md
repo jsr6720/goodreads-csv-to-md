@@ -26,7 +26,13 @@ Binding/Format: Audio CD
 
 ## My Review 4/5
 
-A collection of short anecdotes about Google and its management practices.<br/><br/>Coined the phrase "smart-creative" which is the evolution of Drucker's "knowledge worker". These smart creatives drive company growth by turning technical insights into marketable products.<br/>
+### Date Read
+2017/11/07
+
+### Date Added
+2017/11/08
+
+My Thoughts: A collection of short anecdotes about Google and its management practices.<br/><br/>Coined the phrase "smart-creative" which is the evolution of Drucker's "knowledge worker". These smart creatives drive company growth by turning technical insights into marketable products.<br/>
 
 ---
 

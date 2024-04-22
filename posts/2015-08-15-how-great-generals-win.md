@@ -26,7 +26,13 @@ Binding/Format: Audio Cassette
 
 ## My Review 4/5
 
-Barred from a 4 based on it's overly dry approach to battle movements. Most interesting part of the book was footnotes on the evolution of battle and war technology. Would recommend to the right person.
+### Date Read
+2015/08/15
+
+### Date Added
+2016/10/11
+
+My Thoughts: Barred from a 4 based on it's overly dry approach to battle movements. Most interesting part of the book was footnotes on the evolution of battle and war technology. Would recommend to the right person.
 
 ---
 

@@ -26,7 +26,13 @@ Binding/Format: Audio CD
 
 ## My Review 1/5
 
-I'll save you the trouble. Read Benjamin Franklin Autobiography and his use of a virtues chart.<br/><br/>Everything else in this book is difficult to relate to as a common person. IE getting rid of 4 computers from my Manhattan apartment.
+### Date Read
+Empty
+
+### Date Added
+2018/10/12
+
+My Thoughts: I'll save you the trouble. Read Benjamin Franklin Autobiography and his use of a virtues chart.<br/><br/>Everything else in this book is difficult to relate to as a common person. IE getting rid of 4 computers from my Manhattan apartment.
 
 ---
 

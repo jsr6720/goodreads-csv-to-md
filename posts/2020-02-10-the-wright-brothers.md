@@ -26,7 +26,13 @@ Binding/Format: Hardcover
 
 ## My Review 5/5
 
-Well written account of the turn of the century optimism the Wright brothers found themselves in. Also a great look at the 3rd hero Charlie Taylor. Fantastic story telling by McCullogh
+### Date Read
+2020/02/10
+
+### Date Added
+2020/02/10
+
+My Thoughts: Well written account of the turn of the century optimism the Wright brothers found themselves in. Also a great look at the 3rd hero Charlie Taylor. Fantastic story telling by McCullogh
 
 ---
 

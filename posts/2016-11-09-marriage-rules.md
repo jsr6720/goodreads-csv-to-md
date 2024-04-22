@@ -26,7 +26,13 @@ Binding/Format: Hardcover
 
 ## My Review 5/5
 
-I really enjoyed this books content and format. More so than any other book you can find 5 or 10 rules that really speak to you and work them with your partner. <br/><br/>This book ha a heavy emphasis on family of origin relationships and many other common pirfalls. <br/><br/>
+### Date Read
+2016/11/09
+
+### Date Added
+2016/10/11
+
+My Thoughts: I really enjoyed this books content and format. More so than any other book you can find 5 or 10 rules that really speak to you and work them with your partner. <br/><br/>This book ha a heavy emphasis on family of origin relationships and many other common pirfalls. <br/><br/>
 
 ---
 

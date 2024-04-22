@@ -26,7 +26,13 @@ Binding/Format: Audio CD + ebook
 
 ## My Review 5/5
 
-Very fun listen. Didn't realize so many stories with morals were from so ancient a time.
+### Date Read
+2015/07/14
+
+### Date Added
+2016/05/31
+
+My Thoughts: Very fun listen. Didn't realize so many stories with morals were from so ancient a time.
 
 ---
 

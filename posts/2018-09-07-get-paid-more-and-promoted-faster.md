@@ -26,7 +26,13 @@ Binding/Format: Hardcover
 
 ## My Review 3/5
 
-Quick read which is a collection of business truisms.<br/><br/>Come in early, stay late, choose your life. Succeed. I suppose the best two ways are choosing industry and company and projects above all else. 
+### Date Read
+2018/09/07
+
+### Date Added
+2018/09/07
+
+My Thoughts: Quick read which is a collection of business truisms.<br/><br/>Come in early, stay late, choose your life. Succeed. I suppose the best two ways are choosing industry and company and projects above all else. 
 
 ---
 

@@ -26,7 +26,13 @@ Binding/Format: Audio CD
 
 ## My Review 5/5
 
-Disclosure: I enjoy the finance sector but even so learning about mezzanine tranches and CDO and synthetic CDOs was fascinating.<br/><br/>This is a great narrative of the complete abandonment of morals by the finance industry. I like the story telling aspect as it followed a group of money managers through the collapse.<br/><br/>Tying the modern day collapse back to the Equity IPO of Solomon brothers was especially interesting. Before that moment all money managed funds were private partnerships and partners were liable. By transferring the risk to stock holders in the 80s firms had no issue leveraging another's money.<br/><br/>This is my first book by Michael Lewis and based on the strength of this book I've added his other to my "to read" list.
+### Date Read
+2017/06/02
+
+### Date Added
+2017/05/26
+
+My Thoughts: Disclosure: I enjoy the finance sector but even so learning about mezzanine tranches and CDO and synthetic CDOs was fascinating.<br/><br/>This is a great narrative of the complete abandonment of morals by the finance industry. I like the story telling aspect as it followed a group of money managers through the collapse.<br/><br/>Tying the modern day collapse back to the Equity IPO of Solomon brothers was especially interesting. Before that moment all money managed funds were private partnerships and partners were liable. By transferring the risk to stock holders in the 80s firms had no issue leveraging another's money.<br/><br/>This is my first book by Michael Lewis and based on the strength of this book I've added his other to my "to read" list.
 
 ---
 

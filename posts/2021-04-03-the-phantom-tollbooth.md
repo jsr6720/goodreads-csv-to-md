@@ -26,7 +26,13 @@ Binding/Format: Paperback
 
 ## My Review 5/5
 
-A fun whimsical look at mature childhood books. Classic. 
+### Date Read
+2021/04/03
+
+### Date Added
+2021/04/03
+
+My Thoughts: A fun whimsical look at mature childhood books. Classic. 
 
 ---
 

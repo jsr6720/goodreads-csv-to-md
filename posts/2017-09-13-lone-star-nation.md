@@ -26,7 +26,13 @@ Binding/Format: Audio CD
 
 ## My Review 5/5
 
-Great book that reminds me a lot of [a:David McCullough|6281688|David McCullough|https://images.gr-assets.com/authors/1429921568p2/6281688.jpg] writing style. Especially [b:John Adams|2203|John Adams|David McCullough|https://images.gr-assets.com/books/1478144278s/2203.jpg|963375].<br/><br/>This book delves just deep enough into the anthropology/geologic/political history of spain/mexico/france to give a solid background of Texas without being overbearing.<br/><br/>All the heros are present and accounted for. Great book.
+### Date Read
+2017/09/13
+
+### Date Added
+2017/08/25
+
+My Thoughts: Great book that reminds me a lot of [a:David McCullough|6281688|David McCullough|https://images.gr-assets.com/authors/1429921568p2/6281688.jpg] writing style. Especially [b:John Adams|2203|John Adams|David McCullough|https://images.gr-assets.com/books/1478144278s/2203.jpg|963375].<br/><br/>This book delves just deep enough into the anthropology/geologic/political history of spain/mexico/france to give a solid background of Texas without being overbearing.<br/><br/>All the heros are present and accounted for. Great book.
 
 ---
 

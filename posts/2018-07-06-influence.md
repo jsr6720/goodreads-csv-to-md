@@ -26,7 +26,13 @@ Binding/Format: Audio CD
 
 ## My Review 5/5
 
-Great overview of lots of influence classics. This is a great course that covers all the recent literature. 
+### Date Read
+2018/07/06
+
+### Date Added
+2018/06/26
+
+My Thoughts: Great overview of lots of influence classics. This is a great course that covers all the recent literature. 
 
 ---
 

@@ -26,7 +26,13 @@ Binding/Format: Audio CD
 
 ## My Review 5/5
 
-A great reading of Shackleton's voyage through the antarctic. This accounting is so riveting it rivals any fictional hero book. Pairs well with  "River of Doubt" by Candice Millard
+### Date Read
+2018/01/25
+
+### Date Added
+2018/01/26
+
+My Thoughts: A great reading of Shackleton's voyage through the antarctic. This accounting is so riveting it rivals any fictional hero book. Pairs well with  "River of Doubt" by Candice Millard
 
 ---
 

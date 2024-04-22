@@ -26,7 +26,13 @@ Binding/Format: {Binding}
 
 ## My Review {My Rating}/5
 
-{My Review}
+### Date Read
+{Date Read}
+
+### Date Added
+{Date Added}
+
+My Thoughts: {My Review}
 
 ---
 

@@ -26,7 +26,13 @@ Binding/Format: Audio CD
 
 ## My Review 5/5
 
-Written in conversation form. This is a great collection of stories. For anyone who has a relative from the WWII era I highly recommend.
+### Date Read
+2019/09/14
+
+### Date Added
+2019/08/28
+
+My Thoughts: Written in conversation form. This is a great collection of stories. For anyone who has a relative from the WWII era I highly recommend.
 
 ---
 

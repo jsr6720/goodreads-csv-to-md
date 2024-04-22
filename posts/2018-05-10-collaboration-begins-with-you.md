@@ -26,7 +26,13 @@ Binding/Format: Audio CD
 
 ## My Review 2/5
 
-ready. Be the change you want to see.
+### Date Read
+2018/05/10
+
+### Date Added
+2018/05/06
+
+My Thoughts: ready. Be the change you want to see.
 
 ---
 

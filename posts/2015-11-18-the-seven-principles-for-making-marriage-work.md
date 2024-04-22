@@ -26,7 +26,13 @@ Binding/Format: Audio CD
 
 ## My Review 5/5
 
-Great book with lots of functional examples and test for 'scoring' a marriage.<br/>Key is a solid friendship that can weather the storm of life.<br/><br/>Learn to respect each other's differences and move past gridlock issues. Will definitely pick up again,<br/>need physical book to copy some of the exercises.
+### Date Read
+2015/11/18
+
+### Date Added
+2016/09/30
+
+My Thoughts: Great book with lots of functional examples and test for 'scoring' a marriage.<br/>Key is a solid friendship that can weather the storm of life.<br/><br/>Learn to respect each other's differences and move past gridlock issues. Will definitely pick up again,<br/>need physical book to copy some of the exercises.
 
 ---
 

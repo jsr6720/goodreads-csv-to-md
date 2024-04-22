@@ -26,7 +26,13 @@ Binding/Format: Hardcover
 
 ## My Review 4/5
 
-Quick light read overview of the threads of humanity through the lens of specific inventions. More specifically constellations of inventions. Ie paper plus printing press equals fiat money. <br/><br/>Fun and interesting. Would recommend. 
+### Date Read
+2020/11/08
+
+### Date Added
+2020/11/08
+
+My Thoughts: Quick light read overview of the threads of humanity through the lens of specific inventions. More specifically constellations of inventions. Ie paper plus printing press equals fiat money. <br/><br/>Fun and interesting. Would recommend. 
 
 ---
 

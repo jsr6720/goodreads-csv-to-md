@@ -26,7 +26,13 @@ Binding/Format: Audio CD
 
 ## My Review 3/5
 
-Suppose someone told you that you are codependent. How would you respond? What does that even mean?<br/><br/>This book gives a good anecdotal history of the phrase and it's use.
+### Date Read
+2016/08/09
+
+### Date Added
+2016/10/11
+
+My Thoughts: Suppose someone told you that you are codependent. How would you respond? What does that even mean?<br/><br/>This book gives a good anecdotal history of the phrase and it's use.
 
 ---
 

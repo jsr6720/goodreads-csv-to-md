@@ -26,7 +26,13 @@ Binding/Format: Audio CD
 
 ## My Review 3/5
 
-After reading "48 Laws of Power" [a:Robert Greene|865|Robert Greene|https://images.gr-assets.com/authors/1298212921p2/865.jpg] I picked up this book. Follows the same format as the former, but I didn't find it as compelling. The psychology of humans being more interesting than the tactics of battle.
+### Date Read
+2020/01/16
+
+### Date Added
+2020/01/02
+
+My Thoughts: After reading "48 Laws of Power" [a:Robert Greene|865|Robert Greene|https://images.gr-assets.com/authors/1298212921p2/865.jpg] I picked up this book. Follows the same format as the former, but I didn't find it as compelling. The psychology of humans being more interesting than the tactics of battle.
 
 ---
 

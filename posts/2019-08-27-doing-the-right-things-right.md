@@ -26,7 +26,13 @@ Binding/Format: Paperback
 
 ## My Review 0/5
 
+### Date Read
 Empty
+
+### Date Added
+2019/08/27
+
+My Thoughts: Empty
 
 ---
 

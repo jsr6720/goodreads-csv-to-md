@@ -26,7 +26,13 @@ Binding/Format: Audiobook
 
 ## My Review 5/5
 
-Empty
+### Date Read
+2018/06/16
+
+### Date Added
+2018/06/04
+
+My Thoughts: Empty
 
 ---
 

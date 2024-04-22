@@ -26,7 +26,13 @@ Binding/Format: Paperback
 
 ## My Review 5/5
 
-Hard to believe this book was written in 1983! Everything is in here. Leading knowledge workers. Managing outside your domain of expertise. <br/><br/>Interviewing performance reviews and matrix organizational hierarchies. Great book. 
+### Date Read
+2020/12/31
+
+### Date Added
+2021/01/01
+
+My Thoughts: Hard to believe this book was written in 1983! Everything is in here. Leading knowledge workers. Managing outside your domain of expertise. <br/><br/>Interviewing performance reviews and matrix organizational hierarchies. Great book. 
 
 ---
 

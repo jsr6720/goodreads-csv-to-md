@@ -26,7 +26,13 @@ Binding/Format: Audio CD
 
 ## My Review 3/5
 
-Workshop series, poor format for audio book. Got some cool worksheets out of the deal.<br/>Focus on the Wildly Important Goals (WIGs) to successfully convert lofty goals into concrete actions.<br/><br/>Only the introduction is by Covey so that was a bit of a let down.
+### Date Read
+2015/10/09
+
+### Date Added
+2016/09/30
+
+My Thoughts: Workshop series, poor format for audio book. Got some cool worksheets out of the deal.<br/>Focus on the Wildly Important Goals (WIGs) to successfully convert lofty goals into concrete actions.<br/><br/>Only the introduction is by Covey so that was a bit of a let down.
 
 ---
 

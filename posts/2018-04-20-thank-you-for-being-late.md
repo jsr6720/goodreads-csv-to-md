@@ -26,7 +26,13 @@ Binding/Format: Audio CD
 
 ## My Review 4/5
 
-Empty
+### Date Read
+2018/04/20
+
+### Date Added
+2018/03/28
+
+My Thoughts: Empty
 
 ---
 

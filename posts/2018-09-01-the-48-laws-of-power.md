@@ -26,7 +26,13 @@ Binding/Format: Audio CD
 
 ## My Review 5/5
 
-This book contains the hard truths of the habits and mannerism of people who don't play nice. Full of excerpts from history, antiqued and modern, you'd be a fool to not know these tricks.<br/><br/>Great read.
+### Date Read
+2018/09/01
+
+### Date Added
+2018/08/22
+
+My Thoughts: This book contains the hard truths of the habits and mannerism of people who don't play nice. Full of excerpts from history, antiqued and modern, you'd be a fool to not know these tricks.<br/><br/>Great read.
 
 ---
 

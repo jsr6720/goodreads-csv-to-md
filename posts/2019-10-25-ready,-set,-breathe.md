@@ -26,7 +26,13 @@ Binding/Format: Paperback
 
 ## My Review 3/5
 
-Breath before acting. You're not always going to be a perfect parent
+### Date Read
+2019/10/25
+
+### Date Added
+2019/10/25
+
+My Thoughts: Breath before acting. You're not always going to be a perfect parent
 
 ---
 

@@ -26,7 +26,13 @@ Binding/Format: Kindle Edition
 
 ## My Review 5/5
 
-One of the best books on personal habit making I've ever read.<br/><br/>Start small, chain habits and always have a plan. Great read.
+### Date Read
+2020/12/15
+
+### Date Added
+2020/12/15
+
+My Thoughts: One of the best books on personal habit making I've ever read.<br/><br/>Start small, chain habits and always have a plan. Great read.
 
 ---
 

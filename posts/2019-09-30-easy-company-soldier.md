@@ -26,7 +26,13 @@ Binding/Format: Audio CD
 
 ## My Review 5/5
 
-Great companion to Conversations with Major Dick Winters. Covers some of the same era. If Dick Winters is the boy scout then Malarkey is the Shop Class Hero.
+### Date Read
+2019/09/30
+
+### Date Added
+2019/10/06
+
+My Thoughts: Great companion to Conversations with Major Dick Winters. Covers some of the same era. If Dick Winters is the boy scout then Malarkey is the Shop Class Hero.
 
 ---
 
