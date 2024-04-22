@@ -14,9 +14,27 @@ They [citation needed](https://xkcd.com/285/) say the brain can't tell the diffe
 
 Just realized that I combined a utility script with my own data. So probably fork and replace data.
 
-Also realized I don't check for unique file names. See *Art of War* example in this content.
+See [sample-output](/sample-output/) for a one off example showing links and special characters.
 
-## Very manual process
+## Limitations / Edge cases not worth programming in my dataset
+
+There is no check on unique tite's so I prepend book id on the simple tempalte. See *Art of War* example in this content. From my own data set I only had 3 conflicts which I'll fix manually on jekyll side
+
+```
+# two books that both start with "Influence: <subtitle>" I'll rename manually
+- /Users/jrowe/code/jsr6720/jsr6720.github.io/_posts/2017-02-08-influence.md
+- /Users/jrowe/code/jsr6720/jsr6720.github.io/_posts/2018-07-06-influence.md
+
+# should likely add 'translation' data or publication year(?) again one off will fix manually
+- /Users/jrowe/code/jsr6720/jsr6720.github.io/_posts/2018-02-05-the-art-of-war.md
+- /Users/jrowe/code/jsr6720/jsr6720.github.io/_posts/2018-02-08-the-art-of-war.md
+
+# looks like I accidnetly added the "Hardcover" and "Audio CD" to my bookshelf. Will combine reviews and delete one.
+- /Users/jrowe/code/jsr6720/jsr6720.github.io/_posts/2020-02-10-the-wright-brothers.md
+- /Users/jrowe/code/jsr6720/jsr6720.github.io/_posts/2020-02-20-the-wright-brothers.md
+```
+
+## Warning: very manual process
 
 https://www.goodreads.com/api as of 2024 states there is no longer active support for api keys and directs to https://help.goodreads.com/s/article/Does-Goodreads-support-the-use-of-APIs which directs users to use the [account data export feature](#export-of-goodreads-data).
 
@@ -48,8 +66,9 @@ FAVORITE GENRES: Biography, Business, Classics, History, Non-fiction, Philosophy
 
 To say that I wouldn't have completed this without ChatGPT is an understatement. I probably could've cobbled together a python csv parser that generated basic templates but it would've been brute force and required clean up to publish.
 
-ChatGPT especially shined in three areas
+ChatGPT especially shined in the following areas
 
+* `format(**bookDict)` I never would've guessed python dictionary could seed a template file :mind-blown:
 * regular expression to match book and author goodreads linkes to markdown links
 ** but it got stuck on the string replace, I was able to get it working as I wanted
 * merge conflicts with all the file renames I did in git and the build directories

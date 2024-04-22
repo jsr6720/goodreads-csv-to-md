@@ -1,7 +1,7 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on '{short-title}'"
+title:  "Detect Thoughts on \"{short-title}\""
 date:   {jekyll-date} -0400
 tags: book review {author-ln} {book-tags}
 uid: {guid}
@@ -24,7 +24,7 @@ uid: {guid}
 
 *{Title}* by {Author}
 
-https://www.goodreads.com/book/show/{Book Id}
+[https://www.goodreads.com/book/show/{Book Id}](https://www.goodreads.com/book/show/{Book Id})
 
 Bookshelves: {Bookshelves}
 
@@ -32,7 +32,7 @@ Bookshelves: {Bookshelves}
 
 ##### Author's Note
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
+Initial `md` Generated using [https://github.com/jsr6720/goodreads-csv-to-md](https://github.com/jsr6720/goodreads-csv-to-md)
 
 {Author}, *{Title}*, {Additional Authors} {Publisher} {Year Published} ({Binding})[^1]
 
@@ -40,7 +40,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 tags: {{{{ page.tags | join: ", " }}}} <!-- todo move this somewhere -->
 
-- {{{{ {now-timestamp} | date_to_string: "ordinal", "US" }}}} Converted to jekyll markdown format and copied to personal site
+- {{{{ "{now-timestamp}" | date_to_string: "ordinal", "US" }}}} Converted to jekyll markdown format and copied to personal site
 - {{{{ page.date | date_to_string: "ordinal", "US" }}}} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
