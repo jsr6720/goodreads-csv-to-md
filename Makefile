@@ -14,4 +14,8 @@ generate:
 	mkdir -p $(BOOKS_DIR) $(POSTS_DIR)
 	python3 ./goodreads-csv-to-markdown.py --csv $(CSV_FILE)
 
-.PHONY: clean generate
+validate:
+	python3 ./validate.py $(CSV_FILE) $(BOOKS_DIR)
+	python3 ./validate.py $(CSV_FILE) $(POSTS_DIR)
+
+.PHONY: clean generate validate
