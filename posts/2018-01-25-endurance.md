@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Endurance'"
 date:   2018-01-25 00:00:00 -0400
 tags: book review Lansing history
-uid: 460ad765-4114-4daf-90b8-8cc1df7335e0
+uid: 3aeba042-97b1-4b21-a626-6fab5c814681
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Alfred Lansing, *Endurance: Shackleton's Incredible Voyage*, Simon Prebble Black
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

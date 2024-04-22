@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Guns, Germs and Steel'"
 date:   2018-05-01 00:00:00 -0400
 tags: book review Diamond history
-uid: 50a3b84f-e7b6-4c87-ac79-efb994e530cc
+uid: 7d30a6cf-b91c-4718-8b12-18c8c7009c4c
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Jared Diamond, *Guns, Germs and Steel: The Fates of Human Societies*, Grover Gar
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

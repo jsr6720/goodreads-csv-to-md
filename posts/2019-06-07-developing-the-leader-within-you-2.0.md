@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Developing the Leader Within You 2.0'"
 date:   2019-06-07 00:00:00 -0400
 tags: book review Maxwell 
-uid: e5f4f5bc-9086-4c7b-ba9d-333a301a3f51
+uid: 0ffe27de-1310-4bfd-b0d3-cba99eb9c364
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ John C. Maxwell, *Developing the Leader Within You 2.0*,  Thomas Nelson on Brill
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

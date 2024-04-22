@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Learning from the Giants'"
 date:   2018-09-14 00:00:00 -0400
 tags: book review Maxwell did-not-finish
-uid: 5f11547d-2779-4220-9816-1c4f909f9ab3
+uid: 96a839ca-7ded-4354-acec-b08652b99214
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ John C. Maxwell, *Learning from the Giants: Life and Leadership Lessons from the
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

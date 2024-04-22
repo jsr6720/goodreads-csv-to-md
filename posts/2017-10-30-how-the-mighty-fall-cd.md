@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'How the Mighty Fall CD'"
 date:   2017-10-30 00:00:00 -0400
 tags: book review Collins business
-uid: 6b43670d-1a3b-424d-b840-cb14446653cd
+uid: 477f88bf-767c-45fe-a083-286b332f4f44
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ James C. Collins, *How the Mighty Fall CD: And Why Some Companies Never Give In*
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

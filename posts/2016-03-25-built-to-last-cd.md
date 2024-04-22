@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Built to Last CD'"
 date:   2016-03-25 00:00:00 -0400
 tags: book review Collins business
-uid: 6b27a2c5-bd0c-4e99-96a1-7fbbf05491b4
+uid: 75461088-54f5-4ce3-ad4e-032357e77eb3
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ James C. Collins, *Built to Last CD: Successful Habits of Visionary Companies*, 
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

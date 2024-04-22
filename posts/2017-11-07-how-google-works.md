@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'How Google Works'"
 date:   2017-11-07 00:00:00 -0400
 tags: book review Schmidt business
-uid: 49f1c7fb-16c3-4c8d-8259-317587cf6e51
+uid: 1929705c-35f8-49e2-acc6-ea531df94635
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Eric Schmidt, *How Google Works*, Jonathan Rosenberg, Alan Eagle, Holter Graham 
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

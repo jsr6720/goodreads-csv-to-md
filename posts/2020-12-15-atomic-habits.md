@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Atomic Habits'"
 date:   2020-12-15 00:00:00 -0400
 tags: book review Clear business leadership personal-development
-uid: 9766f2f5-6c30-4a90-bfb1-552e6937264e
+uid: 349c7c43-2778-4ea5-9f75-d09b6e50711c
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ James Clear, *Atomic Habits: An Easy & Proven Way to Build Good Habits & Break B
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:58:27 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

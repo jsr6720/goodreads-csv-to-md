@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Doing the Right Things Right'"
 date:   2019-08-27 00:00:00 -0400
 tags: book review Stack did-not-finish
-uid: e2e2d950-e21f-44ac-b96e-b8c4a174d4cb
+uid: 24b3019a-0110-4af4-86e5-8311d241c147
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Laura Stack, *Doing the Right Things Right: How the Effective Executive Spends T
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

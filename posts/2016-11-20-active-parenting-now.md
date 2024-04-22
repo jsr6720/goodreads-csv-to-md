@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Active Parenting Now'"
 date:   2016-11-20 00:00:00 -0400
 tags: book review Popkin read-again parenting
-uid: 578f3f7d-47a7-4ee1-b407-9c9f304f5972
+uid: 7968c470-cb0a-489e-8758-79a62eb6c78d
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Michael H. Popkin, *Active Parenting Now*,  Active Parenting Publishers 2003 (Au
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Freakonomics'"
 date:   2016-01-13 00:00:00 -0400
 tags: book review Levitt economics
-uid: 3d758c0f-7829-46f0-a642-ced3e85bc95c
+uid: b8238ba3-1a31-4efb-be2b-73fbc02a47e2
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Steven D. Levitt, *Freakonomics: A Rogue Economist Explores the Hidden Side of E
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

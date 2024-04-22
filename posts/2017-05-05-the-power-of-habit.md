@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'The Power of Habit'"
 date:   2017-05-05 00:00:00 -0400
 tags: book review Duhigg psychology
-uid: 7a9f7226-4d91-47ad-ac91-37c81f098f9a
+uid: 293c4c8b-9485-4b61-8896-70d18933e68b
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Charles Duhigg, *The Power of Habit: Why We Do What We Do in Life and Business*,
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

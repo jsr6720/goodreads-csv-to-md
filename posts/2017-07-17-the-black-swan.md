@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'The Black Swan'"
 date:   2017-07-17 00:00:00 -0400
 tags: book review Taleb did-not-finish
-uid: 8128b45c-8878-4dc3-8499-a81f9a3b6fb1
+uid: 486e22be-1e90-4396-8080-eb6103e3856b
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Nassim Nicholas Taleb, *The Black Swan: The Impact of the Highly Improbable*, Da
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

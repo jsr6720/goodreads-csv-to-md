@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Letter from Birmingham Jail'"
 date:   2018-09-06 00:00:00 -0400
 tags: book review Jr. 
-uid: c5d6c8fb-c32c-4d4f-8c3d-b6b595e74f4f
+uid: 6cd927f8-1d5d-49ee-b6ba-0ed7d7bce829
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Martin Luther King Jr., *Letter from Birmingham Jail*, Dion Graham Mission Audio
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

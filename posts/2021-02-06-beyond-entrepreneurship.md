@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Beyond Entrepreneurship'"
 date:   2021-02-06 00:00:00 -0400
 tags: book review Collins business management
-uid: d4c46817-d64a-4611-8dff-04b87ce6b0fe
+uid: 1a2f91fd-c309-43d0-b80d-158b18c4ad4d
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ James C. Collins, *Beyond Entrepreneurship: Turning Your Business into an Enduri
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:58:27 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

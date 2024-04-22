@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Ready, Set, Breathe'"
 date:   2019-10-25 00:00:00 -0400
 tags: book review Naumburg 
-uid: a27f358c-67b6-435d-9cac-b39027b7897d
+uid: 34ba5645-cc92-4402-a41d-b004cbfdff9f
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Carla Naumburg, *Ready, Set, Breathe: Practicing Mindfulness with Your Children 
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:58:27 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

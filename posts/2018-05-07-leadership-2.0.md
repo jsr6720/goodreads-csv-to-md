@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Leadership 2.0'"
 date:   2018-05-07 00:00:00 -0400
 tags: book review Bradberry management
-uid: 0d6e15b2-aabc-4c10-a96c-081132120108
+uid: 32b6417b-5fbf-4bf4-aba2-be00739ccca5
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Travis Bradberry, *Leadership 2.0*, Jean Greaves, Tom Parks Brilliance Audio 201
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

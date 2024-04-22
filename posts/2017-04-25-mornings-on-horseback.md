@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Mornings on Horseback'"
 date:   2017-04-25 00:00:00 -0400
 tags: book review McCullough biography history
-uid: d4f9dd32-1e62-4fc8-a45e-710852b38aa5
+uid: f76e32b1-6f5e-47d3-9ff9-3ac3c5419c83
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ David McCullough, *Mornings on Horseback*, Edward Herrmann Simon  Schuster Audio
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

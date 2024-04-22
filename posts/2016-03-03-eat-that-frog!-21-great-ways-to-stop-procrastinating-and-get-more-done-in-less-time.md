@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Eat That Frog! 21 Great Ways to Stop Procrastinating and Get More Done in Less Time'"
 date:   2016-03-03 00:00:00 -0400
 tags: book review Tracy personal-development read-again
-uid: 347fa9bd-e1fd-4652-987e-e826d6354f66
+uid: 724af433-c0c0-435b-b3bf-28d67502e281
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Brian Tracy, *Eat That Frog! 21 Great Ways to Stop Procrastinating and Get More 
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'The Perfect Horse'"
 date:   2018-02-22 00:00:00 -0400
 tags: book review Letts did-not-finish
-uid: 60533515-e0c4-4ca6-971a-e93ef933e8c5
+uid: fad1b6d8-ec19-4bfd-bc6f-3ec13e7dcb39
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Elizabeth Letts, *The Perfect Horse: the Daring U.S. Mission to Rescue the Price
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

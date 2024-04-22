@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Team of Rivals'"
 date:   2016-10-08 00:00:00 -0400
 tags: book review Goodwin biography history
-uid: 70c884c3-55db-4867-b203-11be9d960ca5
+uid: 3eece305-da13-48b7-885e-ccf816ff4e5f
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Doris Kearns Goodwin, *Team of Rivals: The Political Genius of Abraham Lincoln*,
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'The 33 Strategies of War'"
 date:   2020-01-16 00:00:00 -0400
 tags: book review Greene 
-uid: 8b81f875-42fe-46c1-897f-cd62c72a067d
+uid: 15a401a9-ee65-4d1c-a71e-3739f47c7eb0
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Robert Greene, *The 33 Strategies of War*, Don Leslie HighBridge Company 2007 (A
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:58:27 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

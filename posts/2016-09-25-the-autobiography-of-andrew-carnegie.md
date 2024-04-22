@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'The Autobiography of Andrew Carnegie'"
 date:   2016-09-25 00:00:00 -0400
 tags: book review Carnegie biography
-uid: 24fe67dd-a742-42da-ac29-0da209beb269
+uid: f73d4fe5-f3fb-4b50-8963-136f628fb5a9
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Andrew Carnegie, *The Autobiography of Andrew Carnegie*, Antony Ferguson Tantor 
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

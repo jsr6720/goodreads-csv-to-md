@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Magician's Gambit (The Belgariad #3)'"
 date:   2021-03-07 00:00:00 -0400
 tags: book review Eddings fantasy childhood-favorite
-uid: 0df355af-0849-409a-a4a6-2c2ad9bb0763
+uid: 0b3a144d-43f4-4e07-9682-49f923c99474
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ David Eddings, *Magician's Gambit (The Belgariad #3)*,  Del Rey 1983 (Mass Marke
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:58:27 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

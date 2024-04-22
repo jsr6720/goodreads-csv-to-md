@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'What to Eat'"
 date:   2021-05-31 00:00:00 -0400
 tags: book review Nestle food personal-development
-uid: 34dc3e14-dca9-466c-a755-b02042a0f9f7
+uid: b46931f6-bc59-4951-b68a-f6de4eff74ca
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Marion Nestle, *What to Eat*,  North Point Press 2006 (Hardcover)[^1]
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:58:27 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

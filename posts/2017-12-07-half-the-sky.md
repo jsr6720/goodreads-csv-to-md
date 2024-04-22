@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Half the Sky'"
 date:   2017-12-07 00:00:00 -0400
 tags: book review Kristof 
-uid: 26be864b-6dab-4620-8d4b-cd9cee752ac7
+uid: f438461e-76f0-4255-ab3f-d6c72b4ae296
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Nicholas D. Kristof, *Half the Sky: Turning Oppression into Opportunity for Wome
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

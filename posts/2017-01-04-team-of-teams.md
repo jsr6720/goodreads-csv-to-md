@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Team of Teams'"
 date:   2017-01-04 00:00:00 -0400
 tags: book review McChrystal business
-uid: aee3b1f6-e519-470e-a08c-36c74b345dc9
+uid: 9ded030d-99d7-42cf-b8fa-a90ef795bf43
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Stanley McChrystal, *Team of Teams: The Power of Small Groups in a Fragmented Wo
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

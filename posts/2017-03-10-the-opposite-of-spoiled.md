@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'The Opposite of Spoiled'"
 date:   2017-03-10 00:00:00 -0400
 tags: book review Lieber parenting
-uid: c5338f30-1b41-4ff1-b084-564093248dd4
+uid: 0b4d12cd-b83a-4176-9f89-c05190ba79e4
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Ron Lieber, *The Opposite of Spoiled: Raising Kids Who Are Grounded, Generous, a
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

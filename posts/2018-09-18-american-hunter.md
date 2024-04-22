@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'American Hunter'"
 date:   2018-09-18 00:00:00 -0400
 tags: book review Robertson did-not-finish
-uid: 675b7b85-c74f-4cf8-a242-f5fd24e96776
+uid: 1d864945-adc2-43d0-92b2-42b9e53a3db8
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Willie Robertson, *American Hunter*, William  Doyle Simon  Schuster Audio 2015 (
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

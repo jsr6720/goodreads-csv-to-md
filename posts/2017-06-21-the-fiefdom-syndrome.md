@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'The Fiefdom Syndrome'"
 date:   2017-06-21 00:00:00 -0400
 tags: book review Herbold business
-uid: 57c519f7-d79f-4d28-8c6a-4f9f5f419d9e
+uid: 585076f0-81d4-4c19-96f6-0d465562918f
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Robert J. Herbold, *The Fiefdom Syndrome*,  Broadway Business 2004 (Kindle Editi
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

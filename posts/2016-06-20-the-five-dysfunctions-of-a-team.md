@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'The Five Dysfunctions of a Team'"
 date:   2016-06-20 00:00:00 -0400
 tags: book review Lencioni business
-uid: 31bcf4e4-280c-42fa-a063-b689f16d0a3e
+uid: 1d4cfa8c-eb1b-45ee-a898-725d8d587f46
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Patrick Lencioni, *The Five Dysfunctions of a Team*,  Random House  (Audio CD)[^
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

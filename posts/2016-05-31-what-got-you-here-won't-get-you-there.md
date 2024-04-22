@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'What Got You Here Won't Get You There'"
 date:   2016-05-31 00:00:00 -0400
 tags: book review Goldsmith read-again business personal-development
-uid: fd348705-080a-4acb-aae0-166a01855aae
+uid: 5378d9cf-8011-4467-9aaf-1614e9a6a38e
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Marshall Goldsmith, *What Got You Here Won't Get You There*,  PROFILE BOOKS 2013
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

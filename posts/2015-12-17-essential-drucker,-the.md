@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Essential Drucker, The'"
 date:   2015-12-17 00:00:00 -0400
 tags: book review Drucker business read-again
-uid: 0697b1d4-4a8f-46c6-91c2-fa0e07381b21
+uid: caa0c1ae-4cba-4fbc-be39-055b811ca42e
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Peter F. Drucker, *Essential Drucker, The*,  HarperPB 2003 (Paperback)[^1]
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

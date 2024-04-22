@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'The On-Time, On-Target Manager'"
 date:   2017-09-18 00:00:00 -0400
 tags: book review Blanchard business
-uid: 3c40edae-04de-443b-be0b-3958bb95a813
+uid: 02458e6b-63db-4f50-b92d-5ebb0b6d431f
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Kenneth H. Blanchard, *The On-Time, On-Target Manager*, Steve Gottry, Brian Corr
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

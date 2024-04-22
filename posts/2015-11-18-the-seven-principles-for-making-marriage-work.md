@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'The Seven Principles for Making Marriage Work'"
 date:   2015-11-18 00:00:00 -0400
 tags: book review Gottman psychology read-again
-uid: cd2a7c02-6ee5-4739-8f40-58b03a23e779
+uid: 3414414b-def4-4093-92b1-ffa3aa3b774b
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ John M. Gottman, *The Seven Principles for Making Marriage Work: A Practical Gui
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

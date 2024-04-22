@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'American Icon'"
 date:   2017-10-04 00:00:00 -0400
 tags: book review Hoffman 
-uid: 4875b5c4-1413-4571-9cae-9c18426e0ee9
+uid: 12ec4003-641f-43ef-8176-27ea311b97ab
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Bryce G. Hoffman, *American Icon: Alan Mulally and the Fight to Save Ford Motor 
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'A Higher Loyalty'"
 date:   2018-06-16 00:00:00 -0400
 tags: book review Comey 
-uid: c821aaf5-4bac-420c-bc42-65967563c12e
+uid: f8bac84d-09cc-4b9b-94ac-a11c90675aec
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ James Comey, *A Higher Loyalty: Truth, Lies, and Leadership*,  Macmillan Audio 2
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

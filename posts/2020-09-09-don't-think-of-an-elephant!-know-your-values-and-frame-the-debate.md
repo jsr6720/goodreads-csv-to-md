@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Don't Think of an Elephant! Know Your Values and Frame the Debate'"
 date:   2020-09-09 00:00:00 -0400
 tags: book review Lakoff psychology
-uid: 5fe84f07-b888-4977-967f-66d78cada6e5
+uid: af21282d-4aeb-427f-86a7-b9f61a08f059
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ George Lakoff, *Don't Think of an Elephant! Know Your Values and Frame the Debat
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:58:27 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

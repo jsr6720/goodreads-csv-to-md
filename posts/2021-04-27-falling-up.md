@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Falling Up'"
 date:   2021-04-27 00:00:00 -0400
 tags: book review Silverstein poetry childhood-favorite
-uid: b3732068-c039-4325-a9ae-cc385752432c
+uid: 86641384-7373-449b-951e-266d815ce10c
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Shel Silverstein, *Falling Up*,  Harpercollins Childrens Books 2003 (Hardcover)[
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:58:27 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

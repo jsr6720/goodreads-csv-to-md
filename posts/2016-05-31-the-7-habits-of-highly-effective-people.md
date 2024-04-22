@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'The 7 Habits of Highly Effective People'"
 date:   2016-05-31 00:00:00 -0400
 tags: book review Covey classics read-again business
-uid: d56d42a8-f2e5-4153-afab-0ec4ccad33d7
+uid: 672a2b49-113b-41d3-be53-560f9701f264
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Stephen R. Covey, *The 7 Habits of Highly Effective People: Powerful Lessons in 
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

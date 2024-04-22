@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Death by Meeting'"
 date:   2015-12-22 00:00:00 -0400
 tags: book review Lencioni business
-uid: e71f1aca-cf59-4ca6-9acf-d7968e362017
+uid: 1c046117-5c89-42e6-8196-4b8b77dcb9c4
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Patrick Lencioni, *Death by Meeting: A Leadership Fable*, Jack Arthur Macmillan 
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

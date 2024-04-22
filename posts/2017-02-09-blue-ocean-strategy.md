@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Blue Ocean Strategy'"
 date:   2017-02-09 00:00:00 -0400
 tags: book review Kim business
-uid: 58f37b7c-6052-4e7b-8434-21fa6c15b844
+uid: 20aaeea7-f140-4036-a460-163f67e083ab
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ W. Chan Kim, *Blue Ocean Strategy: How to Create Uncontested Market Space and Ma
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

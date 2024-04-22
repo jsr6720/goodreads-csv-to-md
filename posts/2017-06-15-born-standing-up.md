@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Born Standing Up'"
 date:   2017-06-15 00:00:00 -0400
 tags: book review Martin biography
-uid: ca85560a-ed9e-44b9-afda-22946bafe9a5
+uid: d0c342e9-fe51-489e-9d9d-aa512350071a
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Steve Martin, *Born Standing Up: A Comic's Life*,  Simon  Schuster Audio 2007 (A
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

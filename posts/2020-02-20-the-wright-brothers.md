@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'The Wright Brothers'"
 date:   2020-02-20 00:00:00 -0400
 tags: book review McCullough biography history
-uid: dd9c785f-02f1-45a1-b16f-cf379254720d
+uid: d6e41910-effb-4714-94d3-a32fd28767e1
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ David McCullough, *The Wright Brothers*,  Simon  Schuster Audio 2015 (Audio CD)[
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:58:27 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

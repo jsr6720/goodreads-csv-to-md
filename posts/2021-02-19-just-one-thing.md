@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Just One Thing'"
 date:   2021-02-19 00:00:00 -0400
 tags: book review Hanson personal-development philosophy
-uid: 44cacdb3-2f97-42db-9936-296dea903656
+uid: a9e8c96d-f5e5-4618-bc47-5d3fe2c948cc
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Rick Hanson, *Just One Thing: Developing a Buddha Brain One Simple Practice at a
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:58:27 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

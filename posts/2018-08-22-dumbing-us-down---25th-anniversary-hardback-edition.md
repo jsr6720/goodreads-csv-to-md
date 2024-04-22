@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Dumbing Us Down - 25th Anniversary Hardback Edition'"
 date:   2018-08-22 00:00:00 -0400
 tags: book review Gatto parenting
-uid: 084fcef0-d508-4017-8e16-c41a14639ce8
+uid: 9063c069-c4f7-4948-b504-7a57f7b8590a
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ John Taylor Gatto, *Dumbing Us Down - 25th Anniversary Hardback Edition: The Hid
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

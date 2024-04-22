@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Bringing Up Boys'"
 date:   2017-02-20 00:00:00 -0400
 tags: book review Dobson did-not-finish
-uid: 816c73f4-9800-46b9-8382-3569358da852
+uid: 664208a9-3fe4-48b9-ac82-4ea73d2b487e
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ James C. Dobson, *Bringing Up Boys*,  Tyndale Momentum 2001 (Audiobook)[^1]
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

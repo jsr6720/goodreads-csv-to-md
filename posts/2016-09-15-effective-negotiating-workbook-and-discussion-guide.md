@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Effective Negotiating Workbook and Discussion Guide'"
 date:   2016-09-15 00:00:00 -0400
 tags: book review Karrass business
-uid: 7073b4c3-586d-47cc-a3b4-a9ddf7ef5ca9
+uid: 2a1a0eb1-c7a8-4ea8-84dc-666fbf20eb9c
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Chester L. Karrass, *Effective Negotiating Workbook and Discussion Guide*,    ()
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

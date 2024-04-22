@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Farsighted'"
 date:   2019-04-29 00:00:00 -0400
 tags: book review Johnson did-not-finish
-uid: 9ffa7471-32ad-4c36-a358-771be8a99c3a
+uid: e0ee88be-7d47-4217-8fd0-9b38868f294c
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Steven Johnson, *Farsighted: How We Make the Decisions That Matter the Most*,  R
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:58:27 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

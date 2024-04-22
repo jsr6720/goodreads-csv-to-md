@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'The Ideal Team Player'"
 date:   2018-04-30 00:00:00 -0400
 tags: book review Lencioni management business
-uid: dc3ac299-5031-4ea6-a46a-c8b2209bb364
+uid: a123e986-46c0-4e70-88b9-69422fd2838e
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Patrick Lencioni, *The Ideal Team Player: How to Recognize and Cultivate The Thr
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

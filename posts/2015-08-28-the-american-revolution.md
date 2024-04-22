@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'The American Revolution'"
 date:   2015-08-28 00:00:00 -0400
 tags: book review Guelzo history
-uid: 2045620f-e12f-42f3-aebf-15598f011396
+uid: 28efaf99-d167-4cf8-95a3-8598f2a81cee
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Allen C. Guelzo, *The American Revolution*,  The Great Courses  (Audio CD)[^1]
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

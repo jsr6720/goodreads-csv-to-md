@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'How Great Generals Win'"
 date:   2015-08-15 00:00:00 -0400
 tags: book review Alexander history
-uid: 020bf3bb-8806-4277-91bb-920e0612c100
+uid: 98a23338-c1b2-4404-8b5c-5cd63122bcad
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Bevin Alexander, *How Great Generals Win*, James Slattery Blackstone Pub 1995 (A
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

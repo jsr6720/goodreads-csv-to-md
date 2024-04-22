@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Enchanters' End Game (The Belgariad #5)'"
 date:   2021-03-16 00:00:00 -0400
 tags: book review Eddings fantasy childhood-favorite
-uid: 17055ed9-1130-4c23-bc23-ae74eafa4c7e
+uid: 6b4f228a-7a60-42d6-9da7-b525cab80567
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ David Eddings, *Enchanters' End Game (The Belgariad #5)*,  Del Rey 1984 (Mass Ma
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:58:27 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

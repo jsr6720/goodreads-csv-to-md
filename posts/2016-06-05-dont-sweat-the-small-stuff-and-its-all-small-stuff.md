@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Dont Sweat the Small Stuff and Its All Small Stuff'"
 date:   2016-06-05 00:00:00 -0400
 tags: book review Carlson personal-development
-uid: 6a754c56-46fd-4f5a-aff7-1110ea294f0d
+uid: 04291885-f977-4d7c-8ead-a11eb60cc084
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Richard Carlson, *Dont Sweat the Small Stuff and Its All Small Stuff*,  Simon & 
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

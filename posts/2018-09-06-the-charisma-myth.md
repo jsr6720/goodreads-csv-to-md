@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'The Charisma Myth'"
 date:   2018-09-06 00:00:00 -0400
 tags: book review Cabane did-not-finish
-uid: 3f7544bf-dcd8-4ac3-9a81-e678e6a7c97a
+uid: 46cb776d-f46a-45ee-bdef-b8f74393ed4e
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Olivia  Fox Cabane, *The Charisma Myth: How Anyone Can Master the Art and Scienc
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
