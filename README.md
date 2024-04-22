@@ -9,7 +9,7 @@ They[citation needed](https://xkcd.com/285/) say the brain can't tell the differ
 1. [Export your goodreads data](#export-of-goodreads-data) to csv and place in `goodreads-data` folder
 2. Modify [basic template](/md-template.md) and/or [jekyll template](/jekyll-template.md) to your hearts content
 3. run `make clean generate`
-    * If you're getting a `KeyError` it most likely means you have a misnamed `{header}` in your tempalte
+    * If you're getting a `KeyError` it most likely means you have a misnamed `{header}` in your template. It also dislikes whitespace `{ header } !== {header}` 
 4. Copy markdown output to new system of record
 
 Just realized that I combined a utility script with my own data. So probably fork and replace data.

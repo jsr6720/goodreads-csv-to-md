@@ -1,6 +1,7 @@
 import csv
 import os
 import argparse
+import uuid
 from datetime import datetime
 from sanitize_filename import sanitize # pip3 install sanitize_filename
 
@@ -14,7 +15,6 @@ from sanitize_filename import sanitize # pip3 install sanitize_filename
 
 # some flags for working with the script
 config = {
-    'map-empty-values-to-string-empty': True,
     'encoding': 'utf-8',
     'basic-output-dir': 'books',
     'jekyll-output-dir': 'posts'
@@ -66,6 +66,25 @@ def main():
         headings = next(goodreadsData)  # Extracting headings from the first row
         for aBook in goodreadsData:
 
+            # First convert row array to list of dictionaries with headings as keys
+            bookDict = ({headings[i]: value for i, value in enumerate(aBook)})
+
+            # some extra data
+            nowTimestamp = datetime.now()
+
+            # I know jekyll doens't need uids.. but even in a flat file the id brings me comfort
+            bookDict["guid"] = uuid.uuid4()
+
+            # tagging by author last name assumes all valid data
+            bookDict["author-ln"] = bookDict["Author"].split()[-1]
+
+            # book tags, no commas needed
+            bookDict["book-tags"] = bookDict["Bookshelves"].replace(',', '')
+
+            # set a post date using 'Date Read', 'Date Added', now() in that order
+            # assumes goodreads data export format YYYY/MM/DD :( and I hardeded EST -0400 in template https://xkcd.com/2867/
+            bookDict["jekyll-date"] = datetime.strptime(bookDict["Date Read"] or bookDict["Date Added"], "%Y/%m/%d")
+
             # Read the template file
             with open('./md-template.md', 'r') as template_file:
                 basic_template_content = template_file.read()
@@ -73,23 +92,19 @@ def main():
             # Read the template file
             with open('./jekyll-template.md', 'r') as template_file:
                 jekyll_template_content = template_file.read()
-
-            # Convert row array to list of dictionaries with headings as keys
-            bookDict = ({headings[i]: value for i, value in enumerate(aBook)})
-            
-            # Convert empty values to "Empty"
-            if config['map-empty-values-to-string-empty']:
+                # pretty print 'Empty' for basic template
                 for key, value in bookDict.items():
                     if not value:  # Check if value is empty
                         bookDict[key] = "Empty"
 
+            # simple markdown file that works anywhere
             basic_populated_content = basic_template_content.format(**bookDict)
             
             filename = os.path.join(config['basic-output-dir'], getFileNameByTitle(aBook[headings.index('Title')]) + ".md")
             with open(filename, 'w', encoding=config['encoding']) as md_file:
                 md_file.write(basic_populated_content)
 
-
+            # this is the personalized jekyll post template
             jekyll_populated_content = jekyll_template_content.format(**bookDict)
             
             filename = os.path.join(config['jekyll-output-dir'], getFileNameForJekyll(headings, aBook) + ".md")
