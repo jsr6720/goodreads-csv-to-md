@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on '15 Secrets Successful People Know About Time Management'"
 date:   2020-10-25 00:00:00 -0400
 tags: book review Kruse 
-uid: 295b708b-0e3c-48f7-9ec1-8b02bf403775
+uid: 86900580-c2aa-49da-abeb-8cef94ca374a
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Kevin E. Kruse, *15 Secrets Successful People Know About Time Management: The Pr
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 03:07:54 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

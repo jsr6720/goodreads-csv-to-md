@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'The One Thing'"
 date:   2021-02-05 00:00:00 -0400
 tags: book review Keller business personal-development
-uid: 9aa296b5-36c0-4498-a408-d087c233e9e1
+uid: aad9ef7f-65f5-4ecd-aee2-c57ef2f6beb0
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Gary Keller, *The One Thing: The Surprisingly Simple Truth Behind Extraordinary 
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 03:07:54 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Thinking, Fast and Slow'"
 date:   2015-11-06 00:00:00 -0400
 tags: book review Kahneman psychology read-again
-uid: cbea4ccd-15b0-449f-9fd3-31234514b05e
+uid: d9c041db-30ca-4bc5-b438-cfcf86b1bc55
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Daniel Kahneman, *Thinking, Fast and Slow*, Patrick Egan Random House Audio 2011
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 03:07:55 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

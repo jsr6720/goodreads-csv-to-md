@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'The Best Business Books Ever'"
 date:   2020-10-25 00:00:00 -0400
 tags: book review Books 
-uid: c967aac4-58f4-4375-8861-9215754c2cb3
+uid: 0e3b1672-50e1-423a-b2be-3ccbefb3f844
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Basic Books, *The Best Business Books Ever: The 100 Most Influential Management 
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 03:07:54 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

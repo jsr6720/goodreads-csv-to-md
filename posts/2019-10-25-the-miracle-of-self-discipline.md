@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'The Miracle of Self-Discipline'"
 date:   2019-10-25 00:00:00 -0400
 tags: book review Tracy 
-uid: 6ad61d63-a7e4-4594-b960-8626cdcba73b
+uid: ad99b0fc-6d23-488c-a97f-f98ca4e38a3b
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Brian Tracy, *The Miracle of Self-Discipline*, محمد اسکندری Nightinga
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 03:07:55 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

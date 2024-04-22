@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'The Age of Cryptocurrency'"
 date:   2016-08-24 00:00:00 -0400
 tags: book review Vigna business
-uid: 72e834f1-0168-45ee-b24d-fb91147d44ea
+uid: 0e9ad0f5-97a1-4938-9296-252cd98a4089
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Paul Vigna, *The Age of Cryptocurrency: How Bitcoin and Digital Money Are Challe
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 03:07:55 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'The New Articulate Executive'"
 date:   2018-10-12 00:00:00 -0400
 tags: book review Toogood business management
-uid: fc76a70e-d7c9-458b-a2e5-48fe6abe16cd
+uid: 26b8fbab-c3d1-4e06-8c73-0c99d96d883c
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Granville Toogood, *The New Articulate Executive: Look, Act and Sound Like a Lea
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 03:07:55 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

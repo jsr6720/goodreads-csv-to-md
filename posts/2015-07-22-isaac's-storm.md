@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Isaac's Storm'"
 date:   2015-07-22 00:00:00 -0400
 tags: book review Larson history
-uid: a4f399eb-5e28-4b73-b889-a10953766de7
+uid: 1f236c81-9895-4551-a57d-8a0b85650ea8
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Erik Larson, *Isaac's Storm: A Man, a Time, and the Deadliest Hurricane in Histo
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 03:07:55 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

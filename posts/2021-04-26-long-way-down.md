@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Long Way Down'"
 date:   2021-04-26 00:00:00 -0400
 tags: book review Reynolds poetry
-uid: 1491d879-cfd1-4fde-bb10-b154165d80da
+uid: 07e96feb-c6f6-45f4-b669-d919d4bf524c
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Jason Reynolds, *Long Way Down*,  Atheneum/Caitlyn Dlouhy Books 2017 (Hardcover)
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 03:07:54 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

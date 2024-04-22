@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'The Millionaire Next Door'"
 date:   2016-01-27 00:00:00 -0400
 tags: book review Stanley business
-uid: aff88367-3201-4fb0-af59-ac58b812ca77
+uid: 4d5789e8-5190-4b41-8df7-a9f41a52de41
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Thomas J. Stanley, *The Millionaire Next Door: The Surprising Secrets of America
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 03:07:55 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

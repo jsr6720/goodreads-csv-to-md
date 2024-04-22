@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Pawn of Prophecy (The Belgariad, #1)'"
 date:   2021-03-04 00:00:00 -0400
 tags: book review Eddings childhood-favorite fantasy
-uid: 321306a6-f083-4461-94e1-5500c2cf376f
+uid: fed80efd-4549-415b-8ce3-f06132e669f9
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ David Eddings, *Pawn of Prophecy (The Belgariad, #1)*,  Del Rey 2004 (Paperback)
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 03:07:54 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

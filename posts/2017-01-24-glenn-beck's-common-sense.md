@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Glenn Beck's Common Sense'"
 date:   2017-01-24 00:00:00 -0400
 tags: book review Beck 
-uid: 324e7e91-a473-4d56-bf4f-827c5faadef9
+uid: 841e9b35-1a4f-4f39-b777-b76640718e84
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Glenn Beck, *Glenn Beck's Common Sense: The Case Against an Out-of-Control Gover
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 03:07:55 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

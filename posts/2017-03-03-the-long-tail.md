@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'The Long Tail'"
 date:   2017-03-03 00:00:00 -0400
 tags: book review Anderson did-not-finish
-uid: a3ddc759-bc78-4749-895e-470189468555
+uid: f1361f87-1952-4bb0-9f9d-6ac2c96e3555
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Chris Anderson, *The Long Tail: Why the Future Is Selling Less of More*,  Hyperi
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 03:07:55 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

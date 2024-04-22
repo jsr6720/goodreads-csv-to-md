@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Stumbling on Happiness'"
 date:   2016-06-28 00:00:00 -0400
 tags: book review Gilbert psychology
-uid: c4e912b1-5302-4d7a-b299-a238cd683190
+uid: e15279ef-3c41-4b63-8dd6-8f907d9f9d84
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Daniel Todd Gilbert, *Stumbling on Happiness*,  Random House Audio 2006 (Audio C
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 03:07:55 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

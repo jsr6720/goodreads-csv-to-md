@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'The Dream Manager'"
 date:   2017-08-03 00:00:00 -0400
 tags: book review Kelly 
-uid: 82c82b78-253f-40bc-8908-bc69d43ebadc
+uid: 16d098e2-364e-41ce-99ec-25542a3fb40d
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Matthew Kelly, *The Dream Manager*, David Slavin Hyperion 2007 (Audio CD)[^1]
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 03:07:55 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

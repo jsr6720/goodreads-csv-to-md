@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'The Body Fat Solution'"
 date:   2016-07-13 00:00:00 -0400
 tags: book review Venuto personal-development read-again
-uid: db02ee16-b86c-4790-b306-c3d3a8a86162
+uid: 3ab31185-04c8-490c-bbc3-83b314d165b1
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Tom Venuto, *The Body Fat Solution: 5 Principles for Burning Fat, Building Lean 
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 03:07:55 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

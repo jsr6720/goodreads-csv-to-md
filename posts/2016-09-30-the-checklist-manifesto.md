@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'The Checklist Manifesto'"
 date:   2016-09-30 00:00:00 -0400
 tags: book review Gawande personal-development
-uid: 6bd1839a-717f-4f60-be86-ca06fab31cb1
+uid: 964058d1-a448-4d25-802d-5ccf619ecdb2
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Atul Gawande, *The Checklist Manifesto: How to Get Things Right*, John Bedford L
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 03:07:55 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

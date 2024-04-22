@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Practice Perfect'"
 date:   2019-03-14 00:00:00 -0400
 tags: book review Lemov did-not-finish
-uid: 21527d9c-6ce7-42e8-b76d-17a35cd04c6a
+uid: f1fe770f-ef27-4a28-b27e-187503ad4768
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Doug Lemov, *Practice Perfect: 42 Rules for Getting Better at Getting Better*, E
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 03:07:55 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

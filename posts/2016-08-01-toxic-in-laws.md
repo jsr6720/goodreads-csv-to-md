@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Toxic In-Laws'"
 date:   2016-08-01 00:00:00 -0400
 tags: book review Forward 
-uid: 361d9575-aa46-4d83-ae32-6c6b1b77ceb2
+uid: 35f06566-bcb4-4907-b845-5d1c7383d25f
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Susan Forward, *Toxic In-Laws: Loving Strategies for Protecting Your Marriage*, 
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 03:07:55 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

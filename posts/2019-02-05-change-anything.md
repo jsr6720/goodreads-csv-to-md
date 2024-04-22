@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Change Anything'"
 date:   2019-02-05 00:00:00 -0400
 tags: book review Patterson 
-uid: f7121d24-6f97-47a1-8368-8af50a714788
+uid: 617d53bb-7fcb-4bc0-9166-de9ac80457ff
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Kerry Patterson, *Change Anything: The New Science of Personal Success*, Joseph 
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 03:07:55 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

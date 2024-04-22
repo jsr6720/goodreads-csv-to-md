@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'High Output Management'"
 date:   2020-12-31 00:00:00 -0400
 tags: book review Grove 
-uid: a3dc6a9e-aae3-4857-ba92-874d6cacc1f2
+uid: 23c589e0-8bfa-4bae-be82-2d4cbc6bbe0d
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Andrew S. Grove, *High Output Management*,  Vintage 1995 (Paperback)[^1]
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 03:07:54 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

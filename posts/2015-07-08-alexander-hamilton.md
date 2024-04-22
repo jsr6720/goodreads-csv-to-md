@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Alexander Hamilton'"
 date:   2015-07-08 00:00:00 -0400
 tags: book review Chernow biography history
-uid: d985f37a-9b13-478b-b3f4-4cd92226b7af
+uid: b45afdb4-5165-44d2-ad80-73ef67d31ae6
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Ron Chernow, *Alexander Hamilton*,  Penguin Audio 2004 (Audio CD)[^1]
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 03:07:55 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

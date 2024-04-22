@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Business Adventures'"
 date:   2016-04-18 00:00:00 -0400
 tags: book review Brooks business
-uid: 2def2bc1-3df9-4dfc-9d7b-ee84a39285fa
+uid: 7d39002c-7130-493b-8845-e650971d92b9
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ John Brooks, *Business Adventures: Twelve Classic Tales from the World of Wall S
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 03:07:55 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

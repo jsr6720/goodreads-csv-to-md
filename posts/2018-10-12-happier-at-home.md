@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Happier at Home'"
 date:   2018-10-12 00:00:00 -0400
 tags: book review Rubin did-not-finish
-uid: b5314cea-7b84-4a8c-bd63-8018c1866b34
+uid: 48747697-bd59-46d4-b0bf-5be48b7e61c2
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Gretchen Rubin, *Happier at Home: Kiss More, Jump More, Abandon a Project, Read 
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 03:07:55 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

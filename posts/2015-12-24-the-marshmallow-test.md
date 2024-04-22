@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'The Marshmallow Test'"
 date:   2015-12-24 00:00:00 -0400
 tags: book review Mischel psychology
-uid: 4ae00943-c0d9-422d-ac6d-3c9c1dd3ba44
+uid: b09403ac-1549-4910-af0c-9b0d332c295a
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Walter Mischel, *The Marshmallow Test: Mastering Self-Control*,  Brilliance Audi
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 03:07:55 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

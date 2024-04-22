@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'The Danish Way of Parenting'"
 date:   2018-12-14 00:00:00 -0400
 tags: book review Alexander parenting
-uid: 5a78464c-24c0-4e98-a804-a18ff0df89ff
+uid: 9f419036-ad7d-4706-8856-b7fb4e7ef56c
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Jessica Joelle Alexander, *The Danish Way of Parenting: What the Happiest People
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 03:07:55 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'The Four Disciplines of Execution'"
 date:   2015-10-09 00:00:00 -0400
 tags: book review Covey 
-uid: 498ee509-9071-49b3-91b0-030ba5dabf4d
+uid: bb45d449-58b2-4fd9-9027-711a25062669
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Stephen R. Covey, *The Four Disciplines of Execution*, Jennifer Colosimo Covey 2
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 03:07:55 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

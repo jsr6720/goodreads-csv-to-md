@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Brand real how smart companies live their brand promise and inspire fierce customer loyalty'"
 date:   2019-03-05 00:00:00 -0400
 tags: book review Vincent 
-uid: 6094deea-2c9b-4efe-858b-50297fabd9a9
+uid: 7fe49d74-18a8-4ef6-8ad0-95b1f18123e2
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Laurence Vincent, *Brand real how smart companies live their brand promise and i
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 03:07:55 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

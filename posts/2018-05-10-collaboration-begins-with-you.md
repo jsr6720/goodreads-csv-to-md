@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Collaboration Begins With You'"
 date:   2018-05-10 00:00:00 -0400
 tags: book review Blanchard business management
-uid: 0ac8f01f-31fb-4831-b733-dba564b1af41
+uid: f05d5efe-39a5-4da1-89c9-2ac9cd652bdd
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Kenneth H. Blanchard, *Collaboration Begins With You: Be a Silo Buster*, Jane Ri
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 03:07:55 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

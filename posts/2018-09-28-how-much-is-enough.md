@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'How Much Is Enough?'"
 date:   2018-09-28 00:00:00 -0400
 tags: book review Clarke parenting
-uid: 19022f0b-bd28-4b11-b545-45b419bc7a19
+uid: 9ead76da-537e-461c-b61d-6fcd1d80e58f
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Jean Illsley Clarke, *How Much Is Enough?: Everything You Need to Know to Steer 
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 03:07:55 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Mistakes Were Made (But Not by Me)'"
 date:   2016-01-18 00:00:00 -0400
 tags: book review Tavris personal-development psychology
-uid: 0f75dd66-d693-45af-9e9b-b6d701a8c872
+uid: 3e57f155-dbdc-425a-adbf-fd61c5617d21
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Carol Tavris, *Mistakes Were Made (But Not by Me): Why We Justify Foolish Belief
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 03:07:55 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

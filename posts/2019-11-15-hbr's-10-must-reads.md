@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'HBR's 10 Must Reads'"
 date:   2019-11-15 00:00:00 -0400
 tags: book review Review business
-uid: 63af8d03-a030-483f-979e-88683a92cb82
+uid: c453ea5a-baf6-44c1-8c21-b8ed3ff80623
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Harvard Business Review, *HBR's 10 Must Reads: The Essentials*, Peter F. Drucker
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 03:07:55 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Crucial Conversations'"
 date:   2016-05-18 00:00:00 -0400
 tags: book review Patterson personal-development business
-uid: c80a1681-1a28-48ea-b07d-55a62da10516
+uid: 20b98443-bfb0-4a8e-a77c-fbccbaa55a86
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Kerry Patterson, *Crucial Conversations: Tools for Talking When Stakes Are High*
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 03:07:55 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

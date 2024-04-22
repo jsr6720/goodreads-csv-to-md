@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Crucial Confrontations'"
 date:   2016-10-25 00:00:00 -0400
 tags: book review Patterson business personal-development
-uid: c5dc1608-862a-4bdb-98b6-54a4e5d21320
+uid: e1394e96-dd33-415a-992f-9e87426cf356
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Kerry Patterson, *Crucial Confrontations: Tools for Resolving Broken Promises, V
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 03:07:55 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

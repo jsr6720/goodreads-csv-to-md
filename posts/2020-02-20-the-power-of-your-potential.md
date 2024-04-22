@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'The Power of Your Potential'"
 date:   2020-02-20 00:00:00 -0400
 tags: book review Maxwell did-not-finish
-uid: f7058677-6fb6-4353-b23a-fa45f4a16273
+uid: d8b237f4-b0f2-4747-b63e-0c29ad604584
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ John C. Maxwell, *The Power of Your Potential: How to Break Through Your Limits*
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 03:07:54 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

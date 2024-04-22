@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Influence'"
 date:   2018-07-06 00:00:00 -0400
 tags: book review Brown business psychology
-uid: b14f2d59-82ae-4a38-a872-5fceabf86b32
+uid: 4d332888-b4eb-40b5-826e-751d6856487f
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Kenneth G. Brown, *Influence: Mastering Life's Most Powerful Skill*,  Recorded B
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 03:07:55 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

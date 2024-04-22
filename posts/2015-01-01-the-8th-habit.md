@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'The 8th Habit'"
 date:   2015-01-01 00:00:00 -0400
 tags: book review Covey 
-uid: 4e1d865a-ed9e-4815-9b7b-78088e881b26
+uid: 9035ce4b-f48f-482d-95f1-649b570eb24b
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Stephen R. Covey, *The 8th Habit: From Effectiveness to Greatness*,  Franklin Co
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 03:07:55 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

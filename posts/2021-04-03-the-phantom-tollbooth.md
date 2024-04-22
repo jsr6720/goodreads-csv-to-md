@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'The Phantom Tollbooth'"
 date:   2021-04-03 00:00:00 -0400
 tags: book review Juster childhood-favorite fiction
-uid: 8b232927-76fe-4183-871d-d2c9c3ec3ce2
+uid: 47857ae3-7cdb-4fb2-b665-7215a167cdf5
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Norton Juster, *The Phantom Tollbooth*, Jules Feiffer, Maurice Sendak Random Hou
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 03:07:54 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

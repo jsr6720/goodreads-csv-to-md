@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Economics in One Lesson'"
 date:   2018-08-01 00:00:00 -0400
 tags: book review Hazlitt economics classics business
-uid: 577a3f4e-e959-474d-a1f4-e180c42062d1
+uid: 8e97ac35-5600-40b0-ac3c-e1a4dc5f4617
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Henry Hazlitt, *Economics in One Lesson: The Shortest and Surest Way to Understa
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 03:07:55 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

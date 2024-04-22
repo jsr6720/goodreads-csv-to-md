@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'The Happiness Advantage'"
 date:   2018-10-25 00:00:00 -0400
 tags: book review Achor 
-uid: a9474511-580c-41e8-af4d-b844a3cd17fa
+uid: ecc71f20-1f93-4713-b348-558c01db0f6a
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Shawn Achor, *The Happiness Advantage: The Seven Principles of Positive Psycholo
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 03:07:55 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

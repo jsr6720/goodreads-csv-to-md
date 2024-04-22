@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'The Book of Five Rings'"
 date:   2020-02-20 00:00:00 -0400
 tags: book review Musashi history
-uid: 1cbb54fb-5846-4ae4-916f-5542c7644805
+uid: e473e7dc-274f-4b62-8fb9-449952e3eccf
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Miyamoto Musashi, *The Book of Five Rings*, Shiro Tsujimura, William Scott Wilso
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 03:07:54 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Management'"
 date:   2019-06-07 00:00:00 -0400
 tags: book review Tracy 
-uid: 645a3f72-d277-443a-b113-9cc281da9415
+uid: 2a00d692-3d1d-4e7e-9575-e42067bcb3c3
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Brian Tracy, *Management: The Brian Tracy Success Library*,  Gildan Media 2015 (
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 03:07:55 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Silos, Politics & Turf Wars'"
 date:   2018-03-25 00:00:00 -0400
 tags: book review Lencioni management
-uid: 16080021-ad9e-45ca-ad99-71222d896083
+uid: 9382db13-55c9-4481-b56d-934e437c5cc0
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Patrick Lencioni, *Silos, Politics & Turf Wars: A Leadership Fable About Destroy
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 03:07:55 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

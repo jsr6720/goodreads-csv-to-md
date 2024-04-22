@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on '50 Prosperity Classics'"
 date:   2020-03-02 00:00:00 -0400
 tags: book review Butler-Bowdon 
-uid: c798133d-1d24-47c9-95da-e7e9a6ca326c
+uid: 1e3de8e3-a218-45f3-bca4-8d5dc00d067a
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Tom Butler-Bowdon, *50 Prosperity Classics: Attract It, Create It, Manage It, Sh
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 03:07:54 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

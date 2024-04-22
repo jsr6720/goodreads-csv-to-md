@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Leading Change'"
 date:   2020-10-12 00:00:00 -0400
 tags: book review Kotter business leadership management personal-development read-again
-uid: bbc49295-edab-4f27-a9d8-3da4d98949c7
+uid: cd0611e9-6b2d-4a84-adb8-86b92088ae13
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ John P. Kotter, *Leading Change*,  Harvard Business School Pr 1996 (Audiobook)[^
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 03:07:54 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

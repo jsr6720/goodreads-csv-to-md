@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'An Elegant Puzzle'"
 date:   2020-08-26 00:00:00 -0400
 tags: book review Larson management
-uid: 4bf67feb-e728-474d-a916-711fdf6c9d57
+uid: 9553e4f6-9185-4eee-b3a2-6269d0f56baf
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Will Larson, *An Elegant Puzzle: Systems of Engineering Management*,  Stripe Pre
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 03:07:54 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

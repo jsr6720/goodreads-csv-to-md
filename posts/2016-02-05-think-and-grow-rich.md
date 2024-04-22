@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Think and Grow Rich'"
 date:   2016-02-05 00:00:00 -0400
 tags: book review Hill read-again personal-development
-uid: 8631d8c1-ce25-4c38-9d66-4f58847edb66
+uid: 196a793c-a984-406e-a68c-60f83acb23cc
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Napoleon Hill, *Think and Grow Rich*, Erik Synnestvedt Your Coach In A Box 2008 
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 03:07:55 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Losing the Signal'"
 date:   2018-01-03 00:00:00 -0400
 tags: book review McNish business
-uid: e7a1f4f1-55eb-4403-9604-5b552805cf6d
+uid: 281fc7c9-46f1-4be6-a113-52646bfd0bd0
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Jacquie McNish, *Losing the Signal: The Untold Story Behind the Extraordinary Ri
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 03:07:55 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

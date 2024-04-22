@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Common Sense, The Rights of Man and Other Essential Writings'"
 date:   2017-01-29 00:00:00 -0400
 tags: book review Paine history classics
-uid: 1f8f3e09-03bd-4755-b5c5-f2f52a90ad4e
+uid: a6c1603c-54bf-4a63-b1ac-dbb8a7045fcd
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Thomas Paine, *Common Sense, The Rights of Man and Other Essential Writings*, Ja
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 03:07:55 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

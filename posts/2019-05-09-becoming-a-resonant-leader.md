@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Becoming a Resonant Leader'"
 date:   2019-05-09 00:00:00 -0400
 tags: book review McKee did-not-finish
-uid: ea39815c-178e-4b8b-8866-38309b944111
+uid: e0cae299-2975-4fe2-a6d3-86536e19e0d8
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Annie McKee, *Becoming a Resonant Leader: Develop Your Emotional Intelligence, R
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 03:07:55 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

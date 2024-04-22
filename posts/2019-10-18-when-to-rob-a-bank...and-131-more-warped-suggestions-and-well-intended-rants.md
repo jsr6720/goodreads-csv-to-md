@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'When to Rob a Bank...And 131 More Warped Suggestions and Well-Intended Rants'"
 date:   2019-10-18 00:00:00 -0400
 tags: book review Dubner economics
-uid: b22c1447-03da-4ab3-802a-70a83b7a813e
+uid: b1d0187b-69e7-4725-a89e-53f278853e5c
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Stephen J. Dubner, *When to Rob a Bank...And 131 More Warped Suggestions and Wel
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 03:07:55 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

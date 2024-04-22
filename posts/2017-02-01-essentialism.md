@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Essentialism'"
 date:   2017-02-01 00:00:00 -0400
 tags: book review McKeown personal-development did-not-finish
-uid: b8daba6d-8347-44e1-b85c-e31057009e48
+uid: d976e0d3-793a-4d3d-8ba7-d5aeeca13961
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Greg McKeown, *Essentialism: The Disciplined Pursuit of Less*,  Books on Tape 20
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 03:07:55 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

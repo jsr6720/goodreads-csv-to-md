@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'The Tycoons'"
 date:   2018-10-12 00:00:00 -0400
 tags: book review Morris business history
-uid: 9ba15665-1cf6-434e-82fb-af52f70b82dd
+uid: 8d5e95ed-452f-448d-a5a8-89f8c00ed7ae
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Charles R. Morris, *The Tycoons: How Andrew Carnegie, John D. Rockefeller, Jay G
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 03:07:55 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

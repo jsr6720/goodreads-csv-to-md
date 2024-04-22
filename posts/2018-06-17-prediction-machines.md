@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Prediction Machines'"
 date:   2018-06-17 00:00:00 -0400
 tags: book review Agrawal business
-uid: 17a9e251-8d23-4df1-aa7d-b29e26643c02
+uid: 48ce1a9a-96a0-49c6-9826-9f7c5d8b954a
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Ajay Agrawal, *Prediction Machines: The Simple Economics of Artificial Intellige
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 03:07:55 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

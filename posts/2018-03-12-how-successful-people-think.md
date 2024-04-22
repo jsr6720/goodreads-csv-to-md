@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'How Successful People Think'"
 date:   2018-03-12 00:00:00 -0400
 tags: book review Maxwell business
-uid: c39dbdd7-04c5-41af-81c7-11757cf8f06f
+uid: 472b4fed-36a7-4302-aaad-17a72650f0fb
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ John C. Maxwell, *How Successful People Think: Change Your Thinking, Change Your
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 03:07:55 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

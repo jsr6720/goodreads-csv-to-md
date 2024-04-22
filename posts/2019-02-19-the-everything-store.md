@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'The Everything Store'"
 date:   2019-02-19 00:00:00 -0400
 tags: book review Stone business biography
-uid: eae508ba-a6e5-4ae8-8f38-0fb4fbf00e77
+uid: c978137a-6225-4fec-9bf4-fbc34de8da28
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Brad Stone, *The Everything Store: Jeff Bezos and the Age of Amazon*,  Little, B
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 03:07:55 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

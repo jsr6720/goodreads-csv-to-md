@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Leaders eat last'"
 date:   2018-03-12 00:00:00 -0400
 tags: book review Sinek business psychology
-uid: d26366c2-5558-41c8-aec0-fdde85057ed8
+uid: 3a6bd11b-708f-47c0-8ae6-0ebd39d4082f
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Simon Sinek, *Leaders eat last : why some teams pull together and others don't*,
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 03:07:55 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

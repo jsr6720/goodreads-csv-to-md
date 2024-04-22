@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'The Startup Way'"
 date:   2020-12-15 00:00:00 -0400
 tags: book review Ries business management
-uid: 04ec34bf-30ef-4117-a8c4-4f4e058d1ec9
+uid: b97794c8-2006-43f0-ab03-313505b18aeb
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Eric Ries, *The Startup Way: How Modern Companies Use Entrepreneurial Management
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 03:07:54 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'The 25 Sales Skills'"
 date:   2018-10-29 00:00:00 -0400
 tags: book review Schiffman business
-uid: 39365849-ece2-414e-bc31-efe46e9010c4
+uid: 26f22cf8-dd68-46ab-9f3b-c254475b7e2c
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Stephan Schiffman, *The 25 Sales Skills: They Don't Teach at Business School*,  
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 03:07:55 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

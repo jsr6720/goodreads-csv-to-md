@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Raising Men'"
 date:   2019-11-05 00:00:00 -0400
 tags: book review Davis did-not-finish
-uid: 02e1751a-8f6c-42c2-b3f0-b4f37957a87e
+uid: af0fd984-4b34-4840-acee-65e2a2841833
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Eric  Davis, *Raising Men: Lessons Navy SEALs Learned from Their Training and Ta
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 03:07:55 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

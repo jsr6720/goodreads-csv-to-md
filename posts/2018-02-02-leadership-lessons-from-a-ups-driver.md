@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Leadership Lessons from a UPS Driver'"
 date:   2018-02-02 00:00:00 -0400
 tags: book review Wallace business
-uid: 312c2612-0eee-4a8b-90c3-cbc3733c0e36
+uid: 48db9aaf-0685-494f-aa24-9f8447eea701
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Ron Wallace, *Leadership Lessons from a UPS Driver: Delivering a Culture of We, 
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 03:07:55 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

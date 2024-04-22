@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Good Strategy/Bad Strategy'"
 date:   2019-12-23 00:00:00 -0400
 tags: book review Rumelt did-not-finish
-uid: 23f0972e-5036-42ed-a877-611ce3dd9a29
+uid: 88b34533-0b59-4fc2-9ebf-c6b995f8fcc5
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Richard P. Rumelt, *Good Strategy/Bad Strategy: The Difference and Why It Matter
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 03:07:55 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

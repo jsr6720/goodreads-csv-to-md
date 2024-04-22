@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'The Last Lecture'"
 date:   2016-05-31 00:00:00 -0400
 tags: book review Pausch 
-uid: 9501d5fe-fb38-4915-a075-ccd1646dcfc0
+uid: 546260b2-5e9f-4dc4-9d8e-beb0c01870e7
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Randy Pausch, *The Last Lecture*, Jeffrey Zaslow Hachette Books 2008 (Hardcover)
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 03:07:55 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'The Long-Distance Leader'"
 date:   2021-01-09 00:00:00 -0400
 tags: book review Eikenberry 
-uid: 3f595c1d-f887-4cc0-8ed8-dd5580b87058
+uid: 8c73103d-d70b-4b3d-99a0-3ea544dfb19c
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Kevin Eikenberry, *The Long-Distance Leader: Rules for Remarkable Remote Leaders
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 03:07:54 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

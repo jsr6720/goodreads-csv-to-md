@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Capital Gaines'"
 date:   2018-09-14 00:00:00 -0400
 tags: book review Gaines did-not-finish
-uid: 4b93cfef-f394-4564-9c3a-553b069ea5b1
+uid: 89b291c7-3021-4d3a-9238-7452d7bdcd38
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Chip Gaines, *Capital Gaines: Smart Things I Learned Doing Stupid Stuff*, Mark D
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 03:07:55 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'The Subtle Art of Not Giving a F*ck'"
 date:   2018-09-17 00:00:00 -0400
 tags: book review Manson personal-development
-uid: a139b886-ff8d-44fc-b92c-464206ecb5fc
+uid: fd7d9271-d7d7-4712-9a2a-4158aaddaed4
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Mark Manson, *The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach t
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 03:07:55 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

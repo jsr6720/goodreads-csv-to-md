@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Budoshoshinshu'"
 date:   2020-01-01 00:00:00 -0400
 tags: book review Yūzan 
-uid: 9d8cb39c-9c67-4095-bd3d-3a01ff17cccb
+uid: ed95a4de-58da-4211-b359-0c0c649e0e0b
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Daidōji Yūzan, *Budoshoshinshu: Essential Teachings on the Way of the Warrior*
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 03:07:54 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

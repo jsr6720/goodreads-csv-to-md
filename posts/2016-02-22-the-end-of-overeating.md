@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'The End of Overeating'"
 date:   2016-02-22 00:00:00 -0400
 tags: book review Kessler psychology food
-uid: 6c12ad12-1f4a-4362-a161-ef1194c9d5f9
+uid: cb5e75a2-02e1-457c-8ac1-2da773bf303f
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ David A. Kessler, *The End of Overeating: Taking Control of the Insatiable Ameri
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 02:27:02 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 03:07:54 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
