@@ -1,30 +1,17 @@
 ---
 layout: post
 author: James Rowe
-title:  "<<title-similiar-to-filename>>"
-date:   <<date-added>>
-tags: <<tags-csv>
-uid: <<uid>>
+title:  "Detect Thoughts on 'River of Doubt'"
+date:   2017-04-11 00:00:00 -0400
+tags: book review Millard history biography
+uid: 52004294-4fba-47ee-93f2-cafeaf91bc37
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
 
-## Title
-
-River of Doubt by Candice Millard
-Paul Michael 
-
-https://www.goodreads.com/book/show/2495901
-
-Bookshelves
-
-Exclusive: read
-
-Bookshelves: history, biography
-
-Binding/Format: Audio CD
-
 ## My Review 5/5
+
+Detect Thoughts: Fantastic book that follows Roosevelt down the river of doubt. And just like the many tributaries of the river the book is interwoven with great history lessons on the Amazonian jungle.
 
 ### Date Read
 2017/04/11
@@ -32,18 +19,30 @@ Binding/Format: Audio CD
 ### Date Added
 2017/04/04
 
-My Thoughts: Fantastic book that follows Roosevelt down the river of doubt. And just like the many tributaries of the river the book is interwoven with great history lessons on the Amazonian jungle.
+## Goodreads book information
+
+*River of Doubt* by Candice Millard
+Paul Michael
+
+https://www.goodreads.com/book/show/2495901
+
+Bookshelves: history, biography
 
 ---
 
 ##### Author's Note
 
-Generated using https://github.com/jsr6720/goodreads-csv-to-md script
+Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
+
+Candice Millard, *River of Doubt*, Paul Michael Books on Tape 2000 (Audio CD)[^1]
 
 ##### Significant revisions
 
 tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [{ site.url }]({ site.url }) with uid { page.uid }
+- { 2024-04-22 00:30:48 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
+- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
+
+[^1]: ISBN: ="1415924562"

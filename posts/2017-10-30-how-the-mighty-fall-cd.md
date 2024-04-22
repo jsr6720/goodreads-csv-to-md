@@ -1,30 +1,17 @@
 ---
 layout: post
 author: James Rowe
-title:  "<<title-similiar-to-filename>>"
-date:   <<date-added>>
-tags: <<tags-csv>
-uid: <<uid>>
+title:  "Detect Thoughts on 'How the Mighty Fall CD: And Why Some Companies Never Give In'"
+date:   2017-10-30 00:00:00 -0400
+tags: book review Collins business
+uid: 4cefb24d-cef9-457a-991d-5e0075d441d4
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
 
-## Title
-
-How the Mighty Fall CD: And Why Some Companies Never Give In by James C. Collins
-Empty 
-
-https://www.goodreads.com/book/show/6942991
-
-Bookshelves
-
-Exclusive: read
-
-Bookshelves: business
-
-Binding/Format: Audio CD
-
 ## My Review 3/5
+
+Detect Thoughts: Not as good as Collin's other work. This focuses on how companies fail<br/><br/>1. Hubris from success<br/>2. Pursuing too much opportunity at once<br/>3. Denial of reality<br/>4. Flailing for too much change<br/>5. Irrelevance, or death<br/><br/>Not really a focus on the innovators delima or stimulate the core as he describes in his other books.
 
 ### Date Read
 2017/10/30
@@ -32,18 +19,30 @@ Binding/Format: Audio CD
 ### Date Added
 2017/10/25
 
-My Thoughts: Not as good as Collin's other work. This focuses on how companies fail<br/><br/>1. Hubris from success<br/>2. Pursuing too much opportunity at once<br/>3. Denial of reality<br/>4. Flailing for too much change<br/>5. Irrelevance, or death<br/><br/>Not really a focus on the innovators delima or stimulate the core as he describes in his other books.
+## Goodreads book information
+
+*How the Mighty Fall CD: And Why Some Companies Never Give In* by James C. Collins
+Empty
+
+https://www.goodreads.com/book/show/6942991
+
+Bookshelves: business
 
 ---
 
 ##### Author's Note
 
-Generated using https://github.com/jsr6720/goodreads-csv-to-md script
+Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
+
+James C. Collins, *How the Mighty Fall CD: And Why Some Companies Never Give In*, Empty HarperAudio 2009 (Audio CD)[^1]
 
 ##### Significant revisions
 
 tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [{ site.url }]({ site.url }) with uid { page.uid }
+- { 2024-04-22 00:30:48 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
+- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
+
+[^1]: ISBN: ="0061939234"

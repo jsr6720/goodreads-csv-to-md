@@ -1,30 +1,17 @@
 ---
 layout: post
 author: James Rowe
-title:  "<<title-similiar-to-filename>>"
-date:   <<date-added>>
-tags: <<tags-csv>
-uid: <<uid>>
+title:  "Detect Thoughts on 'The Body Fat Solution: 5 Principles for Burning Fat, Building Lean Muscle, Ending Emotional Eating, and Maintaining Your Perfect Weight'"
+date:   2016-07-13 00:00:00 -0400
+tags: book review Venuto personal-development read-again
+uid: 22837ba4-a8c3-494b-8726-faef8adbc764
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
 
-## Title
-
-The Body Fat Solution: 5 Principles for Burning Fat, Building Lean Muscle, Ending Emotional Eating, and Maintaining Your Perfect Weight by Tom Venuto
-L.J. Ganser 
-
-https://www.goodreads.com/book/show/6153032
-
-Bookshelves
-
-Exclusive: read
-
-Bookshelves: personal-development, read-again
-
-Binding/Format: Audio CD
-
 ## My Review 5/5
+
+Detect Thoughts: This is a great a book that blends the life approach of "Think and Grow Rich" with the way the mind works with eating. Lots of good advice.<br/><br/>To say it only focuses on food, diet and exercise is selling the book short. Really dives deep on mindset needed for long term healthy living.
 
 ### Date Read
 2016/07/13
@@ -32,18 +19,30 @@ Binding/Format: Audio CD
 ### Date Added
 2016/10/11
 
-My Thoughts: This is a great a book that blends the life approach of "Think and Grow Rich" with the way the mind works with eating. Lots of good advice.<br/><br/>To say it only focuses on food, diet and exercise is selling the book short. Really dives deep on mindset needed for long term healthy living.
+## Goodreads book information
+
+*The Body Fat Solution: 5 Principles for Burning Fat, Building Lean Muscle, Ending Emotional Eating, and Maintaining Your Perfect Weight* by Tom Venuto
+L.J. Ganser
+
+https://www.goodreads.com/book/show/6153032
+
+Bookshelves: personal-development, read-again
 
 ---
 
 ##### Author's Note
 
-Generated using https://github.com/jsr6720/goodreads-csv-to-md script
+Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
+
+Tom Venuto, *The Body Fat Solution: 5 Principles for Burning Fat, Building Lean Muscle, Ending Emotional Eating, and Maintaining Your Perfect Weight*, L.J. Ganser BBC Audiobooks America 2009 (Audio CD)[^1]
 
 ##### Significant revisions
 
 tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [{ site.url }]({ site.url }) with uid { page.uid }
+- { 2024-04-22 00:30:48 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
+- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
+
+[^1]: ISBN: ="1602836248"

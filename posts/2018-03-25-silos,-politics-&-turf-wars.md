@@ -1,30 +1,17 @@
 ---
 layout: post
 author: James Rowe
-title:  "<<title-similiar-to-filename>>"
-date:   <<date-added>>
-tags: <<tags-csv>
-uid: <<uid>>
+title:  "Detect Thoughts on 'Silos, Politics & Turf Wars: A Leadership Fable About Destroying the Barriers that Turn Colleagues into Competitors'"
+date:   2018-03-25 00:00:00 -0400
+tags: book review Lencioni management
+uid: b9b05e4f-93f4-4b37-b318-e16728d94861
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
 
-## Title
-
-Silos, Politics & Turf Wars: A Leadership Fable About Destroying the Barriers that Turn Colleagues into Competitors by Patrick Lencioni
-Empty 
-
-https://www.goodreads.com/book/show/3420855
-
-Bookshelves
-
-Exclusive: read
-
-Bookshelves: management
-
-Binding/Format: Audio CD
-
 ## My Review 3/5
+
+Detect Thoughts: I don't like fables that are longer than Aesop. But I make an exception for Lencioni. Key takeaway: management needs to tackle projects as a team. And an organization of silos is a direct reflection of the leadership style of the executive team. If budgets and resources and allocations are all "us vs them" at the top. It reflects itself to the bottom
 
 ### Date Read
 2018/03/25
@@ -32,18 +19,30 @@ Binding/Format: Audio CD
 ### Date Added
 2018/03/28
 
-My Thoughts: I don't like fables that are longer than Aesop. But I make an exception for Lencioni. Key takeaway: management needs to tackle projects as a team. And an organization of silos is a direct reflection of the leadership style of the executive team. If budgets and resources and allocations are all "us vs them" at the top. It reflects itself to the bottom
+## Goodreads book information
+
+*Silos, Politics & Turf Wars: A Leadership Fable About Destroying the Barriers that Turn Colleagues into Competitors* by Patrick Lencioni
+Empty
+
+https://www.goodreads.com/book/show/3420855
+
+Bookshelves: management
 
 ---
 
 ##### Author's Note
 
-Generated using https://github.com/jsr6720/goodreads-csv-to-md script
+Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
+
+Patrick Lencioni, *Silos, Politics & Turf Wars: A Leadership Fable About Destroying the Barriers that Turn Colleagues into Competitors*, Empty Macmillan Audio 2006 (Audio CD)[^1]
 
 ##### Significant revisions
 
 tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [{ site.url }]({ site.url }) with uid { page.uid }
+- { 2024-04-22 00:30:48 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
+- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
+
+[^1]: ISBN: ="159397860X"

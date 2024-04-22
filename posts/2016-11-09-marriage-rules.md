@@ -1,30 +1,17 @@
 ---
 layout: post
 author: James Rowe
-title:  "<<title-similiar-to-filename>>"
-date:   <<date-added>>
-tags: <<tags-csv>
-uid: <<uid>>
+title:  "Detect Thoughts on 'Marriage Rules: A Manual for the Married and the Coupled Up'"
+date:   2016-11-09 00:00:00 -0400
+tags: book review Lerner personal-development read-again
+uid: 807a4877-e220-488b-98fa-aecc9ffea3ca
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
 
-## Title
-
-Marriage Rules: A Manual for the Married and the Coupled Up by Harriet Lerner
-Empty 
-
-https://www.goodreads.com/book/show/12144326
-
-Bookshelves
-
-Exclusive: read
-
-Bookshelves: personal-development, read-again
-
-Binding/Format: Hardcover
-
 ## My Review 5/5
+
+Detect Thoughts: I really enjoyed this books content and format. More so than any other book you can find 5 or 10 rules that really speak to you and work them with your partner. <br/><br/>This book ha a heavy emphasis on family of origin relationships and many other common pirfalls. <br/><br/>
 
 ### Date Read
 2016/11/09
@@ -32,18 +19,30 @@ Binding/Format: Hardcover
 ### Date Added
 2016/10/11
 
-My Thoughts: I really enjoyed this books content and format. More so than any other book you can find 5 or 10 rules that really speak to you and work them with your partner. <br/><br/>This book ha a heavy emphasis on family of origin relationships and many other common pirfalls. <br/><br/>
+## Goodreads book information
+
+*Marriage Rules: A Manual for the Married and the Coupled Up* by Harriet Lerner
+Empty
+
+https://www.goodreads.com/book/show/12144326
+
+Bookshelves: personal-development, read-again
 
 ---
 
 ##### Author's Note
 
-Generated using https://github.com/jsr6720/goodreads-csv-to-md script
+Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
+
+Harriet Lerner, *Marriage Rules: A Manual for the Married and the Coupled Up*, Empty Gotham 2012 (Hardcover)[^1]
 
 ##### Significant revisions
 
 tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [{ site.url }]({ site.url }) with uid { page.uid }
+- { 2024-04-22 00:30:48 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
+- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
+
+[^1]: ISBN: ="1592406912"

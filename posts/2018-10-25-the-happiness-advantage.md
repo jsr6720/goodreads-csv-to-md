@@ -1,30 +1,17 @@
 ---
 layout: post
 author: James Rowe
-title:  "<<title-similiar-to-filename>>"
-date:   <<date-added>>
-tags: <<tags-csv>
-uid: <<uid>>
+title:  "Detect Thoughts on 'The Happiness Advantage: The Seven Principles of Positive Psychology That Fuel Success and Performance at Work'"
+date:   2018-10-25 00:00:00 -0400
+tags: book review Achor Empty
+uid: 964606a6-c65f-4d7b-b42a-44d350026979
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
 
-## Title
-
-The Happiness Advantage: The Seven Principles of Positive Psychology That Fuel Success and Performance at Work by Shawn Achor
-Empty 
-
-https://www.goodreads.com/book/show/8564504
-
-Bookshelves
-
-Exclusive: read
-
-Bookshelves: Empty
-
-Binding/Format: Audio CD
-
 ## My Review 3/5
+
+Detect Thoughts: Great summary here<br/>https://www.samuelthomasdavies.com/book-summaries/psychology/the-happiness-advantage/<br/><br/>Basically be positive, don't let life get you down and be happy.
 
 ### Date Read
 2018/10/25
@@ -32,18 +19,30 @@ Binding/Format: Audio CD
 ### Date Added
 2018/10/12
 
-My Thoughts: Great summary here<br/>https://www.samuelthomasdavies.com/book-summaries/psychology/the-happiness-advantage/<br/><br/>Basically be positive, don't let life get you down and be happy.
+## Goodreads book information
+
+*The Happiness Advantage: The Seven Principles of Positive Psychology That Fuel Success and Performance at Work* by Shawn Achor
+Empty
+
+https://www.goodreads.com/book/show/8564504
+
+Bookshelves: Empty
 
 ---
 
 ##### Author's Note
 
-Generated using https://github.com/jsr6720/goodreads-csv-to-md script
+Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
+
+Shawn Achor, *The Happiness Advantage: The Seven Principles of Positive Psychology That Fuel Success and Performance at Work*, Empty Random House Audio 2010 (Audio CD)[^1]
 
 ##### Significant revisions
 
 tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [{ site.url }]({ site.url }) with uid { page.uid }
+- { 2024-04-22 00:30:47 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
+- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
+
+[^1]: ISBN: ="0307749347"

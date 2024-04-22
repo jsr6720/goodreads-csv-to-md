@@ -1,30 +1,17 @@
 ---
 layout: post
 author: James Rowe
-title:  "<<title-similiar-to-filename>>"
-date:   <<date-added>>
-tags: <<tags-csv>
-uid: <<uid>>
+title:  "Detect Thoughts on 'Rough Riders: Theordore Roosevelt, His Cowboy Regiment, and the Immortal Charge Up San Juan Hill'"
+date:   2019-06-21 00:00:00 -0400
+tags: book review Gardner biography history leadership
+uid: 652c5e86-ec57-47ec-b50d-ebf1edec765a
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
 
-## Title
-
-Rough Riders: Theordore Roosevelt, His Cowboy Regiment, and the Immortal Charge Up San Juan Hill by Mark Lee Gardner
-Danny Campbell 
-
-https://www.goodreads.com/book/show/29445916
-
-Bookshelves
-
-Exclusive: read
-
-Bookshelves: biography, history, leadership
-
-Binding/Format: Audio CD
-
 ## My Review 5/5
+
+Detect Thoughts: While it must be tough to separate the story of the Rough Riders from such a large figure in american history (Roosevelt). This book does a good job staying in the narrative of the Rough Riders formation, voyage and fighting spirit.
 
 ### Date Read
 2019/06/21
@@ -32,18 +19,30 @@ Binding/Format: Audio CD
 ### Date Added
 2019/06/11
 
-My Thoughts: While it must be tough to separate the story of the Rough Riders from such a large figure in american history (Roosevelt). This book does a good job staying in the narrative of the Rough Riders formation, voyage and fighting spirit.
+## Goodreads book information
+
+*Rough Riders: Theordore Roosevelt, His Cowboy Regiment, and the Immortal Charge Up San Juan Hill* by Mark Lee Gardner
+Danny Campbell
+
+https://www.goodreads.com/book/show/29445916
+
+Bookshelves: biography, history, leadership
 
 ---
 
 ##### Author's Note
 
-Generated using https://github.com/jsr6720/goodreads-csv-to-md script
+Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
+
+Mark Lee Gardner, *Rough Riders: Theordore Roosevelt, His Cowboy Regiment, and the Immortal Charge Up San Juan Hill*, Danny Campbell HarperCollins 2016 (Audio CD)[^1]
 
 ##### Significant revisions
 
 tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [{ site.url }]({ site.url }) with uid { page.uid }
+- { 2024-04-22 00:30:47 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
+- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
+
+[^1]: ISBN: ="1504732669"

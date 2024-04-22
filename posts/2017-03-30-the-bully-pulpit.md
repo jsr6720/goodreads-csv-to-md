@@ -1,30 +1,17 @@
 ---
 layout: post
 author: James Rowe
-title:  "<<title-similiar-to-filename>>"
-date:   <<date-added>>
-tags: <<tags-csv>
-uid: <<uid>>
+title:  "Detect Thoughts on 'The Bully Pulpit: Theodore Roosevelt, William Howard Taft, and the Golden Age of Journalism'"
+date:   2017-03-30 00:00:00 -0400
+tags: book review Goodwin history biography
+uid: a5762654-499e-43f8-a6cc-eee37c52ae42
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
 
-## Title
-
-The Bully Pulpit: Theodore Roosevelt, William Howard Taft, and the Golden Age of Journalism by Doris Kearns Goodwin
-Edward Herrmann 
-
-https://www.goodreads.com/book/show/17571486
-
-Bookshelves
-
-Exclusive: read
-
-Bookshelves: history, biography
-
-Binding/Format: Audio CD
-
 ## My Review 4/5
+
+Detect Thoughts: **Abridged version of the book**<br/><br/>So picking this book up I hoped to learn a lot more about muckrakers and Roosevelt. Honestly though I felt the narrative focused too much on Roosevelt's accomplishments and life at the expense of a full history of investigative journalism.<br/><br/>Granted the one chapter about McClure's magazine was insightful but much of the book focused on the larger than life personality of Roosevelt. I did learn about Taft as well, but again while [b:Team of Rivals|2199|Team of Rivals  The Political Genius of Abraham Lincoln|Doris Kearns Goodwin|https://images.gr-assets.com/books/1347278868s/2199.jpg|2861004] had a much better narrative around Lincoln and Seward this book failed to convince me of Taft's and Roosevelt's friendship until the epilogue.<br/><br/>Still a good book, but reads more as a historical coverage not focused on journalism.
 
 ### Date Read
 2017/03/30
@@ -32,18 +19,30 @@ Binding/Format: Audio CD
 ### Date Added
 2017/03/13
 
-My Thoughts: **Abridged version of the book**<br/><br/>So picking this book up I hoped to learn a lot more about muckrakers and Roosevelt. Honestly though I felt the narrative focused too much on Roosevelt's accomplishments and life at the expense of a full history of investigative journalism.<br/><br/>Granted the one chapter about McClure's magazine was insightful but much of the book focused on the larger than life personality of Roosevelt. I did learn about Taft as well, but again while [b:Team of Rivals|2199|Team of Rivals  The Political Genius of Abraham Lincoln|Doris Kearns Goodwin|https://images.gr-assets.com/books/1347278868s/2199.jpg|2861004] had a much better narrative around Lincoln and Seward this book failed to convince me of Taft's and Roosevelt's friendship until the epilogue.<br/><br/>Still a good book, but reads more as a historical coverage not focused on journalism.
+## Goodreads book information
+
+*The Bully Pulpit: Theodore Roosevelt, William Howard Taft, and the Golden Age of Journalism* by Doris Kearns Goodwin
+Edward Herrmann
+
+https://www.goodreads.com/book/show/17571486
+
+Bookshelves: history, biography
 
 ---
 
 ##### Author's Note
 
-Generated using https://github.com/jsr6720/goodreads-csv-to-md script
+Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
+
+Doris Kearns Goodwin, *The Bully Pulpit: Theodore Roosevelt, William Howard Taft, and the Golden Age of Journalism*, Edward Herrmann Simon  Schuster Audio 2013 (Audio CD)[^1]
 
 ##### Significant revisions
 
 tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [{ site.url }]({ site.url }) with uid { page.uid }
+- { 2024-04-22 00:30:48 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
+- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
+
+[^1]: ISBN: ="1442362626"

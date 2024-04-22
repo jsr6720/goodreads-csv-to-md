@@ -1,30 +1,17 @@
 ---
 layout: post
 author: James Rowe
-title:  "<<title-similiar-to-filename>>"
-date:   <<date-added>>
-tags: <<tags-csv>
-uid: <<uid>>
+title:  "Detect Thoughts on 'Willpower: Rediscovering the Greatest Human Strength'"
+date:   2021-04-11 00:00:00 -0400
+tags: book review Baumeister psychology personal-development
+uid: cd44134c-32e3-4b59-87b1-3fadda8d63a7
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
 
-## Title
-
-Willpower: Rediscovering the Greatest Human Strength by Roy F. Baumeister
-John Tierney 
-
-https://www.goodreads.com/book/show/11104933
-
-Bookshelves
-
-Exclusive: read
-
-Bookshelves: psychology, personal-development
-
-Binding/Format: Hardcover
-
 ## My Review 3/5
+
+Detect Thoughts: Book is a little over the top with self-references. Middle of the book is a little slow but first few chapters and last few chapters definitely a good read.<br/><br/>Key concepts: eliminate temptation and frame the decision on future self vs past self.
 
 ### Date Read
 2021/04/11
@@ -32,18 +19,30 @@ Binding/Format: Hardcover
 ### Date Added
 2021/04/07
 
-My Thoughts: Book is a little over the top with self-references. Middle of the book is a little slow but first few chapters and last few chapters definitely a good read.<br/><br/>Key concepts: eliminate temptation and frame the decision on future self vs past self.
+## Goodreads book information
+
+*Willpower: Rediscovering the Greatest Human Strength* by Roy F. Baumeister
+John Tierney
+
+https://www.goodreads.com/book/show/11104933
+
+Bookshelves: psychology, personal-development
 
 ---
 
 ##### Author's Note
 
-Generated using https://github.com/jsr6720/goodreads-csv-to-md script
+Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
+
+Roy F. Baumeister, *Willpower: Rediscovering the Greatest Human Strength*, John Tierney Penguin Press 2011 (Hardcover)[^1]
 
 ##### Significant revisions
 
 tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [{ site.url }]({ site.url }) with uid { page.uid }
+- { 2024-04-22 00:30:47 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
+- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
+
+[^1]: ISBN: ="1594203075"

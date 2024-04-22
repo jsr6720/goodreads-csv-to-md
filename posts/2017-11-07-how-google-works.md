@@ -1,30 +1,17 @@
 ---
 layout: post
 author: James Rowe
-title:  "<<title-similiar-to-filename>>"
-date:   <<date-added>>
-tags: <<tags-csv>
-uid: <<uid>>
+title:  "Detect Thoughts on 'How Google Works'"
+date:   2017-11-07 00:00:00 -0400
+tags: book review Schmidt business
+uid: e254d4eb-174a-43bf-bd44-2d686c662adc
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
 
-## Title
-
-How Google Works by Eric Schmidt
-Jonathan Rosenberg, Alan Eagle, Holter Graham 
-
-https://www.goodreads.com/book/show/20549465
-
-Bookshelves
-
-Exclusive: read
-
-Bookshelves: business
-
-Binding/Format: Audio CD
-
 ## My Review 4/5
+
+Detect Thoughts: A collection of short anecdotes about Google and its management practices.<br/><br/>Coined the phrase "smart-creative" which is the evolution of Drucker's "knowledge worker". These smart creatives drive company growth by turning technical insights into marketable products.<br/>
 
 ### Date Read
 2017/11/07
@@ -32,18 +19,30 @@ Binding/Format: Audio CD
 ### Date Added
 2017/11/08
 
-My Thoughts: A collection of short anecdotes about Google and its management practices.<br/><br/>Coined the phrase "smart-creative" which is the evolution of Drucker's "knowledge worker". These smart creatives drive company growth by turning technical insights into marketable products.<br/>
+## Goodreads book information
+
+*How Google Works* by Eric Schmidt
+Jonathan Rosenberg, Alan Eagle, Holter Graham
+
+https://www.goodreads.com/book/show/20549465
+
+Bookshelves: business
 
 ---
 
 ##### Author's Note
 
-Generated using https://github.com/jsr6720/goodreads-csv-to-md script
+Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
+
+Eric Schmidt, *How Google Works*, Jonathan Rosenberg, Alan Eagle, Holter Graham Grand Central Publishing 2014 (Audio CD)[^1]
 
 ##### Significant revisions
 
 tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [{ site.url }]({ site.url }) with uid { page.uid }
+- { 2024-04-22 00:30:48 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
+- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
+
+[^1]: ISBN: ="1478983523"

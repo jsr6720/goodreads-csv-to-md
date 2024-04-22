@@ -1,30 +1,17 @@
 ---
 layout: post
 author: James Rowe
-title:  "<<title-similiar-to-filename>>"
-date:   <<date-added>>
-tags: <<tags-csv>
-uid: <<uid>>
+title:  "Detect Thoughts on 'Letter from Birmingham Jail'"
+date:   2018-09-06 00:00:00 -0400
+tags: book review Jr. Empty
+uid: 5e3e8f70-b77d-401d-80eb-fbd67a88c3bf
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
 
-## Title
-
-Letter from Birmingham Jail by Martin Luther King Jr.
-Dion Graham 
-
-https://www.goodreads.com/book/show/17623918
-
-Bookshelves
-
-Exclusive: read
-
-Bookshelves: Empty
-
-Binding/Format: Audio CD
-
 ## My Review 5/5
+
+Detect Thoughts: Nice to listen to the source material.
 
 ### Date Read
 2018/09/06
@@ -32,18 +19,30 @@ Binding/Format: Audio CD
 ### Date Added
 2018/09/06
 
-My Thoughts: Nice to listen to the source material.
+## Goodreads book information
+
+*Letter from Birmingham Jail* by Martin Luther King Jr.
+Dion Graham
+
+https://www.goodreads.com/book/show/17623918
+
+Bookshelves: Empty
 
 ---
 
 ##### Author's Note
 
-Generated using https://github.com/jsr6720/goodreads-csv-to-md script
+Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
+
+Martin Luther King Jr., *Letter from Birmingham Jail*, Dion Graham Mission Audio 2013 (Audio CD)[^1]
 
 ##### Significant revisions
 
 tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [{ site.url }]({ site.url }) with uid { page.uid }
+- { 2024-04-22 00:30:47 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
+- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
+
+[^1]: ISBN: ="161045748X"

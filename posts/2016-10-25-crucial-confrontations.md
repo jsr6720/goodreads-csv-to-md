@@ -1,30 +1,17 @@
 ---
 layout: post
 author: James Rowe
-title:  "<<title-similiar-to-filename>>"
-date:   <<date-added>>
-tags: <<tags-csv>
-uid: <<uid>>
+title:  "Detect Thoughts on 'Crucial Confrontations: Tools for Resolving Broken Promises, Violated Expectations, and Bad Behavior'"
+date:   2016-10-25 00:00:00 -0400
+tags: book review Patterson business personal-development
+uid: d3055917-d0aa-4f9e-bdc4-a231dba046dd
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
 
-## Title
-
-Crucial Confrontations: Tools for Resolving Broken Promises, Violated Expectations, and Bad Behavior by Kerry Patterson
-Empty 
-
-https://www.goodreads.com/book/show/822267
-
-Bookshelves
-
-Exclusive: read
-
-Bookshelves: business, personal-development
-
-Binding/Format: Audio CD
-
 ## My Review 4/5
+
+Detect Thoughts: Picks up on the concepts of [b:Crucial Conversations|15014|Crucial Conversations  Tools for Talking When Stakes Are High|Kerry Patterson|https://images.gr-assets.com/books/1290394180s/15014.jpg|2051713] and expands on how to start a difficult conversation. First two steps do not require any risk. Identify the true problem, and IF the conversation is worth happening.<br/><br/>I also liked the Content, Pattern, Relationship (CPR) approach to having conversations. One time infractions are content based, multiple pattern based and ultimately factor into whether or not to continue the relationship.<br/><br/>Breaking the pattern of silence or violence is going to require the use of empathy building. "Why would a rational reliable person choose to act this way?".  Also target change with the "Who will do What by When, follow up". The best thought leaders build rapport and positive interactions daily, so crucial confrontations are met with shared pool of meaning.
 
 ### Date Read
 2016/10/25
@@ -32,18 +19,30 @@ Binding/Format: Audio CD
 ### Date Added
 2016/10/18
 
-My Thoughts: Picks up on the concepts of [b:Crucial Conversations|15014|Crucial Conversations  Tools for Talking When Stakes Are High|Kerry Patterson|https://images.gr-assets.com/books/1290394180s/15014.jpg|2051713] and expands on how to start a difficult conversation. First two steps do not require any risk. Identify the true problem, and IF the conversation is worth happening.<br/><br/>I also liked the Content, Pattern, Relationship (CPR) approach to having conversations. One time infractions are content based, multiple pattern based and ultimately factor into whether or not to continue the relationship.<br/><br/>Breaking the pattern of silence or violence is going to require the use of empathy building. "Why would a rational reliable person choose to act this way?".  Also target change with the "Who will do What by When, follow up". The best thought leaders build rapport and positive interactions daily, so crucial confrontations are met with shared pool of meaning.
+## Goodreads book information
+
+*Crucial Confrontations: Tools for Resolving Broken Promises, Violated Expectations, and Bad Behavior* by Kerry Patterson
+Empty
+
+https://www.goodreads.com/book/show/822267
+
+Bookshelves: business, personal-development
 
 ---
 
 ##### Author's Note
 
-Generated using https://github.com/jsr6720/goodreads-csv-to-md script
+Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
+
+Kerry Patterson, *Crucial Confrontations: Tools for Resolving Broken Promises, Violated Expectations, and Bad Behavior*, Empty Amer Media Intl - McGraw Hill audio 2005 (Audio CD)[^1]
 
 ##### Significant revisions
 
 tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [{ site.url }]({ site.url }) with uid { page.uid }
+- { 2024-04-22 00:30:48 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
+- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
+
+[^1]: ISBN: ="1932378820"

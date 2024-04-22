@@ -1,30 +1,17 @@
 ---
 layout: post
 author: James Rowe
-title:  "<<title-similiar-to-filename>>"
-date:   <<date-added>>
-tags: <<tags-csv>
-uid: <<uid>>
+title:  "Detect Thoughts on 'The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change'"
+date:   2016-05-31 00:00:00 -0400
+tags: book review Covey classics read-again business
+uid: 5c105270-780d-4c4a-90bb-71c1ba525aa8
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
 
-## Title
-
-The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change by Stephen R. Covey
-Jim Collins 
-
-https://www.goodreads.com/book/show/36072
-
-Bookshelves
-
-Exclusive: read
-
-Bookshelves: classics, read-again, business
-
-Binding/Format: Paperback
-
 ## My Review 5/5
+
+Detect Thoughts: Empty
 
 ### Date Read
 Empty
@@ -32,18 +19,30 @@ Empty
 ### Date Added
 2016/05/31
 
-My Thoughts: Empty
+## Goodreads book information
+
+*The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change* by Stephen R. Covey
+Jim Collins
+
+https://www.goodreads.com/book/show/36072
+
+Bookshelves: classics, read-again, business
 
 ---
 
 ##### Author's Note
 
-Generated using https://github.com/jsr6720/goodreads-csv-to-md script
+Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
+
+Stephen R. Covey, *The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change*, Jim Collins Free Press 2004 (Paperback)[^1]
 
 ##### Significant revisions
 
 tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [{ site.url }]({ site.url }) with uid { page.uid }
+- { 2024-04-22 00:30:48 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
+- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
+
+[^1]: ISBN: ="0743269519"

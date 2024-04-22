@@ -5,9 +5,7 @@ import uuid
 from datetime import datetime
 from sanitize_filename import sanitize # pip3 install sanitize_filename
 
-## Bookshelves == tags
 ## count number csv rows and number files generated should match
-## dates in (Date Read, Date Added)
 ## optional download book image
 ## some reviews have links to authors/books. need to parse those
 ### [a:Drucker Peter F|12008|Peter F. Drucker|https://d2arxad8u2l0g7.cloudfront.net/authors/1318472244p2/12008.jpg]
@@ -64,13 +62,15 @@ def main():
     with open(args.csv, 'r', newline='', encoding=config['encoding']) as csvfile:
         goodreadsData = csv.reader(csvfile)
         headings = next(goodreadsData)  # Extracting headings from the first row
+
+        # tbh this whole loop gives me the heebies.. but it works for now.
         for aBook in goodreadsData:
 
             # First convert row array to list of dictionaries with headings as keys
             bookDict = ({headings[i]: value for i, value in enumerate(aBook)})
 
-            # some extra data
-            nowTimestamp = datetime.now()
+            # stamp it
+            bookDict["now-timestamp"] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
             # I know jekyll doens't need uids.. but even in a flat file the id brings me comfort
             bookDict["guid"] = uuid.uuid4()
@@ -88,14 +88,14 @@ def main():
             # Read the template file
             with open('./md-template.md', 'r') as template_file:
                 basic_template_content = template_file.read()
-            
-            # Read the template file
-            with open('./jekyll-template.md', 'r') as template_file:
-                jekyll_template_content = template_file.read()
                 # pretty print 'Empty' for basic template
                 for key, value in bookDict.items():
                     if not value:  # Check if value is empty
                         bookDict[key] = "Empty"
+            
+            # Read the template file
+            with open('./jekyll-template.md', 'r') as template_file:
+                jekyll_template_content = template_file.read()
 
             # simple markdown file that works anywhere
             basic_populated_content = basic_template_content.format(**bookDict)

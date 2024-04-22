@@ -1,30 +1,17 @@
 ---
 layout: post
 author: James Rowe
-title:  "<<title-similiar-to-filename>>"
-date:   <<date-added>>
-tags: <<tags-csv>
-uid: <<uid>>
+title:  "Detect Thoughts on 'Failure Is Not an Option: Mission Control from Mercury to Apollo 13 and Beyond'"
+date:   2016-09-12 00:00:00 -0400
+tags: book review Kranz biography
+uid: b44d362b-4520-4dc7-84e1-28b3539750c4
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
 
-## Title
-
-Failure Is Not an Option: Mission Control from Mercury to Apollo 13 and Beyond by Gene Kranz
-Danny Campbell 
-
-https://www.goodreads.com/book/show/12064316
-
-Bookshelves
-
-Exclusive: read
-
-Bookshelves: biography
-
-Binding/Format: Audio CD
-
 ## My Review 5/5
+
+Detect Thoughts: This was a fantastic book starting with Mercury and going through Apollo. Blow by blow accounts of mission control are riveting. I especially like rich background Kranz discusses over the course of the missions.
 
 ### Date Read
 2016/09/12
@@ -32,18 +19,30 @@ Binding/Format: Audio CD
 ### Date Added
 2016/08/25
 
-My Thoughts: This was a fantastic book starting with Mercury and going through Apollo. Blow by blow accounts of mission control are riveting. I especially like rich background Kranz discusses over the course of the missions.
+## Goodreads book information
+
+*Failure Is Not an Option: Mission Control from Mercury to Apollo 13 and Beyond* by Gene Kranz
+Danny Campbell
+
+https://www.goodreads.com/book/show/12064316
+
+Bookshelves: biography
 
 ---
 
 ##### Author's Note
 
-Generated using https://github.com/jsr6720/goodreads-csv-to-md script
+Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
+
+Gene Kranz, *Failure Is Not an Option: Mission Control from Mercury to Apollo 13 and Beyond*, Danny Campbell Tantor Media 2011 (Audio CD)[^1]
 
 ##### Significant revisions
 
 tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [{ site.url }]({ site.url }) with uid { page.uid }
+- { 2024-04-22 00:30:48 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
+- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
+
+[^1]: ISBN: ="1452603901"

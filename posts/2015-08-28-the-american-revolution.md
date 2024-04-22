@@ -1,30 +1,17 @@
 ---
 layout: post
 author: James Rowe
-title:  "<<title-similiar-to-filename>>"
-date:   <<date-added>>
-tags: <<tags-csv>
-uid: <<uid>>
+title:  "Detect Thoughts on 'The American Revolution'"
+date:   2015-08-28 00:00:00 -0400
+tags: book review Guelzo history
+uid: 60c38626-037f-44a2-a05d-31b766a6c725
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
 
-## Title
-
-The American Revolution by Allen C. Guelzo
-Empty 
-
-https://www.goodreads.com/book/show/7491145
-
-Bookshelves
-
-Exclusive: read
-
-Bookshelves: history
-
-Binding/Format: Audio CD
-
 ## My Review 4/5
+
+Detect Thoughts: Good history of the revolutionary war with emphasis on the Britain side of things. How after the French and Indian War Britain was wary of taming Americans who now had battle experience.<br/><br/>Good history of the revolutionary war with emphasis on the Britain side of things. Final summary of how the war ended. Good lecture series.
 
 ### Date Read
 2015/08/28
@@ -32,18 +19,30 @@ Binding/Format: Audio CD
 ### Date Added
 2016/10/11
 
-My Thoughts: Good history of the revolutionary war with emphasis on the Britain side of things. How after the French and Indian War Britain was wary of taming Americans who now had battle experience.<br/><br/>Good history of the revolutionary war with emphasis on the Britain side of things. Final summary of how the war ended. Good lecture series.
+## Goodreads book information
+
+*The American Revolution* by Allen C. Guelzo
+Empty
+
+https://www.goodreads.com/book/show/7491145
+
+Bookshelves: history
 
 ---
 
 ##### Author's Note
 
-Generated using https://github.com/jsr6720/goodreads-csv-to-md script
+Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
+
+Allen C. Guelzo, *The American Revolution*, Empty The Great Courses Empty (Audio CD)[^1]
 
 ##### Significant revisions
 
 tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [{ site.url }]({ site.url }) with uid { page.uid }
+- { 2024-04-22 00:30:48 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
+- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
+
+[^1]: ISBN: ="1598034332"

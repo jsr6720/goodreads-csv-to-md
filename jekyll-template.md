@@ -40,7 +40,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ {jekyll-date} | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format 
+- {{ {now-timestamp} | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format 
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

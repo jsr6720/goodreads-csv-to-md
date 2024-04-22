@@ -1,30 +1,17 @@
 ---
 layout: post
 author: James Rowe
-title:  "<<title-similiar-to-filename>>"
-date:   <<date-added>>
-tags: <<tags-csv>
-uid: <<uid>>
+title:  "Detect Thoughts on 'Good Strategy/Bad Strategy: The Difference and Why It Matters'"
+date:   2019-12-23 00:00:00 -0400
+tags: book review Rumelt did-not-finish
+uid: 07326f04-fae6-41bd-be3d-36d6bbe3209a
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
 
-## Title
-
-Good Strategy/Bad Strategy: The Difference and Why It Matters by Richard P. Rumelt
-Sean Runnette 
-
-https://www.goodreads.com/book/show/13179689
-
-Bookshelves
-
-Exclusive: did-not-finish
-
-Bookshelves: did-not-finish
-
-Binding/Format: Audio CD
-
 ## My Review 1/5
+
+Detect Thoughts: Did not finish. Narration was just too dry. <br/><br/>Good strategy contains a kernel of 'obvious' truth.
 
 ### Date Read
 2019/12/23
@@ -32,18 +19,30 @@ Binding/Format: Audio CD
 ### Date Added
 2019/12/18
 
-My Thoughts: Did not finish. Narration was just too dry. <br/><br/>Good strategy contains a kernel of 'obvious' truth.
+## Goodreads book information
+
+*Good Strategy/Bad Strategy: The Difference and Why It Matters* by Richard P. Rumelt
+Sean Runnette
+
+https://www.goodreads.com/book/show/13179689
+
+Bookshelves: did-not-finish
 
 ---
 
 ##### Author's Note
 
-Generated using https://github.com/jsr6720/goodreads-csv-to-md script
+Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
+
+Richard P. Rumelt, *Good Strategy/Bad Strategy: The Difference and Why It Matters*, Sean Runnette HighBridge Company 2012 (Audio CD)[^1]
 
 ##### Significant revisions
 
 tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [{ site.url }]({ site.url }) with uid { page.uid }
+- { 2024-04-22 00:30:47 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
+- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
+
+[^1]: ISBN: ="1611748178"

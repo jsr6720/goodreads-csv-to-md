@@ -1,30 +1,17 @@
 ---
 layout: post
 author: James Rowe
-title:  "<<title-similiar-to-filename>>"
-date:   <<date-added>>
-tags: <<tags-csv>
-uid: <<uid>>
+title:  "Detect Thoughts on 'Codependent No More: How to Stop Controlling Others and Start Caring for Yourself'"
+date:   2016-08-09 00:00:00 -0400
+tags: book review Beattie personal-development
+uid: 2ca36f1d-d1ed-436e-9c21-999c96e975d0
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
 
-## Title
-
-Codependent No More: How to Stop Controlling Others and Start Caring for Yourself by Melody Beattie
-Empty 
-
-https://www.goodreads.com/book/show/2317502
-
-Bookshelves
-
-Exclusive: read
-
-Bookshelves: personal-development
-
-Binding/Format: Audio CD
-
 ## My Review 3/5
+
+Detect Thoughts: Suppose someone told you that you are codependent. How would you respond? What does that even mean?<br/><br/>This book gives a good anecdotal history of the phrase and it's use.
 
 ### Date Read
 2016/08/09
@@ -32,18 +19,30 @@ Binding/Format: Audio CD
 ### Date Added
 2016/10/11
 
-My Thoughts: Suppose someone told you that you are codependent. How would you respond? What does that even mean?<br/><br/>This book gives a good anecdotal history of the phrase and it's use.
+## Goodreads book information
+
+*Codependent No More: How to Stop Controlling Others and Start Caring for Yourself* by Melody Beattie
+Empty
+
+https://www.goodreads.com/book/show/2317502
+
+Bookshelves: personal-development
 
 ---
 
 ##### Author's Note
 
-Generated using https://github.com/jsr6720/goodreads-csv-to-md script
+Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
+
+Melody Beattie, *Codependent No More: How to Stop Controlling Others and Start Caring for Yourself*, Empty Recorded Books, Inc. 2005 (Audio CD)[^1]
 
 ##### Significant revisions
 
 tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [{ site.url }]({ site.url }) with uid { page.uid }
+- { 2024-04-22 00:30:48 | date_to_string: "ordinal", "US" } Convereted to jekyll markdown format 
+- { page.date | date_to_string: "ordinal", "US" } Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
+
+[^1]: ISBN: ="1419381229"
