@@ -16,6 +16,10 @@ Takes a Goodreads data export CSV and generates markdown files targeting custom 
 
 See [sample-output](/sample-output/) for a one off example showing links and special characters.
 
+## Export of Goodreads data
+
+The [goodreads_library_export_original.csv](./goodreads-data/goodreads-library-export-original.csv) was generated from [Account Settings Page](https://help.goodreads.com/s/article/How-do-I-get-a-copy-of-my-data-from-Goodreads). I discovered some data that was easier for me clean up via goodreads UI so I [re-exported](./goodreads-data/goodreads-library-export.csv) for use with this script. Specifically the deleting of books from the "Want to read" bookshelf.
+
 ## Limitations / Edge cases not worth programming in my dataset
 
 There is no check on unique tite's so I prepend book id on the simple tempalte. See *Art of War* example in this content. From my own data set I only had 3 conflicts which I'll fix manually on `jekyll` side
@@ -34,20 +38,6 @@ There is no check on unique tite's so I prepend book id on the simple tempalte. 
 - /Users/jrowe/code/jsr6720/jsr6720.github.io/_posts/2020-02-20-the-wright-brothers.md
 ```
 
-## Warning: very manual process
-
-https://www.goodreads.com/api as of 2024 states there is no longer active support for api keys and directs to https://help.goodreads.com/s/article/Does-Goodreads-support-the-use-of-APIs which directs users to use the [account data export feature](#export-of-goodreads-data).
-
-> As of December 8th 2020, Goodreads no longer issues new developer keys for our public developer API and plans to retire the current version of these tools. You can find more information 
-
-For now I generate a goodreads URL using the `Book Id` column.
-
-`https://www.goodreads.com/book/show/{Book Id}`
-
-## Export of Goodreads data
-
-The [goodreads_library_export_original.csv](./goodreads-data/goodreads-library-export-original.csv) was generated from [Account Settings Page](https://help.goodreads.com/s/article/How-do-I-get-a-copy-of-my-data-from-Goodreads). I discovered some data that was easier for me clean up via goodreads UI so I [re-exported](./goodreads-data/goodreads-library-export.csv) for use with this script. Specifically the deleting of books from the "Want to read" bookshelf.
-
 ## ChatGPT 3.5 assisted(led?) coding
 
 To say that I wouldn't have completed this without ChatGPT 3.5 is an understatement. I probably could've cobbled together a python csv parser that generated basic templates but it would've been brute force and required clean up to publish each review via jekyll.
@@ -60,6 +50,16 @@ To say that I wouldn't have completed this without ChatGPT 3.5 is an understatem
 * merge conflicts with all the file renames I did in git and the build directories
 ** its unknown to me if I copied instructions wrong or if gpt steered me wrong on `git merge` since I tried it at ~2AM
 * generation of Makefile and all validations very nice
+
+## Warning: very manual process
+
+https://www.goodreads.com/api as of 2024 states there is no longer active support for api keys and directs to https://help.goodreads.com/s/article/Does-Goodreads-support-the-use-of-APIs which directs users to use the [account data export feature](#export-of-goodreads-data).
+
+> As of December 8th 2020, Goodreads no longer issues new developer keys for our public developer API and plans to retire the current version of these tools. You can find more information 
+
+For now I generate a goodreads URL using the `Book Id` column.
+
+`https://www.goodreads.com/book/show/{Book Id}`
 
 ## Licenses
 
