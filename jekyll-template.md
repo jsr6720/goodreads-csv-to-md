@@ -1,17 +1,18 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on '{Title}'"
+title:  "Detect Thoughts on '{short-title}'"
 date:   {jekyll-date} -0400
 tags: book review {author-ln} {book-tags}
 uid: {guid}
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review {My Rating}/5
 
-Detect Thoughts: {My Review}
+{review-parsed}
 
 ### Date Read
 {Date Read}
@@ -22,7 +23,6 @@ Detect Thoughts: {My Review}
 ## Goodreads book information
 
 *{Title}* by {Author}
-{Additional Authors}
 
 https://www.goodreads.com/book/show/{Book Id}
 
@@ -38,10 +38,10 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 ##### Significant revisions
 
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
+tags: {{{{ page.tags | join: ", " }}}} <!-- todo move this somewhere -->
 
-- {{ {now-timestamp} | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format 
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
+- {{{{ {now-timestamp} | date_to_string: "ordinal", "US" }}}} Convereted to jekyll markdown format and copied to personal site
+- {{{{ page.date | date_to_string: "ordinal", "US" }}}} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
 

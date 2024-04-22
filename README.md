@@ -14,6 +14,8 @@ They[citation needed](https://xkcd.com/285/) say the brain can't tell the differ
 
 Just realized that I combined a utility script with my own data. So probably fork and replace data.
 
+Also realized I don't check for unique file names. See *Art of War* example in this content.
+
 ## Very manual process
 
 https://www.goodreads.com/api as of 2024 states there is no longer active support for api keys and directs to https://help.goodreads.com/s/article/Does-Goodreads-support-the-use-of-APIs which directs users to use the [account data export feature](#export-of-goodreads-data).

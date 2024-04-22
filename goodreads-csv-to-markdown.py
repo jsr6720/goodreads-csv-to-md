@@ -2,6 +2,7 @@ import csv
 import os
 import argparse
 import uuid
+import re
 from datetime import datetime
 from sanitize_filename import sanitize # pip3 install sanitize_filename
 
@@ -17,6 +18,45 @@ config = {
     'basic-output-dir': 'books',
     'jekyll-output-dir': 'posts'
 }
+
+# https://xkcd.com/208/ .. ChatGPT3.5 whipped this up
+def convert_to_markdown_links(text):
+    # Define a regular expression pattern to find all occurrences of "[b:...]"
+    pattern = r"\[b:(.*?)\|(\d+)\|.*?\]"
+
+    # Define a function to replace each match with the Markdown link
+    def replace_link(match):
+        title = match.group(1)
+        goodreads_id = match.group(2)
+
+        # Construct the URL for the Markdown link
+        url = f"https://www.goodreads.com/book/show/{goodreads_id}"
+
+        # Construct and return the Markdown link
+        markdown_link = f"[{title}]({url})"
+        return markdown_link
+
+    # Use re.sub() to perform the replacements using the defined function
+    return re.sub(pattern, replace_link, text)
+
+def convert_author_to_markdown_links(text):
+    # Define a regular expression pattern to find all occurrences of "[a:...]"
+    pattern = r"\[a:(.*?)\|(\d+)\|.*?\]"
+
+    # Define a function to replace each match with the Markdown link
+    def replace_link(match):
+        author = match.group(1)
+        goodreads_id = match.group(2)
+
+        # Construct the URL for the Markdown link
+        url = f"https://www.goodreads.com/author/show/{goodreads_id}"
+
+        # Construct and return the Markdown link
+        markdown_link = f"[{author}]({url})"
+        return markdown_link
+
+    # Use re.sub() to perform the replacements using the defined function
+    return re.sub(pattern, replace_link, text)
 
 def getFileNameByTitle(title):
     # for my limited dataset really long titles, or books with subtitles usually have a ":" in them
@@ -81,17 +121,19 @@ def main():
             # book tags, no commas needed
             bookDict["book-tags"] = bookDict["Bookshelves"].replace(',', '')
 
+            # keep short title
+            bookDict["short-title"] = aBook[headings.index('Title')].split(':')[0].strip()
+
             # set a post date using 'Date Read', 'Date Added', now() in that order
             # assumes goodreads data export format YYYY/MM/DD :( and I hardeded EST -0400 in template https://xkcd.com/2867/
             bookDict["jekyll-date"] = datetime.strptime(bookDict["Date Read"] or bookDict["Date Added"], "%Y/%m/%d")
 
+            # lets clean up the review a little. honestly blown away by gpt3.5 assist here
+            bookDict["review-parsed"] = convert_author_to_markdown_links(convert_to_markdown_links(bookDict["My Review"])) or 'Empty'
+
             # Read the template file
             with open('./md-template.md', 'r') as template_file:
                 basic_template_content = template_file.read()
-                # pretty print 'Empty' for basic template
-                for key, value in bookDict.items():
-                    if not value:  # Check if value is empty
-                        bookDict[key] = "Empty"
             
             # Read the template file
             with open('./jekyll-template.md', 'r') as template_file:
@@ -100,7 +142,7 @@ def main():
             # simple markdown file that works anywhere
             basic_populated_content = basic_template_content.format(**bookDict)
             
-            filename = os.path.join(config['basic-output-dir'], getFileNameByTitle(aBook[headings.index('Title')]) + ".md")
+            filename = os.path.join(config['basic-output-dir'], bookDict['Book Id'] + ' - ' + getFileNameByTitle(aBook[headings.index('Title')]) + ".md")
             with open(filename, 'w', encoding=config['encoding']) as md_file:
                 md_file.write(basic_populated_content)
 
