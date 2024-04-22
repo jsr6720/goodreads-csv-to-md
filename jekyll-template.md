@@ -1,48 +1,43 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on '{short-title}'"
-date:   {jekyll-date} -0400
-tags: book review {author-ln} {book-tags}
-uid: {guid}
+title:  "<<title-similiar-to-filename>>"
+date:   <<date-added>>
+tags: <<tags-csv>
+uid: <<uid>>
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
 
-## My Review {My Rating}/5
+## Title
 
-{review-parsed}
-
-### Date Read
-{Date Read}
-
-### Date Added
-{Date Added}
-
-## Goodreads book information
-
-*{Title}* by {Author}
+{Title} by {Author}
+{Additional Authors} 
 
 https://www.goodreads.com/book/show/{Book Id}
 
+Bookshelves
+
+Exclusive: {Exclusive Shelf}
+
 Bookshelves: {Bookshelves}
+
+Binding/Format: {Binding}
+
+## My Review {My Rating}/5
+
+{My Review}
 
 ---
 
 ##### Author's Note
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-{Author}, *{Title}*, {Additional Authors} {Publisher} {Year Published} ({Binding})[^1]
+Generated using https://github.com/jsr6720/goodreads-csv-to-md script
 
 ##### Significant revisions
 
-tags: {{{{ page.tags | join: ", " }}}} <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{{{ {now-timestamp} | date_to_string: "ordinal", "US" }}}} Convereted to jekyll markdown format and copied to personal site
-- {{{{ page.date | date_to_string: "ordinal", "US" }}}} Originally published on [goodreads](https://www.goodreads.com)
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [{{ site.url }}]({{ site.url }}) with uid {{ page.uid }}
 
 ##### EOF/Footnotes
-
-[^1]: ISBN: {ISBN}
