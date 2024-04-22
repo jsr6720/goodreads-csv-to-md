@@ -2,7 +2,7 @@
 
 Takes an exported Goodreads CSV and generates markdown files targeting jekyll md template
 
-They[citation needed](https://xkcd.com/285/) say the brain can't tell the difference between audio books and physical books, majority of this list was consumed via audioCD during my commute to/from work.
+They [citation needed](https://xkcd.com/285/) say the brain can't tell the difference between audio books and physical books, majority of this list was consumed via audioCD during my commute to/from work.
 
 ### Steps to generate md files
 
