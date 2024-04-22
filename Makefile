@@ -18,4 +18,6 @@ validate:
 	python3 ./validate.py $(CSV_FILE) $(BOOKS_DIR)
 	python3 ./validate.py $(CSV_FILE) $(POSTS_DIR)
 
+build: clean generate validate
+
 .PHONY: clean generate validate

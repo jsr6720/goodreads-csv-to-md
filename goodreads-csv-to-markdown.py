@@ -146,9 +146,15 @@ def main():
             # this is the personalized jekyll post template
             jekyll_populated_content = jekyll_template_content.format(**bookDict)
             
-            filename = os.path.join(config['jekyll-output-dir'], getFileNameForJekyll(headings, aBook) + ".md")
-            with open(filename, 'w', encoding=config['encoding']) as md_file:
-                md_file.write(jekyll_populated_content)
+            try:
+                filename = os.path.join(config['jekyll-output-dir'], getFileNameForJekyll(headings, aBook) + ".md")
+                if os.path.exists(filename):
+                    raise IOError("File already exists")
+                
+                with open(filename, 'w', encoding=config['encoding']) as md_file:
+                    md_file.write(jekyll_populated_content)
+            except IOError:
+                print(f"Failed to open '{filename}' for writing.")
 
 if __name__ == "__main__":
     main()
