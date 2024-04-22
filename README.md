@@ -1,14 +1,14 @@
 # goodreads-csv-to-md
 
-Takes an exported Goodreads CSV and generates markdown files targeting jekyll md template
+Takes a Goodreads data export CSV and generates markdown files targeting custom jekyll md template and basic markdown.
 
 They [citation needed](https://xkcd.com/285/) say the brain can't tell the difference between audio books and physical books, majority of this list was consumed via audioCD during my commute to/from work.
 
-### Steps to generate md files
+## Steps to generate md files
 
 1. [Export your goodreads data](#export-of-goodreads-data) to csv and place in `goodreads-data` folder
 2. Modify [basic template](/md-template.md) and/or [jekyll template](/jekyll-template.md) to your hearts content
-3. run `make clean generate`
+3. run `make build`
     * If you're getting a `KeyError` it most likely means you have a misnamed `{header}` in your template. It also dislikes whitespace `{ header } !== {header}` 
 4. Copy markdown output to new system of record
 
@@ -43,6 +43,18 @@ FAVORITE GENRES: Biography, Business, Classics, History, Non-fiction, Philosophy
 ## Screenshot of stats
 
 ![good read stats from account overview page](/goodreads-data/goodread-stats.png)
+
+## ChatGPT 3.5 assisted(led?) coding
+
+To say that I wouldn't have completed this without ChatGPT is an understatement. I probably could've cobbled together a python csv parser that generated basic templates but it would've been brute force and required clean up to publish.
+
+ChatGPT especially shined in three areas
+
+* regular expression to match book and author goodreads linkes to markdown links
+** but it got stuck on the string replace, I was able to get it working as I wanted
+* merge conflicts with all the file renames I did in git and the build directories
+** its unknown to me if I copied instructions wrong or if gpt steered me wrong on `git merge` since I tried it at ~2AM
+* generation of Makefile and all validations very nice
 
 ## Licenses
 
