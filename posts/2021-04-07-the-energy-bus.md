@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'The Energy Bus'"
 date:   2021-04-07 00:00:00 -0400
 tags: book review Gordon personal-development
-uid: 0e9c99e1-25a0-4f55-8ca8-d451b2d211c2
+uid: 8ebc60dc-0938-4318-9f81-d0246f2fd680
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Jon Gordon, *The Energy Bus: 10 Rules to Fuel Your Life, Work, and Team with Pos
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:31 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:27 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

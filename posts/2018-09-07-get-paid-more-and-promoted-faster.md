@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Get Paid More and Promoted Faster'"
 date:   2018-09-07 00:00:00 -0400
 tags: book review Tracy business personal-development
-uid: 8209acbd-1cdc-45a6-a67e-117d7c275838
+uid: d10658ee-a5b2-43b5-9f47-d6c8562a46e2
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Brian Tracy, *Get Paid More and Promoted Faster: 21 Great Ways to Get Ahead in Y
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:31 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

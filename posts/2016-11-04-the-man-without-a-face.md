@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'The Man Without a Face'"
 date:   2016-11-04 00:00:00 -0400
 tags: book review Gessen history
-uid: 59c55d73-7837-4979-b23e-cf4cea54f525
+uid: 29204aef-78a5-44b5-8f6a-164a7ed84ecc
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Masha Gessen, *The Man Without a Face: The Unlikely Rise of Vladimir Putin*, Jus
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

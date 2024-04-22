@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'The Big Short'"
 date:   2017-06-02 00:00:00 -0400
 tags: book review Lewis business history
-uid: 8fd453e5-ba6d-4d72-a74a-a741fde36b05
+uid: d1f371fe-e02b-463a-962c-c9ed34e66a96
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Michael   Lewis, *The Big Short: Inside the Doomsday Machine*, Jesse Boggs Simon
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

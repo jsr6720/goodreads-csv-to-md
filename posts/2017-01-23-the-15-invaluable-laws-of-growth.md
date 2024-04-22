@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'The 15 Invaluable Laws of Growth'"
 date:   2017-01-23 00:00:00 -0400
 tags: book review Maxwell personal-development read-again
-uid: 8edea9f0-3c1d-4fe1-a90d-b0d41cc89cc1
+uid: 114d446e-49c8-472e-87a3-54e8c4d5a931
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ John C. Maxwell, *The 15 Invaluable Laws of Growth: Live Them and Reach Your Pot
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

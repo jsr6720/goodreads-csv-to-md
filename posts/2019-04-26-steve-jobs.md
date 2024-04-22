@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Steve Jobs'"
 date:   2019-04-26 00:00:00 -0400
 tags: book review Isaacson business biography management
-uid: 30fb982d-ae28-46bb-ab32-7281679b0d9b
+uid: 76931f2d-4b06-41f6-858b-b1510fee9510
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Walter Isaacson, *Steve Jobs*,  Simon & Schuster 2011 (Hardcover)[^1]
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:31 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

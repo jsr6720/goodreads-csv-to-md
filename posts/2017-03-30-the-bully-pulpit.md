@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'The Bully Pulpit'"
 date:   2017-03-30 00:00:00 -0400
 tags: book review Goodwin history biography
-uid: b69690ab-223b-4b87-b1a3-ad49afe14b3c
+uid: 6acef257-deab-471e-a610-a15cc0039ead
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Doris Kearns Goodwin, *The Bully Pulpit: Theodore Roosevelt, William Howard Taft
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'The Comfort Trap'"
 date:   2016-10-18 00:00:00 -0400
 tags: book review Sills personal-development psychology
-uid: 53ef0d42-4be4-4b19-b715-312e7a6283b9
+uid: 242cf00c-3add-4e20-9550-f5bfdc42d799
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Judith Sills, *The Comfort Trap: or, What If You're Riding a Dead Horse?*,  High
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

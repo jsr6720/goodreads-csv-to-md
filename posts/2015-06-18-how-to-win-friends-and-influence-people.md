@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'How To Win Friends And Influence People'"
 date:   2015-06-18 00:00:00 -0400
 tags: book review Carnegie classics read-again
-uid: 3bd8637f-b516-4fd9-b1b2-4d33de90bb9f
+uid: 89f651f0-0c32-42ea-8bd6-d9ab6b1c3640
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Dale Carnegie, *How To Win Friends And Influence People*, Andrew Macmillan Simon
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

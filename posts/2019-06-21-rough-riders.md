@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Rough Riders'"
 date:   2019-06-21 00:00:00 -0400
 tags: book review Gardner biography history leadership
-uid: 869e6331-a343-471b-a03f-18f2f705a120
+uid: 947fa492-7be8-4c44-990d-d9cb40614017
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Mark Lee Gardner, *Rough Riders: Theordore Roosevelt, His Cowboy Regiment, and t
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:31 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

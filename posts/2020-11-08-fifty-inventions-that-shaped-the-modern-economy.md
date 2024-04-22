@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Fifty Inventions That Shaped the Modern Economy'"
 date:   2020-11-08 00:00:00 -0400
 tags: book review Harford 
-uid: b5cef0cf-d229-4fea-b49f-029c152c9160
+uid: 1a82f856-fc27-415c-89dd-93e620d38c96
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Tim Harford, *Fifty Inventions That Shaped the Modern Economy*,  Riverhead Books
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:31 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:27 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

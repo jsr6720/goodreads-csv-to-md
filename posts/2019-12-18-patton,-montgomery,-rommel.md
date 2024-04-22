@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Patton, Montgomery, Rommel'"
 date:   2019-12-18 00:00:00 -0400
 tags: book review Brighton history leadership
-uid: 544eefdd-d4f5-44af-8d82-44aae0db18bc
+uid: 846f1fba-086c-41bc-9027-76bcc5ab3140
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Terry Brighton, *Patton, Montgomery, Rommel: Masters of War*, Mel Foster Tantor 
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:31 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:27 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

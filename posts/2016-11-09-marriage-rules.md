@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Marriage Rules'"
 date:   2016-11-09 00:00:00 -0400
 tags: book review Lerner personal-development read-again
-uid: 8e18c5e7-2b5e-4a3f-9d08-5890ba12c62f
+uid: f4e45dae-f4e8-46f5-9b8b-ca5eb8991771
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Harriet Lerner, *Marriage Rules: A Manual for the Married and the Coupled Up*,  
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

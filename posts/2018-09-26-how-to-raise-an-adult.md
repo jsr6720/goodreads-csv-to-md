@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'How to Raise an Adult'"
 date:   2018-09-26 00:00:00 -0400
 tags: book review Lythcott-Haims did-not-finish
-uid: 321b1a48-2143-4c0f-85aa-0c8f04c7fbb1
+uid: edddafe4-9b3f-4d58-ad67-5ea42ce3025a
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Julie Lythcott-Haims, *How to Raise an Adult: Break Free of the Overparenting Tr
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:31 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

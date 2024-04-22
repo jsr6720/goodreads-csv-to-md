@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'The All-or-Nothing Marriage'"
 date:   2018-08-27 00:00:00 -0400
 tags: book review Finkel psychology
-uid: ca330c10-602b-4c1b-aa83-a6feec7e3209
+uid: 86fdac60-25a5-4123-8049-225261aa9537
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Eli J. Finkel, *The All-or-Nothing Marriage: How the Best Marriages Work*,  Dutt
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:31 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

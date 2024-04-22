@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'John Adams'"
 date:   2015-06-24 00:00:00 -0400
 tags: book review McCullough biography history
-uid: 9c9af3dc-e6c8-43c0-898d-99ba1d1192a9
+uid: 6474c945-a488-4d97-92ce-da45f24b1679
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ David McCullough, *John Adams*,  Simon & Schuster Paperbacks 2001 (Paperback)[^1
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

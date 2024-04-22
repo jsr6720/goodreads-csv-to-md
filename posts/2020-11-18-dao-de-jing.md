@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Dao De Jing'"
 date:   2020-11-18 00:00:00 -0400
 tags: book review Tzu 
-uid: f65603e9-36ed-434e-894c-f91f13c37f69
+uid: 4e5f55d6-6976-49d7-8300-6805c28e0c52
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Lao Tzu, *Dao De Jing: The United Version*, Yang Peng AmazonUs/INDPB 2017 (Hardc
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:31 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:27 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

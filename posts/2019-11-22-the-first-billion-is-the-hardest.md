@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'The First Billion Is the Hardest'"
 date:   2019-11-22 00:00:00 -0400
 tags: book review Pickens biography
-uid: db1ada1a-0294-4288-b9fe-a87bcf145d9a
+uid: fd35dcfe-6dd6-440f-a786-6f611f828e54
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ T. Boone Pickens, *The First Billion Is the Hardest: Reflections on a Life of Co
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:31 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:27 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

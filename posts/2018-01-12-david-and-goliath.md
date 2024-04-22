@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'David and Goliath'"
 date:   2018-01-12 00:00:00 -0400
 tags: book review Gladwell economics psychology
-uid: 71aa7b03-6029-447c-8b54-5d98e7218b66
+uid: 8cc2b8bc-5314-4456-9470-60bd5a56121c
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Malcolm Gladwell, *David and Goliath: The Triumph of the Underdog*,  Little, Bro
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

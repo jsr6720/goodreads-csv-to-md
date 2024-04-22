@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'The Universe in a Nutshell'"
 date:   2019-03-19 00:00:00 -0400
 tags: book review Hawking 
-uid: 38a42f23-e70a-42ad-903a-9b7352d8b6d3
+uid: a659a156-cbcb-4b16-86df-6abaca1e6526
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Stephen Hawking, *The Universe in a Nutshell*, Simon Prebble Random House Audio 
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:31 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

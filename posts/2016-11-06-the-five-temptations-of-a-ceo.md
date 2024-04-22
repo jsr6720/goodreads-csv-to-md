@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'The Five Temptations of a CEO'"
 date:   2016-11-06 00:00:00 -0400
 tags: book review Lencioni 
-uid: 95a52222-64a5-4349-ab79-52cef16c2e42
+uid: f748f39a-f178-4198-abcb-b890feac4b44
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Patrick Lencioni, *The Five Temptations of a CEO*,  Jossey-Bass 1998 (Hardcover)
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Good Leaders Ask Great Questions'"
 date:   2018-05-30 00:00:00 -0400
 tags: book review Maxwell management business
-uid: bfd6baee-fc1a-43dd-815d-a8a0b630fbef
+uid: b7052263-db3a-4aa2-b5e2-0d9e379e48b9
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ John C. Maxwell, *Good Leaders Ask Great Questions: Your Foundation for Successf
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

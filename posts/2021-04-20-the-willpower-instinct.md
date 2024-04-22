@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'The Willpower Instinct'"
 date:   2021-04-20 00:00:00 -0400
 tags: book review McGonigal personal-development psychology
-uid: 71e936dd-1f0c-4fbb-8927-b8df919ba2d1
+uid: 6f4b02d0-e978-42e6-b5ef-947003ad72a9
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Kelly McGonigal, *The Willpower Instinct: How Self-Control Works, Why It Matters
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:31 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:27 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

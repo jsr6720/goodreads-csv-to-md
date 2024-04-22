@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'The Startup of You'"
 date:   2018-02-22 00:00:00 -0400
 tags: book review Hoffman 
-uid: ed835ff3-593a-47c5-8664-e101621d8400
+uid: 622c515a-6c08-4b2d-9e5a-2c98e9f1b46f
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Reid Hoffman, *The Startup of You: Adapt to the Future, Invest in Yourself, and 
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

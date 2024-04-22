@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'The 48 Laws of Power'"
 date:   2018-09-01 00:00:00 -0400
 tags: book review Greene business psychology
-uid: 086fa285-5df9-4c9d-881c-71a8419bfed7
+uid: cf53f74b-7c16-4ed1-800a-e31f49e57604
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Robert Greene, *The 48 Laws of Power*, Don Leslie HighBridge Audio 2007 (Audio C
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:31 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

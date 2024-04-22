@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Talking to my Daughter about the Economy'"
 date:   2019-03-14 00:00:00 -0400
 tags: book review Varoufakis economics
-uid: 6285c2b6-eb80-421c-aacd-9944685dabad
+uid: 6e0fe2ee-928a-477f-a720-8f0a27a2b14e
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Yanis Varoufakis, *Talking to my Daughter about the Economy: or, How Capitalism 
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:31 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

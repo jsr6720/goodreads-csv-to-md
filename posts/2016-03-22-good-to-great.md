@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Good to Great'"
 date:   2016-03-22 00:00:00 -0400
 tags: book review Collins business
-uid: 27f4adeb-0bb8-4d28-94ce-9fdec75f8b7d
+uid: 3c2124c7-9bda-4611-87d9-4710ce4a77f1
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Jim Collins, *Good to Great: Why Some Companies Make the Leap...And Others Don't
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

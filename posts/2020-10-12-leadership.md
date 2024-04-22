@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Leadership'"
 date:   2020-10-12 00:00:00 -0400
 tags: book review Goodwin biography leadership history
-uid: 759e82b6-02da-47ab-9409-5fb00982a3d7
+uid: ccd13e28-b8b7-4f6f-a1b0-50136648a1cf
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Doris Kearns Goodwin, *Leadership: In Turbulent Times*,  Simon & Schuster 2018 (
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:31 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:27 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

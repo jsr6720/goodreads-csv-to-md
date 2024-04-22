@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'The Tipping Point'"
 date:   2016-06-14 00:00:00 -0400
 tags: book review Gladwell economics
-uid: 20ebe6ea-2c6f-4a4d-be27-458bafd4d0c4
+uid: 56924ede-ea03-4252-a0c2-8ceb930d768d
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Malcolm Gladwell, *The Tipping Point: How Little Things Can Make a Big Differenc
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

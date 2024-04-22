@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'The Librarian of Auschwitz'"
 date:   2019-07-17 00:00:00 -0400
 tags: book review Iturbe history
-uid: 7c7c7479-7077-4645-9e5d-cdd32384b889
+uid: 5d893547-b735-4f0b-b50a-3384e7a2b4f2
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Antonio Iturbe, *The Librarian of Auschwitz*, Lilit Žekulin Thwaites Macmillan 
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:31 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

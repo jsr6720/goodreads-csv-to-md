@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'The Audacity of Hope'"
 date:   2018-07-23 00:00:00 -0400
 tags: book review Obama biography
-uid: cd920907-f1d6-4721-b11c-9a6f9a8649c5
+uid: 6532455f-8ff7-4814-88f2-975199777fe4
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Barack Obama, *The Audacity of Hope: Thoughts on Reclaiming the American Dream*,
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:31 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

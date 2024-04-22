@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Plato and a Platypus Walk Into a Bar...'"
 date:   2015-07-27 00:00:00 -0400
 tags: book review Cathcart philosophy
-uid: 829a58b2-925b-481a-94e1-3e74695afdee
+uid: a08769ab-df9d-4bf6-b6d2-e6b2db74666b
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Thomas Cathcart, *Plato and a Platypus Walk Into a Bar...: Understanding Philoso
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

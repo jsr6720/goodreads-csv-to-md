@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Lead with Humility'"
 date:   2018-09-15 00:00:00 -0400
 tags: book review Krames leadership
-uid: 6cbdef86-50bb-4251-ae38-2a8a2db8cb79
+uid: de12b172-0eaa-4c96-94c1-9ffb1ede8b30
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Jeffrey A. Krames, *Lead with Humility: 12 Leadership Lessons from Pope Francis*
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:31 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

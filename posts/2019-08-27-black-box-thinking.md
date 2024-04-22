@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Black Box Thinking'"
 date:   2019-08-27 00:00:00 -0400
 tags: book review Syed business
-uid: 2d8ae75d-577a-4628-83b7-2d72b7fbab9c
+uid: c1bd5d60-0fc7-410b-a0bf-f598c5019639
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Matthew Syed, *Black Box Thinking: Why Some People Never Learn from Their Mistak
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:31 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

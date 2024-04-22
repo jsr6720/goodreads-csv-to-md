@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'The 21 Irrefutable Laws of Leadership'"
 date:   2015-09-25 00:00:00 -0400
 tags: book review Maxwell business read-again personal-development
-uid: ef2fd9a3-1f8f-424c-961f-f47a25ffb4f6
+uid: 718a22b6-81f5-44bb-8c67-112af4957180
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ John C. Maxwell, *The 21 Irrefutable Laws of Leadership: Follow Them and People 
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

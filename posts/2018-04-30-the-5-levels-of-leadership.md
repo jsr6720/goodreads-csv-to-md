@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'The 5 Levels of Leadership'"
 date:   2018-04-30 00:00:00 -0400
 tags: book review Maxwell management personal-development
-uid: 2d082442-389d-4390-8055-9fdac9b60c00
+uid: c02d5002-7fbb-4478-8810-9e95da2b9815
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ John C. Maxwell, *The 5 Levels of Leadership: Proven Steps to Maximize Your Pote
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

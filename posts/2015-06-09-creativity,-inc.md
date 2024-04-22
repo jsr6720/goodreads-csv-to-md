@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Creativity, Inc.'"
 date:   2015-06-09 00:00:00 -0400
 tags: book review Catmull did-not-finish
-uid: ad138127-899d-45ec-a5f9-68bb19253d1b
+uid: 882b413f-42f5-431c-b8bb-2c03f001370b
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Ed Catmull, *Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Wa
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

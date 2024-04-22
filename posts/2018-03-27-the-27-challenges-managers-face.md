@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'The 27 Challenges Managers Face'"
 date:   2018-03-27 00:00:00 -0400
 tags: book review Tulgan business management
-uid: ec012885-4cb3-4d93-aa36-a93ab0592d7a
+uid: 8126f771-2670-4bc3-b579-89c0e57e0dc7
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Bruce Tulgan, *The 27 Challenges Managers Face: Step-by-Step Solutions to (Nearl
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

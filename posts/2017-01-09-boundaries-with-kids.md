@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Boundaries with Kids'"
 date:   2017-01-09 00:00:00 -0400
 tags: book review Cloud personal-development parenting
-uid: 97b13493-d6be-4473-8f26-56fc3795fe0a
+uid: 39e66367-00f0-4cde-af6b-b161cc05c063
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Henry Cloud, *Boundaries with Kids: When to Say Yes, When to Say No, to Help You
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Aesop's Fables'"
 date:   2015-07-14 00:00:00 -0400
 tags: book review Aesop classics read-again
-uid: 5f783bb5-17ae-4e40-bbc2-515b7f167545
+uid: 675f9d5c-e392-4383-99d7-e7521e8a60cb
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Aesop, *Aesop's Fables*, Jonathan Kent Tantor Media 2008 (Audio CD + ebook)[^1]
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'The Breakthrough Company'"
 date:   2017-02-27 00:00:00 -0400
 tags: book review Mcfarland business
-uid: ea3416bf-0157-497f-bdd7-bbd431cfda9a
+uid: b7d1f6b5-93d5-415e-8a6a-65dba8786ce5
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Keith R. Mcfarland, *The Breakthrough Company: How Everyday Companies Become Ext
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

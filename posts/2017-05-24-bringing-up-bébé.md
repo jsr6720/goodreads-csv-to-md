@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Bringing Up Bébé'"
 date:   2017-05-24 00:00:00 -0400
 tags: book review Druckerman parenting biography
-uid: 2458dd49-6e16-4af1-a14b-d52a5dc7a21a
+uid: 4e9857a8-80b9-4e96-be91-f44832517bc9
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Pamela Druckerman, *Bringing Up Bébé: One American Mother Discovers the Wisdom
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

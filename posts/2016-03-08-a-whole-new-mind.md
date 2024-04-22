@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'A Whole New Mind'"
 date:   2016-03-08 00:00:00 -0400
 tags: book review Pink business
-uid: 035a4814-92c1-4b6b-a87b-2b0bfb213c27
+uid: d84c60a9-4d51-4fa3-a682-d0af99a0c5af
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Daniel H. Pink, *A Whole New Mind: Why Right-Brainers Will Rule the Future*,  Br
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

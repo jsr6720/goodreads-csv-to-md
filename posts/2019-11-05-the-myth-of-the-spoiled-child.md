@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'The Myth of the Spoiled Child'"
 date:   2019-11-05 00:00:00 -0400
 tags: book review Kohn parenting
-uid: 6f0d32b8-710e-4d3a-872c-f37ad1330839
+uid: aa68dff3-d08e-449a-99ab-90625dd9f1d0
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Alfie Kohn, *The Myth of the Spoiled Child: Challenging the Conventional Wisdom 
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:31 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:27 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'The Five Love Languages'"
 date:   2015-11-30 00:00:00 -0400
 tags: book review Chapman 
-uid: 05a337fb-87cf-4e1e-a04e-9eb5d90d0fbd
+uid: 4fb1528b-88b1-4fde-aa31-6d5fc7e1a221
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Gary Chapman, *The Five Love Languages: The Secret to Love that Lasts*,  Oasis A
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

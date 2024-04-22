@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Who Moved My Cheese'"
 date:   2016-03-10 00:00:00 -0400
 tags: book review Johnson business read-again
-uid: 41fbfee4-af3a-48a0-b3e8-3b9c02175e66
+uid: 14c95a08-bd40-4fce-aa6c-4d81669b41c4
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Spencer Johnson, *Who Moved My Cheese*, Kenneth Blanchard, Tony Roberts, Karen Z
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

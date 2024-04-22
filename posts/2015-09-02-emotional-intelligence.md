@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Emotional Intelligence'"
 date:   2015-09-02 00:00:00 -0400
 tags: book review Goleman read-again psychology
-uid: 7c48f662-f261-4bc3-8129-26ec1026137d
+uid: b1b00ccf-85ca-4185-a6c3-c4e519adee0b
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Daniel Goleman, *Emotional Intelligence: Why It Can Matter More Than IQ (Leading
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

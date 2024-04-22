@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Washington's Farewell'"
 date:   2020-01-21 00:00:00 -0400
 tags: book review Avlon leadership history
-uid: 2597c28d-35ff-472c-b270-f1cd13f6ea04
+uid: 887ed3b7-7a70-499c-89ea-4463feb88392
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ John P. Avlon, *Washington's Farewell: The Founding Father's Warning to Future G
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:31 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:27 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

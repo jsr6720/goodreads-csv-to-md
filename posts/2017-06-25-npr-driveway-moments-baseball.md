@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'NPR Driveway Moments Baseball'"
 date:   2017-06-25 00:00:00 -0400
 tags: book review Radio 
-uid: a01b130c-4c88-412f-a2f5-9b1202925960
+uid: a3076a95-c0d5-402a-a6f0-4cb46e7e90dd
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ National Public Radio, *NPR Driveway Moments Baseball: Radio Stories That Won't 
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

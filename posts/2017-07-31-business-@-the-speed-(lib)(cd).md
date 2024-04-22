@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Business @ the Speed (Lib)(CD)'"
 date:   2017-07-31 00:00:00 -0400
 tags: book review Gates 
-uid: f977c90b-6bdf-498f-b83e-f5bff520ca75
+uid: 965124e7-2863-489f-8208-03c87bc563a2
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Bill  Gates, *Business @ the Speed (Lib)(CD)*,  Books on Tape 2000 (Audio CD)[^1
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

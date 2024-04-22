@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'The Five Most Important Questions You Will Ever Ask About Your Organization'"
 date:   2020-12-25 00:00:00 -0400
 tags: book review Drucker 
-uid: 7804a520-612b-413c-97e0-46ca21e3b602
+uid: a2cadcbe-12af-4c65-a0e2-72d5f19c6729
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Peter F. Drucker, *The Five Most Important Questions You Will Ever Ask About You
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:31 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:27 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

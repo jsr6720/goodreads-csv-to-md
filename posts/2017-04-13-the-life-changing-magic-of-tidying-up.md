@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'The Life-Changing Magic of Tidying Up'"
 date:   2017-04-13 00:00:00 -0400
 tags: book review Kondō did-not-finish
-uid: 01920f9b-abc7-4211-9cc5-b1c8856bd80e
+uid: 4d1e763a-a433-47a2-a277-9e25b9471798
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Marie Kondō, *The Life-Changing Magic of Tidying Up: The Japanese Art of Declut
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

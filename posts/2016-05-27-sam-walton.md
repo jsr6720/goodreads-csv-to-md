@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Sam Walton'"
 date:   2016-05-27 00:00:00 -0400
 tags: book review Walton biography
-uid: b41d49a7-7893-428e-8263-79700b2109d0
+uid: 2115117a-dea5-43c5-b107-f58ebc8dce2c
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Sam Walton, *Sam Walton: Made in America*, Philip Franklin Books on Tape 2002 (A
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

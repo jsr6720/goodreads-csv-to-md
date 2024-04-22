@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Rich Dad Poor Dad'"
 date:   2019-10-18 00:00:00 -0400
 tags: book review Kiyosaki 
-uid: e136ec51-3c72-4baa-bdd2-1789c86418db
+uid: 6c2324c7-806f-4fac-9a31-4468212957f0
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Robert T. Kiyosaki, *Rich Dad Poor Dad*, Tim Wheeler Rich Dad on Brilliance Audi
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:31 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:27 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

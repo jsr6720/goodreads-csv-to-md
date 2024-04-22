@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'How to Talk so Kids Will Listen...And Listen So Kids Will Talk'"
 date:   2017-01-23 00:00:00 -0400
 tags: book review Faber 
-uid: 3e749a66-321d-439e-ac83-80f735a6c32c
+uid: 35b55a18-dadc-42a7-92fa-4bf186320f9c
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Adele Faber, *How to Talk so Kids Will Listen...And Listen So Kids Will Talk*, E
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

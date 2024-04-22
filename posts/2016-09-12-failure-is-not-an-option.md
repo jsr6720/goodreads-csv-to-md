@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Failure Is Not an Option'"
 date:   2016-09-12 00:00:00 -0400
 tags: book review Kranz biography
-uid: 3839ab80-a2b1-4adf-9674-e5ff90953e28
+uid: a52e4eb2-43ea-48f4-ae25-4a59a48c2142
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Gene Kranz, *Failure Is Not an Option: Mission Control from Mercury to Apollo 13
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

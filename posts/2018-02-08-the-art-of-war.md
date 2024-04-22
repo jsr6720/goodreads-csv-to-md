@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'The Art of War'"
 date:   2018-02-08 00:00:00 -0400
 tags: book review Wilson 
-uid: 5dfbc5c3-87de-4d7d-96b2-f2799f880ab0
+uid: 38617d23-c65a-4fc1-8d16-b5545bb7f744
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Andrew R. Wilson, *The Art of War*,  The Teaching Company 2012 (Audio CD)[^1]
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

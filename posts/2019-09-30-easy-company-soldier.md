@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Easy Company Soldier'"
 date:   2019-09-30 00:00:00 -0400
 tags: book review Malarkey 
-uid: 8c06c1d7-09c2-454c-ba8c-8b8b010f3068
+uid: 65555dfc-d3bc-43d4-8a2d-d3d34a725dc9
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Don Malarkey, *Easy Company Soldier: The Legendary Battles of a Sergeant from Wo
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:31 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'The Collapse of Parenting'"
 date:   2018-05-17 00:00:00 -0400
 tags: book review Sax parenting personal-development
-uid: 80f81092-e15f-4641-a1b7-fc6d1c6a04a8
+uid: 08492e30-6ea8-48f4-abec-fc484d8e8583
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Leonard Sax, *The Collapse of Parenting: How We Hurt Our Kids When We Treat Them
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

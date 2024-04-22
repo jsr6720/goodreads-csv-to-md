@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'First, Break All the Rules'"
 date:   2017-03-30 00:00:00 -0400
 tags: book review Buckingham business read-again
-uid: 08c4e058-a594-4c99-91a7-958d6bfe85ae
+uid: 1c6adc9e-d391-4d79-9d61-c466ad6a165f
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Marcus Buckingham, *First, Break All the Rules: What the World's Greatest Manage
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

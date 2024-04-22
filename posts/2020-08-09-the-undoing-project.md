@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'The Undoing Project'"
 date:   2020-08-09 00:00:00 -0400
 tags: book review Lewis psychology
-uid: 0c5fd397-f71f-4020-b521-a78c09a396fe
+uid: 549b1f0b-2cce-4c9f-9994-534dd86f5da4
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Michael   Lewis, *The Undoing Project: A Friendship That Changed Our Minds*,  W.
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:31 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:27 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

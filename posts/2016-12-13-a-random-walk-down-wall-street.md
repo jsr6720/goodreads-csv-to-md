@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'A Random Walk Down Wall Street'"
 date:   2016-12-13 00:00:00 -0400
 tags: book review Malkiel business read-again
-uid: b24b245d-3664-414a-aec1-ee96ca2f2369
+uid: d6d375f2-b1ab-4083-a9cb-09136a9ad79a
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Burton G. Malkiel, *A Random Walk Down Wall Street: The Time-Tested Strategy for
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

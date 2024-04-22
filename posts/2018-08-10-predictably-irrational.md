@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Predictably Irrational'"
 date:   2018-08-10 00:00:00 -0400
 tags: book review Ariely economics psychology
-uid: 193e1df2-f8ac-498b-8b13-82e679dc5162
+uid: ccf38290-9063-4baa-a96e-2c7db52efe77
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Dan Ariely, *Predictably Irrational: The Hidden Forces That Shape Our Decisions*
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:31 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

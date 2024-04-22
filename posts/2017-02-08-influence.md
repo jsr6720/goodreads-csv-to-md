@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Influence'"
 date:   2017-02-08 00:00:00 -0400
 tags: book review Cialdini did-not-finish
-uid: 69019523-8626-42e1-a698-31231dddaa06
+uid: dfbd7232-6c2a-4016-bbaf-6d9bbfed4880
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Robert B. Cialdini, *Influence: Science and Practice*,  Allyn & Bacon 2001 (Pape
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

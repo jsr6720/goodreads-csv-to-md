@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Man's Search for Meaning'"
 date:   2016-04-01 00:00:00 -0400
 tags: book review Frankl 
-uid: 654bb4ce-9474-4b2e-bdd0-8ae624872bbf
+uid: 5d0dcad4-153f-4a41-8f7c-bda89fc15185
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Viktor E. Frankl, *Man's Search for Meaning*, Simon Vance Blackstone Audio, Inc.
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

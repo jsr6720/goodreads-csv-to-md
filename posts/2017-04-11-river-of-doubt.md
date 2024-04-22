@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'River of Doubt'"
 date:   2017-04-11 00:00:00 -0400
 tags: book review Millard history biography
-uid: 550f6790-a5f1-40e4-ab4d-5fcbd4207ec4
+uid: dc69de71-9ab1-4f83-92c9-a96f78624a51
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Candice Millard, *River of Doubt*, Paul Michael Books on Tape 2000 (Audio CD)[^1
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

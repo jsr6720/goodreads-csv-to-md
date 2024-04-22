@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Primal Leadership'"
 date:   2019-06-11 00:00:00 -0400
 tags: book review Goleman leadership management philosophy
-uid: 2a3bea41-ee58-4dd4-92b2-f5308470dea2
+uid: f34c07e6-1f7c-4c6b-ae6e-1aa3131a1dd8
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Daniel Goleman, *Primal Leadership: Realizing the Power of Emotional Intelligenc
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:31 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

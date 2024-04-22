@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Empire of the Summer Moon'"
 date:   2021-08-25 00:00:00 -0400
 tags: book review Gwynne history biography
-uid: 33f2ef07-7cd9-41db-897f-0803dfcf552b
+uid: 4146083f-ed2a-4ecc-ba85-026f2567466d
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ S.C. Gwynne, *Empire of the Summer Moon*,  Scribner 2010 (Hardcover)[^1]
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:31 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:27 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

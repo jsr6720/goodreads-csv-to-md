@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Confronting Reality Doing What Matters to Get Things Right'"
 date:   2017-12-17 00:00:00 -0400
 tags: book review Bossidy business
-uid: af7d52bf-fe05-4bea-a3c5-e6b2d448f3f3
+uid: f3a1fb2d-f995-4683-8491-82908592962d
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Larry Bossidy, *Confronting Reality Doing What Matters to Get Things Right*, Ram
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

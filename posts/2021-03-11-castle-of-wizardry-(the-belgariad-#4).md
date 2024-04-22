@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Castle of Wizardry (The Belgariad #4)'"
 date:   2021-03-11 00:00:00 -0400
 tags: book review Eddings fantasy childhood-favorite
-uid: 10b567cb-ded8-4f41-9da4-2b2d7a759687
+uid: a527b31c-d7d6-47f2-a433-92ee8cde845f
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ David Eddings, *Castle of Wizardry (The Belgariad #4)*,  Del Rey 1984 (Mass Mark
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:31 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:27 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

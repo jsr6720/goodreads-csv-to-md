@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'The One Minute Manager'"
 date:   2017-09-16 00:00:00 -0400
 tags: book review Blanchard business
-uid: 2029e666-8aa8-4019-a256-9591b01748a5
+uid: 8c604699-81b0-49ac-8726-92cdb9d33fbb
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Kenneth H. Blanchard, *The One Minute Manager*, Eric Conger HarperAudio 2003 (Au
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

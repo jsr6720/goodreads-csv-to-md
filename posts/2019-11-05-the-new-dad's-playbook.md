@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'The New Dad's Playbook'"
 date:   2019-11-05 00:00:00 -0400
 tags: book review Watson did-not-finish
-uid: bb11302d-19a6-431e-bc21-e3fd1da98445
+uid: f2982dca-9022-41cb-a60a-16011187462e
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Benjamin Watson, *The New Dad's Playbook: Gearing Up for the Biggest Game of You
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:31 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:27 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

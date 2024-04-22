@@ -8,9 +8,6 @@ from sanitize_filename import sanitize # pip3 install sanitize_filename
 
 ## count number csv rows and number files generated should match
 ## optional download book image
-## some reviews have links to authors/books. need to parse those
-### [a:Drucker Peter F|12008|Peter F. Drucker|https://d2arxad8u2l0g7.cloudfront.net/authors/1318472244p2/12008.jpg]
-### [b:The 80/20 Principle: The Secret to Achieving More with Less|181206|The 80/20 Principle  The Secret to Achieving More with Less|Richard Koch|https://images.gr-assets.com/books/1437557431s/181206.jpg|175093]
 
 # some flags for working with the script
 config = {

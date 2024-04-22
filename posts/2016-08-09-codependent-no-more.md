@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Codependent No More'"
 date:   2016-08-09 00:00:00 -0400
 tags: book review Beattie personal-development
-uid: 0844e1c6-9a2f-48c3-9562-c8300651ad95
+uid: 23a4b00c-8fc2-4efa-b923-9328fc7f586c
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Melody Beattie, *Codependent No More: How to Stop Controlling Others and Start C
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

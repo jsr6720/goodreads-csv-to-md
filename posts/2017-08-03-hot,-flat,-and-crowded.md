@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Hot, Flat, and Crowded'"
 date:   2017-08-03 00:00:00 -0400
 tags: book review Friedman did-not-finish
-uid: 41a3e911-e58b-41c1-bcb9-7f5b76bc7892
+uid: 1cb28d8f-3ef2-4c95-b9bb-dcf11de834bb
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Thomas L. Friedman, *Hot, Flat, and Crowded: Why We Need a Green Revolution and 
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

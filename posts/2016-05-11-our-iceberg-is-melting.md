@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Our Iceberg Is Melting'"
 date:   2016-05-11 00:00:00 -0400
 tags: book review Kotter business
-uid: dbe01038-03d9-4543-8bc4-c7b3a6e0e175
+uid: c3ef2d0e-6ea6-4f86-b333-cb7dde261f7f
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ John P. Kotter, *Our Iceberg Is Melting: Changing and Succeeding Under Any Condi
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

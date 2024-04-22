@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'The Alliance'"
 date:   2018-02-18 00:00:00 -0400
 tags: book review Hoffman 
-uid: f3289f15-f4a1-4656-b487-8e0138d4afa6
+uid: 1bc96891-e02a-44c8-90e9-6eabb4a82d84
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ Reid Hoffman, *The Alliance: Managing Talent in the Networked Age*, Ben Casnocha
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes

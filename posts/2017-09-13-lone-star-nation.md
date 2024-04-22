@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Detect Thoughts on 'Lone Star Nation'"
 date:   2017-09-13 00:00:00 -0400
 tags: book review Brands history
-uid: bdb13c68-489e-43e0-9dd3-f991301b08b3
+uid: 55c2cfcd-60f1-4417-bee0-b88c602b3414
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
@@ -40,7 +40,7 @@ H.W. Brands, *Lone Star Nation*,  Books on tape 2004 (Audio CD)[^1]
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ 2024-04-22 01:43:32 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ 2024-04-22 01:58:28 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
