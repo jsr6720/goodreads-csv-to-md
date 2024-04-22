@@ -4,15 +4,17 @@ Takes an exported Goodreads CSV and generates markdown files targeting jekyll md
 
 They[citation needed](https://xkcd.com/285/) say the brain can't tell the difference between audio books and physical books, majority of this list was consumed via audioCD during my commute to/from work.
 
-### Steps to export
+### Steps to generate md files
 
-1. [Export your goodreads data](#export-of-goodreads-data) to csv
+1. [Export your goodreads data](#export-of-goodreads-data) to csv and place in `goodreads-data` folder
 2. Modify [basic template](/md-template.md) and/or [jekyll template](/jekyll-template.md) to your hearts content
-3. run ```python goodreads-csv-to-markdown.py```
-    * If you're getting a ```KeyError``` it most likely means you have a misnamed ```{header}``` in your tempalte
+3. run `make clean generate`
+    * If you're getting a `KeyError` it most likely means you have a misnamed `{header}` in your template. It also dislikes whitespace `{ header } !== {header}` 
 4. Copy markdown output to new system of record
 
 Just realized that I combined a utility script with my own data. So probably fork and replace data.
+
+Also realized I don't check for unique file names. See *Art of War* example in this content.
 
 ## Very manual process
 
@@ -28,7 +30,7 @@ For now I generate a goodreads URL using the `Book Id` column.
 
 Had fun tracking my books at [goodreads.com](https://www.goodreads.com) but I wanted to consolidate my data to the one true overlord MSFT and use it as content for my [personal site](https://jsrowe.com) hosted at [jsr6720.github.io](https://github.com/jsr6720/jsr6720.github.io).
 
-The [goodreads_library_export_original.csv](./goodreads_library_export_original.csv) was generated from [Account Settings Page](https://help.goodreads.com/s/article/How-do-I-get-a-copy-of-my-data-from-Goodreads). I discovered some data that was easier for me clean up via goodreads UI so I [re-exported](./goodreads_library_export.csv) it for use with this script. Specifically the deleting of books from the "Want to read" bookshelf.
+The [goodreads_library_export_original.csv](./goodreads-data/goodreads-library-export-original.csv) was generated from [Account Settings Page](https://help.goodreads.com/s/article/How-do-I-get-a-copy-of-my-data-from-Goodreads). I discovered some data that was easier for me clean up via goodreads UI so I [re-exported](./goodreads-data/goodreads-library-export.csv) it for use with this script. Specifically the deleting of books from the "Want to read" bookshelf.
 
 ## Goodreads account data
 
@@ -40,7 +42,7 @@ FAVORITE GENRES: Biography, Business, Classics, History, Non-fiction, Philosophy
 
 ## Screenshot of stats
 
-![good read stats from account overview page](good-read-stats.png)
+![good read stats from account overview page](/goodreads-data/goodread-stats.png)
 
 ## Licenses
 
