@@ -24,7 +24,7 @@ uid: {guid}
 
 *{Title}* by {Author}
 
-https://www.goodreads.com/book/show/{Book Id}
+[https://www.goodreads.com/book/show/{Book Id}](https://www.goodreads.com/book/show/{Book Id})
 
 Bookshelves: {Bookshelves}
 
@@ -32,7 +32,7 @@ Bookshelves: {Bookshelves}
 
 ##### Author's Note
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
+Initial `md` Generated using [https://github.com/jsr6720/goodreads-csv-to-md](https://github.com/jsr6720/goodreads-csv-to-md)
 
 {Author}, *{Title}*, {Additional Authors} {Publisher} {Year Published} ({Binding})[^1]
 
