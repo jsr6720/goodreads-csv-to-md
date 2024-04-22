@@ -1,43 +1,48 @@
 ---
 layout: post
 author: James Rowe
-title:  "<<title-similiar-to-filename>>"
-date:   <<date-added>>
-tags: <<tags-csv>
-uid: <<uid>>
+title:  "Detect Thoughts on 'All I Really Need to Know I Learned in Kindergarten'"
+date:   2018-06-20 00:00:00 -0400
+tags: book review Fulghum 
+uid: cc04b538-6226-4310-867d-1d07246a2bab
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-
-## Title
-
-All I Really Need to Know I Learned in Kindergarten: Uncommon Thoughts on Common Things by Robert Fulghum
-Empty 
-
-https://www.goodreads.com/book/show/862478
-
-Bookshelves
-
-Exclusive: read
-
-Bookshelves: Empty
-
-Binding/Format: Hardcover
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 3/5
 
 Fun read with nuggets of wisdeom contained in chapters.<br/><br/>One or two will jump out and grab you. Watch out.
 
+### Date Read
+
+
+### Date Added
+2018/06/20
+
+## Goodreads book information
+
+*All I Really Need to Know I Learned in Kindergarten: Uncommon Thoughts on Common Things* by Robert Fulghum
+
+https://www.goodreads.com/book/show/862478
+
+Bookshelves: 
+
 ---
 
 ##### Author's Note
 
-Generated using https://github.com/jsr6720/goodreads-csv-to-md script
+Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
+
+Robert Fulghum, *All I Really Need to Know I Learned in Kindergarten: Uncommon Thoughts on Common Things*,  Ballantine Books 2003 (Hardcover)[^1]
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [{ site.url }]({ site.url }) with uid { page.uid }
+- {{ 2024-04-22 02:51:11 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
+
+[^1]: ISBN: ="0345466179"

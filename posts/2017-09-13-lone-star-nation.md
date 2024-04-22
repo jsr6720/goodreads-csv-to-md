@@ -1,43 +1,48 @@
 ---
 layout: post
 author: James Rowe
-title:  "<<title-similiar-to-filename>>"
-date:   <<date-added>>
-tags: <<tags-csv>
-uid: <<uid>>
+title:  "Detect Thoughts on 'Lone Star Nation'"
+date:   2017-09-13 00:00:00 -0400
+tags: book review Brands history
+uid: 718509d3-e699-4cfe-ada0-ee9bebca2f73
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-
-## Title
-
-Lone Star Nation by H.W. Brands
-Empty 
-
-https://www.goodreads.com/book/show/6890
-
-Bookshelves
-
-Exclusive: read
-
-Bookshelves: history
-
-Binding/Format: Audio CD
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 5/5
 
-Great book that reminds me a lot of [a:David McCullough|6281688|David McCullough|https://images.gr-assets.com/authors/1429921568p2/6281688.jpg] writing style. Especially [b:John Adams|2203|John Adams|David McCullough|https://images.gr-assets.com/books/1478144278s/2203.jpg|963375].<br/><br/>This book delves just deep enough into the anthropology/geologic/political history of spain/mexico/france to give a solid background of Texas without being overbearing.<br/><br/>All the heros are present and accounted for. Great book.
+Great book that reminds me a lot of [David McCullough](https://www.goodreads.com/author/show/6281688) writing style. Especially [John Adams](https://www.goodreads.com/book/show/2203).<br/><br/>This book delves just deep enough into the anthropology/geologic/political history of spain/mexico/france to give a solid background of Texas without being overbearing.<br/><br/>All the heros are present and accounted for. Great book.
+
+### Date Read
+2017/09/13
+
+### Date Added
+2017/08/25
+
+## Goodreads book information
+
+*Lone Star Nation* by H.W. Brands
+
+https://www.goodreads.com/book/show/6890
+
+Bookshelves: history
 
 ---
 
 ##### Author's Note
 
-Generated using https://github.com/jsr6720/goodreads-csv-to-md script
+Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
+
+H.W. Brands, *Lone Star Nation*,  Books on tape 2004 (Audio CD)[^1]
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [{ site.url }]({ site.url }) with uid { page.uid }
+- {{ 2024-04-22 02:51:11 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
+
+[^1]: ISBN: ="0736699317"

@@ -1,43 +1,48 @@
 ---
 layout: post
 author: James Rowe
-title:  "<<title-similiar-to-filename>>"
-date:   <<date-added>>
-tags: <<tags-csv>
-uid: <<uid>>
+title:  "Detect Thoughts on 'The Undoing Project'"
+date:   2020-08-09 00:00:00 -0400
+tags: book review Lewis psychology
+uid: 679249bd-49bf-47ac-9a4a-1a06493d9687
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-
-## Title
-
-The Undoing Project: A Friendship That Changed Our Minds by Michael   Lewis
-Empty 
-
-https://www.goodreads.com/book/show/35631386
-
-Bookshelves
-
-Exclusive: read
-
-Bookshelves: psychology
-
-Binding/Format: Paperback
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 5/5
 
 Great history on Kahneman and Tversky and their twin roles in identifying the non-rational aspects of our natures. Excellent story telling by Lewis.<br/><br/>Book covers the personal lives and interactions of each Kahneman and Tversky.
 
+### Date Read
+2020/08/09
+
+### Date Added
+2020/07/03
+
+## Goodreads book information
+
+*The Undoing Project: A Friendship That Changed Our Minds* by Michael   Lewis
+
+https://www.goodreads.com/book/show/35631386
+
+Bookshelves: psychology
+
 ---
 
 ##### Author's Note
 
-Generated using https://github.com/jsr6720/goodreads-csv-to-md script
+Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
+
+Michael   Lewis, *The Undoing Project: A Friendship That Changed Our Minds*,  W. W. Norton & Company 2017 (Paperback)[^1]
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [{ site.url }]({ site.url }) with uid { page.uid }
+- {{ 2024-04-22 02:51:11 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
+
+[^1]: ISBN: ="0393354776"

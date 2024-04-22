@@ -1,43 +1,48 @@
 ---
 layout: post
 author: James Rowe
-title:  "<<title-similiar-to-filename>>"
-date:   <<date-added>>
-tags: <<tags-csv>
-uid: <<uid>>
+title:  "Detect Thoughts on 'The One Minute Manager'"
+date:   2017-09-16 00:00:00 -0400
+tags: book review Blanchard business
+uid: 54031e70-5026-4ccf-aad5-ab3f3f9e8eab
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-
-## Title
-
-The One Minute Manager by Kenneth H. Blanchard
-Eric Conger 
-
-https://www.goodreads.com/book/show/558962
-
-Bookshelves
-
-Exclusive: read
-
-Bookshelves: business
-
-Binding/Format: Audio CD
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 3/5
 
 Take aways:<br/><br/>Trust your people<br/>Weekly status meetings to ensure progress<br/><br/>* One minute goal settings<br/>* One minute praising<br/>* One minute reprimands<br/><br/>Bottom line, Clear expectations drive clear results.
 
+### Date Read
+2017/09/16
+
+### Date Added
+2017/09/18
+
+## Goodreads book information
+
+*The One Minute Manager* by Kenneth H. Blanchard
+
+https://www.goodreads.com/book/show/558962
+
+Bookshelves: business
+
 ---
 
 ##### Author's Note
 
-Generated using https://github.com/jsr6720/goodreads-csv-to-md script
+Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
+
+Kenneth H. Blanchard, *The One Minute Manager*, Eric Conger HarperAudio 2003 (Audio CD)[^1]
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [{ site.url }]({ site.url }) with uid { page.uid }
+- {{ 2024-04-22 02:51:11 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
+
+[^1]: ISBN: ="0060567503"

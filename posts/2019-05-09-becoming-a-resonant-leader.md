@@ -1,43 +1,48 @@
 ---
 layout: post
 author: James Rowe
-title:  "<<title-similiar-to-filename>>"
-date:   <<date-added>>
-tags: <<tags-csv>
-uid: <<uid>>
+title:  "Detect Thoughts on 'Becoming a Resonant Leader'"
+date:   2019-05-09 00:00:00 -0400
+tags: book review McKee did-not-finish
+uid: d7e3c600-bde4-4933-aa12-e083b35bf0c3
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-
-## Title
-
-Becoming a Resonant Leader: Develop Your Emotional Intelligence, Renew Your Relationships, Sustain Your Effectiveness by Annie McKee
-Richard E. Boyatzis, Jonathan Marosz, Frances Johnston 
-
-https://www.goodreads.com/book/show/6131895
-
-Bookshelves
-
-Exclusive: did-not-finish
-
-Bookshelves: did-not-finish
-
-Binding/Format: Audio CD
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 0/5
 
 Empty
 
+### Date Read
+
+
+### Date Added
+2019/05/09
+
+## Goodreads book information
+
+*Becoming a Resonant Leader: Develop Your Emotional Intelligence, Renew Your Relationships, Sustain Your Effectiveness* by Annie McKee
+
+https://www.goodreads.com/book/show/6131895
+
+Bookshelves: did-not-finish
+
 ---
 
 ##### Author's Note
 
-Generated using https://github.com/jsr6720/goodreads-csv-to-md script
+Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
+
+Annie McKee, *Becoming a Resonant Leader: Develop Your Emotional Intelligence, Renew Your Relationships, Sustain Your Effectiveness*, Richard E. Boyatzis, Jonathan Marosz, Frances Johnston Your Coach Digital 2008 (Audio CD)[^1]
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [{ site.url }]({ site.url }) with uid { page.uid }
+- {{ 2024-04-22 02:51:11 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
+
+[^1]: ISBN: ="159659165X"

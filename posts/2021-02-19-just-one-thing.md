@@ -1,43 +1,48 @@
 ---
 layout: post
 author: James Rowe
-title:  "<<title-similiar-to-filename>>"
-date:   <<date-added>>
-tags: <<tags-csv>
-uid: <<uid>>
+title:  "Detect Thoughts on 'Just One Thing'"
+date:   2021-02-19 00:00:00 -0400
+tags: book review Hanson personal-development philosophy
+uid: 7321cf18-6867-415d-b651-b96a979b84a3
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-
-## Title
-
-Just One Thing: Developing a Buddha Brain One Simple Practice at a Time by Rick Hanson
-Empty 
-
-https://www.goodreads.com/book/show/11276139
-
-Bookshelves
-
-Exclusive: read
-
-Bookshelves: personal-development, philosophy
-
-Binding/Format: Paperback
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 5/5
 
 Great volume that's worth a read and re-read. Focus in on the things to approach happiness by Letting Go and appreciating all the wonderful things in life.<br/><br/>While our neurons and evolution have wired us to see the negative in life. This makes for poor mental health. Focus on the positives and reduce stress.
 
+### Date Read
+2021/02/19
+
+### Date Added
+2021/02/15
+
+## Goodreads book information
+
+*Just One Thing: Developing a Buddha Brain One Simple Practice at a Time* by Rick Hanson
+
+https://www.goodreads.com/book/show/11276139
+
+Bookshelves: personal-development, philosophy
+
 ---
 
 ##### Author's Note
 
-Generated using https://github.com/jsr6720/goodreads-csv-to-md script
+Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
+
+Rick Hanson, *Just One Thing: Developing a Buddha Brain One Simple Practice at a Time*,  New Harbinger Publications 2011 (Paperback)[^1]
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [{ site.url }]({ site.url }) with uid { page.uid }
+- {{ 2024-04-22 02:51:11 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
+
+[^1]: ISBN: ="1608820319"

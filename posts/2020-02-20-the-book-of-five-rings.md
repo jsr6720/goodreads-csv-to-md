@@ -1,43 +1,48 @@
 ---
 layout: post
 author: James Rowe
-title:  "<<title-similiar-to-filename>>"
-date:   <<date-added>>
-tags: <<tags-csv>
-uid: <<uid>>
+title:  "Detect Thoughts on 'The Book of Five Rings'"
+date:   2020-02-20 00:00:00 -0400
+tags: book review Musashi history
+uid: 744d2a98-adc7-44a0-ac5d-70f0f1cd5d97
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-
-## Title
-
-The Book of Five Rings by Miyamoto Musashi
-Shiro Tsujimura, William Scott Wilson 
-
-https://www.goodreads.com/book/show/13151220
-
-Bookshelves
-
-Exclusive: read
-
-Bookshelves: history
-
-Binding/Format: Hardcover
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 4/5
 
 Focuses on the combat aspects of leadership, but has concepts as well.
 
+### Date Read
+2020/02/20
+
+### Date Added
+2020/01/16
+
+## Goodreads book information
+
+*The Book of Five Rings* by Miyamoto Musashi
+
+https://www.goodreads.com/book/show/13151220
+
+Bookshelves: history
+
 ---
 
 ##### Author's Note
 
-Generated using https://github.com/jsr6720/goodreads-csv-to-md script
+Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
+
+Miyamoto Musashi, *The Book of Five Rings*, Shiro Tsujimura, William Scott Wilson Shambhala 2012 (Hardcover)[^1]
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [{ site.url }]({ site.url }) with uid { page.uid }
+- {{ 2024-04-22 02:51:11 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
+
+[^1]: ISBN: ="1590309847"

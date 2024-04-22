@@ -1,43 +1,48 @@
 ---
 layout: post
 author: James Rowe
-title:  "<<title-similiar-to-filename>>"
-date:   <<date-added>>
-tags: <<tags-csv>
-uid: <<uid>>
+title:  "Detect Thoughts on 'First Bite'"
+date:   2018-11-14 00:00:00 -0400
+tags: book review Wilson personal-development psychology food
+uid: d4ae41da-81e4-42c3-8868-d7b1504d558e
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-
-## Title
-
-First Bite: How We Learn to Eat by Bee Wilson
-Empty 
-
-https://www.goodreads.com/book/show/28153282
-
-Bookshelves
-
-Exclusive: read
-
-Bookshelves: personal-development, psychology, food
-
-Binding/Format: Audio CD
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 4/5
 
 Great book that tracks eating habits from birth to adulthood.<br/><br/>Bottom line. Eating habits are learned and cultural. Some key takeaways<br/><br/>1. Kids have a 'flavor' palate window 4months to 7months so early food tastes are critical<br/>2. It's never too late to change eating habits and behaviors<br/>3. Family dinner time is still an incredibly important aspect of healthy eating habits
 
+### Date Read
+2018/11/14
+
+### Date Added
+2018/11/08
+
+## Goodreads book information
+
+*First Bite: How We Learn to Eat* by Bee Wilson
+
+https://www.goodreads.com/book/show/28153282
+
+Bookshelves: personal-development, psychology, food
+
 ---
 
 ##### Author's Note
 
-Generated using https://github.com/jsr6720/goodreads-csv-to-md script
+Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
+
+Bee Wilson, *First Bite: How We Learn to Eat*,  Blackstone Audiobooks 2015 (Audio CD)[^1]
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [{ site.url }]({ site.url }) with uid { page.uid }
+- {{ 2024-04-22 02:51:11 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
+
+[^1]: ISBN: ="1504657705"

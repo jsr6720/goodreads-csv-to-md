@@ -1,43 +1,48 @@
 ---
 layout: post
 author: James Rowe
-title:  "<<title-similiar-to-filename>>"
-date:   <<date-added>>
-tags: <<tags-csv>
-uid: <<uid>>
+title:  "Detect Thoughts on 'Great by Choice'"
+date:   2018-03-28 00:00:00 -0400
+tags: book review Collins business
+uid: f26b922a-bd87-4d4b-8898-07a44e619351
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-
-## Title
-
-Great by Choice by Jim Collins
-Morten T. Hansen 
-
-https://www.goodreads.com/book/show/12776650
-
-Bookshelves
-
-Exclusive: read
-
-Bookshelves: business
-
-Binding/Format: Audio CD
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 4/5
 
 Discipline and targeted moves are the key to success. Anyone chasing a miracle will be shocked to discover years of hard work. This book is different from his previous work because of the study emphasis on surviving and thriving during difficult macro-economic times
 
+### Date Read
+2018/03/28
+
+### Date Added
+2018/03/16
+
+## Goodreads book information
+
+*Great by Choice* by Jim Collins
+
+https://www.goodreads.com/book/show/12776650
+
+Bookshelves: business
+
 ---
 
 ##### Author's Note
 
-Generated using https://github.com/jsr6720/goodreads-csv-to-md script
+Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
+
+Jim Collins, *Great by Choice*, Morten T. Hansen HarperAudio 2011 (Audio CD)[^1]
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [{ site.url }]({ site.url }) with uid { page.uid }
+- {{ 2024-04-22 02:51:11 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
+
+[^1]: ISBN: ="0062121022"

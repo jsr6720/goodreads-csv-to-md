@@ -1,43 +1,48 @@
 ---
 layout: post
 author: James Rowe
-title:  "<<title-similiar-to-filename>>"
-date:   <<date-added>>
-tags: <<tags-csv>
-uid: <<uid>>
+title:  "Detect Thoughts on 'Business @ the Speed (Lib)(CD)'"
+date:   2017-07-31 00:00:00 -0400
+tags: book review Gates 
+uid: 985e5384-9a4d-4586-af7c-4ea25cd42109
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-
-## Title
-
-Business @ the Speed (Lib)(CD) by Bill  Gates
-Empty 
-
-https://www.goodreads.com/book/show/16681335
-
-Bookshelves
-
-Exclusive: read
-
-Bookshelves: Empty
-
-Binding/Format: Audio CD
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 3/5
 
 Book hasn't aged well in regards to technology, but then again it's 20 years old.<br/><br/>Key take away<br/>* technology should be streamlining process<br/>* new technology should coincide re-evaluating existing processes<br/>* CEO is ultimately responsible for 
 
+### Date Read
+2017/07/31
+
+### Date Added
+2017/07/17
+
+## Goodreads book information
+
+*Business @ the Speed (Lib)(CD)* by Bill  Gates
+
+https://www.goodreads.com/book/show/16681335
+
+Bookshelves: 
+
 ---
 
 ##### Author's Note
 
-Generated using https://github.com/jsr6720/goodreads-csv-to-md script
+Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
+
+Bill  Gates, *Business @ the Speed (Lib)(CD)*,  Books on Tape 2000 (Audio CD)[^1]
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [{ site.url }]({ site.url }) with uid { page.uid }
+- {{ 2024-04-22 02:51:11 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
+
+[^1]: ISBN: ="0736651616"

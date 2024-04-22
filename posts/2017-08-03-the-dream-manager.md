@@ -1,43 +1,48 @@
 ---
 layout: post
 author: James Rowe
-title:  "<<title-similiar-to-filename>>"
-date:   <<date-added>>
-tags: <<tags-csv>
-uid: <<uid>>
+title:  "Detect Thoughts on 'The Dream Manager'"
+date:   2017-08-03 00:00:00 -0400
+tags: book review Kelly 
+uid: ed241990-7ff1-4210-bec1-48bf1cff4f3a
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-
-## Title
-
-The Dream Manager by Matthew Kelly
-David Slavin 
-
-https://www.goodreads.com/book/show/1794345
-
-Bookshelves
-
-Exclusive: read
-
-Bookshelves: Empty
-
-Binding/Format: Audio CD
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 4/5
 
 Care about your people and yourself and they in turn will care about the business.
 
+### Date Read
+2017/08/03
+
+### Date Added
+2017/08/03
+
+## Goodreads book information
+
+*The Dream Manager* by Matthew Kelly
+
+https://www.goodreads.com/book/show/1794345
+
+Bookshelves: 
+
 ---
 
 ##### Author's Note
 
-Generated using https://github.com/jsr6720/goodreads-csv-to-md script
+Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
+
+Matthew Kelly, *The Dream Manager*, David Slavin Hyperion 2007 (Audio CD)[^1]
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [{ site.url }]({ site.url }) with uid { page.uid }
+- {{ 2024-04-22 02:51:11 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
+
+[^1]: ISBN: ="1401388442"

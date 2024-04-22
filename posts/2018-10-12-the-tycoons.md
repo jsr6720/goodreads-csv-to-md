@@ -1,43 +1,48 @@
 ---
 layout: post
 author: James Rowe
-title:  "<<title-similiar-to-filename>>"
-date:   <<date-added>>
-tags: <<tags-csv>
-uid: <<uid>>
+title:  "Detect Thoughts on 'The Tycoons'"
+date:   2018-10-12 00:00:00 -0400
+tags: book review Morris business history
+uid: 00131211-7298-4935-b3ce-3440d9dc1d0c
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-
-## Title
-
-The Tycoons: How Andrew Carnegie, John D. Rockefeller, Jay Gould, and J. P. Morgan Invented the American Supereconomy by Charles R. Morris
-Empty 
-
-https://www.goodreads.com/book/show/23222748
-
-Bookshelves
-
-Exclusive: read
-
-Bookshelves: business, history
-
-Binding/Format: Audio CD
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 4/5
 
 First. This is not not a biography of the four tycoons as much as it is a trawling history from the end of the Civil War through the early 1900s.<br/><br/>However there are many lessons in the boom/bust cycle of frothy investing that are playing out again today with technology firms.<br/><br/>A great read that goes several manager structures deeper than just the figureheads and how that impacted the everyday man. Just be prepared for chapters of context that are skim-able.
 
+### Date Read
+2018/10/12
+
+### Date Added
+2018/09/26
+
+## Goodreads book information
+
+*The Tycoons: How Andrew Carnegie, John D. Rockefeller, Jay Gould, and J. P. Morgan Invented the American Supereconomy* by Charles R. Morris
+
+https://www.goodreads.com/book/show/23222748
+
+Bookshelves: business, history
+
 ---
 
 ##### Author's Note
 
-Generated using https://github.com/jsr6720/goodreads-csv-to-md script
+Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
+
+Charles R. Morris, *The Tycoons: How Andrew Carnegie, John D. Rockefeller, Jay Gould, and J. P. Morgan Invented the American Supereconomy*,  Blackstone Audiobooks 2014 (Audio CD)[^1]
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [{ site.url }]({ site.url }) with uid { page.uid }
+- {{ 2024-04-22 02:51:11 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
+
+[^1]: ISBN: ="1481516329"

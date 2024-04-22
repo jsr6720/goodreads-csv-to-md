@@ -1,43 +1,48 @@
 ---
 layout: post
 author: James Rowe
-title:  "<<title-similiar-to-filename>>"
-date:   <<date-added>>
-tags: <<tags-csv>
-uid: <<uid>>
+title:  "Detect Thoughts on 'Thank You for Being Late'"
+date:   2018-04-20 00:00:00 -0400
+tags: book review Friedman history
+uid: 8b03c62d-342c-4306-8856-4dea05e097e3
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-
-## Title
-
-Thank You for Being Late: Finding a Job, Running a Country, and Keeping Your Head in an Age of Accelerations by Thomas L. Friedman
-Oliver Wyman 
-
-https://www.goodreads.com/book/show/26792267
-
-Bookshelves
-
-Exclusive: read
-
-Bookshelves: history
-
-Binding/Format: Audio CD
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 4/5
 
 Empty
 
+### Date Read
+2018/04/20
+
+### Date Added
+2018/03/28
+
+## Goodreads book information
+
+*Thank You for Being Late: Finding a Job, Running a Country, and Keeping Your Head in an Age of Accelerations* by Thomas L. Friedman
+
+https://www.goodreads.com/book/show/26792267
+
+Bookshelves: history
+
 ---
 
 ##### Author's Note
 
-Generated using https://github.com/jsr6720/goodreads-csv-to-md script
+Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
+
+Thomas L. Friedman, *Thank You for Being Late: Finding a Job, Running a Country, and Keeping Your Head in an Age of Accelerations*, Oliver Wyman Macmillan Audio 2016 (Audio CD)[^1]
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [{ site.url }]({ site.url }) with uid { page.uid }
+- {{ 2024-04-22 02:51:11 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
+
+[^1]: ISBN: ="1427274665"

@@ -1,43 +1,48 @@
 ---
 layout: post
 author: James Rowe
-title:  "<<title-similiar-to-filename>>"
-date:   <<date-added>>
-tags: <<tags-csv>
-uid: <<uid>>
+title:  "Detect Thoughts on 'Leadership'"
+date:   2020-10-12 00:00:00 -0400
+tags: book review Goodwin biography leadership history
+uid: d69e7856-23d9-44ec-a05a-569dc7ff6071
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-
-## Title
-
-Leadership: In Turbulent Times by Doris Kearns Goodwin
-Empty 
-
-https://www.goodreads.com/book/show/38657386
-
-Bookshelves
-
-Exclusive: read
-
-Bookshelves: biography, leadership, history
-
-Binding/Format: Hardcover
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 5/5
 
-Great book that is more a collection of essays looking into the leadership styles of 4 great luminaries. I read this along side [b:Leading Change|51370|Leading Change|John P. Kotter|https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1427779756l/51370._SX50_.jpg|50134] and it paired really nicely. Contrasting how effective leaders lead change and a blue print for all changes.<br/><br/>Of particular note was the setbacks sections. It was humbling to read about how each leader had serious setbacks in their life. None of them had a straight path 'to the top'. Two of them LBJ/Roosevelt had taken the VP job only to find themselves trust into the spotlight.<br/><br/>Are Leaders born or made? Do the circumstances make the man, or does the man rise to the occasion? You'll find all this and more in this great novel. Left me with my favorite book 'hungover' sensation.
+Great book that is more a collection of essays looking into the leadership styles of 4 great luminaries. I read this along side [Leading Change](https://www.goodreads.com/book/show/51370) and it paired really nicely. Contrasting how effective leaders lead change and a blue print for all changes.<br/><br/>Of particular note was the setbacks sections. It was humbling to read about how each leader had serious setbacks in their life. None of them had a straight path 'to the top'. Two of them LBJ/Roosevelt had taken the VP job only to find themselves trust into the spotlight.<br/><br/>Are Leaders born or made? Do the circumstances make the man, or does the man rise to the occasion? You'll find all this and more in this great novel. Left me with my favorite book 'hungover' sensation.
+
+### Date Read
+2020/10/12
+
+### Date Added
+2020/09/14
+
+## Goodreads book information
+
+*Leadership: In Turbulent Times* by Doris Kearns Goodwin
+
+https://www.goodreads.com/book/show/38657386
+
+Bookshelves: biography, leadership, history
 
 ---
 
 ##### Author's Note
 
-Generated using https://github.com/jsr6720/goodreads-csv-to-md script
+Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
+
+Doris Kearns Goodwin, *Leadership: In Turbulent Times*,  Simon & Schuster 2018 (Hardcover)[^1]
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [{ site.url }]({ site.url }) with uid { page.uid }
+- {{ 2024-04-22 02:51:11 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
+
+[^1]: ISBN: =""

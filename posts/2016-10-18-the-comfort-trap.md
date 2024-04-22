@@ -1,43 +1,48 @@
 ---
 layout: post
 author: James Rowe
-title:  "<<title-similiar-to-filename>>"
-date:   <<date-added>>
-tags: <<tags-csv>
-uid: <<uid>>
+title:  "Detect Thoughts on 'The Comfort Trap'"
+date:   2016-10-18 00:00:00 -0400
+tags: book review Sills personal-development psychology
+uid: c6f4235a-2971-4735-b48f-aeea45a0262d
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-
-## Title
-
-The Comfort Trap: or, What If You're Riding a Dead Horse? by Judith Sills
-Empty 
-
-https://www.goodreads.com/book/show/5215642
-
-Bookshelves
-
-Exclusive: read
-
-Bookshelves: personal-development, psychology
-
-Binding/Format: Audio CD
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 5/5
 
 Great book, but I feel that ratings skew to how much you can personally identify yourself in the patterns.<br/><br/>The best lesson learned is that the fear of change can keep us shackled in an unhappy situation long past it's prime. Be proactive on these situations and live life.
 
+### Date Read
+2016/10/18
+
+### Date Added
+2016/10/11
+
+## Goodreads book information
+
+*The Comfort Trap: or, What If You're Riding a Dead Horse?* by Judith Sills
+
+https://www.goodreads.com/book/show/5215642
+
+Bookshelves: personal-development, psychology
+
 ---
 
 ##### Author's Note
 
-Generated using https://github.com/jsr6720/goodreads-csv-to-md script
+Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
+
+Judith Sills, *The Comfort Trap: or, What If You're Riding a Dead Horse?*,  HighBridge Company 2004 (Audio CD)[^1]
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [{ site.url }]({ site.url }) with uid { page.uid }
+- {{ 2024-04-22 02:51:11 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
+
+[^1]: ISBN: ="1565118472"

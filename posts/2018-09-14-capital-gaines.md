@@ -1,43 +1,48 @@
 ---
 layout: post
 author: James Rowe
-title:  "<<title-similiar-to-filename>>"
-date:   <<date-added>>
-tags: <<tags-csv>
-uid: <<uid>>
+title:  "Detect Thoughts on 'Capital Gaines'"
+date:   2018-09-14 00:00:00 -0400
+tags: book review Gaines did-not-finish
+uid: 1acf3127-7916-4a37-9b1b-9e3ad83a4ef9
 ---
 
 <!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-
-## Title
-
-Capital Gaines: Smart Things I Learned Doing Stupid Stuff by Chip Gaines
-Mark Dagostino 
-
-https://www.goodreads.com/book/show/35433739
-
-Bookshelves
-
-Exclusive: did-not-finish
-
-Bookshelves: did-not-finish
-
-Binding/Format: Audio CD
+<!-- escape any jekyll keys with double brackets -->
 
 ## My Review 0/5
 
 Empty
 
+### Date Read
+
+
+### Date Added
+2018/09/14
+
+## Goodreads book information
+
+*Capital Gaines: Smart Things I Learned Doing Stupid Stuff* by Chip Gaines
+
+https://www.goodreads.com/book/show/35433739
+
+Bookshelves: did-not-finish
+
 ---
 
 ##### Author's Note
 
-Generated using https://github.com/jsr6720/goodreads-csv-to-md script
+Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
+
+Chip Gaines, *Capital Gaines: Smart Things I Learned Doing Stupid Stuff*, Mark Dagostino Thomas Nelson on Brilliance Audio 2017 (Audio CD)[^1]
 
 ##### Significant revisions
 
-tags: { page.tags | join: ", " } <!-- todo move this somewhere -->
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- { page.date | date_to_string: "ordinal", "US" } Originally published on [{ site.url }]({ site.url }) with uid { page.uid }
+- {{ 2024-04-22 02:51:11 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
 ##### EOF/Footnotes
+
+[^1]: ISBN: ="1543637302"
