@@ -1,7 +1,17 @@
+# written almost exclusively by chatGPT 3.5 as I've never made a Makefile before
+
+# Directories
+BOOKS_DIR = books
+POSTS_DIR = posts
+
+# goodreads CSV file
+CSV_FILE = ./goodreads-data/goodreads-library-export.csv
+
 clean:
-	rm -rf books/* posts/*
+	rm -rf $(BOOKS_DIR)/* $(POSTS_DIR)/*
 
 generate:
-	python3 ./goodreads-csv-to-markdown.py
+	mkdir -p $(BOOKS_DIR) $(POSTS_DIR)
+	python3 ./goodreads-csv-to-markdown.py --csv $(CSV_FILE)
 
 .PHONY: clean generate

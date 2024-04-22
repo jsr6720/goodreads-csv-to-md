@@ -1,10 +1,11 @@
 import csv
 import os
+import argparse
 from datetime import datetime
 from sanitize_filename import sanitize # pip3 install sanitize_filename
 
 ## Bookshelves == tags
-## 'fixed'title length, but if starts with "The" I want to move it to the end, like "The 10X Rule" -> "10X Rule, The"
+## count number csv rows and number files generated should match
 ## dates in (Date Read, Date Added)
 ## optional download book image
 ## some reviews have links to authors/books. need to parse those
@@ -14,7 +15,6 @@ from sanitize_filename import sanitize # pip3 install sanitize_filename
 # some flags for working with the script
 config = {
     'map-empty-values-to-string-empty': True,
-    'goodreads-export-filename': 'goodreads_library_export.csv',
     'encoding': 'utf-8',
     'basic-output-dir': 'books',
     'jekyll-output-dir': 'posts'
@@ -42,15 +42,26 @@ def getFileNameForJekyll(headings, aBook):
 
     return temp.replace(' ', '-').lower()
 
-def main(csv_file):
+def main():
+    # more stuff being managed by Makefile..
+    parser = argparse.ArgumentParser(description='Process some data.')
+    parser.add_argument('--csv', type=str, help='Path to the goodreads export CSV file')
+    args = parser.parse_args()
+
+    if not args.csv:
+        raise ValueError("Please provide the path to the CSV file using the --csv option.")
     
+    if not os.path.exists(args.csv):
+        raise FileNotFoundError(f"File '{args.csv}' not found.")
+    
+    # this should be handled by Makefile now.. 
     if not os.path.exists(config['basic-output-dir']):
         os.makedirs(config['basic-output-dir'])
     
     if not os.path.exists(config['jekyll-output-dir']):
         os.makedirs(config['jekyll-output-dir'])
 
-    with open(csv_file, 'r', newline='', encoding=config['encoding']) as csvfile:
+    with open(args.csv, 'r', newline='', encoding=config['encoding']) as csvfile:
         goodreadsData = csv.reader(csvfile)
         headings = next(goodreadsData)  # Extracting headings from the first row
         for aBook in goodreadsData:
@@ -86,12 +97,4 @@ def main(csv_file):
                 md_file.write(jekyll_populated_content)
 
 if __name__ == "__main__":
-
-    default_filename = config['goodreads-export-filename']
-    csv_file = input(f"Enter file name to open (or press Enter for '{default_filename}'): ") or default_filename
-    
-    if os.path.exists(csv_file):
-        main(csv_file)
-        print("Conversion completed successfully!") # only an AI could be this cheerful about completing a task
-    else:
-        print(f"Error: File '{csv_file}' not found.")
+    main()
