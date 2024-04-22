@@ -14,11 +14,27 @@ They [citation needed](https://xkcd.com/285/) say the brain can't tell the diffe
 
 Just realized that I combined a utility script with my own data. So probably fork and replace data.
 
-There is no check on unique tite's so I prepend book id on the simple tempalte. See *Art of War* example in this content.
-
 See [sample-output](/sample-output/) for a one off example showing links and special characters.
 
-## Very manual process
+## Limitations / Edge cases not worth programming in my dataset
+
+There is no check on unique tite's so I prepend book id on the simple tempalte. See *Art of War* example in this content. From my own data set I only had 3 conflicts which I'll fix manually on jekyll side
+
+```
+# two books that both start with "Influence: <subtitle>" I'll rename manually
+- /Users/jrowe/code/jsr6720/jsr6720.github.io/_posts/2017-02-08-influence.md
+- /Users/jrowe/code/jsr6720/jsr6720.github.io/_posts/2018-07-06-influence.md
+
+# should likely add 'translation' data or publication year(?) again one off will fix manually
+- /Users/jrowe/code/jsr6720/jsr6720.github.io/_posts/2018-02-05-the-art-of-war.md
+- /Users/jrowe/code/jsr6720/jsr6720.github.io/_posts/2018-02-08-the-art-of-war.md
+
+# looks like I accidnetly added the "Hardcover" and "Audio CD" to my bookshelf. Will combine reviews and delete one.
+- /Users/jrowe/code/jsr6720/jsr6720.github.io/_posts/2020-02-10-the-wright-brothers.md
+- /Users/jrowe/code/jsr6720/jsr6720.github.io/_posts/2020-02-20-the-wright-brothers.md
+```
+
+## Warning: very manual process
 
 https://www.goodreads.com/api as of 2024 states there is no longer active support for api keys and directs to https://help.goodreads.com/s/article/Does-Goodreads-support-the-use-of-APIs which directs users to use the [account data export feature](#export-of-goodreads-data).
 
