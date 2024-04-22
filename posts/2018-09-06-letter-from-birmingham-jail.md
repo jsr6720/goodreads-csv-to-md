@@ -1,0 +1,48 @@
+---
+layout: post
+author: James Rowe
+title:  "Detect Thoughts on 'Letter from Birmingham Jail'"
+date:   2018-09-06 00:00:00 -0400
+tags: book review Jr. 
+uid: 7621d899-e707-4ff0-9363-40edbd70ecf7
+---
+
+<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
+<!-- escape any jekyll keys with double brackets -->
+
+## My Review 5/5
+
+Nice to listen to the source material.
+
+### Date Read
+2018/09/06
+
+### Date Added
+2018/09/06
+
+## Goodreads book information
+
+*Letter from Birmingham Jail* by Martin Luther King Jr.
+
+https://www.goodreads.com/book/show/17623918
+
+Bookshelves: 
+
+---
+
+##### Author's Note
+
+Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
+
+Martin Luther King Jr., *Letter from Birmingham Jail*, Dion Graham Mission Audio 2013 (Audio CD)[^1]
+
+##### Significant revisions
+
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
+
+- {{ 2024-04-22 02:51:11 | date_to_string: "ordinal", "US" }} Convereted to jekyll markdown format and copied to personal site
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
+
+##### EOF/Footnotes
+
+[^1]: ISBN: ="161045748X"
