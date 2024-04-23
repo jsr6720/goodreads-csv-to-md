@@ -42,14 +42,18 @@ There is no check on unique tite's so I prepend book id on the simple tempalte. 
 
 To say that I wouldn't have completed this without ChatGPT 3.5 is an understatement. I probably could've cobbled together a python csv parser that generated basic templates but it would've been brute force and required clean up to publish each review via jekyll.
 
-### ChatGPT especially shined in the following areas
+### ChatGPT3.5 especially shined in the following areas:
 
 * `format(**bookDict)` I never would've guessed python dictionary could seed a template file :mind-blown:
-* regular expression to match book and author goodreads linkes to markdown links
-** but it got stuck on the string replace, I was able to get it working as I wanted
-* merge conflicts with all the file renames I did in git and the build directories
-** its unknown to me if I copied instructions wrong or if gpt steered me wrong on `git merge` since I tried it at ~2AM
-* generation of Makefile and all validations very nice
+* regular expression to match book and author goodreads link format to markdown link format
+* resolving git merge conflicts when I was trying to track changes of the generated files but still changing file name patterns
+* generation of Makefile targets and mapping to python execution paths
+
+### Some limitations I was able to work through
+
+* When I asked for a file name sanitize function it was happy to write a whole new function when a quick google search reccomends importing a library to handle this. When asked about its knowledge of packages it was aware and modified the code to reflect
+* It briefly got hung up on the regex for goodreads special link format. At some point it thought that it was returning the matches as a string, but was not. I was able to get it working as I wanted
+* not much in the way of error handling or package definition, but GitHub has its own opinion on this and I could ask GPT3.5 to add it
 
 ## Warning: very manual process
 
