@@ -2,11 +2,15 @@
 
 Takes a Goodreads data export CSV and generates markdown files targeting custom jekyll md template and basic markdown.
 
-### Moved personal commentary to jsr6720.github.io repository
+## Archived 2024-05-26
+
+Archiving project, accomplished what I needed.
+
+## Moved personal commentary to jsr6720.github.io repository
 
 [Goodreads CSV Import](https://github.com/jsr6720/jsr6720.github.io/blob/7baa2a416b2fc2273df83b6ebcdc30f036a43977/_posts/2024-04-22-goodreads-csv-import.md)
 
-## Steps to generate md files
+# Steps to generate md files
 
 1. [Export your goodreads data](#export-of-goodreads-data) to csv and place in `goodreads-data` folder
 2. Modify [basic template](/md-template.md) and/or [jekyll template](/jekyll-template.md) to your hearts content
