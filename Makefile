@@ -7,6 +7,9 @@ POSTS_DIR = posts
 # goodreads CSV file
 CSV_FILE = ./goodreads-data/goodreads-library-export.csv
 
+deps:
+	pip install -r requirements.txt
+
 clean:
 	rm -rf $(BOOKS_DIR)/* $(POSTS_DIR)/*
 
@@ -20,4 +23,4 @@ validate:
 
 build: clean generate validate
 
-.PHONY: clean generate validate
+.PHONY: clean generate validate deps
