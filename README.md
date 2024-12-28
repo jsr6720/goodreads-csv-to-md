@@ -37,7 +37,7 @@ There is no check on unique tite's so I prepend book id on the simple tempalte. 
 - /Users/jrowe/code/jsr6720/jsr6720.github.io/_posts/2018-02-05-the-art-of-war.md
 - /Users/jrowe/code/jsr6720/jsr6720.github.io/_posts/2018-02-08-the-art-of-war.md
 
-# looks like I accidently added the "Hardcover" and "Audio CD" to my bookshelf. Will combine reviews and delete one.
+# looks like I accidentally added the "Hardcover" and "Audio CD" to my bookshelf. Will combine reviews and delete one.
 - /Users/jrowe/code/jsr6720/jsr6720.github.io/_posts/2020-02-10-the-wright-brothers.md
 - /Users/jrowe/code/jsr6720/jsr6720.github.io/_posts/2020-02-20-the-wright-brothers.md
 ```
